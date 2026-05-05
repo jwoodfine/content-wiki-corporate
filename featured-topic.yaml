@@ -1,0 +1,7 @@
+# featured-topic.yaml — pin file for corporate.woodfinegroup.com home page
+# Engine reads on each request; absent → suppress featured panel; present → parse slug.
+# Update this file to rotate the featured TOPIC.
+
+slug: redemption-elimination
+since: 2026-05-05
+note: launch pin for iteration 1 — direct-hold framework cornerstone article
