@@ -1,3 +1,44 @@
-# Redemption Elimination | Eliminación de Reembolsos
+---
+schema: foundry-doc-v1
+title: "Redemption Elimination"
+slug: topic-redemption-elimination
+category: root
+type: reference
+quality: complete
+status: active
+audience: public
+bcsc_class: public-disclosure-safe
+language_protocol: PROSE-TOPIC
+last_edited: 2026-05-06
+editor: pointsav-engineering
+paired_with: topic-redemption-elimination.es.md
+cites: []
+---
 
-The Direct-Hold architecture mathematically bypasses traditional redemption queues. The enterprise does not hold pooled cash reserves. Capital remains locked in physical real estate assets. This structure prevents artificial bank runs.
+The Redemption Elimination principle is the structural consequence of the Direct-Hold architecture's refusal to pool investor capital. Because no commingled pool exists, there is no redemption mechanism to eliminate — the condition that makes redemption queues necessary is absent by design.
+
+## Why redemption queues exist
+
+In a pooled fund, a redemption queue manages the tension between investor liquidity requests and the illiquid nature of physical real estate. The fund holds a cash reserve to honor near-term redemptions. If redemption requests exceed the reserve, the queue activates — investors wait while the fund sells assets or raises fresh capital.
+
+The cash reserve is a structural liability. It earns less than the underlying assets. It must be maintained even when no redemptions are pending. Its size is a judgment call subject to manager discretion.
+
+## What the Direct-Hold architecture removes
+
+The Direct-Hold architecture removes the condition that requires a cash reserve. There is no pooled capital. Each investor's equity corresponds to a specific property, not to a share in a pool. The corporate entity does not promise to return capital on demand — because there is no pool to draw from.
+
+An investor who wants to exit locates a willing buyer in the private market. The investor receives the proceeds of that private sale. The corporate entity updates the ledger. No cash reserve is tapped. No other investor's position is affected.
+
+## Artificial bank runs
+
+A redemption queue is vulnerable to a coordination failure: if investors anticipate that the queue will be suspended, early redemption requests can trigger the very suspension they feared. This is a structural instability in pooled vehicles.
+
+The Direct-Hold architecture is immune to this failure mode. There is no queue to join, no suspension to anticipate, and no first-mover advantage to coordinating an early exit. An investor's equity is determined by the private market for that specific asset — not by the behavior of other investors in a shared pool.
+
+## Investor implications
+
+The tradeoff is explicit: investors in Direct-Hold assets accept that the corporate entity will not buy them out. Liquidity depends on the private market for the specific asset. This is a structurally different risk profile than a pooled fund — and a more honest one, because the corporate entity is not making a liquidity promise it cannot keep.
+
+---
+
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
