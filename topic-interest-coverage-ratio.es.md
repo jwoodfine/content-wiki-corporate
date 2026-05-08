@@ -15,7 +15,7 @@ paired_with: topic-interest-coverage-ratio.md
 cites: []
 ---
 
-La Ratio de Cobertura de Intereses (ICR, por sus siglas en inglés) es la restricción primaria de gestión de deuda de Woodfine Management Corp. La entidad corporativa establece un ICR mínimo de 1,2x en su cartera de Tenencia Directa. Esta cifra funciona como un techo matemático de deuda — ningún nuevo instrumento de deuda puede ser emitido si reduciría el ICR de la cartera por debajo de este umbral.
+Un ratio mínimo de cobertura de intereses de 1,2x limita cada activo de Tenencia Directa de Woodfine — no puede emitirse nueva deuda que reduzca la cobertura de ingresos operativos sobre intereses por debajo de este umbral. La restricción es autoimpuesta por la entidad corporativa como disciplina fiduciaria; ningún convenio de prestamista externo lo exige.
 
 ## Qué mide la ratio
 
@@ -25,13 +25,20 @@ El piso de 1,2 proporciona un margen operativo del 20%. Un aumento en la tasa de
 
 ## Por qué 1,2
 
-El umbral de 1,2 es una elección estructural deliberada, no un mínimo regulatorio. Los préstamos inmobiliarios comerciales tradicionales generalmente requieren convenios de ICR en el rango de 1,2 a 1,4. La restricción es autoimpuesta. No existe ningún convenio de prestamista externo que exija 1,2. La entidad corporativa aplica la regla a sí misma como disciplina fiduciaria.
+El umbral de 1,2 es una elección estructural deliberada, no un mínimo regulatorio. Los préstamos inmobiliarios comerciales tradicionales generalmente requieren convenios de ICR en el rango de 1,2 a 1,4. Al 1,2, la entidad corporativa acepta un margen más ajustado a cambio de mayor capacidad de apalancamiento — maximizando la base de activos desplegable y manteniendo la certeza matemática de que los ingresos operativos cubren la deuda.
 
 ## Relación con la protección de activos
 
 El piso del ICR es el mecanismo principal mediante el cual la arquitectura de Tenencia Directa protege los activos físicos de las ejecuciones hipotecarias. Una entidad corporativa que permite que su ICR caiga por debajo de 1,0 entra en un estado donde el servicio de la deuda depende de retiros de capital — una condición estructuralmente inestable. La restricción de 1,2 lo previene por diseño.
 
 Un evento de ejecución hipotecaria en un vehículo de activo no puede propagarse a otros porque cada activo está legalmente aislado. El ICR se aplica por vehículo — no puede satisfacerse subsidiando transversalmente un activo débil con uno fuerte.
+
+Una cartera que mantiene un ICR de 1,2x de forma indefinida evita las ventas forzadas de activos desencadenadas por déficits en el servicio de la deuda, preservando el valor del capital a largo plazo sin requerir inyecciones de capital.
+
+## Véase también
+
+- [[topic-direct-hold-framework]] — la estructura de propiedad que la restricción del ICR protege
+- [[topic-redemption-elimination]] — por qué no existe una reserva de efectivo mancomunada junto al umbral del ICR
 
 ---
 

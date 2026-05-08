@@ -15,7 +15,7 @@ paired_with: topic-equity-transfer-model.md
 cites: []
 ---
 
-El Modelo de Transferencia de Capital regula cómo cambian de manos los intereses de propiedad en los activos de Tenencia Directa de Woodfine Management Corp. El modelo está construido en torno a dos principios estructurales: capital libremente transferible y ejecución estrictamente entre partes privadas — sin intermediación corporativa, sin ventanas de liquidez.
+El capital de Tenencia Directa de Woodfine se transfiere libremente entre partes privadas; la entidad corporativa registra el cambio pero no lo aprueba ni lo intermedia. Dos principios estructurales rigen el modelo: capital libremente transferible y ejecución estrictamente entre partes privadas — sin intermediación corporativa, sin ventanas de liquidez.
 
 ## Capital libremente transferible
 
@@ -34,6 +34,12 @@ Las estructuras de fondos tradicionales imponen puertas de redención, reservas 
 ## Integridad del libro contable
 
 El libro contable del activo registra cada transferencia con plena cadena de titularidad. La propiedad de un interés fraccional es una entrada contable, no un certificado en papel. La integridad matemática del libro contable es mantenida por los sistemas de datos fiduciarios de la entidad corporativa, descritos en [[topic-fiduciary-data-mandate]].
+
+## Véase también
+
+- [[topic-direct-hold-framework]] — la estructura de propiedad que hace libremente transferible el capital
+- [[topic-fiduciary-data-mandate]] — requisitos de gobernanza de datos que sustentan la integridad del libro contable
+- [[topic-redemption-elimination]] — por qué no existe una facilidad de recompra corporativa
 
 ---
 

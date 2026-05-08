@@ -15,7 +15,7 @@ paired_with: topic-direct-hold-framework.md
 cites: []
 ---
 
-El Marco de Tenencia Directa es el enfoque estructural de Woodfine Management Corp. para la inversión inmobiliaria. En lugar de agregar capital de inversores en fondos mancomunados, el marco emite capital específico por propiedad que corresponde a un único activo físico. Cada inversor posee un interés fraccional definido en un libro contable de propiedad específica — no una participación en un fondo mancomunado.
+El Marco de Tenencia Directa emite capital específico por propiedad que corresponde a un único activo físico. Cada inversor posee un interés fraccional definido en un libro contable de propiedad específica — no una participación en un fondo mancomunado. Ningún gestor de fondos agrega capital entre propiedades; cada activo es su propia unidad jurídica y financiera.
 
 ## Qué reemplaza
 
@@ -30,6 +30,17 @@ La separación legal estricta es estructural. Cada libro contable de activos est
 ## Transferencias y liquidez
 
 Las transferencias de capital en el modelo de Tenencia Directa se ejecutan entre partes privadas. No existe cola de redención, ni ventana de liquidez gestionada por la entidad corporativa, ni reserva de efectivo mancomunado para satisfacer solicitudes de redención. Los inversores que deseen salir localizan una contraparte dispuesta directamente. La empresa no intermedia este proceso.
+
+## Gobernanza
+
+Dado que cada inversor posee capital directo en un activo específico, los derechos de gobierno se vinculan a esa propiedad. Los mecanismos de consentimiento del inversor operan a nivel del activo, no a nivel de agregación de cartera.
+
+## Véase también
+
+- [[topic-equity-transfer-model]] — cómo cambian de manos los intereses de propiedad en activos de Tenencia Directa
+- [[topic-fiduciary-data-mandate]] — requisitos de gobernanza de datos para el libro contable de propiedad
+- [[topic-interest-coverage-ratio]] — la restricción de deuda aplicada por activo
+- [[topic-redemption-elimination]] — por qué no existe cola de reembolso en esta estructura
 
 ---
 

@@ -15,7 +15,7 @@ paired_with: topic-direct-hold-framework.es.md
 cites: []
 ---
 
-The Direct-Hold framework is Woodfine Management Corp.'s structural approach to real estate investment. Rather than aggregating investor capital into pooled funds, the framework issues property-specific equity that corresponds to a single physical asset. Each investor holds a defined fractional interest in a named property ledger — not a share in a commingled pool.
+The Direct-Hold framework issues property-specific equity that corresponds to a single physical asset. Each investor holds a defined fractional interest in a named property ledger — not a share in a commingled pool. No fund manager aggregates capital across properties; each asset is its own legal and financial unit.
 
 ## What it replaces
 
@@ -34,6 +34,13 @@ Equity transfers in the Direct-Hold model execute between private parties. There
 ## Governance
 
 Because each investor holds direct equity in a named asset, governance rights attach to the specific property. Investor consent mechanisms operate at the asset level, not at a portfolio-aggregation level.
+
+## See also
+
+- [[topic-equity-transfer-model]] — how ownership interests in Direct-Hold assets change hands
+- [[topic-fiduciary-data-mandate]] — data governance requirements for the property ledger
+- [[topic-interest-coverage-ratio]] — the debt management constraint applied per asset
+- [[topic-redemption-elimination]] — why no redemption queue exists in this structure
 
 ---
 

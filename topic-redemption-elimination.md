@@ -15,7 +15,7 @@ paired_with: topic-redemption-elimination.es.md
 cites: []
 ---
 
-The Redemption Elimination principle is the structural consequence of the Direct-Hold architecture's refusal to pool investor capital. Because no commingled pool exists, there is no redemption mechanism to eliminate — the condition that makes redemption queues necessary is absent by design.
+Woodfine Direct-Hold assets carry no redemption queue — each investor's equity corresponds to a specific property, and liquidity depends on the private market for that asset, not on the corporate entity's cash reserves. Because no commingled pool exists, the condition that makes redemption mechanisms necessary is absent by design.
 
 ## Why redemption queues exist
 
@@ -38,6 +38,13 @@ The Direct-Hold architecture is immune to this failure mode. There is no queue t
 ## Investor implications
 
 The tradeoff is explicit: investors in Direct-Hold assets accept that the corporate entity will not buy them out. Liquidity depends on the private market for the specific asset. This is a structurally different risk profile than a pooled fund — and a more honest one, because the corporate entity is not making a liquidity promise it cannot keep.
+
+Without a redemption queue, no coordinated exit pressure can destabilize the portfolio. Long-term equity compounds without the structural drag of a cash reserve that earns less than the underlying assets.
+
+## See also
+
+- [[topic-direct-hold-framework]] — the ownership structure that makes redemption mechanisms unnecessary
+- [[topic-equity-transfer-model]] — how investors exit their positions in practice
 
 ---
 

@@ -15,7 +15,7 @@ paired_with: topic-fiduciary-data-mandate.md
 cites: []
 ---
 
-El Mandato de Datos Fiduciarios establece que Woodfine Management Corp. debe mantener la propiedad directa y matemática de todos los datos del libro contable de inversores. La externalización de datos del libro contable a infraestructura de nube de terceros se trata como un incumplimiento del deber fiduciario — no como una relación de proveedor.
+La externalización de datos del libro contable de inversores a infraestructura de nube de terceros constituye un incumplimiento fiduciario bajo el mandato operativo de Woodfine Management Corp. — no una decisión de proveedor. El mandato exige la propiedad directa y matemática de todos los registros que definen posiciones de capital de inversores, valoraciones de activos y cadena de titularidad.
 
 ## Qué cubre el mandato
 
@@ -29,11 +29,18 @@ El Mandato de Datos Fiduciarios cierra esta vulnerabilidad al tratar la soberan�
 
 ## Plataforma PointSav
 
-El cumplimiento del mandato por parte de la entidad corporativa está respaldado por el sustrato de PointSav. PointSav proporciona la infraestructura operativa para la gestión del libro contable de inversores: un sistema autoalojado donde la entidad corporativa posee las claves privadas, el hardware físico y el control operativo de la pila de software. Ningún intermediario de terceros tiene acceso a los datos del libro contable sin el consentimiento criptográfico de la entidad corporativa.
+El cumplimiento del mandato por parte de la entidad corporativa está respaldado por la plataforma de PointSav. PointSav proporciona la infraestructura operativa para la gestión del libro contable de inversores: un sistema autoalojado donde la entidad corporativa posee las claves privadas, el hardware físico y el control operativo de la pila de software. Ningún intermediario de terceros tiene acceso a los datos del libro contable sin el consentimiento criptográfico de la entidad corporativa.
 
 ## Alcance y límites
 
 El mandato se aplica a los datos del libro contable de inversores y a los registros de cadena de titularidad. No se extiende a materiales de marketing, sistemas de gestión de inquilinos o infraestructura de comunicaciones. La distinción: cualquier información que debería producirse en una disputa legal sobre la propiedad de los inversores está dentro del ámbito de aplicación.
+
+Un inversor no puede ejercer derechos de gobierno sobre un activo cuyo libro contable legal no puede acceder. El mandato cierra esta brecha estructural: una entidad corporativa que controla su propia infraestructura de libro contable puede siempre producir el registro de autoridad, independientemente de la disponibilidad de servicios de terceros.
+
+## Véase también
+
+- [[topic-direct-hold-framework]] — la estructura de propiedad que el mandato fiduciario protege
+- [[topic-equity-transfer-model]] — cómo la integridad del libro contable sustenta la libre transferencia de capital
 
 ---
 

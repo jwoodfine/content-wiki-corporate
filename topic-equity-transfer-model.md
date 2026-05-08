@@ -15,7 +15,7 @@ paired_with: topic-equity-transfer-model.es.md
 cites: []
 ---
 
-The Equity Transfer Model governs how ownership interests in Woodfine Management Corp.'s Direct-Hold assets change hands. The model is built around two structural principles: freely transferable equity and strict peer-to-peer execution — no corporate intermediation, no liquidity windows.
+Woodfine Direct-Hold equity transfers freely between private parties; the corporate entity records the change but does not approve or intermediate it. Two structural principles govern the model: freely transferable equity and strict peer-to-peer execution — no corporate intermediation, no liquidity windows.
 
 ## Freely transferable equity
 
@@ -34,6 +34,12 @@ Traditional fund structures impose redemption gates, liquidity reserves, and loc
 ## Ledger integrity
 
 The asset ledger records each transfer with a full chain of title. Ownership of a fractional interest is a ledger entry, not a paper certificate. The mathematical integrity of the ledger is maintained by the corporate entity's fiduciary data systems — described further in [[topic-fiduciary-data-mandate]].
+
+## See also
+
+- [[topic-direct-hold-framework]] — the ownership structure that makes equity freely transferable
+- [[topic-fiduciary-data-mandate]] — data governance requirements that underpin ledger integrity
+- [[topic-redemption-elimination]] — why no corporate buyback facility exists
 
 ---
 

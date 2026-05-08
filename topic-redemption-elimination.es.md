@@ -15,7 +15,7 @@ paired_with: topic-redemption-elimination.md
 cites: []
 ---
 
-El principio de Eliminación de Reembolsos es la consecuencia estructural de la negativa de la arquitectura de Tenencia Directa a mancomunar el capital de los inversores. Dado que no existe un fondo mancomunado, no hay mecanismo de reembolso que eliminar — la condición que hace necesarias las colas de reembolso está ausente por diseño.
+Los activos de Tenencia Directa de Woodfine no tienen cola de reembolso — el capital de cada inversor corresponde a una propiedad específica, y la liquidez depende del mercado privado para ese activo, no de las reservas de efectivo de la entidad corporativa. Dado que no existe un fondo mancomunado, la condición que hace necesarios los mecanismos de reembolso está ausente por diseño.
 
 ## Por qué existen las colas de reembolso
 
@@ -36,6 +36,13 @@ Una cola de reembolso es vulnerable a un fallo de coordinación: si los inversor
 ## Implicaciones para los inversores
 
 La compensación es explícita: los inversores en activos de Tenencia Directa aceptan que la entidad corporativa no los rescatará. La liquidez depende del mercado privado para el activo específico. Este es un perfil de riesgo estructuralmente diferente al de un fondo mancomunado — y más honesto, porque la entidad corporativa no está haciendo una promesa de liquidez que no puede cumplir.
+
+Sin cola de reembolso, ninguna presión de salida coordinada puede desestabilizar la cartera. El capital a largo plazo se capitaliza sin la carga estructural de una reserva de efectivo que rinde menos que los activos subyacentes.
+
+## Véase también
+
+- [[topic-direct-hold-framework]] — la estructura de propiedad que hace innecesarios los mecanismos de reembolso
+- [[topic-equity-transfer-model]] — cómo salen en la práctica los inversores de sus posiciones
 
 ---
 
