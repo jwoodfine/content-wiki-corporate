@@ -1,7 +1,21 @@
 # featured-topic.yaml — pin file for corporate.woodfinegroup.com home page
 # Engine reads on each request; absent → suppress featured panel; present → parse slug.
-# Update this file to rotate the featured TOPIC.
+# Update the `slug:` line to rotate the featured framework.
+#
+# Reader: institutional financial community — Goldman Sachs banker, OSC analyst,
+# NI 51-102 reviewer, IFRS auditor, REIT comparables desk. Bloomberg/FT register.
+#
+# Five-week rotation pool — rank-ordered by institutional banker relevance:
+#
+#   1. interest-coverage-ratio    — capital structure & debt covenant; 1.2x ICR floor
+#   2. direct-hold-framework      — legal isolation & manager-agency-cost moat
+#   3. redemption-elimination     — no cash-reserve drag, no run mechanics
+#   4. fiduciary-data-mandate     — ledger custody & compliance posture
+#   5. equity-transfer-model      — peer-to-peer transfer mechanics
+#
+# Operator advances the pin weekly by editing the slug line below.
+# Update `since:` to the rotation date and `note:` to the rotation rationale.
 
-slug: redemption-elimination
-since: 2026-05-05
-note: launch pin for iteration 1 — direct-hold framework cornerstone article
+slug: interest-coverage-ratio
+since: 2026-05-09
+note: rotation 1 — capital structure cornerstone; the 1.2x ICR floor that protects long-term equity without capital injections
