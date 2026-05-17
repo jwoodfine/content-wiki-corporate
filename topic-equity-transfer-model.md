@@ -2,7 +2,8 @@
 schema: foundry-doc-v1
 title: "Equity Transfer Model"
 slug: topic-equity-transfer-model
-category: root
+short_description: "Peer-to-peer transfer mechanism that allows investors to exit their position directly to willing counterparties, without requiring a liquidity pool or corporate buyback."
+category: governance
 type: reference
 quality: complete
 status: active
@@ -33,13 +34,13 @@ Traditional fund structures impose redemption gates, liquidity reserves, and loc
 
 ## Ledger integrity
 
-The asset ledger records each transfer with a full chain of title. Ownership of a fractional interest is a ledger entry, not a paper certificate. The mathematical integrity of the ledger is maintained by the corporate entity's fiduciary data systems — described further in [[topic-fiduciary-data-mandate]].
+The asset ledger records each transfer with a full chain of title. Ownership of a fractional interest is a ledger entry, not a paper certificate. The mathematical integrity of the ledger is maintained by the corporate entity's fiduciary data systems — described further in [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]].
 
 ## See also
 
-- [[topic-direct-hold-framework]] — the ownership structure that makes equity freely transferable
-- [[topic-fiduciary-data-mandate]] — data governance requirements that underpin ledger integrity
-- [[topic-redemption-elimination]] — why no corporate buyback facility exists
+- [[topic-direct-hold-framework|Direct-Hold Framework]] — the ownership structure that makes equity freely transferable
+- [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] — data governance requirements that underpin ledger integrity
+- [[topic-redemption-elimination|Redemption Elimination]] — why no corporate buyback facility exists
 
 ---
 

@@ -2,7 +2,8 @@
 schema: foundry-doc-v1
 title: "Direct-Hold Framework"
 slug: topic-direct-hold-framework
-category: root
+short_description: "Legal structure issuing asset-specific equity where each investor holds a fractional interest in a single named property, eliminating cross-asset contagion."
+category: governance
 type: reference
 quality: complete
 status: active
@@ -37,10 +38,10 @@ Because each investor holds direct equity in a named asset, governance rights at
 
 ## See also
 
-- [[topic-equity-transfer-model]] — how ownership interests in Direct-Hold assets change hands
-- [[topic-fiduciary-data-mandate]] — data governance requirements for the property ledger
-- [[topic-interest-coverage-ratio]] — the debt management constraint applied per asset
-- [[topic-redemption-elimination]] — why no redemption queue exists in this structure
+- [[topic-equity-transfer-model|Equity Transfer Model]] — how ownership interests in Direct-Hold assets change hands
+- [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] — data governance requirements for the property ledger
+- [[topic-interest-coverage-ratio|Interest Coverage Ratio]] — the debt management constraint applied per asset
+- [[topic-redemption-elimination|Redemption Elimination]] — why no redemption queue exists in this structure
 
 ---
 

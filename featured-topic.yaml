@@ -16,6 +16,6 @@
 # Operator advances the pin weekly by editing the slug line below.
 # Update `since:` to the rotation date and `note:` to the rotation rationale.
 
-slug: interest-coverage-ratio
+slug: topic-interest-coverage-ratio
 since: 2026-05-09
 note: rotation 1 — capital structure cornerstone; the 1.2x ICR floor that protects long-term equity without capital injections

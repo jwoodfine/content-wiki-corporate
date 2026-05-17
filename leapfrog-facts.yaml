@@ -18,16 +18,16 @@
 
 facts:
   - text: "A financial event affecting one asset — vacancy, litigation, refinancing — cannot propagate to the investor's equity in a different asset."
-    link_slug: direct-hold-framework
+    link_slug: topic-direct-hold-framework
 
   - text: "Long-term equity compounds without the structural drag of a cash reserve that earns less than the underlying assets."
-    link_slug: redemption-elimination
+    link_slug: topic-redemption-elimination
 
   - text: "At 1.2x interest coverage, the corporate entity accepts a tighter margin in exchange for higher leverage capacity — maximising the deployable asset base while maintaining the mathematical assurance that operating income covers debt."
-    link_slug: interest-coverage-ratio
+    link_slug: topic-interest-coverage-ratio
 
   - text: "An investor seeking liquidity locates a willing counterparty through their own commercial relationships or through broker-dealer channels that operate independently of the corporate entity."
-    link_slug: equity-transfer-model
+    link_slug: topic-equity-transfer-model
 
   - text: "The corporate entity holds the private keys, the physical hardware, and operational control of the ledger software stack — a corporate entity that owns a building but cannot access the ledger proving it owns the building is functionally dispossessed."
-    link_slug: fiduciary-data-mandate
+    link_slug: topic-fiduciary-data-mandate
