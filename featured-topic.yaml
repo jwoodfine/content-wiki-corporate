@@ -16,6 +16,6 @@
 # Operator advances the pin weekly by editing the slug line below.
 # Update `since:` to the rotation date and `note:` to the rotation rationale.
 
-slug: topic-interest-coverage-ratio
-since: 2026-05-09
-note: rotation 1 — capital structure cornerstone; the 1.2x ICR floor that protects long-term equity without capital injections
+slug: topic-redemption-elimination
+since: 2026-05-17
+note: rotation 2 — the Direct-Hold structure is structurally immune to the coordination failure that makes redemption gates necessary — because there is no queue to join
