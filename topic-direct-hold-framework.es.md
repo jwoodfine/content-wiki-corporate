@@ -2,45 +2,55 @@
 schema: foundry-doc-v1
 title: "Marco de Tenencia Directa"
 slug: topic-direct-hold-framework
-category: root
+category: governance
 type: reference
 quality: complete
 status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
+last_edited: 2026-05-22
 editor: pointsav-engineering
 paired_with: topic-direct-hold-framework.md
 cites: []
 ---
 
-El Marco de Tenencia Directa emite capital específico por propiedad que corresponde a un único activo físico. Cada inversor posee un interés fraccional definido en un libro contable de propiedad específica — no una participación en un fondo mancomunado. Ningún gestor de fondos agrega capital entre propiedades; cada activo es su propia unidad jurídica y financiera.
+Un inversor en un fondo inmobiliario mancomunado no es dueño de un edificio. Es dueño de una reclamación proporcional sobre un grupo de edificios. Un problema en cualquier activo — una vacancia, un litigio, una refinanciación — alcanza su capital, y el gestor del fondo, no el inversor, decide las distribuciones, la liquidez y cuándo se vende un activo.
+
+El Marco de Tenencia Directa elimina el fondo mancomunado. <!--claim id=asset-specific-equity confidence=structural cites=[]-->Emite capital específico por propiedad: cada inversor posee un interés fraccional definido en un único libro contable de propiedad nombrada, no una participación en un fondo mancomunado.<!--/claim-->
+
+<!--claim id=independent-units confidence=structural cites=[]-->Cada activo es su propia unidad jurídica y financiera, aislada como un vehículo independiente. Un evento financiero que afecta a un activo no puede propagarse al capital del inversor en otro; el aislamiento es una propiedad de la arquitectura, no una promesa contractual.<!--/claim-->
+
+Para un inversor la consecuencia es la propiedad directa de un activo nombrado, con derechos de gobierno vinculados a esa propiedad y sin discrecionalidad del gestor del fondo sobre su capital. Este artículo cubre qué reemplaza el marco, el aislamiento legal, las transferencias y la liquidez, y la gobernanza.
 
 ## Qué reemplaza
 
-Los fondos inmobiliarios comerciales tradicionales operan con capital mancomunado. Un fondo mancomunado mantiene muchas propiedades; la participación de un inversor le otorga una reclamación proporcional sobre el fondo, no sobre un activo específico. El gestor del fondo determina las distribuciones, las ventanas de liquidez y cuándo se venden los activos. El inversor no puede aprobar ni rechazar decisiones sobre activos individuales.
+Un fondo inmobiliario comercial tradicional opera con capital mancomunado. El fondo mantiene muchas propiedades; la participación de un inversor le otorga una reclamación proporcional sobre el grupo, no sobre un activo específico. <!--claim id=pool-manager-discretion confidence=structural cites=[]-->El gestor del grupo determina las distribuciones, las ventanas de liquidez y cuándo se venden los activos; el inversor no puede aprobar ni rechazar ninguna decisión sobre un activo individual.<!--/claim-->
 
-El Marco de Tenencia Directa elimina el fondo. Cada propiedad es su propia unidad legal y financiera. El inversor es un titular de capital directo en el activo específico que seleccionó. Sin mezcla con otras propiedades; sin discrecionalidad del gestor del fondo sobre su capital.
+El Marco de Tenencia Directa elimina el fondo. Cada propiedad es su propia unidad legal y financiera, y el inversor es un titular de capital directo en el activo específico que seleccionó. No hay mezcla con otras propiedades ni discrecionalidad del gestor del fondo sobre su capital.
 
 ## Aislamiento legal
 
-La separación legal estricta es estructural. Cada libro contable de activos está aislado como un vehículo independiente. Un evento financiero que afecte a un activo — vacancia, litigios, refinanciación — no puede propagarse al capital del inversor en un activo diferente. Este aislamiento matemático es una propiedad de la arquitectura, no de una promesa contractual.
+<!--claim id=structural-isolation confidence=structural cites=[]-->La separación legal estricta es estructural. Cada libro contable de activo está aislado como un vehículo independiente, de modo que un evento financiero que afecta a un activo — vacancia, litigio, refinanciación — no puede propagarse al capital del inversor en un activo diferente.<!--/claim-->
+
+El aislamiento es una propiedad de la arquitectura y no de una promesa contractual. Un inversor que evalúa el riesgo de un activo no tiene que modelar el resto de una cartera.
 
 ## Transferencias y liquidez
 
-Las transferencias de capital en el modelo de Tenencia Directa se ejecutan entre partes privadas. No existe cola de redención, ni ventana de liquidez gestionada por la entidad corporativa, ni reserva de efectivo mancomunado para satisfacer solicitudes de redención. Los inversores que deseen salir localizan una contraparte dispuesta directamente. La empresa no intermedia este proceso.
+<!--claim id=private-transfer confidence=structural cites=[]-->Las transferencias de capital en el modelo de Tenencia Directa se ejecutan entre partes privadas. No existe cola de redención, ni ventana de liquidez gestionada por la entidad corporativa, ni reserva de efectivo mancomunada para satisfacer solicitudes de redención.<!--/claim-->
+
+Un inversor que desee salir localiza una contraparte dispuesta directamente; la empresa no intermedia el proceso. La estructura no carga ninguna obligación de redención mancomunada, de modo que ningún activo se vende bajo presión para financiar la salida de otro inversor.
 
 ## Gobernanza
 
-Dado que cada inversor posee capital directo en un activo específico, los derechos de gobierno se vinculan a esa propiedad. Los mecanismos de consentimiento del inversor operan a nivel del activo, no a nivel de agregación de cartera.
+<!--claim id=asset-level-governance confidence=structural cites=[]-->Dado que cada inversor posee capital directo en un activo nombrado, los derechos de gobierno se vinculan a esa propiedad específica. Los mecanismos de consentimiento del inversor operan a nivel del activo, no a nivel de agregación de cartera.<!--/claim-->
 
 ## Véase también
 
-- [[topic-equity-transfer-model]] — cómo cambian de manos los intereses de propiedad en activos de Tenencia Directa
-- [[topic-fiduciary-data-mandate]] — requisitos de gobernanza de datos para el libro contable de propiedad
-- [[topic-interest-coverage-ratio]] — la restricción de deuda aplicada por activo
-- [[topic-redemption-elimination]] — por qué no existe cola de reembolso en esta estructura
+- [[topic-equity-transfer-model|Modelo de Transferencia de Capital]] — cómo cambian de manos los intereses de propiedad en activos de Tenencia Directa
+- [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] — requisitos de gobernanza de datos para el libro contable de propiedad
+- [[topic-interest-coverage-ratio|Ratio de Cobertura de Intereses]] — la restricción de deuda aplicada por activo
+- [[topic-redemption-elimination|Eliminación de Redención]] — por qué no existe cola de reembolso en esta estructura
 
 ---
 

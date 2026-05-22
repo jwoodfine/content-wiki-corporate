@@ -2,7 +2,7 @@
 schema: foundry-doc-v1
 title: "Direct-Hold Framework"
 slug: topic-direct-hold-framework
-short_description: "Legal structure issuing asset-specific equity where each investor holds a fractional interest in a single named property, eliminating cross-asset contagion."
+short_description: "A legal structure that issues asset-specific equity: each investor holds a fractional interest in a single named property, not a share in a commingled pool, eliminating cross-asset contagion."
 category: governance
 type: reference
 quality: complete
@@ -10,37 +10,47 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
+last_edited: 2026-05-22
 editor: pointsav-engineering
 paired_with: topic-direct-hold-framework.es.md
 cites: []
 ---
 
-The Direct-Hold framework issues property-specific equity that corresponds to a single physical asset. Each investor holds a defined fractional interest in a named property ledger — not a share in a commingled pool. No fund manager aggregates capital across properties; each asset is its own legal and financial unit.
+An investor in a pooled real-estate fund does not own a building. They own a proportional claim on a pool of buildings. A problem in any one asset — a vacancy, a lawsuit, a refinancing — reaches their capital, and the fund manager, not the investor, decides distributions, liquidity, and when an asset is sold.
+
+The Direct-Hold framework removes the pool. <!--claim id=asset-specific-equity confidence=structural cites=[]-->It issues property-specific equity: each investor holds a defined fractional interest in a single named property ledger, not a share in a commingled fund.<!--/claim-->
+
+<!--claim id=independent-units confidence=structural cites=[]-->Each asset is its own legal and financial unit, isolated as an independent vehicle. A financial event affecting one asset cannot propagate to an investor's equity in another; the isolation is a property of the architecture, not a contractual promise.<!--/claim-->
+
+For an investor the consequence is direct ownership of a named asset, with governance rights attached to that property and no fund-manager discretion over their capital. This article covers what the framework replaces, the legal isolation, transfer and liquidity, and governance.
 
 ## What it replaces
 
-Traditional commercial real estate funds operate on commingled capital. A pooled fund holds many properties; an investor's share entitles them to a proportional claim on the pool, not on any specific asset. The pool manager determines distributions, liquidity windows, and when assets are sold. The investor cannot consent or dissent on individual asset decisions.
+A traditional commercial real-estate fund operates on commingled capital. The fund holds many properties; an investor's share entitles them to a proportional claim on the pool, not on any specific asset. <!--claim id=pool-manager-discretion confidence=structural cites=[]-->The pool manager determines distributions, liquidity windows, and when assets are sold; the investor cannot consent to or dissent from any individual asset decision.<!--/claim-->
 
-The Direct-Hold framework removes the pool. Each property is its own legal and financial unit. The investor is a direct equity holder in the specific asset they selected. No co-mingling with other properties; no fund manager discretion over their capital.
+The Direct-Hold framework removes the pool. Each property is its own legal and financial unit, and the investor is a direct equity holder in the specific asset they selected. There is no co-mingling with other properties and no fund-manager discretion over their capital.
 
 ## Legal isolation
 
-Strict legal separation is structural. Each asset ledger is isolated as an independent vehicle. A financial event affecting one asset — vacancy, litigation, refinancing — cannot propagate to the investor's equity in a different asset. This mathematical isolation is a property of the architecture, not of a contractual promise.
+<!--claim id=structural-isolation confidence=structural cites=[]-->Strict legal separation is structural. Each asset ledger is isolated as an independent vehicle, so a financial event affecting one asset — vacancy, litigation, refinancing — cannot propagate to the investor's equity in a different asset.<!--/claim-->
+
+The isolation is a property of the architecture rather than of a contractual promise. An investor evaluating one asset's risk does not have to model the rest of a portfolio.
 
 ## Transfer and liquidity
 
-Equity transfers in the Direct-Hold model execute between private parties. There is no redemption queue, no liquidity window managed by the corporate entity, and no pooled cash reserve maintained to satisfy redemption requests. Investors who wish to exit locate a willing counterparty directly. The enterprise does not intermediate this process.
+<!--claim id=private-transfer confidence=structural cites=[]-->Equity transfers in the Direct-Hold model execute between private parties. There is no redemption queue, no liquidity window managed by the corporate entity, and no pooled cash reserve held to satisfy redemption requests.<!--/claim-->
+
+An investor who wishes to exit locates a willing counterparty directly; the enterprise does not intermediate the process. The structure carries no pooled redemption obligation, so no asset is sold under pressure to fund another investor's exit.
 
 ## Governance
 
-Because each investor holds direct equity in a named asset, governance rights attach to the specific property. Investor consent mechanisms operate at the asset level, not at a portfolio-aggregation level.
+<!--claim id=asset-level-governance confidence=structural cites=[]-->Because each investor holds direct equity in a named asset, governance rights attach to that specific property. Investor consent mechanisms operate at the asset level, not at a portfolio-aggregation level.<!--/claim-->
 
 ## See also
 
 - [[topic-equity-transfer-model|Equity Transfer Model]] — how ownership interests in Direct-Hold assets change hands
 - [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] — data governance requirements for the property ledger
-- [[topic-interest-coverage-ratio|Interest Coverage Ratio]] — the debt management constraint applied per asset
+- [[topic-interest-coverage-ratio|Interest Coverage Ratio]] — the debt-management constraint applied per asset
 - [[topic-redemption-elimination|Redemption Elimination]] — why no redemption queue exists in this structure
 
 ---
