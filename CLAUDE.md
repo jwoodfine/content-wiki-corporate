@@ -1,17 +1,17 @@
-# content-wiki-corporate — Repo Guide
+# media-knowledge-corporate — Repo Guide
 
 > Repo-level complement to `~/Foundry/CLAUDE.md`.
 > A session that opens here inherits the workspace guide and
 > then applies the repo-specific rules below. Read cold at
 > session start.
 
-Last updated: 2026-05-13.
+Last updated: 2026-05-23.
 
 ---
 
 ## 1. What this repo is
 
-`content-wiki-corporate` holds the corporate documentation wiki
+`media-knowledge-corporate` holds the corporate documentation wiki
 for Woodfine Management Corp. as flat Markdown content. Scope:
 
 - Topic articles covering equity structures, direct-hold
@@ -28,7 +28,7 @@ Classification per workspace §8: **content-wiki repo** — flat
 collection, no project registry. The per-project-cluster
 mechanism does not apply; sessions operate as Root Claude.
 
-**Flat layout.** Unlike `content-wiki-documentation`, this repo
+**Flat layout.** Unlike `media-knowledge-documentation`, this repo
 does not use category subdirectories. Articles live at repo root.
 The `topic-*` filename prefix is canonical here (five active pairs
 plus `index.md`).
@@ -39,7 +39,7 @@ Served at `corporate.woodfinegroup.com` via
 ## 2. Role expectations
 
 A session in this repo is **Root Claude for
-`content-wiki-corporate`**. Scope of writes:
+`media-knowledge-corporate`**. Scope of writes:
 
 - `CLAUDE.md` (this file), `NEXT.md` — repo metadata.
 - `index.md`, `featured-topic.yaml`, `leapfrog-facts.yaml`,
@@ -66,7 +66,7 @@ cold. Clear noun phrases; consequence-first sentences; no hedges.
 
 ## 4. Commit flow
 
-Staging-tier repo. Same flow as `content-wiki-documentation`:
+Staging-tier repo. Same flow as `media-knowledge-documentation`:
 
 - `~/Foundry/bin/commit-as-next.sh "<message>"` — alternates
   `jwoodfine` / `pwoodfine` identities per commit.
@@ -76,9 +76,9 @@ Staging-tier repo. Same flow as `content-wiki-documentation`:
 
 | Remote | Target |
 |---|---|
-| `origin` | `woodfine/content-wiki-corporate` — canonical; Stage 6 only |
-| `origin-staging-j` | `jwoodfine/content-wiki-corporate` |
-| `origin-staging-p` | `pwoodfine/content-wiki-corporate` |
+| `origin` | `woodfine/media-knowledge-corporate` — canonical; Stage 6 only |
+| `origin-staging-j` | `jwoodfine/media-knowledge-corporate` (GitHub rename pending) |
+| `origin-staging-p` | `pwoodfine/media-knowledge-corporate` (GitHub rename pending) |
 
 ## 5. Content rules
 
@@ -112,6 +112,6 @@ rule source. When bootstrapped, add at minimum:
 
 - `NEXT.md` — repo-scope open items.
 - `~/Foundry/CLAUDE.md` — workspace guide (inherited).
-- `content-wiki-documentation/.agent/rules/content-contract.md`
+- `media-knowledge-documentation/.agent/rules/content-contract.md`
   — the shared article rendering contract; applies here too.
 - `~/Foundry/NOTAM.md` — time-sensitive workspace warnings.
