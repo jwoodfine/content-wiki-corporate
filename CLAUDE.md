@@ -30,8 +30,10 @@ mechanism does not apply; sessions operate as Root Claude.
 
 **Flat layout.** Unlike `media-knowledge-documentation`, this repo
 does not use category subdirectories. Articles live at repo root.
-The `topic-*` filename prefix is canonical here (five active pairs
-plus `index.md`).
+The `topic-*` filename prefix is canonical for domain articles.
+Three additional root pages — `about.md`, `contact.md`,
+`disclaimers.md` — are institutional wiki pages (not topic articles)
+with `category: governance` frontmatter and are explicitly permitted.
 
 Served at `corporate.woodfinegroup.com` via
 `local-knowledge-corporate.service` (port 9095).
