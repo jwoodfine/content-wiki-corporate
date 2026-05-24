@@ -2,7 +2,7 @@
 schema: foundry-doc-v1
 title: "Interest Coverage Ratio"
 slug: topic-interest-coverage-ratio
-short_description: "Debt-service metric requiring operating income to cover interest charges by at least 1.2×, balancing leverage capacity against covenant compliance."
+short_description: "Debt-service metric requiring operating income to cover interest charges by at least 1.2×, balancing borrowing capacity against covenant compliance."
 category: reference
 type: reference
 quality: complete
@@ -26,7 +26,7 @@ The 1.2 floor provides a 20% operating buffer. A vacancy rate increase, a mainte
 
 ## Why 1.2
 
-The 1.2 threshold is a deliberate structural choice, not a regulatory minimum. Traditional commercial real estate lending typically requires ICR covenants in the 1.2–1.4 range. At 1.2, the corporate entity accepts a tighter margin in exchange for higher leverage capacity — maximizing the deployable asset base while maintaining the mathematical assurance that operating income covers debt.
+The 1.2 threshold is a deliberate structural choice, not a regulatory minimum. Traditional commercial real estate lending typically requires ICR covenants in the 1.2–1.4 range. At 1.2, the corporate entity accepts a tighter margin in exchange for higher borrowing capacity — maximizing the deployable asset base while maintaining the mathematical assurance that operating income covers debt.
 
 ## Relationship to asset protection
 

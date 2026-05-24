@@ -38,7 +38,7 @@ WMC updates the ledger to reflect the transfer. WMC does not approve or broker t
 
 WMC does not operate a secondary market, a matched-order book, or a buyback facility. Investors seeking liquidity identify a willing counterparty independently. The corporate entity does not intermediate this process and makes no representation about the availability or pricing of private liquidity for any specific asset.
 
-Broker-dealer channels that operate independently of the corporate entity may be engaged by investors to facilitate transfers; WMC makes no representation about the suitability, availability, or cost of such channels.
+Broker-dealer channels that operate independently of the corporate entity may be engaged by investors to arrange transfers; WMC makes no representation about the suitability, availability, or cost of such channels.
 
 ## Portal access
 
