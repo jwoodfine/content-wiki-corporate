@@ -17,13 +17,13 @@ editor: pointsav-engineering
      app-mediakit-knowledge/src/server.rs. -->
 
 Woodfine Management Corp. is the Principal Manager for a portfolio of
-direct-hold solutions — operating structures that bypass layered investment
-funds to provide perpetual equity ownership of commercial real estate through
-freely transferable investment units. Each solution is structured as a regulated
+[[topic-direct-hold-framework|direct-hold solutions]] — operating structures that bypass layered investment
+funds to provide [[topic-perpetual-equity-model|perpetual equity ownership]] of commercial real estate through
+freely transferable [[topic-investment-units|investment units]]. Each solution is structured as a regulated
 reporting entity with mandatory disclosures to securities regulators. This
 encyclopedia is the corporate reference for the firm's ownership architecture,
-equity transfer mechanics, fiduciary data obligations, interest-coverage
-constraints, and redemption-elimination framework.
+[[topic-equity-transfer-model|equity transfer mechanics]], [[topic-fiduciary-data-mandate|fiduciary data obligations]], [[topic-interest-coverage-ratio|interest-coverage
+constraints]], and redemption-elimination framework.
 
 Forward-looking statements in this wiki reflect current intentions and are
 subject to risk and uncertainty; statements are framed using planned, intended,
