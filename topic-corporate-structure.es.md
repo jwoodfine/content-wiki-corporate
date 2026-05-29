@@ -16,7 +16,7 @@ paired_with: topic-corporate-structure.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. es la empresa matriz de Ontario que tiene dos subsidiarias de propiedad absoluta: PointSav Digital Systems y Woodfine Management Corp. Las tres entidades ocupan roles distintos —propiedad, tecnología y operaciones comerciales— que no se superponen.
+Woodfine Capital Projects Inc. es la empresa matriz de Ontario que tiene dos subsidiarias de propiedad absoluta: PointSav Digital Systems y Woodfine Management Corp. Las tres entidades ocupan roles distintos —propiedad, tecnología y operaciones comerciales— que no se superponen. El arreglo implementa el [[topic-vendor-customer-model|modelo proveedor-cliente]] a nivel corporativo y sustenta el [[topic-direct-hold-framework|Marco de Tenencia Directa]] bajo el cual opera WMC, con la [[topic-fiduciary-data-mandate|custodia fiduciaria de datos]] en manos de WMC y los servicios de plataforma prestados por PointSav.
 
 ## Entidad matriz
 
@@ -24,13 +24,13 @@ Woodfine Capital Projects Inc. está constituida en Ontario, Canadá. Es la prop
 
 ## Proveedor de tecnología
 
-PointSav Digital Systems es una subsidiaria de propiedad absoluta de Woodfine Capital Projects Inc. PointSav desarrolla y mantiene la plataforma de registro de propiedades, el portal de inversores y la infraestructura de datos que utiliza el operador comercial para gestionar activos bajo el modelo de Tenencia Directa.
+PointSav Digital Systems es una subsidiaria de propiedad absoluta de Woodfine Capital Projects Inc. PointSav desarrolla y mantiene la plataforma de [[topic-property-ledger-technology|registro de propiedades]], el portal de inversores y la infraestructura de datos que utiliza el operador comercial para gestionar activos bajo el modelo de Tenencia Directa, en virtud del [[topic-technology-services|acuerdo de servicios tecnológicos]].
 
 PointSav no posee participaciones en ninguna propiedad gestionada. PointSav no toma decisiones de inversión ni gestiona las relaciones con inversores. Su mandato se limita a la tecnología: desarrollo de plataforma, integridad del registro, seguridad informática y disponibilidad del sistema. Las decisiones de inversión y capital corresponden al operador comercial.
 
 ## Operador comercial
 
-Woodfine Management Corp. (WMC) es una subsidiaria de propiedad absoluta de Woodfine Capital Projects Inc. WMC ostenta la titularidad legal de los activos comerciales bajo el modelo de Tenencia Directa. Gestiona las relaciones con inversores, ejecuta adquisiciones de activos, opera el registro de propiedades en su calidad de custodio fiduciario de datos y presenta documentos de divulgación continua ante la Comisión de Valores de Ontario (OSC) en virtud del NI 51-102.
+Woodfine Management Corp. (WMC) es una subsidiaria de propiedad absoluta de Woodfine Capital Projects Inc. WMC ostenta la titularidad legal de los activos comerciales bajo el modelo de Tenencia Directa. Gestiona las relaciones con inversores, ejecuta adquisiciones de activos, opera el registro de propiedades en su calidad de custodio fiduciario de datos y presenta documentos de [[topic-continuous-disclosure|divulgación continua]] ante la Comisión de Valores de Ontario (OSC) en virtud del NI 51-102.
 
 WMC es la entidad con la que transaccionan los inversores. Es responsable de la gobernanza de activos, las comunicaciones con inversores y la exactitud de los registros del libro de propiedades.
 

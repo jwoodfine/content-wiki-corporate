@@ -16,7 +16,7 @@ paired_with: topic-asset-evaluation.md
 cites: []
 ---
 
-El proceso de adquisición de activos de WMC comienza con la matriz de clasificación por co-ubicación. Un emplazamiento candidato debe alcanzar una clasificación de nivel mínima antes de que proceda la evaluación de capital. La puntuación por niveles es el filtro de entrada; elimina el juicio subjetivo de la fase inicial de selección y establece una base reproducible para comparar emplazamientos candidatos en distintas geografías.
+El proceso de adquisición de activos de WMC comienza con la matriz de clasificación por [[topic-co-location-investment-thesis|co-ubicación]]. Un emplazamiento candidato debe alcanzar una clasificación de nivel mínima antes de que proceda la evaluación de capital. La puntuación por niveles es el filtro de entrada; elimina el juicio subjetivo de la fase inicial de selección y establece una base reproducible para comparar emplazamientos candidatos en distintas geografías. Los emplazamientos que superan la selección pasan posteriormente al [[topic-direct-hold-framework|Marco de Tenencia Directa]] bajo la disciplina del [[topic-interest-coverage-ratio|Ratio de Cobertura de Intereses]].
 
 ## La puntuación por niveles como criterio de entrada
 
@@ -52,7 +52,7 @@ Un emplazamiento que supera el umbral mínimo de nivel entra en la evaluación d
 - Tasas de alquiler de mercado actuales en relación con las rentas vigentes
 - Capacidad de servicio de deuda y condiciones de financiación
 
-La evaluación de capital produce una recomendación de inversión; la puntuación por niveles produjo el conjunto de candidatos. Ninguno de los dos pasos puede sustituir al otro.
+La evaluación de capital produce una recomendación de inversión; la puntuación por niveles produjo el conjunto de candidatos. Ninguno de los dos pasos puede sustituir al otro. Las adquisiciones aprobadas quedan bajo [[topic-fiduciary-data-mandate|custodia fiduciaria de datos]] desde el momento del cierre.
 
 ## Véase también
 

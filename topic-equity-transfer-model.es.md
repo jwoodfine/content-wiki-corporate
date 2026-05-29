@@ -15,11 +15,11 @@ paired_with: topic-equity-transfer-model.md
 cites: []
 ---
 
-El capital de Tenencia Directa de Woodfine se transfiere libremente entre partes privadas; la entidad corporativa registra el cambio pero no lo aprueba ni lo intermedia. Dos principios estructurales rigen el modelo: capital libremente transferible y ejecución estrictamente entre partes privadas — sin intermediación corporativa, sin ventanas de liquidez.
+El capital de [[topic-direct-hold-framework|Tenencia Directa]] de Woodfine se transfiere libremente entre partes privadas; la entidad corporativa registra el cambio pero no lo aprueba ni lo intermedia. Dos principios estructurales rigen el modelo: capital libremente transferible y ejecución estrictamente entre partes privadas — sin intermediación corporativa, sin ventanas de liquidez. El modelo se apoya en el [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] para la integridad del libro contable y opera junto con la disciplina del [[topic-interest-coverage-ratio|Ratio de Cobertura de Intereses]] aplicada a nivel de activo.
 
 ## Capital libremente transferible
 
-Woodfine Management Corp. emite capital privado libremente transferible en cada libro contable de propiedad aislado. "Libremente transferible" significa que el titular puede ofrecer su interés a cualquier contraparte dispuesta sin requerir aprobación corporativa para la transferencia en sí. La entidad corporativa mantiene el libro contable pero no controla quién puede adquirir capital en él.
+Woodfine Management Corp. emite capital privado libremente transferible en cada [[topic-property-ledger-technology|libro contable de propiedad]] aislado. "Libremente transferible" significa que el titular puede ofrecer su interés a cualquier contraparte dispuesta sin requerir aprobación corporativa para la transferencia en sí. La entidad corporativa mantiene el libro contable pero no controla quién puede adquirir capital en él. Cada unidad de capital emitida constituye una [[topic-investment-units|unidad de inversión]] en el activo nombrado.
 
 Esto distingue el modelo de las estructuras de capital restringido — comunes en los vehículos inmobiliarios privados — donde el emisor retiene el derecho de primera opción, impone restricciones de transferencia, o requiere una nueva aprobación de calificación del inversor en cada transferencia.
 
@@ -29,7 +29,7 @@ La ejecución de la transferencia es estrictamente entre partes privadas. La ent
 
 ## Sin requisitos subjetivos de liquidez
 
-Las estructuras de fondos tradicionales imponen puertas de redención, reservas de liquidez y períodos de bloqueo sujetos a la discrecionalidad del gestor del fondo. El Modelo de Transferencia de Capital no contiene ninguno de estos mecanismos. Los términos de liquidez los determina el mercado de compradores dispuestos, no la política de la entidad corporativa.
+Las estructuras de fondos tradicionales imponen puertas de redención, reservas de liquidez y períodos de bloqueo sujetos a la discrecionalidad del gestor del fondo. El Modelo de Transferencia de Capital no contiene ninguno de estos mecanismos — véase [[topic-redemption-elimination|Eliminación de Redención]] para el fundamento estructural. Los términos de liquidez los determina el mercado de compradores dispuestos, no la política de la entidad corporativa. El [[topic-perpetual-equity-model|modelo de capital perpetuo]] aplica la misma lógica a lo largo de un horizonte de tenencia indefinido.
 
 ## Integridad del libro contable
 
