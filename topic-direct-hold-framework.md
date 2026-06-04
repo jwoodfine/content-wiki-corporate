@@ -26,7 +26,7 @@ The Direct-Hold framework is a legal ownership structure under which each invest
 
 ## What it replaces
 
-A traditional commercial real-estate fund operates on commingled capital. The fund holds many properties; an investor's share entitles them to a proportional claim on the pool, not on any specific asset. <!--claim id=pool-manager-discretion confidence=structural cites=[]-->The pool manager determines distributions, liquidity windows, and when assets are sold; the investor cannot consent to or dissent from any individual asset decision.<!--/claim--> This is the role the [[topic-principal-manager-role|principal manager role]] inverts under Direct-Hold: investor consent attaches to the specific asset rather than to a pooled vehicle.
+A traditional commercial real-estate fund operates on commingled capital. The fund holds many properties; an investor's share entitles them to a proportional claim on the pool, not on any specific asset. <!--claim id=pool-manager-discretion confidence=structural cites=[]-->The pool manager determines distributions, liquidity windows, and when assets are sold; the investor cannot consent to or dissent from any individual asset decision.<!--/claim--> This is the role the principal manager role inverts under Direct-Hold: investor consent attaches to the specific asset rather than to a pooled vehicle.
 
 The Direct-Hold framework removes the pool. Each property is its own legal and financial unit, and the investor is a direct equity holder in the specific asset they selected. There is no co-mingling with other properties and no fund-manager discretion over their capital.
 
