@@ -4,6 +4,8 @@ title: "Unidades de Inversión"
 slug: topic-investment-units
 category: governance
 status: active
+quality: complete
+language_protocol: TRANSLATE-ES
 short_description: "Las unidades de capital fraccional emitidas en cada activo real nombrado bajo el marco de Tenencia Directa."
 paired_with: topic-investment-units.md
 audience: public

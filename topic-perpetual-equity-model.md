@@ -4,6 +4,8 @@ title: "Perpetual Equity Model"
 slug: topic-perpetual-equity-model
 category: governance
 status: active
+quality: complete
+language_protocol: PROSE-TOPIC
 short_description: "The investment framework under which equity is held indefinitely without a fixed redemption horizon."
 paired_with: topic-perpetual-equity-model.es.md
 audience: public

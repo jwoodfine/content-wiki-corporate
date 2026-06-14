@@ -4,6 +4,8 @@ title: "Investment Units"
 slug: topic-investment-units
 category: governance
 status: active
+quality: complete
+language_protocol: PROSE-TOPIC
 short_description: "The fractional equity units issued in each named real asset under the Direct-Hold framework."
 paired_with: topic-investment-units.es.md
 audience: public
