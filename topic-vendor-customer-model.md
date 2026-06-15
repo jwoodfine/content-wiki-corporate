@@ -21,6 +21,12 @@ cites: []
 
 PointSav Digital Systems occupies the vendor role; Woodfine Management Corp. occupies the customer role within the [[topic-corporate-structure|Woodfine corporate structure]]. PointSav delivers technology platform services — [[topic-property-ledger-technology|property ledger]] infrastructure, investor portal, software maintenance — and WMC directs platform requirements, holds data custody under the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]], and is solely accountable for investment and fiduciary decisions affecting [[topic-direct-hold-framework|Direct-Hold]] assets.
 
+## Key takeaways
+
+- PointSav's role ends at the platform boundary: it provides operational and technical services but exercises no discretion over data, holds no equity in WMC-managed assets, and provides no investment or fiduciary advice.
+- WMC holds portable custody of the property ledger; if WMC engages a different technology provider, the ledger data moves with WMC and does not remain with PointSav.
+- The vendor-customer separation structurally isolates failure modes: a technology disruption at PointSav does not affect WMC's legal title to assets, and a financial event at WMC does not interrupt PointSav's platform obligations.
+
 ## Vendor obligations
 
 PointSav's obligations under the [[topic-technology-services|technology services agreement]] are operational and technical. The vendor is responsible for platform availability, software integrity, security posture, and ledger data consistency. PointSav does not exercise discretion over what data is stored, how it is classified, or how it is used — those decisions belong to WMC as the data custodian.
@@ -42,6 +48,10 @@ The vendor-customer separation prevents this compounding. A technology failure a
 ## Not a marketing relationship
 
 PointSav does not market WMC's investment products, and WMC does not promote PointSav's technology platform as part of investor communications. The relationship is a services agreement, not a joint venture. Neither entity holds equity in the other's core business operations.
+
+## The bottom line
+
+The vendor-customer model assigns PointSav the role of technology builder and WMC the role of data custodian, investment decision-maker, and investor relationship owner. The two entities do not hold equity in each other's core operations, do not cross-market each other's products, and are not jointly responsible for any investment outcome. The structural separation means that the platform and the investment management function can each be evaluated, replaced, or restructured independently.
 
 ## See also
 

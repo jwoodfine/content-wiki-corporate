@@ -21,6 +21,12 @@ cites: []
 
 An investor in a WMC [[topic-direct-hold-framework|Direct-Hold]] asset holds a position in a specific named property. Access to position data, financial reports, and transaction records is provided through the investor portal operated by Woodfine Management Corp. The portal reflects the investor's [[topic-property-ledger-technology|ledger]] position — equity percentage, financial event history, and transfer records — for each asset in which they hold a position. The position is structured as a fractional [[topic-investment-units|investment unit]] in the named asset.
 
+## Key takeaways
+
+- Position data, financial reports, and transfer records are presented per asset — the portal does not aggregate across multiple Direct-Hold positions, because each asset is its own distinct financial and legal unit.
+- Financial disclosures triggering material change reporting under NI 51-102 are filed on SEDAR+ as well as through the investor portal, satisfying continuous-disclosure obligations.
+- WMC controls portal access provisioning and revocation; PointSav maintains the portal infrastructure — the division of responsibility matches the broader vendor-customer model.
+
 ## Position data
 
 Position data represents the investor's current fractional equity in the named asset: the percentage held, the date of acquisition, the acquisition cost recorded on the ledger, and the cumulative financial event history since acquisition. Position data is specific to the asset — it does not aggregate across multiple Direct-Hold positions. Each asset is its own financial and legal unit.
@@ -46,6 +52,10 @@ Broker-dealer channels that operate independently of the corporate entity may be
 ## Portal access
 
 Portal access is credential-based. WMC is responsible for investor authentication and for provisioning and revoking portal access. PointSav maintains the portal infrastructure; WMC controls who is provisioned access and under what conditions. Credentials are issued at the time an investor completes the onboarding process for a specific asset.
+
+## The bottom line
+
+The investor portal provides a ledger-accurate view of each investor's position in each named asset — not a summary portfolio view. Reports, transfer confirmations, and position statements are all asset-specific, reflecting the Direct-Hold structure in which each property is a discrete legal and financial unit. WMC does not broker liquidity or operate a secondary market; its portal role is to provide accurate, timely access to the records that define the investor's position and to record transfers when they occur. The portal is a read-and-record interface, not a trading venue.
 
 ## See also
 

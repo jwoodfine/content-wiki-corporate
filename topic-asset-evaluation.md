@@ -21,6 +21,12 @@ cites: []
 
 WMC's asset acquisition process begins with the [[topic-co-location-investment-thesis|co-location]] ranking matrix. A candidate site must achieve a minimum tier classification before capital evaluation proceeds. The tier score is the entry filter — it removes subjective judgment from the initial screening stage and establishes a reproducible basis for comparing candidate sites across geographies. Sites that pass the screen subsequently enter the [[topic-direct-hold-framework|Direct-Hold framework]] under the [[topic-interest-coverage-ratio|interest coverage]] discipline.
 
+## Key takeaways
+
+- The tier score is a binary entry filter: a site either meets the minimum classification and advances to capital evaluation, or it does not — no exceptions are made for other site characteristics.
+- The ranking matrix evaluates three anchor layers (Primary Target, secondary operators, tertiary civic infrastructure) within defined catchment radii, producing a reproducible tier classification verifiable by independent GIS analysis.
+- Passing the tier threshold is a necessary but not sufficient condition for acquisition; asset-specific analysis covering condition, lease structure, title, and debt service follows in the capital evaluation stage.
+
 ## Tier score as entry criterion
 
 A site that does not reach the minimum tier threshold is not considered for acquisition, regardless of other characteristics. The threshold is binary at the screening stage: a site either qualifies for capital evaluation or it does not. This discipline prevents the evaluation process from beginning with advocacy for a preferred site and working backward to justify it.
@@ -56,6 +62,10 @@ A site that passes the minimum tier threshold enters capital evaluation. Capital
 - Debt service capacity and financing terms
 
 Capital evaluation produces an investment recommendation; the tier score produced the candidate set. Neither step can substitute for the other. Approved acquisitions are placed under [[topic-fiduciary-data-mandate|fiduciary data custody]] from the moment of closing.
+
+## The bottom line
+
+The Asset Evaluation Protocol disciplines the acquisition funnel by enforcing an objective, reproducible entry screen before any capital analysis begins. The tier score eliminates advocacy-driven deal origination: if a site does not independently qualify under the co-location matrix, evaluation does not proceed. Once a site clears the threshold, conventional capital analysis applies — property condition, lease structure, title, and debt service capacity are assessed on their own terms. Neither the screening stage nor the capital evaluation stage can substitute for the other; both are required before WMC commits to an acquisition.
 
 ## See also
 

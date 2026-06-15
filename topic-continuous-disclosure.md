@@ -21,6 +21,12 @@ cites: []
 
 National Instrument 51-102 (Continuous Disclosure Obligations) establishes the periodic and event-driven reporting requirements for Ontario reporting issuers. Woodfine Capital Projects Inc. is subject to the full continuous-disclosure regime under this instrument, including annual filings, quarterly reporting, and material change obligations. The regime applies across the [[topic-corporate-structure|Woodfine corporate structure]] and governs disclosures pertaining to [[topic-direct-hold-framework|Direct-Hold]] assets and the [[topic-fiduciary-data-mandate|fiduciary data]] held under WMC custody.
 
+## Key takeaways
+
+- Woodfine Capital Projects Inc. is subject to the full NI 51-102 continuous-disclosure regime, including the annual information form, MD&A, audited financial statements, and quarterly interim reporting.
+- Material changes require immediate disclosure — a press release as soon as practicable and a Form 51-102F3 filing on SEDAR+ within 10 days — independent of any scheduled filing date.
+- Articles published on the corporate wiki are treated as disclosure-eligible, so editors apply the same material-change test to wiki publications as to formal SEDAR+ filings.
+
 ## Annual obligations
 
 The annual information form (AIF) must be filed within 90 days of the issuer's fiscal year-end. Management discussion and analysis (MD&A) is filed concurrently with the annual audited financial statements. Financial statements are prepared in accordance with International Financial Reporting Standards (IFRS) as adopted in Canada.

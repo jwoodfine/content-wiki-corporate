@@ -32,7 +32,7 @@ The Perpetual Equity Model is a structural departure from conventional real-asse
 
 Equity positions are denominated in [[topic-investment-units|investment units]] recorded in the property ledger for each named asset. The number of units in circulation is fixed at issuance; the issuing entity does not manufacture additional units except through formally documented corporate decisions. Distributions, when declared, are paid proportionally across all outstanding units of the relevant asset.
 
-## See Also
+## See also
 
 - [[topic-investment-units|Investment Units]]
 - [[topic-redemption-elimination|Redemption Elimination]]

@@ -21,6 +21,12 @@ cites: []
 
 Woodfine Capital Projects Inc. is the Ontario parent company holding two wholly-owned subsidiaries: PointSav Digital Systems and Woodfine Management Corp. The three entities occupy distinct roles — ownership, technology, and commercial operations — that do not overlap. The arrangement implements the [[topic-vendor-customer-model|vendor-customer model]] at the corporate level and underpins the [[topic-direct-hold-framework|Direct-Hold framework]] under which WMC operates, with [[topic-fiduciary-data-mandate|fiduciary data custody]] held by WMC and platform services delivered by PointSav.
 
+## Key takeaways
+
+- Three entities occupy non-overlapping roles: Woodfine Capital Projects Inc. provides governance and ownership; PointSav Digital Systems delivers technology services; Woodfine Management Corp. holds assets, manages investors, and files continuous-disclosure documents.
+- PointSav cannot make investment decisions and does not hold equity in managed properties; WMC cannot modify platform code — the separation is enforced at the corporate boundary, not by contract alone.
+- The design intent is that an operational failure at PointSav does not impair WMC's fiduciary function, and a financial event at WMC does not impair PointSav's platform operations.
+
 ## Parent entity
 
 Woodfine Capital Projects Inc. is incorporated in Ontario, Canada. It is the 100% owner of both subsidiaries and provides the governance framework within which each operates. The parent entity does not itself manage real estate assets or develop technology products. Its function is structural: it holds the ownership relationship and sets the policy framework that governs the two operating entities below it.
@@ -42,6 +48,10 @@ WMC is the entity with which investors transact. It is responsible for asset gov
 The three-entity structure separates technology decisions from real estate decisions at the corporate level. PointSav cannot make investment decisions; its charter is technology services. WMC cannot modify platform code; that is PointSav's domain. Neither entity has authority in the other's operational scope.
 
 This separation is structural, not contractual. A contract can be amended; a corporate boundary requires a restructuring. The design intent is that neither an operational failure at PointSav nor a financial event at WMC automatically impairs the other entity's core function.
+
+## The bottom line
+
+The three-entity structure is a governance architecture, not a tax or administrative convenience. By placing technology decisions inside PointSav and investment decisions inside WMC, the group prevents either function from encroaching on the other. Investors transact with WMC; they do not have a direct legal relationship with the technology platform, and PointSav has no authority over the investment decisions that affect investor capital. The corporate boundary makes this separation durable: altering it requires a restructuring, not a policy amendment.
 
 ## See also
 

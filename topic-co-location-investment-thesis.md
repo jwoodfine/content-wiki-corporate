@@ -21,6 +21,12 @@ cites: []
 
 When institutional-grade retailers independently select the same geographic node, that convergence is an objective condition — mappable, verifiable, and reproducible by any analyst with access to public location data. The co-location investment thesis holds that this convergence is a structurally superior indicator of commercial site quality compared to any single-anchor evaluation. WMC operationalizes the thesis through the [[topic-asset-evaluation|asset evaluation protocol]] and applies the [[topic-direct-hold-framework|Direct-Hold framework]] to approved acquisitions under the [[topic-interest-coverage-ratio|interest coverage discipline]].
 
+## Key takeaways
+
+- Institutional-grade retailers conduct independent site selection before committing capital; when multiple operators converge on the same node, that convergence reflects the judgment of independent allocators — not a single management team's market view.
+- A multi-anchor node is structurally more defensible than a single-anchor site because the loss of any one operator has a smaller proportional impact on the trade area.
+- The thesis identifies a verifiable class of commercial real estate; it does not project specific yields, and a high tier score is a necessary but not sufficient condition for acquisition.
+
 ## The underlying observation
 
 Institutional-grade retailers — large-format home improvement, warehouse club, general merchandise — make capital allocation decisions through independent site selection processes. These organizations conduct market studies, traffic analysis, and competitive evaluation before committing to a location. When their independent processes converge on the same geographic node, that convergence reflects the judgment of multiple independent capital allocators.
@@ -44,6 +50,10 @@ The matrix is reproducible by independent GIS analysis using publicly available 
 The thesis identifies a class of commercial real estate with objectively verifiable anchor convergence. It does not project specific yields. It does not claim these sites outperform in every market cycle. Capital evaluation of any specific site proceeds from the tier score as an entry criterion, then applies asset-specific analysis — property condition, lease structure, title, debt service — before an acquisition decision is made.
 
 A high tier score is a necessary but not sufficient condition for acquisition.
+
+## The bottom line
+
+The co-location investment thesis rests on a single, verifiable observation: institutional-grade retailers independently commit capital to the same geographic nodes, and that convergence is a more durable signal of site quality than any single-operator presence. WMC translates this observation into an objective ranking matrix reproducible by independent GIS analysis — no proprietary data and no management-team judgment about local sentiment is required to apply it. The thesis establishes the investment rationale; the asset evaluation protocol, the Direct-Hold framework, and the interest coverage discipline govern how that rationale is applied to specific acquisitions.
 
 ## See also
 

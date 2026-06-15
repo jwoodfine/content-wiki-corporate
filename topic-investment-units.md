@@ -32,7 +32,7 @@ Investment units are asset-specific instruments. A unit issued in one named prop
 
 Each named asset maintains a fixed-supply register of investment units recorded in the property ledger. The unit count is established at the time of asset onboarding and does not change without a formal corporate resolution. Unit transfers are recorded in the ledger in the sequence they are received; no transfer requires prior consent of the issuing entity.
 
-## See Also
+## See also
 
 - [[topic-perpetual-equity-model|Perpetual Equity Model]]
 - [[topic-direct-hold-framework|Direct-Hold Framework]]

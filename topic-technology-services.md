@@ -21,6 +21,12 @@ cites: []
 
 PointSav Digital Systems provides technology services to Woodfine Management Corp. under a contractual services agreement implementing the [[topic-vendor-customer-model|vendor-customer model]]. The agreement defines the scope of PointSav's engagement, the data obligations PointSav holds toward WMC, and the boundaries that prevent the technology services relationship from crossing into investment management or fiduciary advisory functions. PointSav's obligations operate alongside the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] under which WMC retains custody of all ledger data.
 
+## Key takeaways
+
+- PointSav is a contracted technology vendor, not a partner, co-manager, or advisor; it does not hold equity in WMC-managed properties or receive a share of investment returns.
+- WMC retains legal custody of all ledger data; PointSav is contractually obligated to deliver a complete data export on request and to destroy data on WMC's instruction at agreement termination.
+- Investment advice, investor onboarding, regulatory compliance, and all fiduciary functions are explicitly outside PointSav's engagement scope and belong solely to WMC.
+
 ## Agreement structure
 
 The services agreement establishes PointSav as a contracted technology vendor — not a partner, not a co-manager, and not an advisor on investment or fiduciary matters. PointSav delivers defined services; WMC directs those services and retains all [[topic-data-governance|data custody]], investment decision authority, and investor relationship responsibility.
@@ -60,6 +66,10 @@ These functions belong to WMC. Inquiries from investors about the platform or th
 ## Separation of failure modes
 
 The services agreement is structured so that an operational disruption at PointSav does not affect WMC's legal title to assets, and a financial event at WMC does not terminate PointSav's obligations to maintain data integrity and platform availability. Neither party's operational difficulties automatically impair the other's core function. This separation is the practical expression of the vendor-customer model at the contractual level.
+
+## The bottom line
+
+The technology services agreement keeps PointSav's role strictly operational and technical, with no discretion over data, no investor-facing functions, and no participation in investment returns. WMC directs the platform and retains portable custody of all data, so WMC's operational control over the ledger is not contingent on any specific technology relationship. The agreement is structured so that an operational disruption at either party does not automatically impair the other's core function.
 
 ## See also
 

@@ -21,6 +21,12 @@ cites: []
 
 Each asset maintained under the [[topic-direct-hold-framework|Direct-Hold framework]] has an associated property ledger. The ledger is the authoritative record of fractional equity assignments, asset financial events, and transfer history. Woodfine Management Corp. holds legal custody of the ledger under the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]]; PointSav Digital Systems maintains the technical infrastructure as the contracted technology provider under the [[topic-technology-services|technology services agreement]].
 
+## Key takeaways
+
+- Each Direct-Hold asset has a dedicated ledger capturing three record categories: fractional equity assignments, asset financial events (append-only), and peer-to-peer transfer history with a full chain of title from initial issuance.
+- WMC holds legal custody and directs how the infrastructure is operated; PointSav holds the private keys and server hardware as a contracted services provider — the entity that controls the keys is in effective technical control of the record.
+- The ledger is a private cryptographic record maintained by the corporate entity, not a public blockchain — external validator dependencies and protocol governance bodies are deliberately excluded from the architecture.
+
 ## What the ledger records
 
 The property ledger captures three categories of information:
@@ -46,6 +52,10 @@ The append-only structure of operational records prevents retroactive modificati
 ## Not a public distributed ledger
 
 The property ledger is a cryptographic record maintained by the corporate entity. It is not a public blockchain or a distributed ledger maintained by external validators. The corporate entity is the authority on ledger state. This is a deliberate design choice: public distributed ledgers introduce counterparty dependencies — validator networks, protocol governance bodies — that the architecture is specifically designed to avoid.
+
+## The bottom line
+
+The property ledger is the legal foundation of the investor relationship: it is the record that proves who holds what in each named asset. The architecture is designed around two priorities — integrity and sovereignty. Integrity is maintained by append-only financial event records and the F12 commit protocol, which prevents any automated process from modifying the equity record. Sovereignty is maintained by storing ledger data in portable formats under WMC's legal custody, so that WMC can recover full operational control independently of its current technology provider. The choice of a private cryptographic record over a public distributed ledger reflects the same logic: external validator networks introduce dependencies the architecture is built to avoid.
 
 ## See also
 
