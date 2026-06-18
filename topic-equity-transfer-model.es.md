@@ -4,7 +4,7 @@ title: "Modelo de Transferencia de Capital"
 slug: topic-equity-transfer-model
 aliases:
   - topic-equity-transfer-model
-category: root
+category: governance
 type: reference
 content_type: topic
 quality: complete
@@ -15,6 +15,7 @@ language_protocol: PROSE-TOPIC
 last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-equity-transfer-model.md
+short_description: "Mecanismo de transferencia entre pares que permite a los inversores ceder su posición directamente a contrapartes dispuestas, sin necesidad de un fondo de liquidez ni recompra corporativa."
 cites: []
 ---
 

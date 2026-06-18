@@ -4,7 +4,7 @@ title: "Mandato de Datos Fiduciarios"
 slug: topic-fiduciary-data-mandate
 aliases:
   - topic-fiduciary-data-mandate
-category: root
+category: governance
 type: reference
 content_type: topic
 quality: complete
@@ -15,6 +15,7 @@ language_protocol: PROSE-TOPIC
 last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-fiduciary-data-mandate.md
+short_description: "Requisito de custodia y soberanía que exige que la entidad corporativa controle físicamente el hardware del registro y las claves criptográficas, sin custodio externo."
 cites: []
 ---
 

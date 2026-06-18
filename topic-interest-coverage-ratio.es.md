@@ -4,7 +4,7 @@ title: "Ratio de Cobertura de Intereses"
 slug: topic-interest-coverage-ratio
 aliases:
   - topic-interest-coverage-ratio
-category: root
+category: reference
 type: reference
 content_type: topic
 quality: complete
@@ -15,6 +15,7 @@ language_protocol: PROSE-TOPIC
 last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-interest-coverage-ratio.md
+short_description: "Indicador de servicio de deuda que exige que los ingresos operativos cubran los gastos financieros al menos 1,2 veces, equilibrando la capacidad de endeudamiento con el cumplimiento de los compromisos."
 cites: []
 ---
 

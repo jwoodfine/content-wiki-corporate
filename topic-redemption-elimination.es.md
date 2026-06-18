@@ -4,7 +4,7 @@ title: "Eliminación de Reembolsos"
 slug: topic-redemption-elimination
 aliases:
   - topic-redemption-elimination
-category: root
+category: governance
 type: reference
 content_type: topic
 quality: complete
@@ -15,6 +15,7 @@ language_protocol: PROSE-TOPIC
 last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-redemption-elimination.md
+short_description: "Eliminación estructural del derecho de reembolso de los inversores, suprimiendo el lastre de la reserva de efectivo y el riesgo de corrida inherente a los vehículos inmobiliarios colectivos."
 cites: []
 ---
 

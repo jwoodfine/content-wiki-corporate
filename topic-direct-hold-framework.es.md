@@ -15,6 +15,7 @@ language_protocol: PROSE-TOPIC
 last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-direct-hold-framework.md
+short_description: "Estructura legal que emite capital específico por activo: cada inversor posee una participación fraccionaria en un inmueble concreto, sin participar en un fondo combinado, eliminando el contagio entre activos."
 cites: []
 ---
 
