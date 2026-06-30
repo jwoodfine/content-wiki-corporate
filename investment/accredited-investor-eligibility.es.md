@@ -6,7 +6,7 @@ category: investment
 type: topic
 content_type: topic
 quality: complete
-short_description: "La exención de inversionista acreditado bajo la NI 45-106 como canal principal de distribución para participaciones en sociedades en comandita de tenencia directa: quién califica, qué permite la exención y la documentación de divulgación requerida en el momento de la suscripción."
+short_description: "La exención de inversionista acreditado bajo la NI 45-106 como canal de distribución para participaciones en sociedades en comandita de tenencia directa, junto con la oferta pública mediante prospecto: quién califica, qué permite la exención y la documentación de divulgación requerida en el momento de la suscripción."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
@@ -16,11 +16,13 @@ paired_with: accredited-investor-eligibility.md
 ---
 
 Las participaciones de sociedades en comandita en una solución de tenencia directa se
-distribuyen a inversores bajo exenciones de la ley de valores en lugar de a través de un
-prospecto. La exención de inversionista acreditado bajo el Instrumento Nacional 45-106
-*Exenciones de Prospecto* es el canal principal de distribución para inversores
-institucionales y de alto patrimonio neto que adquieren participaciones en una SC de
-tenencia directa.
+distribuyen a través de dos canales: una oferta pública mediante prospecto durante el
+período de comercialización del prospecto, que califica a cada SC como emisor informante
+conforme a la legislación canadiense de valores aplicable; y la exención de inversionista
+acreditado bajo el Instrumento Nacional 45-106 *Exenciones de Prospecto*, disponible para
+inversores institucionales y de alto patrimonio neto. La exención de inversionista acreditado
+permite la venta de participaciones de SC a inversores calificados fuera del período de
+comercialización del prospecto, sin los requisitos de divulgación pública de un prospecto.
 
 ## Puntos clave
 

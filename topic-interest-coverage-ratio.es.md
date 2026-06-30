@@ -37,7 +37,7 @@ El piso del ICR es el mecanismo principal mediante el cual la arquitectura de Te
 
 Un evento de ejecución hipotecaria en un vehículo de activo no puede propagarse a otros porque cada activo está legalmente aislado. El ICR se aplica por vehículo — no puede satisfacerse subsidiando transversalmente un activo débil con uno fuerte.
 
-Una cartera que mantiene un ICR de 1,2x de forma indefinida evita las ventas forzadas de activos desencadenadas por déficits en el servicio de la deuda, preservando el valor del capital a largo plazo sin requerir inyecciones de capital. La disciplina es coherente con el [[topic-perpetual-equity-model|modelo de capital perpetuo]] aplicado a [[topic-investment-units|unidades de inversión]] fraccionales.
+Una cartera que mantiene un ICR de 1,2x de forma indefinida evita las ventas forzadas de activos desencadenadas por déficits en el servicio de la deuda, preservando el valor del capital a largo plazo sin requerir inyecciones de capital. La disciplina es coherente con el [[topic-perpetual-equity-model|modelo de capital perpetuo]] aplicado a [[topic-investment-units|unidades de inversión]].
 
 ## Véase también
 

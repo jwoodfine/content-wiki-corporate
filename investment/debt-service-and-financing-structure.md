@@ -18,7 +18,7 @@ paired_with: debt-service-and-financing-structure.es.md
 Commercial real estate acquisitions are routinely financed with a combination of equity and
 mortgage debt. The financing structure in each direct-hold limited partnership is designed
 around two constraints: the loan-to-value limit set by the lender, and the debt service
-coverage ratio floor set as an operating discipline by the partnership. These two constraints
+coverage ratio floor established as a covenant in the partnership's governing agreement. These two constraints
 determine the maximum mortgage quantum for a given asset, the interest obligation that the
 ICR distribution gate must clear, and the interest rate risk profile of the investment.
 
@@ -52,7 +52,7 @@ The debt service coverage ratio (DSCR) is the second independent constraint on m
 The DSCR is NOI divided by annual debt service (principal and interest). Institutional lenders
 in Canada typically require DSCR of 1.20× to 1.30× at origination for commercial mortgages.
 
-The 1.2× ICR floor maintained as a partnership operating discipline aligns with the typical
+The 1.2× ICR floor, established as a covenant in the partnership's governing agreement, aligns with the typical
 lender DSCR minimum. At a 1.2× ICR and stabilised NOI of $600,000, the maximum permissible
 interest obligation is $500,000 per year (NOI ÷ 1.2). At an assumed interest rate of 5.0%,
 this constrains the mortgage principal to $10,000,000. If the LTV test allows only $7,500,000

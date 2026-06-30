@@ -6,7 +6,7 @@ category: investment
 type: topic
 content_type: topic
 quality: complete
-short_description: "The accredited investor exemption under NI 45-106 as the primary distribution channel for direct-hold limited partnership units: who qualifies, what the exemption permits, and the disclosure documentation required at the time of subscription."
+short_description: "The accredited investor exemption under NI 45-106 as a distribution channel for direct-hold limited partnership units alongside the prospectus offering: who qualifies, what the exemption permits, and the disclosure documentation required at the time of subscription."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
@@ -15,13 +15,13 @@ editor: woodfine-editorial
 paired_with: accredited-investor-eligibility.es.md
 ---
 
-Limited partnership units in a direct-hold solution are distributed to investors under
-securities law exemptions rather than by way of a prospectus. The accredited investor
-exemption under National Instrument 45-106 *Prospectus Exemptions* is the primary
-distribution channel for institutional and high-net-worth investors acquiring units in
-a direct-hold LP. The exemption is available to investors who meet specific financial
-thresholds or institutional qualifications set out in the instrument, and it permits the
-sale of securities without the cost and delay of a prospectus filing.
+Limited partnership units in a direct-hold solution are distributed through two channels:
+a prospectus offering during the prospectus marketing period, which qualifies each LP as
+a reporting issuer under applicable Canadian securities legislation; and the accredited
+investor exemption under National Instrument 45-106 *Prospectus Exemptions*, available to
+institutional and high-net-worth investors. The accredited investor exemption permits the
+sale of LP units to qualifying investors outside the prospectus marketing period, without
+the public disclosure requirements of a prospectus filing.
 
 ## Key takeaways
 

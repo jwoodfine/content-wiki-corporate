@@ -15,8 +15,9 @@ references:
 ---
 
 **Annual and interim financial reporting** comprises the mandatory periodic financial
-disclosures that Woodfine Capital Projects Inc. files as a reporting issuer under National
-Instrument 51-102 *Continuous Disclosure Obligations*.[^1] These filings provide investors and
+disclosures that Woodfine Capital Projects Inc. intends to file, upon effectiveness of its
+planned prospectus offering, as a reporting issuer under National Instrument 51-102
+*Continuous Disclosure Obligations*.[^1] These filings provide investors and
 regulators with audited and reviewed financial statements, management's analysis of results and
 outlook, and the annual information form that describes the company's business, risk factors,
 and governance structure.
@@ -64,10 +65,11 @@ that occurred during the quarter.
 
 ## Direct-hold solution reporting
 
-WCP and each direct-hold solution are distinct reporting entities with separate obligations
-under NI 51-102. Each direct-hold solution files its own audited annual financial statements,
-annual information form, and MD&A as a standalone issuer; these are not consolidated into
-WCP's financial statements.
+Each direct-hold solution that has completed a prospectus offering is a distinct reporting
+issuer with its own obligations under NI 51-102; WCP intends to become a reporting issuer
+upon effectiveness of its planned prospectus offering. Each direct-hold solution files its
+own audited annual financial statements, annual information form, and MD&A as a standalone
+issuer; these are not consolidated into WCP's financial statements.
 
 WCP applies the investment entity accounting treatment under IFRS 10.27: its interest in each
 direct-hold solution is measured at fair value through profit or loss rather than consolidated

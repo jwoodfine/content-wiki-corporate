@@ -43,7 +43,7 @@ The ICR floor is the primary mechanism by which the Direct-Hold architecture pro
 
 A foreclosure event in one asset vehicle cannot propagate to others because each asset is legally isolated. The ICR applies per-vehicle — it cannot be satisfied by cross-subsidizing a weak asset with a strong one.
 
-A portfolio that maintains 1.2x ICR indefinitely avoids forced asset sales triggered by debt-service shortfalls, preserving long-term equity value without requiring capital injections. The discipline is consistent with the [[topic-perpetual-equity-model|perpetual equity model]] applied to fractional [[topic-investment-units|investment units]].
+A portfolio that maintains 1.2x ICR indefinitely avoids forced asset sales triggered by debt-service shortfalls, preserving long-term equity value without requiring capital injections. The discipline is consistent with the [[topic-perpetual-equity-model|perpetual equity model]] applied to [[topic-investment-units|investment units]].
 
 ## See also
 

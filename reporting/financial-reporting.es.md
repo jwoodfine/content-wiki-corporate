@@ -15,8 +15,9 @@ references:
 ---
 
 La **información financiera anual e intermedia** comprende las divulgaciones financieras
-periódicas obligatorias que Woodfine Capital Projects Inc. presenta como emisor informante en
-virtud del National Instrument 51-102 *Continuous Disclosure Obligations*.[^1] Estos registros
+periódicas obligatorias que Woodfine Capital Projects Inc. tiene previsto presentar, al
+perfeccionarse su oferta pública planificada, como emisor informante en virtud del National
+Instrument 51-102 *Continuous Disclosure Obligations*.[^1] Estos registros
 proporcionan a inversores y reguladores los estados financieros auditados y revisados, el
 análisis de la dirección sobre resultados y perspectivas, y el formulario de información anual
 que describe la estructura empresarial, los factores de riesgo y la gobernanza de la compañía.
@@ -63,10 +64,18 @@ factores de riesgo cuando las condiciones han cambiado.
 
 ## Información de las soluciones de participación directa
 
-Cada una de las cuatro soluciones de participación directa se consolida en los estados
-financieros de WCP. Cuando una solución alcance individualmente los umbrales de importancia
-establecidos conforme al NI 51-102, podrá requerirse información financiera separada a nivel
-de la solución.
+Cada solución de tenencia directa que haya completado una oferta pública mediante prospecto
+es un emisor informante distinto con obligaciones independientes bajo el NI 51-102; WCP
+tiene previsto convertirse en emisor informante al perfeccionarse su oferta pública planificada.
+Cada solución de tenencia directa presenta sus propios estados financieros anuales auditados,
+formulario de información anual y MD&A de forma independiente; no se consolidan en los
+estados financieros de WCP.
+
+WCP aplica el tratamiento contable de entidad de inversión conforme a la NIIF 10.27: su
+participación en cada solución de tenencia directa se mide al valor razonable con cambios en
+resultados, en lugar de consolidarse línea por línea en los estados financieros de WCP. Se
+emiten certificados T5013 a los tenedores de participaciones de sociedad en comandita de
+cada solución para el ejercicio fiscal correspondiente.
 
 ## Presentación en SEDAR+ y accesibilidad
 

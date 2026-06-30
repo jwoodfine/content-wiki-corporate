@@ -19,7 +19,7 @@ Las adquisiciones de bienes raíces comerciales se financian habitualmente con u
 de capital y deuda hipotecaria. La estructura de financiamiento en cada sociedad en comandita
 de tenencia directa se diseña en torno a dos restricciones: el límite de relación préstamo-
 valor establecido por el prestamista, y el piso de la razón de cobertura del servicio de
-deuda establecido como disciplina operativa por la sociedad.
+deuda establecido como convenio en el acuerdo rector de la sociedad.
 
 ## Puntos clave
 
