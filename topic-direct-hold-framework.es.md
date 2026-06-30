@@ -27,13 +27,13 @@ Cada activo es su propia unidad jurídica y financiera, aislada como un vehícul
 
 ## Qué reemplaza
 
-Un fondo inmobiliario comercial tradicional opera con capital mancomunado. El fondo mantiene muchas propiedades; la participación de un inversor le otorga una reclamación proporcional sobre el grupo, no sobre un activo específico. El gestor del grupo determina las distribuciones, las ventanas de liquidez y cuándo se venden los activos; el inversor no puede aprobar ni rechazar ninguna decisión sobre un activo individual. Este es el rol que el rol del gestor principal invierte bajo Tenencia Directa: el consentimiento del inversor se vincula al activo específico en lugar de a un vehículo mancomunado.
+Un fondo inmobiliario comercial tradicional opera con capital mancomunado. El fondo mantiene muchas propiedades; la participación de un inversor le otorga una reclamación proporcional sobre el grupo, no sobre un activo específico. El gestor del grupo determina las distribuciones, las ventanas de liquidez y cuándo se venden los activos; el inversor no puede aprobar ni rechazar ninguna decisión sobre un activo individual. El Marco de Tenencia Directa invierte este acuerdo: la exposición del inversor se vincula al activo específico en lugar de a un vehículo mancomunado.
 
-El Marco de Tenencia Directa elimina el fondo. Cada propiedad es su propia unidad legal y financiera, y el inversor es un titular de capital directo en el activo específico que seleccionó. No hay mezcla con otras propiedades ni discrecionalidad del gestor del fondo sobre su capital.
+El Marco de Tenencia Directa elimina el fondo. Cada propiedad es su propia unidad legal y financiera. Los inversores poseen participaciones en un vehículo constituido en torno a una propiedad específica nombrada, sin mezcla con otras propiedades ni discrecionalidad del gestor del fondo sobre su capital.
 
 ## Aislamiento legal
 
-La separación legal estricta es estructural. Cada libro contable de activo está aislado como un vehículo independiente, de modo que un evento financiero que afecta a un activo — vacancia, litigio, refinanciación — no puede propagarse al capital del inversor en un activo diferente.
+La separación legal estricta es estructural. Cada libro contable de activo está aislado como un vehículo independiente, de modo que un evento financiero que afecta a un activo — vacancia, litigio, refinanciación — no puede propagarse al capital del inversor en un activo diferente. El título legal de cada propiedad lo ostenta una sociedad nominada WCP Titleco independiente, de la cual es beneficiaria la sociedad de tenencia directa aplicable, lo que aisla la propiedad de las obligaciones de cualquier otra entidad de la estructura.
 
 El aislamiento es una propiedad de la arquitectura y no de una promesa contractual. Un inversor que evalúa el riesgo de un activo no tiene que modelar el resto de una cartera.
 
@@ -45,7 +45,7 @@ Un inversor que desee salir localiza una contraparte dispuesta directamente; la 
 
 ## Gobernanza
 
-Dado que cada inversor posee capital directo en un activo nombrado, los derechos de gobierno se vinculan a esa propiedad específica. Los mecanismos de consentimiento del inversor operan a nivel del activo, no a nivel de agregación de cartera. El [[topic-perpetual-equity-model|modelo de capital perpetuo]] aplica estos mecanismos a [[topic-investment-units|unidades de inversión]] mantenidas sin un horizonte de redención fijo.
+En cada vehículo de tenencia directa, el socio general ostenta la autoridad de gestión sobre el vehículo y su propiedad única nombrada. Los derechos de gobierno de los inversores — como socios comanditarios o titulares de unidades equivalentes — operan a nivel del activo y no a nivel de cartera agregada: las decisiones se refieren a la propiedad específica del vehículo y no a un conjunto de activos gestionados a nivel de fondo. El [[topic-perpetual-equity-model|modelo de capital perpetuo]] aplica estos mecanismos a [[topic-investment-units|unidades de inversión]] mantenidas sin un horizonte de redención fijo.
 
 ## Véase también
 

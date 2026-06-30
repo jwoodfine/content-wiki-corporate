@@ -33,13 +33,13 @@ Each asset is its own legal and financial unit, isolated as an independent vehic
 
 ## What it replaces
 
-A traditional commercial real-estate fund operates on commingled capital. The fund holds many properties; an investor's share entitles them to a proportional claim on the pool, not on any specific asset. The pool manager determines distributions, liquidity windows, and when assets are sold; the investor cannot consent to or dissent from any individual asset decision. This is the role the principal manager role inverts under Direct-Hold: investor consent attaches to the specific asset rather than to a pooled vehicle.
+A traditional commercial real-estate fund operates on commingled capital. The fund holds many properties; an investor's share entitles them to a proportional claim on the pool, not on any specific asset. The pool manager determines distributions, liquidity windows, and when assets are sold; the investor cannot consent to or dissent from any individual asset decision. The Direct-Hold framework inverts this arrangement: investor exposure attaches to the specific asset rather than to a pooled vehicle.
 
-The Direct-Hold framework removes the pool. Each property is its own legal and financial unit, and the investor is a direct equity holder in the specific asset they selected. There is no co-mingling with other properties and no fund-manager discretion over their capital.
+The Direct-Hold framework removes the pool. Each property is its own legal and financial unit. Investors hold equity units in a vehicle constituted around a single named property, with no co-mingling with other properties and no fund-manager discretion over their capital.
 
 ## Legal isolation
 
-Strict legal separation is structural. Each asset ledger is isolated as an independent vehicle, so a financial event affecting one asset — vacancy, litigation, refinancing — cannot propagate to the investor's equity in a different asset.
+Strict legal separation is structural. Each asset ledger is isolated as an independent vehicle, so a financial event affecting one asset — vacancy, litigation, refinancing — cannot propagate to the investor's equity in a different asset. Legal title to each property is held by a separate WCP Titleco nominee company that is beneficially owned by the applicable direct-hold vehicle, ring-fencing the property from obligations of any other entity in the structure.
 
 The isolation is a property of the architecture rather than of a contractual promise. An investor evaluating one asset's risk does not have to model the rest of a portfolio.
 
@@ -51,7 +51,7 @@ An investor who wishes to exit locates a willing counterparty directly; the ente
 
 ## Governance
 
-Because each investor holds direct equity in a named asset, governance rights attach to that specific property. Investor consent mechanisms operate at the asset level, not at a portfolio-aggregation level. The [[topic-perpetual-equity-model|perpetual equity model]] applies these mechanisms to [[topic-investment-units|investment units]] held without a fixed redemption horizon.
+In each direct-hold vehicle, the general partner holds management authority over the vehicle and its single named property. Investor governance rights — as limited partners or equivalent unit holders — apply at the asset level rather than across a pooled portfolio: decisions pertain to the specific property in the vehicle, not to a collection of assets managed at the fund level. The [[topic-perpetual-equity-model|perpetual equity model]] applies these mechanisms to [[topic-investment-units|investment units]] held without a fixed redemption horizon.
 
 ## See also
 
@@ -62,7 +62,7 @@ Because each investor holds direct equity in a named asset, governance rights at
 
 ## The bottom line
 
-The Direct-Hold framework replaces the commingled fund with asset-specific equity: each investor is a direct holder in a single named property rather than a participant in a pooled vehicle. Because every asset is its own legal and financial unit, isolation is a property of the architecture and cross-asset contagion cannot occur, so an investor evaluating one asset's risk need not model the rest of a portfolio. With transfers executing directly between private parties, the structure carries no pooled redemption obligation and no fund-manager discretion over an investor's capital.
+The Direct-Hold framework replaces the commingled fund with asset-specific equity: each investor holds units in a vehicle constituted around a single named property, with legal title held by a separate WCP Titleco nominee company, rather than participating in a pooled vehicle. Because every asset is its own legal and financial unit, isolation is a property of the architecture and cross-asset contagion cannot occur, so an investor evaluating one asset's risk need not model the rest of a portfolio. With transfers executing directly between private parties, the structure carries no pooled redemption obligation and no fund-manager discretion over an investor's capital.
 
 ---
 
