@@ -6,18 +6,22 @@ category: economy
 type: topic
 content_type: topic
 quality: complete
-short_description: "Economic philosophy and structural models behind the direct-hold investment approach: distributist and cooperative traditions, the social market economy, and models of distributed capital ownership."
+short_description: "Commercial real estate economics: net operating income, capitalisation rates, property cycles, development class characteristics, and interest rate transmission — the analytical foundations of direct-hold investment."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-26
-editor: pointsav-engineering
+last_edited: 2026-06-29
+editor: woodfine-editorial
 paired_with: _index.es.md
 ---
 
-Economy covers the economic philosophy and structural models that inform the direct-hold
-investment approach. Articles in this category examine distributist and cooperative economic
-traditions, the social market economy model, models of distributed capital ownership,
-and the intellectual heritage of economic structures that prioritize broad asset access
-over concentrated intermediated ownership. Understanding this intellectual foundation
-clarifies the design principles behind the direct-hold architecture.
+Economy covers the commercial real estate economic concepts that underpin the direct-hold
+investment framework. Articles in this category address the metrics and analytical methods
+used to evaluate income-producing property: net operating income and its variants, the
+capitalisation rate as a valuation tool and market indicator, the structure and dynamics of
+commercial real estate cycles, the economic characteristics of the four development classes
+used in the direct-hold programme, and the transmission of interest rate changes through
+to property valuations and investment returns.
+
+The articles in this section are analytical and conceptual. They describe established methods
+and market structures — not projections of specific outcomes for any particular asset or portfolio.

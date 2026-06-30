@@ -29,9 +29,11 @@ and are accessible to the public at sedarplus.ca.
 
 ## Coverage
 
-WCP operates as the parent company and is the reporting issuer. Each of the four direct-hold
-solutions operates under WCP's consolidated reporting umbrella. Where material, separate
-disclosure is provided for individual solutions at the level required by applicable regulations.
+WCP and each direct-hold solution are separate reporting issuers with independent NI 51-102
+filing obligations. WCP does not consolidate the direct-hold solutions into its own financial
+statements; each solution files its own annual and interim financial statements as a standalone
+entity. WCP measures its interest in each solution at fair value through profit or loss under
+the investment entity exception at IFRS 10.27.
 
 **In this section:**
 

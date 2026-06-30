@@ -64,11 +64,21 @@ that occurred during the quarter.
 
 ## Direct-hold solution reporting
 
-Each of the four direct-hold solutions is consolidated into WCP's financial statements. Where
-a direct-hold solution individually meets the significance thresholds established under NI
-51-102, separate financial information may be required at the solution level. The disclosure
-framework for each solution will be specified as the solutions reach the applicable reporting
-thresholds under applicable regulation.
+WCP and each direct-hold solution are distinct reporting entities with separate obligations
+under NI 51-102. Each direct-hold solution files its own audited annual financial statements,
+annual information form, and MD&A as a standalone issuer; these are not consolidated into
+WCP's financial statements.
+
+WCP applies the investment entity accounting treatment under IFRS 10.27: its interest in each
+direct-hold solution is measured at fair value through profit or loss rather than consolidated
+on a line-by-line basis into WCP's statements. The fair value of WCP's interest in each solution
+is disclosed in WCP's own financial statements in accordance with IFRS 12.19A–G, which requires
+disclosure of the financial information of unconsolidated investment entity investees.
+
+Each direct-hold solution therefore maintains two disclosure streams: its own standalone filings
+as a reporting issuer, and a fair-value line in WCP's statements as an investee of an investment
+entity. T5013 partnership information slips are issued to limited partnership unitholders of
+each direct-hold solution for the applicable fiscal year.
 
 ## SEDAR+ filing and accessibility
 
