@@ -20,9 +20,9 @@ see_also:
   - topic-property-ledger-technology
 ---
 
-Las unidades de inversión son los intereses de capital fraccional emitidos en cada activo real nombrado bajo el marco de [[topic-direct-hold-framework|Tenencia Directa]] de MCorp. Cada unidad de inversión representa un porcentaje de propiedad de la propiedad específica, no una participación en un fondo mancomunado ni una participación proporcional en una cartera.
+Las unidades de inversión son las unidades de sociedad limitada emitidas bajo cada sociedad limitada de tenencia directa dentro del marco de [[topic-direct-hold-framework|Tenencia Directa]] de MCorp. Cada unidad de inversión representa un interés proporcional en la sociedad limitada de tenencia directa específica, no una participación en un fondo mancomunado ni una participación proporcional en una cartera de propiedades.
 
-Las unidades se registran en el [[topic-property-ledger-technology|libro contable de propiedad]] del activo nombrado. Son libremente transferibles a contrapartes dispuestas sin requerir aprobación corporativa. El [[topic-perpetual-equity-model|Modelo de Capital Perpetuo]] rige el horizonte de tenencia de estas unidades.
+Las unidades se registran a través del sistema de registro en cuenta de la sociedad y son transferibles a contrapartes dispuestas conforme a las restricciones establecidas en el contrato de sociedad limitada correspondiente. El [[topic-perpetual-equity-model|Modelo de Capital Perpetuo]] rige el horizonte de tenencia de estas unidades.
 
 ## Resumen
 
@@ -46,7 +46,7 @@ Cada unidad de inversión en un activo nombrado confiere tres categorías de der
 
 ## Ratio de cobertura de intereses
 
-Cada activo en la cartera de Tenencia Directa mantiene un suelo de ratio de cobertura de intereses (RCI) de 1,2×  — ingresos operativos respecto al servicio de la deuda — como restricción operativa autoimpuesta. El RCI se calcula por activo; no existe subvención cruzada entre propiedades. Un activo que opera entre 1,2× y 1,4× RCI se encuentra en el rango típico de los convenios de préstamo inmobiliario comercial. Un activo por debajo de 1,2× entra en un protocolo de preservación en el que se suspenden las distribuciones hasta que se restablece el ratio.
+Cada estructura de tenencia directa mantiene un suelo de ratio de cobertura de intereses (RCI) de 1,2× — ingresos operativos netos respecto a las obligaciones de intereses (excluida la amortización del capital) — como convenio establecido en el contrato de sociedad limitada aplicable que regula la capacidad de endeudamiento. El RCI se calcula por activo; no existe subvención cruzada entre propiedades. Un activo que opera entre 1,2× y 1,4× RCI se encuentra en el rango típico de los convenios de préstamo inmobiliario comercial. Un activo por debajo de 1,2× entra en un protocolo de preservación en el que se suspenden las distribuciones hasta que se restablece el ratio.
 
 El suelo del RCI protege directamente a los tenedores de unidades: impide que se realicen distribuciones de una propiedad cuyos ingresos operativos sean insuficientes para sostenerlas. No se declara ninguna distribución de un activo cuyo RCI sea inferior a 1,2×.
 

@@ -15,13 +15,13 @@ language_protocol: PROSE-TOPIC
 last_edited: 2026-05-25
 editor: pointsav-engineering
 paired_with: topic-direct-hold-framework.md
-short_description: "Estructura legal que emite capital específico por activo: cada inversor posee una participación fraccionaria en un inmueble concreto, sin participar en un fondo combinado, eliminando el contagio entre activos."
+short_description: "Estructura legal que emite unidades de sociedad limitada en una única estructura de tenencia directa nombrada, sin participar en un fondo combinado, eliminando el contagio entre activos."
 cites: []
 ---
 
-El Marco de Tenencia Directa es una estructura jurídica de propiedad bajo la cual cada inversor posee un interés fraccional definido en un único [[topic-property-ledger-technology|libro contable de propiedad]] nombrada, y no una reclamación proporcional sobre un fondo mancomunado. Cada activo se constituye como una unidad jurídica y financiera independiente, de modo que un evento financiero que afecta a un activo no puede propagarse a la posición accionaria del inversor en otro. Este artículo describe la estructura jurídica del marco, el mecanismo de aislamiento, las [[topic-equity-transfer-model|condiciones de transferencia y liquidez]] entre inversores, las [[topic-fiduciary-data-mandate|obligaciones fiduciarias de datos]] que protegen la integridad del libro contable, y la [[topic-interest-coverage-ratio|disciplina de cobertura de intereses]] aplicada por activo.
+El Marco de Tenencia Directa es una estructura jurídica de propiedad bajo la cual cada inversor posee unidades de sociedad limitada en una única sociedad limitada de tenencia directa nombrada, y no una reclamación proporcional sobre un fondo mancomunado. Cada estructura de tenencia directa se constituye como una unidad jurídica y financiera independiente, de modo que un evento financiero que afecta a una estructura no puede propagarse a la posición del inversor en otra. Este artículo describe la estructura jurídica del marco, el mecanismo de aislamiento, las [[topic-equity-transfer-model|condiciones de transferencia y liquidez]] entre inversores, las [[topic-fiduciary-data-mandate|obligaciones fiduciarias de datos]] que protegen la integridad del registro, y la [[topic-interest-coverage-ratio|disciplina de cobertura de intereses]] aplicada por estructura.
 
-El marco emite capital específico por propiedad: cada inversor posee un interés fraccional definido en un único libro contable de propiedad nombrada, no una participación en un fondo mancomunado.
+El marco emite capital específico por estructura: cada inversor posee unidades de sociedad limitada en una única sociedad de tenencia directa nombrada, no una participación en un fondo mancomunado.
 
 Cada activo es su propia unidad jurídica y financiera, aislada como un vehículo independiente. Un evento financiero que afecta a un activo no puede propagarse al capital del inversor en otro; el aislamiento es una propiedad de la arquitectura, no una promesa contractual.
 

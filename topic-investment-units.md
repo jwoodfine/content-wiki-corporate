@@ -20,9 +20,9 @@ see_also:
   - topic-property-ledger-technology
 ---
 
-Investment units are the fractional equity interests issued in each named real asset under MCorp's [[topic-direct-hold-framework|Direct-Hold]] framework. Each investment unit represents a percentage ownership of the specific property — not a share in a pooled fund or a proportional claim on a portfolio.
+Investment units are the limited partnership units issued under each direct-hold limited partnership within MCorp's [[topic-direct-hold-framework|Direct-Hold]] framework. Each investment unit represents a proportional interest in the specific direct-hold partnership — not a share in a pooled fund or a proportional claim on a portfolio of properties.
 
-Units are recorded in the [[topic-property-ledger-technology|property ledger]] for the named asset. They are freely transferable to willing counterparties without requiring corporate approval. The [[topic-perpetual-equity-model|Perpetual Equity Model]] governs the holding horizon for these units.
+Units are registered through the partnership's book-entry system and are transferable to willing counterparties subject to the restrictions set out in the applicable partnership agreement. The [[topic-perpetual-equity-model|Perpetual Equity Model]] governs the holding horizon for these units.
 
 ## Overview
 
@@ -46,7 +46,7 @@ Each investment unit in a named asset carries three categories of rights.
 
 ## Interest Coverage Ratio
 
-Each asset in the Direct-Hold portfolio maintains an interest coverage ratio (ICR) floor of 1.2× — operating income to debt service — as a self-imposed operating constraint. The ICR is calculated per asset; there is no cross-subsidy between properties. An asset operating between 1.2× and 1.4× ICR is within the range typical of commercial real-estate lending covenants. An asset below 1.2× enters a preservation protocol in which distributions are suspended until the ratio is restored.
+Each direct-hold structure maintains an interest coverage ratio (ICR) floor of 1.2× — net operating income to interest obligations (excluding principal repayment) — as a covenant established in the applicable limited partnership agreement governing borrowing capacity. The ICR is calculated per asset; there is no cross-subsidy between properties. An asset operating between 1.2× and 1.4× ICR is within the range typical of commercial real-estate lending covenants. An asset below 1.2× enters a preservation protocol in which distributions are suspended until the ratio is restored.
 
 The ICR floor is a direct protection for unit holders: it prevents distributions from being drawn from a property whose operating income is insufficient to sustain them. No distribution is declared from an asset whose ICR falls below 1.2×.
 
