@@ -1,10 +1,17 @@
 ---
+schema: foundry-doc-v1
 title: "Inversión"
 slug: investment
 category: investment
+type: topic
+content_type: topic
+quality: complete
+short_description: "Arquitectura estructural de los bienes raíces de tenencia directa como clase de activos: principios de propiedad beneficiaria directa, los cuatro tipos de vehículo, el modelo de capital perpetuo y el marco de elegibilidad del inversor."
+status: active
+bcsc_class: public-disclosure-safe
+language_protocol: TRANSLATE-ES
 last_edited: 2026-06-26
 editor: pointsav-engineering
-status: stable
 paired_with: investment/_index.md
 ---
 

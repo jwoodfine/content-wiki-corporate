@@ -1,10 +1,17 @@
 ---
+schema: foundry-doc-v1
 title: "Economía"
 slug: economy
 category: economy
+type: topic
+content_type: topic
+quality: complete
+short_description: "Filosofía económica y modelos estructurales del enfoque de inversión de tenencia directa: tradiciones distributistas y cooperativas, la economía social de mercado y modelos de propiedad de capital distribuida."
+status: active
+bcsc_class: public-disclosure-safe
+language_protocol: TRANSLATE-ES
 last_edited: 2026-06-26
 editor: pointsav-engineering
-status: stable
 paired_with: economy/_index.md
 ---
 

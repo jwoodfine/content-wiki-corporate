@@ -1,10 +1,18 @@
 ---
+schema: foundry-doc-v1
 title: "Investment"
 slug: investment
 category: investment
+type: topic
+content_type: topic
+quality: complete
+short_description: "Structural architecture of direct-hold real estate as an asset class: direct beneficial ownership principles, the four vehicle types, the perpetual equity model, and the investor eligibility framework."
+status: active
+bcsc_class: public-disclosure-safe
+language_protocol: PROSE-TOPIC
 last_edited: 2026-06-26
 editor: pointsav-engineering
-status: stable
+paired_with: _index.es.md
 ---
 
 Investment covers the structural architecture of direct-hold real estate as an asset

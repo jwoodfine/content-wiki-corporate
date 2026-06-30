@@ -1,10 +1,17 @@
 ---
+schema: foundry-doc-v1
 title: "Investigación"
 slug: research
 category: research
+type: topic
+content_type: topic
+quality: complete
+short_description: "Inteligencia de mercado institucional para bienes raíces de tenencia directa: hallazgos factuales de medios financieros e investigación académica sobre mercados privados, flujos de capital, tendencias demográficas y condiciones económicas regionales."
+status: active
+bcsc_class: public-disclosure-safe
+language_protocol: TRANSLATE-ES
 last_edited: 2026-06-26
 editor: pointsav-engineering
-status: stable
 paired_with: research/_index.md
 ---
 

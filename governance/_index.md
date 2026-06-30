@@ -1,10 +1,18 @@
 ---
+schema: foundry-doc-v1
 title: "Governance"
 slug: governance
 category: governance
+type: topic
+content_type: topic
+quality: complete
+short_description: "Regulatory posture, continuous disclosure obligations, investor access framework, and fiduciary requirements governing direct-hold real estate investment in Canada, the United States, and Europe."
+status: active
+bcsc_class: public-disclosure-safe
+language_protocol: PROSE-TOPIC
 last_edited: 2026-06-26
 editor: pointsav-engineering
-status: stable
+paired_with: _index.es.md
 ---
 
 Governance covers the regulatory posture, continuous disclosure obligations, investor

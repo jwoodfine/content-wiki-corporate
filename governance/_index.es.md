@@ -1,10 +1,17 @@
 ---
+schema: foundry-doc-v1
 title: "Gobernanza"
 slug: governance
 category: governance
+type: topic
+content_type: topic
+quality: complete
+short_description: "Postura regulatoria, obligaciones de divulgación continua, marco de acceso de inversores y requisitos fiduciarios que rigen la inversión inmobiliaria de tenencia directa en Canadá, Estados Unidos y Europa."
+status: active
+bcsc_class: public-disclosure-safe
+language_protocol: TRANSLATE-ES
 last_edited: 2026-06-26
 editor: pointsav-engineering
-status: stable
 paired_with: governance/_index.md
 ---
 

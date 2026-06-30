@@ -1,10 +1,18 @@
 ---
+schema: foundry-doc-v1
 title: "Research"
 slug: research
 category: research
+type: topic
+content_type: topic
+quality: complete
+short_description: "Institutional market intelligence for direct-hold real estate: factual findings from financial media and academic research on private markets, capital flows, demographic trends, and regional economic conditions."
+status: active
+bcsc_class: public-disclosure-safe
+language_protocol: PROSE-TOPIC
 last_edited: 2026-06-26
 editor: pointsav-engineering
-status: stable
+paired_with: _index.es.md
 ---
 
 Research covers institutional market intelligence relevant to direct-hold real estate

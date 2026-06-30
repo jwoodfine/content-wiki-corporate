@@ -1,10 +1,18 @@
 ---
+schema: foundry-doc-v1
 title: "Ongoing Reporting"
 slug: reporting
 category: reporting
+type: topic
+content_type: topic
+quality: complete
+short_description: "Woodfine Capital Projects Inc. ongoing public disclosure: financial statements, annual information forms, governance documents, press releases, and investor presentations filed under NI 51-102."
+status: active
+bcsc_class: public-disclosure-safe
+language_protocol: PROSE-TOPIC
 last_edited: 2026-06-29
 editor: woodfine-editorial
-status: stable
+paired_with: _index.es.md
 ---
 
 Woodfine Capital Projects Inc. maintains ongoing disclosure obligations under Canadian securities

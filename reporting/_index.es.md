@@ -1,10 +1,18 @@
 ---
+schema: foundry-doc-v1
 title: "Información periódica"
 slug: reporting
 category: reporting
+type: topic
+content_type: topic
+quality: complete
+short_description: "Divulgación pública continua de Woodfine Capital Projects Inc.: estados financieros, formularios de información anual, documentos de gobernanza, comunicados de prensa y presentaciones a inversores bajo NI 51-102."
+status: active
+bcsc_class: public-disclosure-safe
+language_protocol: TRANSLATE-ES
 last_edited: 2026-06-29
 editor: woodfine-editorial
-status: stable
+paired_with: _index.md
 ---
 
 Woodfine Capital Projects Inc. mantiene obligaciones de divulgación continua en virtud de la
