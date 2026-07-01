@@ -22,7 +22,7 @@ las estructuras y tenencias de Woodfine.
 
 ## Estándares editoriales
 
-Los artículos siguen el registro institucional de Bloomberg y el Financial Times. Las
+Los artículos siguen el registro institucional de la prensa financiera. Las
 afirmaciones son precisas y presentan las consecuencias antes que los supuestos. No aparece
 vocabulario de marketing ni lenguaje propio de productos de inteligencia artificial. Cada
 artículo cumple la postura de [[topic-continuous-disclosure|divulgación continua]] exigida bajo la NI 51-102 y el SN 51-721
