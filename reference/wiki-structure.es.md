@@ -1,0 +1,106 @@
+---
+schema: foundry-doc-v1
+title: "Cómo está organizada esta base de conocimiento"
+slug: wiki-structure
+category: reference
+type: topic
+content_type: topic
+quality: complete
+short_description: "Un mapa para el lector: esta base de conocimiento
+  describe la empresa — quién es, los vehículos de inversión, el modelo
+  financiero, la política de distribuciones y el mecanismo de
+  transferencia de participaciones, quién dirige, qué podría salir mal y
+  dónde están los informes — con la mitad de la historia dedicada a los
+  edificios y los lugares en la base de conocimiento de proyectos que la
+  acompaña."
+status: active
+bcsc_class: public-disclosure-safe
+language_protocol: PROSE-TOPIC
+paired_with: wiki-structure.md
+---
+
+Esta base de conocimiento está organizada en torno a las preguntas que
+la gente realmente se hace sobre una empresa. No hace falta formación
+financiera; cada sección está escrita en lenguaje sencillo, y cada
+término técnico enlaza con el glosario.
+
+## La historia
+
+1. **La empresa** — quién es Woodfine: una sociedad holding de la
+   Columbia Británica que desarrolla y promueve edificios comerciales.
+   Es una promotora, no una gestora de activos. Su historia, sus
+   personas y cómo funciona el negocio.
+2. **Los vehículos de inversión** — los vehículos, presentes y
+   planificados: las acciones ordinarias de la empresa matriz y las
+   cuatro Direct-Hold Solutions (soluciones de tenencia directa)
+   planificadas para Canadá, los Estados Unidos, España y México. Qué es
+   cada vehículo, su forma jurídica y las reglas de elegibilidad que se
+   aplican en la jurisdicción de origen de cada inversor. Cuando una
+   oferta está planificada y no abierta, los artículos lo indican con
+   claridad.
+3. **El modelo financiero** — el motor financiero. Bajo el Narrow
+   Banking Model (modelo de banca estrecha), los edificios están
+   previstos para construirse sin deuda de construcción, con capital de
+   suscripción; el endeudamiento está planificado para llegar solo
+   después de que los edificios estén arrendados y generen ingresos. Las
+   comisiones que Woodfine cobra, lo que gana, y por qué su propia
+   participación está diseñada para permanecer en garantía (escrow)
+   hasta que se haya devuelto el capital de los inversores.
+4. **Distribuciones y transferencias** — la política de distribuciones y
+   el mecanismo de transferencia. Las distribuciones tienen como
+   objetivo pagarse a partir de Distributable Income (ingreso
+   distribuible), cuando y si se declaran — no están garantizadas.
+   Perpetual Equity es el mecanismo previsto para permitir que los
+   partícipes ofrezcan sus participaciones en venta en el momento que
+   elijan: no hay salida forzosa ni ventana de rescate por diseño, pero
+   el mecanismo no es una promesa de comprador ni de precio.
+5. **Gobernanza y asuntos legales** — quién dirige y qué protege a los
+   inversores: el consejo y sus consejeros independientes, los comités,
+   la remuneración, las reglas escritas en los documentos constitutivos
+   de cada vehículo, y el registro legal — contratos, procedimientos y
+   los derechos estatutarios de los inversores.
+6. **Riesgos** — qué podría salir mal, expuesto con claridad y reunido
+   en un solo lugar.
+
+## El rastro documental
+
+Cada empresa que informa tiene su propia sección de Informes, y cada
+sección sigue el mismo esquema: estados financieros anuales, estados
+financieros trimestrales, análisis de la dirección, presentaciones
+regulatorias, valoraciones y tasaciones, y registros de distribuciones.
+Aprenda una y las habrá aprendido todas.
+
+- **Informes — Woodfine Capital Projects** (la empresa matriz; también
+  incluye comunicados de prensa y eventos para inversores, y una guía
+  sencilla sobre cómo funciona la información pública)
+- **Informes — Direct-Hold Solution Canada**
+- **Informes — Direct-Hold Solution United States**
+- **Informes — Direct-Hold Solution Spain**
+- **Informes — Direct-Hold Solution Mexico**
+
+Cada sección abre con el perfil de la empresa: su forma jurídica, país
+de origen, regulador, sistema de presentación, auditor y cierre de
+ejercicio.
+
+## Investigación y referencia
+
+**Investigación** reúne los artículos de investigación de referencia —
+argumentos completos y extensos con citas completas, publicados como un
+conjunto reducido y seleccionado.
+
+**Glosario y guía del lector** define en palabras sencillas cada término
+usado aquí, y explica las notas cautelares que acompañan a las
+declaraciones prospectivas y a las medidas financieras no estándar.
+Empiece ahí si algún término le resulta desconocido — y lea el aviso
+sobre declaraciones prospectivas antes de basarse en cualquier
+afirmación sobre planes, objetivos o distribuciones previstas; las
+secciones de Informes y Distribuciones remiten a él en todo momento.
+
+## La otra mitad de la historia
+
+Cada artículo se publica en inglés y en español. Los edificios en sí —
+qué se construye, cómo se diseña, cómo se eligen los emplazamientos, los
+mercados y dónde está planificado construir a continuación — viven en la
+base de conocimiento de **proyectos** que la acompaña. Esta base de
+conocimiento explica la empresa y el dinero; aquella explica los
+edificios y los lugares. Juntas cuentan la historia completa.
