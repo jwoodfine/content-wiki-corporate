@@ -74,6 +74,6 @@ Disclosure of audit and non-audit fees paid to the external auditor is required 
 
 ## See also
 
-- [[board-governance-structure]] — the broader board governance framework
+- board-governance-structure — the broader board governance framework
 - [[continuous-disclosure-obligations]] — the financial reporting obligations the audit
   committee oversees
