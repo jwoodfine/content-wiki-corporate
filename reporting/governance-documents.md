@@ -5,6 +5,7 @@ category: reporting
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable
+short_description: "Board mandate, committee charters, governance policy, and code of business conduct published as disclosure of governance practices under NP 58-201 and NI 58-101."
 references:
   - id: 1
     text: "National Policy 58-201 Corporate Governance Guidelines, Canadian Securities Administrators."

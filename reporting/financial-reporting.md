@@ -5,6 +5,7 @@ category: reporting
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable
+short_description: "Periodic financial disclosures Woodfine Capital Projects Inc. intends to file as a reporting issuer under NI 51-102 upon effectiveness of its planned prospectus offering."
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations, Canadian Securities Administrators."

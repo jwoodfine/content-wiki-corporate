@@ -5,6 +5,7 @@ category: governance
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable
+short_description: "Obligaciones de divulgación anual de un emisor canadiense: estados financieros IFRS auditados, formulario de información anual y MD&A dentro de 90 días del cierre fiscal."
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations. CSA, 2004 (as amended)."

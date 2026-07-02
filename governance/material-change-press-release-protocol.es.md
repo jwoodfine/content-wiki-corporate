@@ -5,6 +5,7 @@ category: governance
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable
+short_description: "Divulgación por eventos bajo NI 51-102 Parte 7: comunicado de prensa inmediato más presentación del Formulario 51-102F3 en 10 días, con una excepción de confidencialidad estricta."
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations, Part 7. CSA, 2004 (as amended)."

@@ -5,6 +5,7 @@ category: reporting
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable
+short_description: "Divulgaciones financieras periódicas que Woodfine Capital Projects Inc. prevé presentar como emisor bajo NI 51-102 tras la efectividad de su oferta de prospecto planificada."
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations, Canadian Securities Administrators."

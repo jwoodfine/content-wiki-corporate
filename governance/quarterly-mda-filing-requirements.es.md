@@ -5,6 +5,7 @@ category: governance
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable
+short_description: "Informes intermedios bajo NI 51-102: estados financieros condensados según IAS 34 y MD&A trimestral, presentados dentro de 45 días del cierre de cada uno de los tres primeros trimestres."
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations. CSA, 2004 (as amended)."

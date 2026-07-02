@@ -5,6 +5,7 @@ category: governance
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable
+short_description: "Event-driven disclosure under NI 51-102 Part 7: immediate press release plus Form 51-102F3 filing within 10 days, with a narrow confidentiality exception."
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations, Part 7. CSA, 2004 (as amended)."

@@ -5,6 +5,7 @@ category: reporting
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable
+short_description: "Mandato del consejo, estatutos de comités, política de gobernanza y código de conducta empresarial publicados como divulgación de prácticas de gobernanza bajo NP 58-201 y NI 58-101."
 references:
   - id: 1
     text: "National Policy 58-201 Corporate Governance Guidelines, Canadian Securities Administrators."

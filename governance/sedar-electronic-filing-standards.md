@@ -5,6 +5,7 @@ category: governance
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable
+short_description: "Filing platform operated by the CSA for public dissemination of continuous disclosure documents, covering document categories, XBRL format rules, and NI 52-109 certification."
 references:
   - id: 1
     text: "CSA Staff Notice 11-332 — SEDAR+ Launch. CSA, 2023."

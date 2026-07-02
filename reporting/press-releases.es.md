@@ -5,6 +5,7 @@ category: reporting
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable
+short_description: "Canal de divulgación en tiempo real de cambios materiales: comunicado inmediato, Formulario 51-102F3 en SEDAR+ en diez días y estándares de declaraciones prospectivas."
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations, Part 7 — Material Change Reporting. Canadian Securities Administrators."

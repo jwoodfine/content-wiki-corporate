@@ -5,6 +5,7 @@ category: reporting
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable
+short_description: "Registro de juntas de accionistas, presentaciones a inversores y participaciones en conferencias del sector, con materiales archivados y aviso previo de próximos eventos."
 ---
 
 **Eventos y presentaciones** es el registro del relacionamiento programado de Woodfine Capital

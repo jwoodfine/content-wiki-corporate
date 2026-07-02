@@ -5,6 +5,7 @@ category: governance
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable
+short_description: "Plataforma de presentación operada por la CSA para la difusión pública de documentos de divulgación continua, incluyendo categorías de documentos, formato XBRL y certificación NI 52-109."
 references:
   - id: 1
     text: "CSA Staff Notice 11-332 — SEDAR+ Launch. CSA, 2023."

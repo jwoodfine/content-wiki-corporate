@@ -5,6 +5,7 @@ category: reporting
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable
+short_description: "Real-time disclosure channel for material changes: immediate press release, Form 51-102F3 filing on SEDAR+ within ten days, and forward-looking statement standards."
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations, Part 7 — Material Change Reporting. Canadian Securities Administrators."

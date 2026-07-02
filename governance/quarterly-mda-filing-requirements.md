@@ -5,6 +5,7 @@ category: governance
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable
+short_description: "Interim reporting under NI 51-102: condensed IAS 34 financial statements and quarterly MD&A due within 45 days of each of the first three fiscal quarter-ends."
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations. CSA, 2004 (as amended)."

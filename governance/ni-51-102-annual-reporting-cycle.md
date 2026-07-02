@@ -5,6 +5,7 @@ category: governance
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable
+short_description: "Annual disclosure obligations of a Canadian reporting issuer: audited IFRS financial statements, Annual Information Form, and MD&A due within 90 days of fiscal year-end."
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations. CSA, 2004 (as amended)."

@@ -5,6 +5,7 @@ category: reporting
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable
+short_description: "Record of shareholder meetings, investor presentations, and industry conference appearances, with archived materials and advance notice of forthcoming events where available."
 ---
 
 **Events and presentations** is the record of Woodfine Capital Projects Inc.'s scheduled
