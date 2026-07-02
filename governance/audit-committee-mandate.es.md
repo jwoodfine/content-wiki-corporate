@@ -52,6 +52,6 @@ contables internos o asuntos de auditoría.
 
 ## Consulte también
 
-- [[board-governance-structure]] — el marco más amplio de gobernanza del consejo
+- board-governance-structure — el marco más amplio de gobernanza del consejo
 - [[continuous-disclosure-obligations]] — las obligaciones de información financiera que
   el comité supervisa

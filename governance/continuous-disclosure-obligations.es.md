@@ -57,5 +57,5 @@ operaciones o asuntos. Al determinar que ha ocurrido un cambio material, el emis
 
 ## Consulte también
 
-- [[regulatory-posture]] — el marco regulatorio aplicable a los emisores que cotizan
+- [[topic-regulatory-posture|regulatory-posture]] — el marco regulatorio aplicable a los emisores que cotizan
 - [[financial-reporting]] — el componente de estados financieros del paquete de divulgación
