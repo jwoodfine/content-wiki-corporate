@@ -26,6 +26,8 @@ The mechanism operates in two directions simultaneously: it supports tenant dema
 
 Institutional capital allocators have increasingly concentrated commercial real estate investment into necessity-based and grocery-anchored retail formats. The investor rationale is grounded in consumer behavior: grocery and personal care operators generate daily visit patterns that do not compress materially during economic downturns because the underlying purchases are non-discretionary. Consumers reduce spending on travel, entertainment, and durables before they reduce spending on food, pharmacy, and personal care. The retailers serving these categories maintain visit frequency even when the broader economic environment is uncertain.
 
+### Institutional concentration in necessity formats
+
 This cash-flow characteristic is distinct from discretionary retail formats — fashion, home furnishings, and electronics — which face demand compression during periods of consumer caution. The predictability of grocery-anchored and necessity-based retail income has made these formats a concentration point for institutional capital seeking stable yield rather than capital growth.
 
 ## The Halo Transfer Mechanism
@@ -34,15 +36,21 @@ Woodfine positions its Professional Centres and Suburban Office buildings direct
 
 The halo effect operates through concrete operational channels rather than through market perception alone.
 
+### Tenant demand channels
+
 **Foot traffic adjacency.** Professional services tenants — law firms, accounting practices, dental and medical groups — benefit from the daily consumer flow that National Retailer anchors generate. A professional services operator co-located adjacent to a Walmart Supercentre or a Costco is visible to the same consumer base that visits the anchor multiple times per week. Passive awareness from foot traffic proximity reduces the marketing and client acquisition burden on professional services practices in [[regional-market-capital-gap|Regional Markets]], where the commercial density required to sustain professional tenancy through organic client walk-in is otherwise insufficient.
 
 **Staff and client accessibility.** Professional services operators report that tenant selection in Regional Markets is influenced by co-location with retail amenities that serve both staff and clients. A dentist's practice adjacent to a pharmacy, a financial advisory practice adjacent to a bank branch, a law firm adjacent to a coffee service operator — the retail environment of the Power Centre functions as shared amenity infrastructure for the professional office tenants without requiring the building developer to provision those amenities independently.
+
+### Investor confidence channel
 
 **Investor recognition.** Institutional capital recognizes grocery-anchored and necessity-based retail as a distinct investment category with measurable income stability characteristics. Buildings physically adjacent to these anchors carry an association with those stability characteristics that purely office-focused developments do not carry. For investors in the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] seeking stable, long-duration income exposure, the co-location with Power Centre anchors provides a structural income stabilizer that is independent of office market cycle conditions.
 
 ## Flight to Quality in the Office Sector
 
 The Institutional Retail Halo thesis operates against a backdrop of diverging performance within the office sector. Demand in the broader office market has concentrated in institutional-grade buildings with modern systems, strong environmental credentials, and amenity-rich locations, while legacy office inventory has faced rising vacancy. The [[north-american-office-market-recovery|flight to quality]] dynamic means that not all office development benefits equally from improving occupancy conditions — tenants and investors are making qualitative distinctions between buildings that would previously have been treated as interchangeable.
+
+### Building certification positioning
 
 Woodfine Buildings are engineered to the quality threshold that attracts high-covenant National Tenants. The [[dual-mandate-building-certifications|Dual-Mandate Building Certification]] standard — combining environmental performance baseline criteria with Human-Centric Wellness standards — positions Woodfine Buildings within the institutional-grade category that captures demand concentration. The co-location with Power Centre anchors provides a locational quality criterion that complements the building quality standard: the site is as important as the building.
 

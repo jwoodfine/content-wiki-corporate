@@ -20,17 +20,23 @@ cites: []
 
 El **Modelo Financiero Narrow Bank** es la disciplina de financiamiento que rige cómo las [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] de Woodfine Management Corp. despliegan capital y emiten deuda. El modelo opera en dos fases secuenciales: una fase inicial de construcción financiada con capital que no requiere pre-arrendamiento ni préstamos de construcción externos, seguida de una fase de emisión de deuda en la que el vehículo de inversión estabilizado emite sus propias [[debt-service-and-financing-structure|Obligaciones con Primera Hipoteca Garantizada]] colateralizadas directamente por los edificios físicos completos.
 
+## Pasivos circunscritos a los activos
+
 La consecuencia de esta estructura es que las Direct-Hold Solutions no tienen deuda corporativa abstracta. Todos los pasivos están estrictamente circunscritos a los bienes raíces que los respaldan. En caso de una ejecución hipotecaria sobre cualquier obligación, la transferencia del activo físico subyacente extingue la deuda asociada en su totalidad. Los inversores nunca están sujetos a llamadas de capital para cubrir pasivos de endeudamiento.
 
 ## La Fase de Capital: Capital Perpetuo y Construcción Sin Apalancamiento
 
 En la fase inicial, el capital accionario recaudado a través de la Direct-Hold Solution financia directamente la construcción de los primeros Woodfine Buildings. No se requiere pre-arrendamiento antes de que comience la construcción. No se obtienen préstamos de construcción externos. Los edificios se construyen sin apalancamiento, produciendo lo que el modelo denomina metros cuadrados sin apalancamiento — área de edificio completada y arrendable que no tiene deuda y por lo tanto no impone ninguna obligación de servicio de deuda al vehículo durante el período previo al arrendamiento.
 
+### Capital perpetuo y flexibilidad de despliegue
+
 Este enfoque de construcción es una función directa de la estructura de capital perpetuo de las Direct-Hold Solutions. Dado que las Unidades de Inversión son de Libre Transmisión, el vehículo no enfrenta las demandas de liquidez que típicamente requieren que un fondo de bienes raíces despliegue capital solo en activos que generan ingresos o edificios pre-arrendados.
 
 ## La Fase de Deuda: Obligaciones con Primera Hipoteca Garantizada
 
 Una vez que el flujo de efectivo de los edificios completados y arrendados se ha estabilizado, la Direct-Hold Solution emite Obligaciones con Primera Hipoteca Garantizada para financiar las fases de construcción posteriores. Estas obligaciones son emitidas por el propio vehículo y están 100% colateralizadas por los Woodfine Buildings físicos. Las obligaciones están previstas para ser Negociadas en Bolsa.
+
+### Convenios de emisión y límites de apalancamiento
 
 La emisión de deuda está sujeta a un convenio de cobertura: las obligaciones no pueden emitirse a menos que la cartera existente logre una [[cre-financial-metrics|Razón de Cobertura de Intereses]] de al menos 1,2x. La deuda máxima bajo el modelo es el 100% de los costos de desarrollo para nueva construcción. Durante la fase de construcción activa, el valor deuda-activo de la cartera se espera que alcance no más de aproximadamente el 63%.
 

@@ -32,6 +32,8 @@ su relación con el emisor o con un tenedor significativo de los valores del emi
 se esperaría que tuviera acceso regular a hechos o [[material-change-reporting|cambios materiales]] sobre el emisor antes de
 que dichos hechos o cambios sean divulgados públicamente.
 
+### Categorías consideradas iniciados reportantes
+
 Las categorías que siempre son iniciados reportantes incluyen: directores y funcionarios del
 emisor; directores y funcionarios de un accionista significativo del emisor (que tenga el 10 por
 ciento o más de los valores con derecho a voto); directores y funcionarios de una subsidiaria
@@ -52,6 +54,8 @@ valores del emisor — incluyendo adquisiciones, disposiciones, otorgamientos de
 unidades restringidas, ejercicios de opciones y conversiones de valores convertibles — el
 iniciado reportante debe presentar un informe subsiguiente de iniciado en el Formulario 55-102F6.
 
+### Plazo de cinco días y fecha de transacción
+
 El plazo de cinco días se cuenta desde la fecha de la transacción, no desde la fecha de
 liquidación. Para los valores negociados públicamente, la fecha de transacción es la fecha de
 negociación en que se ejecuta la orden, no la fecha de liquidación (que puede ocurrir dos días
@@ -71,6 +75,8 @@ actualizar el archivo de designación de valores del emisor. Para un nuevo emiso
 configuración inicial de SEDI requiere que el emisor presente un Suplemento al Perfil del Emisor
 (IPS) identificando todas las clases de valores en circulación.
 
+### Visibilidad pública de las presentaciones
+
 El sistema SEDI es públicamente consultable. Cualquier miembro del público puede consultar los
 registros de operaciones de iniciados de cualquier emisor reportante y ver el total, la dirección
 y el momento de las transacciones de cada iniciado reportante nombrado. Esta visibilidad pública
@@ -86,6 +92,8 @@ venta pre-programada de valores, presentado antes de que comience el próximo pe
 restricción del emisor, y el plan impide al iniciado tomar decisiones de negociación una vez
 establecido, la exención puede proporcionar alivio del cronograma de reporte estándar.
 
+### Períodos de restricción bajo política del emisor
+
 Los períodos de restricción no son exigidos por el IN 55-104, pero típicamente son requeridos
 por la propia política de negociación de iniciados del emisor. Un período de restricción estándar
 comienza dos a tres semanas antes del final de un trimestre fiscal y termina dos días de
@@ -98,11 +106,15 @@ Projects prevé mantener un marco de reporte de iniciados consistente en todas l
 en las que se convierta en entidad reportante, adaptado a los requisitos específicos
 de cada una.
 
+### Estados Unidos: Sección 16 de la Ley de Valores
+
 En Estados Unidos, la obligación equivalente es la Sección 16 de la Ley de Valores de 1934,
 que requiere que las personas reportantes presenten el Formulario 3 (informe inicial) dentro
 de los 10 días de convertirse en persona reportante, y el Formulario 4 (informe de cambio)
 dentro de los dos días hábiles de cualquier transacción reportable. El plazo de dos días en
 EE.UU. es materialmente más corto que el plazo canadiense de cinco días.
+
+### Unión Europea: Reglamento de Abuso de Mercado
 
 En la Unión Europea, las obligaciones de divulgación de operaciones de iniciados para emisores
 que cotizan en mercados regulados de la UE están regidas por el Reglamento de Abuso de Mercado

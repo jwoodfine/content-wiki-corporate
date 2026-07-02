@@ -24,6 +24,8 @@ speak on behalf of the issuer, and establishes the procedures that prevent inadv
 selective disclosure — which would violate both the spirit and the letter of the [[continuous-disclosure-obligations|continuous
 disclosure framework]].
 
+## Selective disclosure and fair access
+
 The foundational concern that an investor relations policy addresses is selective disclosure:
 the communication of material non-public information to one or more investors or analysts
 without simultaneous public disclosure of the same information. Selective disclosure violates
@@ -42,6 +44,8 @@ or officer holding primary responsibility for investor relations. All enquiries 
 investors, and financial media concerning the issuer's financial results, business strategy,
 market position, or forward-looking guidance are directed to one of these designated individuals.
 
+### Spokesperson restriction as disclosure control
+
 No other employee, director, or officer responds to investor enquiries on substantive matters.
 This restriction is not a matter of protocol courtesy; it is a disclosure control. The risk
 of selective disclosure arises precisely when individuals without full awareness of what has
@@ -59,6 +63,8 @@ and ends immediately following the issuance of the earnings [[press-releases|pre
 During the quiet period, designated spokespersons refrain from meeting with analysts or
 investors and decline to discuss or confirm analyst earnings estimates, revenue expectations,
 or any other forward-looking information that has not been publicly disclosed.
+
+### Purpose and scope of the restriction
 
 The purpose of the quiet period is twofold. First, it protects the issuer against the risk of
 confirming or denying analysts' estimates — which would constitute providing guidance through
@@ -84,12 +90,16 @@ of NI 51-102 apply to it: if a [[material-change-reporting|material change]] occ
 no longer reasonable, the issuer must update or withdraw the guidance through a public filing
 or press release.
 
+### Business outlook approach for new issuers
+
 For new reporting issuers without a track record of earnings guidance, a common approach is
 to provide guidance in the form of a business outlook in the annual MD&A — describing expected
 revenue ranges, capital expenditure plans, and key operating assumptions for the coming year —
 rather than providing quarterly earnings per share targets. This approach provides investors
 with the context they need to develop their own models while avoiding the obligation to update
 guidance every quarter as conditions change.
+
+### Updating or withdrawing guidance
 
 If guidance is provided and subsequently becomes unreliable before the next scheduled disclosure,
 the issuer must decide whether the change is material. If it is material, an immediate press
@@ -105,6 +115,8 @@ simultaneously with distribution. The earnings press release is accompanied by t
 financial statements and MD&A, which are filed at the same time. A conference call open to
 the investment community is held following the press release, typically within two to four
 hours of issuance.
+
+### Conference call records and inadvertent disclosure
 
 The earnings conference call is recorded and archived on the issuer's investor relations
 website. A replay must remain available for a period sufficient for investors who could not
@@ -122,6 +134,8 @@ reporting entity status. The specific disclosure mechanics differ by jurisdictio
 Canada, EDGAR in the United States, CNMV filings in Spain, BMV filings in Mexico — but the
 underlying policy principles of designated spokespersons, quiet periods, and guidance
 management apply uniformly.
+
+### Regulation FD alignment in the United States
 
 In the United States, the Regulation FD (Fair Disclosure) rule adopted by the Securities and
 Exchange Commission in 2000 prohibits the selective disclosure of material non-public

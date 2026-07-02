@@ -41,6 +41,8 @@ Las Direct-Hold Solutions difieren de las tres estructuras de inversión inmobil
 
 **Sin venta de activos para salida.** Los Joint Ventures Heredados y los Fondos de Capital Privado requieren ventas de activos para devolver capital a los inversores. El evento de salida es iniciado por el gestor. Las Direct-Hold Solutions resuelven este problema a través de titularidad de Libre Transmisión: los inversores pueden salir individualmente a través de una transacción secundaria sin requerir un evento de venta a nivel de cartera.
 
+### Prohibición de intereses capitalizados
+
 **Sin intereses capitalizados.** Los Estatutos Universales de Gobernanza de las Direct-Hold Solutions prohíben explícitamente los intereses capitalizados. Todos los intereses se reconocen como gasto en el período en que se incurren, eliminando la práctica que puede ocultar el costo real del financiamiento de construcción.
 
 ## Características Donde las Direct-Hold Solutions Igualan a los REIT Cotizados
@@ -52,6 +54,8 @@ Seis características aparecen tanto en los REIT Tradicionales como en las Direc
 **Compensación del Desarrollador en Capital.** Woodfine no extrae el beneficio del desarrollador como compensación en efectivo. La compensación se toma como Compensación Basada en Capital — Unidades de Inversión en el vehículo — mantenidas en fideicomiso hasta que el capital inicial de los inversores sea devuelto íntegramente. El interés económico del desarrollador es una alineación directa con los rendimientos del inversor, no una tarifa extraída del vehículo independientemente del rendimiento.
 
 **Tarifa de Gestión Única Fija.** Las tarifas variables de gestión son reemplazadas por una única contribución anual fija a los gastos generales calculada sobre el Valor Financiado Bruto del vehículo. Esta tarifa es predecible en el momento de la inversión y no crece con el paso del tiempo ni con la ejecución de transacciones.
+
+### Participación en deuda y disciplina de despliegue de capital
 
 **Derecho de Preferencia en Deuda.** Las Direct-Hold Solutions otorgan a los inversores un derecho de preferencia sobre las Obligaciones con Primera Hipoteca Garantizada emitidas por el vehículo para el financiamiento de nueva construcción, permitiendo a los inversores de capital existentes participar en la emisión de deuda del vehículo antes de que se ofrezca a compradores externos.
 

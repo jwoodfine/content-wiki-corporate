@@ -24,6 +24,8 @@ a los individuos autorizados para hablar en nombre del emisor, y establece los p
 que previenen la divulgación selectiva inadvertida — lo cual violaría tanto el espíritu como
 la letra del [[continuous-disclosure-obligations|marco de divulgación continua]].
 
+## Divulgación selectiva y acceso justo
+
 La preocupación fundamental que aborda una política de relaciones con inversionistas es la
 divulgación selectiva: la comunicación de información material no pública a uno o más
 inversionistas o analistas sin divulgación pública simultánea de la misma información. La
@@ -42,6 +44,8 @@ Financiero y el director o funcionario con responsabilidad principal en relacion
 inversionistas. Todas las consultas de analistas, inversionistas y medios financieros sobre
 los resultados financieros del emisor, la estrategia empresarial, la posición en el mercado o
 la orientación prospectiva se dirigen a uno de estos individuos designados.
+
+### Restricción de portavoces como control de divulgación
 
 Ningún otro empleado, director o funcionario responde a consultas de inversionistas sobre
 asuntos sustanciales. Esta restricción no es una cuestión de cortesía protocolar; es un control
@@ -62,6 +66,8 @@ los portavoces designados se abstienen de reunirse con analistas o inversionista
 a discutir o confirmar estimaciones de ganancias de analistas, expectativas de ingresos o
 cualquier otra información prospectiva que no haya sido divulgada públicamente.
 
+### Propósito y alcance de la restricción
+
 El propósito del período de restricción es doble. Primero, protege al emisor contra el riesgo
 de confirmar o desmentir las estimaciones de los analistas — lo que constituiría proporcionar
 orientación a través de canales selectivos — en el momento en que se están consolidando los
@@ -81,6 +87,8 @@ un [[material-change-reporting|cambio material]] que hace que la orientación pr
 emisor debe actualizar o retirar la orientación a través de una presentación pública o
 comunicado de prensa.
 
+### Perspectiva de negocio para nuevos emisores
+
 Para nuevos emisores reportantes sin un historial de orientación de ganancias, un enfoque común
 es proporcionar orientación en forma de una perspectiva de negocio en el MD&A anual — describiendo
 rangos de ingresos esperados, planes de gasto de capital y supuestos operativos clave para el
@@ -95,6 +103,8 @@ comunicado de prensa de resultados va acompañado de los estados financieros int
 MD&A, que se presentan al mismo tiempo. Se celebra una llamada de conferencia abierta a la
 comunidad inversora después del comunicado de prensa, típicamente dentro de las dos a cuatro
 horas de su emisión.
+
+### Registros de la llamada y divulgación inadvertida
 
 La llamada de conferencia de resultados se graba y se archiva en el sitio web de relaciones
 con inversionistas del emisor. Si inadvertidamente se divulga una nueva pieza de información
@@ -111,6 +121,8 @@ divulgación difieren por jurisdicción — SEDAR+ en Canadá, EDGAR en Estados 
 ante la CNMV en España, presentaciones ante la BMV en México — pero los principios fundamentales
 de la política de portavoces designados, períodos de restricción y gestión de la orientación
 financiera se aplican de manera uniforme.
+
+### Alineación con la Regulation FD en Estados Unidos
 
 En Estados Unidos, la regla Regulation FD (Fair Disclosure) adoptada por la Comisión de Valores
 y Bolsa en 2000 prohíbe la divulgación selectiva de información material no pública a ciertos

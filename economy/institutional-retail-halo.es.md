@@ -30,9 +30,13 @@ Woodfine posiciona sus edificios Professional Centres y Suburban Office directam
 
 El efecto halo opera a través de canales operativos concretos:
 
+### Canales de demanda de arrendatarios
+
 **Adyacencia de tráfico peatonal.** Los arrendatarios de servicios profesionales se benefician del flujo diario de consumidores que los anclas de Minoristas Nacionales generan. Un operador de servicios profesionales co-ubicado adyacente a un Walmart Supercentre o un Costco es visible para la misma base de consumidores que visita el ancla varias veces por semana.
 
 **Accesibilidad para personal y clientes.** Los operadores de servicios profesionales consideran que la co-ubicación con amenidades minoristas beneficia tanto al personal como a los clientes. El entorno minorista del Centro Comercial funciona como infraestructura de amenidades compartidas para los arrendatarios de oficinas profesionales sin que el desarrollador del edificio deba provisionarlas de forma independiente.
+
+### Canal de confianza del inversor
 
 **Reconocimiento del inversor.** El capital institucional reconoce el comercio minorista anclado en comestibles y necesidades básicas como una categoría de inversión diferenciada con características de estabilidad de ingresos medibles. Los edificios físicamente adyacentes a estos anclas llevan una asociación con esas características de estabilidad que los desarrollos exclusivamente de oficinas no tienen.
 

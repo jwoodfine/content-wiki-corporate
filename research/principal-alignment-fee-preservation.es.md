@@ -24,6 +24,8 @@ El modelo de **Alineación de Principales y Preservación de Tarifas** describe 
 
 En la estructura convencional de fondos inmobiliarios 2/20, el gestor recibe dos flujos de compensación que están estructuralmente desacoplados de los resultados de los inversores. La comisión de gestión anual se gana independientemente del rendimiento de la inversión. El interés acumulado se gana solo en resultados rentables, pero se liquida en efectivo a medida que se generan los rendimientos, lo que significa que el gestor extrae efectivo del vehículo mientras se generan los rendimientos.
 
+### Ingresos del gestor desacoplados de los resultados del inversor
+
 El resultado es una estructura de tarifas en la que los ingresos del gestor son parcialmente independientes de los rendimientos de los inversores (el componente de comisión de gestión) y parcialmente correlacionados con ellos (el componente de interés acumulado), pero en la que el capital propio del desarrollador no está en riesgo en el vehículo de la misma manera que el capital del inversor.
 
 ## Compensación Basada en Capital
@@ -31,6 +33,8 @@ El resultado es una estructura de tarifas en la que los ingresos del gestor son 
 En las Direct-Hold Solutions, Woodfine no recibe comisiones de gestión en efectivo basadas en activos bajo gestión. La compensación del desarrollador se toma como Compensación Basada en Capital: Unidades de Inversión en el vehículo, recibidas en lugar de interés acumulado en efectivo. Estas unidades se mantienen en fideicomiso hasta que el capital inicial de los inversores haya sido devuelto en su totalidad.
 
 La consecuencia de esta estructura es una alineación 1:1 entre el desarrollador y los inversores a nivel del capital del vehículo. El beneficio económico del desarrollador no es una extracción de efectivo del flujo de ingresos del vehículo — es una participación de titularidad en el mismo activo que tienen los inversores, sujeta a las mismas condiciones de mercado, rendimiento de ingresos y calendario de distribución.
+
+### Capital Retenido como reserva estructural
 
 La posición de capital del desarrollador, una vez ganada a través del período de tenencia y el retorno del capital del inversor, se convierte en Capital Retenido en el balance del vehículo. El Capital Retenido actúa como una reserva estructural: es capital permanente que no requiere distribución, reduciendo la necesidad futura del vehículo de obtener capital externo para nuevas fases de construcción.
 

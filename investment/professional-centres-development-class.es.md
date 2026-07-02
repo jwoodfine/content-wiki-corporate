@@ -28,6 +28,8 @@ El mandato principal de las [[direct-hold-solutions-structural-comparison|Direct
 
 **Suburban Office** son edificios de seis a nueve pisos que atienden a una gama más amplia de usuarios de oficinas, incluyendo ocupantes Académicos, Empresariales, Cívicos y de Laboratorio. El tipo Suburban Office acomoda arrendatarios que requieren placas de piso más grandes o mayor presencia vertical de la que proporciona la configuración de Professional Centres.
 
+### Configuración del Núcleo Desplazado Retrocedido
+
 Ambos tipos comparten una característica estructural definitoria: el Núcleo Desplazado Retrocedido. Esta configuración mueve el núcleo de ascensores y servicios fuera del centro geométrico del edificio, liberando el perímetro de la placa de piso para ocupación continua por el arrendatario. Combinado con un sistema de Planes Clave y Azulejos — un marco modular de división — el Núcleo Desplazado Retrocedido permite que un piso se configure como un único arrendamiento grande, múltiples arrendamientos menores o cualquier combinación, sin alterar el envolvente estructural.
 
 El resultado es flexibilidad operativa para el arrendatario dentro de un edificio construido según un Prototipo fijo. El estándar de Woodfine para sus edificios establece que el objetivo es proporcionar a los arrendatarios la división y los servicios que permitan alta eficiencia dentro de sus arrendamientos y la capacidad de construir cualquier disposición que requieran.
@@ -35,6 +37,8 @@ El resultado es flexibilidad operativa para el arrendatario dentro de un edifici
 ## Formatos de Relleno: Retail Select y Tech Industrial
 
 Dos tipos de edificios adicionales completan la [[development-class-economics|clase de desarrollo]]. Retail Select y Tech Industrial no son productos de inversión independientes; funcionan como formatos de relleno que maximizan la cobertura del sitio en Sitios de Desarrollo donde los tipos de edificios principales no consumen toda el área desarrollable o donde aplican restricciones de altura de zonificación.
+
+### Perfiles de arrendatarios de Retail Select y Tech Industrial
 
 **Retail Select** acomoda arrendatarios de planta baja que proporcionan servicios minoristas y personales. Los arrendatarios objetivo para Retail Select incluyen bancos, proveedores de telefonía móvil, farmacias, ópticas, operadores de cuidado personal, minoristas de joyería y minoristas de suplementos de salud. Los proveedores de servicios de alimentación están explícitamente excluidos de los espacios Retail Select. Esta exclusión es una decisión de diseño deliberada: las operaciones de servicio de alimentación generan demanda de estacionamiento, requisitos de gestión de residuos e infraestructura de ventilación que reducen la eficiencia general del sitio.
 
@@ -44,13 +48,19 @@ Dos tipos de edificios adicionales completan la [[development-class-economics|cl
 
 Todos los edificios Woodfine en un único Sitio de Desarrollo se organizan bajo un Diseño Campus unificado. Un Diseño Campus es una configuración de todo el sitio en la que las relaciones físicas entre huellas de edificios, infraestructura compartida, estacionamiento y acceso al sitio se determinan como un conjunto integrado en lugar de como una colección de edificios independientes.
 
+### Consecuencias para la calificación de sitios
+
 El requisito de Diseño Campus tiene una consecuencia directa para la selección de sitios: un Sitio de Desarrollo que no puede acomodar las combinaciones de Prototipo requeridas dentro de un Diseño Campus no califica para adquisición. Woodfine no modifica sus Prototipos de edificios para acomodar configuraciones de sitio subóptimas.
+
+### Fundamento de la estandarización
 
 Esta disciplina es intencional. La estandarización del Prototipo de edificio y el marco de Diseño Campus es lo que permite que las Direct-Hold Solutions operen con la velocidad de construcción y repetibilidad de un Programa de Expansión de Minorista Nacional.
 
 ## Relación con las Anclas de Minoristas Nacionales
 
 La Clase de Desarrollo Professional Centres está diseñada para funcionar en proximidad física a anclas de Minoristas Nacionales que operan en [[power-centre-co-location-thesis|Centros Comerciales]] existentes. Los Arrendatarios Nacionales — operadores de servicios profesionales que se expanden desde Mercados Metropolitanos — buscan arrendamientos en Mercados Regionales accesibles para sus clientes y personal.
+
+### Beneficios de co-ubicación de Retail Select y Tech Industrial
 
 El formato Retail Select en particular se beneficia del tráfico peatonal y vehicular generado por las operaciones del ancla del Centro Comercial. Los arrendatarios de Retail Select en banca, farmacia y servicios personales atraen clientes de la misma base de consumidores que los anclas de Minoristas Nacionales atraen al Centro Comercial.
 

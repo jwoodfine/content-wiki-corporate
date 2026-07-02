@@ -32,6 +32,8 @@ with the issuer or with a significant holder of the issuer's securities, would r
 expected to have regular access to material facts or [[material-change-reporting|material changes]] regarding the issuer before
 those facts or changes are generally disclosed.
 
+### Categories deemed reporting insiders
+
 The categories that are always reporting insiders include: directors and officers of the issuer;
 directors and officers of a significant shareholder of the issuer (holding 10 per cent or more
 of voting securities); directors and officers of a subsidiary of the issuer; and the issuer
@@ -55,6 +57,8 @@ any transaction in the issuer's securities — including acquisitions, dispositi
 options or restricted units, exercises of options, and conversions of convertible securities —
 the reporting insider must file a subsequent insider report on Form 55-102F6.
 
+### Five-day window and transaction date
+
 The five-day window runs from the date of the transaction, not from the date of settlement.
 For publicly traded securities, the transaction date is the trade date on which the order
 executes, not the settlement date (which may occur two business days later under the standard
@@ -76,6 +80,8 @@ the issuer to file an Issuer Profile Supplement (IPS) identifying all classes of
 securities. Each security class must be designated before any reporting insider can file a
 report referencing it.
 
+### Public visibility of filings
+
 The SEDI system is publicly searchable. Any member of the public can query the insider trading
 records of any reporting issuer and see the aggregate, direction, and timing of transactions
 by each named reporting insider. This public visibility is the mechanism by which insider
@@ -92,6 +98,8 @@ and the plan precludes the insider from making trading decisions once establishe
 exemption can provide relief from the standard reporting timeline for transactions executed
 under the plan. Legal counsel should be consulted before establishing any such plan.
 
+### Blackout periods under issuer policy
+
 Blackout periods are not mandated by NI 55-104 but are typically required by the issuer's own
 insider trading policy. A standard blackout period begins two to three weeks before the end
 of a fiscal quarter and ends two full trading days after the issuer's earnings release for
@@ -105,12 +113,16 @@ As a prospective Regulated Reporting Entity in multiple jurisdictions, Woodfine 
 intends to maintain an insider reporting framework consistent across all [[four-jurisdiction-framework|Qualified Jurisdictions]]
 in which it becomes a reporting entity, adapted to the specific requirements of each.
 
+### United States: Section 16 of the Exchange Act
+
 In the United States, the equivalent obligation is Section 16 of the Securities Exchange Act
 of 1934, which requires reporting persons (directors, officers, and beneficial owners of more
 than 10 per cent of a class of equity securities) to file Form 3 (initial report) within
 10 days of becoming a reporting person, and Form 4 (change report) within two business days
 of any reportable transaction. The two-day window in the US is materially shorter than the
 Canadian five-day window and requires electronic filing through the SEC's EDGAR system.
+
+### European Union: Market Abuse Regulation
 
 In the European Union, insider trading disclosure obligations for issuers listed on EU-regulated
 markets are governed by the Market Abuse Regulation (EU) 596/2014, which requires persons

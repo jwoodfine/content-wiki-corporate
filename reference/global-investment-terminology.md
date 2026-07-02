@@ -25,9 +25,15 @@ The [[four-jurisdiction-framework|four jurisdictions]] in which Woodfine Managem
 
 Three categories of terminology carry particular risk of misreading across jurisdictions.
 
+### Reporting Issuer and the Regulated Reporting Entity bridge
+
 **Reporting Issuer.** In Canada, a Reporting Issuer is a specific statutory category under the Canadian Securities Act. The term has no direct translation into Spanish. In Mexico, the closest equivalent, *Emisora*, implies an entity trading on the Bolsa Mexicana de Valores — a false implication for a vehicle whose equity is not exchange-traded. In Spain, a literal translation of *Reporting Issuer* into *Emisor de Informes* would suggest a publisher of newsletters rather than an entity subject to continuous securities disclosure. The Global Bridge Term **[[regulated-reporting-entity|Regulated Reporting Entity]]** avoids these false implications: *Regulada* in Spanish carries the specific meaning of filing with a government authority, which is accurate in all four jurisdictions.
 
+### Listed versus traded distinction
+
 **Listed vs. Traded.** In Canada and the United States, a vehicle can be listed on a securities registry — subject to full disclosure requirements — without being actively traded on an exchange. This distinction is well-understood in English-language markets. In Spain and Mexico, the legal vocabulary does not maintain the same distinction. The Spanish and Mexican term *Cotizada* (listed) implies both registry status and active exchange trading: in those legal systems, if a vehicle is on the exchange, it is Cotizada. The Global Bridge Term **Exchange-Qualified** communicates that a debt instrument meets exchange standards without forcing the Non-Listed label that creates legal confusion in Spanish-language contexts.
+
+### Registered and the securities-registry threshold
 
 **Registered.** In English-speaking jurisdictions, Registered means the vehicle has filed with the SEC or a Canadian securities commission. In Spanish, *Registrada* frequently means incorporated in the commercial registry — a far lower threshold. The higher standard, inscription in the national securities registry, is expressed in Spanish as *Inscrita*. The Global Bridge Term **Securities-Registered** forces the translator to apply the securities-law context (*Inscrita en el Registro de Valores*) rather than the commercial-registry reading.
 
@@ -55,6 +61,8 @@ The following table sets out the jurisdiction-specific terms and their Global Br
 
 **Exchange-Qualified Debt.** First Secured Mortgage Debentures issued by the Direct-Hold Solutions are intended to be exchange-qualified, providing a publicly available reference price for institutional counterparties. Exchange qualification of the debt does not extend to exchange trading of the equity units.
 
+### Transferability and security identifiers
+
 **Freely Transferable.** All four Direct-Hold Solutions are structured so that Investment Units may be transferred without consent from the general partner, the promoter, or other unitholders, subject to applicable securities law hold periods. In Canada, the initial four-month statutory hold period applies after initial distribution. In Spain and Mexico, the equivalent is expressed as Libre Transmisión under the applicable SOCIMI and FIBRA regulations. Freely Transferable status is a direct consequence of Regulated Reporting Entity compliance: the [[continuous-disclosure-obligations|continuous disclosure obligation]] removes the information asymmetry that private equity lock-ups are designed to manage.
 
 **Global Security Identifier.** In Canada and the United States, securities are identified primarily by CUSIP number, with ISIN derived from the CUSIP base. In Spain and Mexico, the primary identifier is ISIN. The Global Bridge Term Global Security Identifier refers to the ISIN as the cross-border common reference, applicable in all four jurisdictions.
@@ -62,5 +70,7 @@ The following table sets out the jurisdiction-specific terms and their Global Br
 ## Practical Application
 
 The Global Bridge Term framework is applied consistently across Woodfine's investor relations, legal documentation, and public disclosure. When communicating with Canadian or United States investors, jurisdiction-specific terms such as Reporting Issuer and [[accredited-investor-eligibility|Accredited Investor]] are used where legally required, with the Global Bridge Term appearing parenthetically for cross-border clarity. When communicating with Spanish or Mexican investors or service providers, the Global Bridge Terms are used as the primary reference, with the sovereign-specific designation — Entidad Pública, Inscrita, Emisora — provided as the jurisdictional translation.
+
+### Jurisdictional Fracture as disclosure risk
 
 The objective of the framework is to prevent a description that is legally accurate in one jurisdiction from creating a false or misleading impression in another. Jurisdictional Fracture is a disclosure risk, not merely a translation inconvenience: a Spanish investor who reads Public Non-Listed as a description of a SOCIMI may conclude the vehicle is non-compliant under Spanish law, because a SOCIMI cannot be tax-exempt unless it is Cotizada. The Global Bridge Terms are designed to avoid that class of misreading at the point of first contact.
