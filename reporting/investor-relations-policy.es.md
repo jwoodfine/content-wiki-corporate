@@ -16,13 +16,13 @@ paired_with: investor-relations-policy.md
 ---
 
 Una política de relaciones con inversionistas es el documento de gobernanza interna a través
-del cual un emisor reportante regula el flujo de información entre la organización y la
+del cual un [[regulated-reporting-entity|emisor reportante]] regula el flujo de información entre la organización y la
 comunidad inversora: analistas, accionistas institucionales, inversionistas individuales y
 medios financieros. La política no crea obligaciones de divulgación que no estén ya establecidas
 por la legislación de valores aplicable; más bien, pone en operación esas obligaciones, designa
 a los individuos autorizados para hablar en nombre del emisor, y establece los procedimientos
 que previenen la divulgación selectiva inadvertida — lo cual violaría tanto el espíritu como
-la letra del marco de divulgación continua.
+la letra del [[continuous-disclosure-obligations|marco de divulgación continua]].
 
 La preocupación fundamental que aborda una política de relaciones con inversionistas es la
 divulgación selectiva: la comunicación de información material no pública a uno o más
@@ -57,7 +57,7 @@ el riesgo de que ocurra una divulgación material inadvertida en un canal no con
 La política de relaciones con inversionistas establece un período de restricción antes de cada
 comunicado de resultados programado. Un período de restricción estándar comienza tres semanas
 antes del último día de cada trimestre fiscal y termina inmediatamente después de la emisión
-del comunicado de prensa de resultados para ese trimestre. Durante el período de restricción,
+del [[press-releases|comunicado de prensa]] de resultados para ese trimestre. Durante el período de restricción,
 los portavoces designados se abstienen de reunirse con analistas o inversionistas y se niegan
 a discutir o confirmar estimaciones de ganancias de analistas, expectativas de ingresos o
 cualquier otra información prospectiva que no haya sido divulgada públicamente.
@@ -77,7 +77,7 @@ financiera prospectiva al mercado, en qué forma, con qué advertencias, y en qu
 la orientación previamente proporcionada se actualiza o retira. La orientación no es requerida
 por el IN 51-102; es una divulgación voluntaria. Sin embargo, una vez que se ha proporcionado
 la orientación, las obligaciones de divulgación continua del IN 51-102 se le aplican: si ocurre
-un cambio material que hace que la orientación previamente divulgada ya no sea razonable, el
+un [[material-change-reporting|cambio material]] que hace que la orientación previamente divulgada ya no sea razonable, el
 emisor debe actualizar o retirar la orientación a través de una presentación pública o
 comunicado de prensa.
 
@@ -89,7 +89,7 @@ año siguiente — en lugar de proporcionar objetivos trimestrales de ganancias 
 ## Comunicados de resultados y llamadas con inversionistas
 
 Cada comunicado de resultados trimestral se emite como un comunicado de prensa distribuido a
-través de un servicio de cable de noticias reconocido, presentado en SEDAR+, y puesto a
+través de un servicio de cable de noticias reconocido, presentado en [[sedar-electronic-filing-standards|SEDAR+]], y puesto a
 disposición en el sitio web corporativo del emisor simultáneamente con la distribución. El
 comunicado de prensa de resultados va acompañado de los estados financieros intermedios y el
 MD&A, que se presentan al mismo tiempo. Se celebra una llamada de conferencia abierta a la
@@ -105,8 +105,8 @@ de un comunicado de prensa u otro canal de amplia difusión.
 ## Marco jurisdiccional cruzado para una Entidad Reportante Regulada
 
 La política de relaciones con inversionistas de Woodfine Capital Projects está prevista para
-operar como un marco aplicable a las obligaciones de la empresa en todas las Jurisdicciones
-Calificadas en las que tenga estatus de entidad reportante. Las mecánicas específicas de
+operar como un marco aplicable a las obligaciones de la empresa en todas las [[four-jurisdiction-framework|Jurisdicciones Calificadas]]
+en las que tenga estatus de entidad reportante. Las mecánicas específicas de
 divulgación difieren por jurisdicción — SEDAR+ en Canadá, EDGAR en Estados Unidos, presentaciones
 ante la CNMV en España, presentaciones ante la BMV en México — pero los principios fundamentales
 de la política de portavoces designados, períodos de restricción y gestión de la orientación

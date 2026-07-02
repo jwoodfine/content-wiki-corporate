@@ -18,7 +18,7 @@ paired_with: narrow-bank-financial-model.md
 cites: []
 ---
 
-El **Modelo Financiero Narrow Bank** es la disciplina de financiamiento que rige cómo las Direct-Hold Solutions de Woodfine Management Corp. despliegan capital y emiten deuda. El modelo opera en dos fases secuenciales: una fase inicial de construcción financiada con capital que no requiere pre-arrendamiento ni préstamos de construcción externos, seguida de una fase de emisión de deuda en la que el vehículo de inversión estabilizado emite sus propias Obligaciones con Primera Hipoteca Garantizada colateralizadas directamente por los edificios físicos completos.
+El **Modelo Financiero Narrow Bank** es la disciplina de financiamiento que rige cómo las [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] de Woodfine Management Corp. despliegan capital y emiten deuda. El modelo opera en dos fases secuenciales: una fase inicial de construcción financiada con capital que no requiere pre-arrendamiento ni préstamos de construcción externos, seguida de una fase de emisión de deuda en la que el vehículo de inversión estabilizado emite sus propias [[debt-service-and-financing-structure|Obligaciones con Primera Hipoteca Garantizada]] colateralizadas directamente por los edificios físicos completos.
 
 La consecuencia de esta estructura es que las Direct-Hold Solutions no tienen deuda corporativa abstracta. Todos los pasivos están estrictamente circunscritos a los bienes raíces que los respaldan. En caso de una ejecución hipotecaria sobre cualquier obligación, la transferencia del activo físico subyacente extingue la deuda asociada en su totalidad. Los inversores nunca están sujetos a llamadas de capital para cubrir pasivos de endeudamiento.
 
@@ -32,7 +32,7 @@ Este enfoque de construcción es una función directa de la estructura de capita
 
 Una vez que el flujo de efectivo de los edificios completados y arrendados se ha estabilizado, la Direct-Hold Solution emite Obligaciones con Primera Hipoteca Garantizada para financiar las fases de construcción posteriores. Estas obligaciones son emitidas por el propio vehículo y están 100% colateralizadas por los Woodfine Buildings físicos. Las obligaciones están previstas para ser Negociadas en Bolsa.
 
-La emisión de deuda está sujeta a un convenio de cobertura: las obligaciones no pueden emitirse a menos que la cartera existente logre una Razón de Cobertura de Intereses de al menos 1,2x. La deuda máxima bajo el modelo es el 100% de los costos de desarrollo para nueva construcción. Durante la fase de construcción activa, el valor deuda-activo de la cartera se espera que alcance no más de aproximadamente el 63%.
+La emisión de deuda está sujeta a un convenio de cobertura: las obligaciones no pueden emitirse a menos que la cartera existente logre una [[cre-financial-metrics|Razón de Cobertura de Intereses]] de al menos 1,2x. La deuda máxima bajo el modelo es el 100% de los costos de desarrollo para nueva construcción. Durante la fase de construcción activa, el valor deuda-activo de la cartera se espera que alcance no más de aproximadamente el 63%.
 
 ## La Fase de Gestión: Desapalancamiento Orgánico
 

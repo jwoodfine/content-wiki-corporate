@@ -17,7 +17,7 @@ paired_with: accredited-investor-eligibility.md
 
 Las participaciones de sociedades en comandita en una solución de tenencia directa se
 distribuyen a través de dos canales: una oferta pública mediante prospecto durante el
-período de comercialización del prospecto, que califica a cada SC como emisor informante
+período de comercialización del prospecto, que califica a cada SC como [[regulated-reporting-entity|emisor informante]]
 conforme a la legislación canadiense de valores aplicable; y la exención de inversionista
 acreditado bajo el Instrumento Nacional 45-106 *Exenciones de Prospecto*, disponible para
 inversores institucionales y de alto patrimonio neto. La exención de inversionista acreditado
@@ -27,8 +27,8 @@ comercialización del prospecto, sin los requisitos de divulgación pública de 
 ## Puntos clave
 
 - La exención de inversionista acreditado permite la distribución de participaciones de SC
-  a inversores calificados sin prospecto; la exención no reduce las obligaciones de
-  divulgación continua del emisor bajo la NI 51-102.
+  a inversores calificados sin prospecto; la exención no reduce las [[continuous-disclosure-obligations|obligaciones de divulgación continua]]
+  del emisor bajo la [[ni-51-102-annual-reporting-cycle|NI 51-102]].
 - La elegibilidad es autocertificada por el inversor en el momento de la suscripción
   utilizando el formulario prescrito en la NI 45-106.
 - Los documentos de reconocimiento de riesgo requeridos para distribuciones a inversores

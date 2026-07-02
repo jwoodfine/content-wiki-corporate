@@ -19,9 +19,9 @@ paired_with: four-jurisdiction-framework.md
 cites: []
 ---
 
-El **Marco de Cuatro Jurisdicciones** describe la arquitectura de despliegue soberano de la plataforma de Direct-Hold Solutions de Woodfine Capital Projects Inc. (WCP). WCP ofrece Unidades de Inversión en cuatro Direct-Hold Solutions, cada una constituida bajo las leyes de una jurisdicción soberana específica y cada una utilizando el vehículo de inversión de flujo directo que las leyes de esa jurisdicción permiten. Las cuatro jurisdicciones son Canadá, Estados Unidos, España y México.
+El **Marco de Cuatro Jurisdicciones** describe la arquitectura de despliegue soberano de la plataforma de [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] de Woodfine Capital Projects Inc. (WCP). WCP ofrece Unidades de Inversión en cuatro Direct-Hold Solutions, cada una constituida bajo las leyes de una jurisdicción soberana específica y cada una utilizando el vehículo de inversión de flujo directo que las leyes de esa jurisdicción permiten. Las cuatro jurisdicciones son Canadá, Estados Unidos, España y México.
 
-Cada Direct-Hold Solution es una Entidad Regulada Emisora de Información separada, sujeta a las leyes de valores y obligaciones de divulgación continua de su jurisdicción soberana. WCP actúa como promotor de los cuatro vehículos. Subsidiarias de propiedad total de WCP sirven como socios generales y consultores en relación con las operaciones comerciales de cada vehículo.
+Cada Direct-Hold Solution es una [[regulated-reporting-entity|Entidad Regulada Emisora de Información]] separada, sujeta a las leyes de valores y [[continuous-disclosure-obligations|obligaciones de divulgación continua]] de su jurisdicción soberana. WCP actúa como promotor de los cuatro vehículos. Subsidiarias de propiedad total de WCP sirven como socios generales y consultores en relación con las operaciones comerciales de cada vehículo.
 
 ## Resumen Estructural
 
@@ -36,9 +36,9 @@ Cada vehículo entrega tributación de flujo directo del 100% bajo su régimen f
 
 ## Canadá — Professional Centres Canada LP
 
-La Professional Centres Canada LP es una sociedad limitada de capital cerrado domiciliada en Columbia Británica. Es el vehículo existente en el marco — el modelo operativo que demuestra la estructura que los tres Direct-Hold Solutions planificados tienen previsto replicar en sus respectivas jurisdicciones.
+La Professional Centres Canada LP es una [[limited-partnership-structure|sociedad limitada]] de capital cerrado domiciliada en Columbia Británica. Es el vehículo existente en el marco — el modelo operativo que demuestra la estructura que los tres Direct-Hold Solutions planificados tienen previsto replicar en sus respectivas jurisdicciones.
 
-Como Entidad Regulada Emisora de Información bajo las leyes canadienses de valores, la Professional Centres Canada LP presenta divulgación pública continua en SEDAR+, incluyendo formularios de información anuales, estados financieros auditados y reportes de cambios materiales. Las Unidades de Inversión son de libre transmisión en Canadá después del vencimiento del período inicial de cuatro meses tras la distribución inicial.
+Como Entidad Regulada Emisora de Información bajo las leyes canadienses de valores, la Professional Centres Canada LP presenta divulgación pública continua en [[sedar-electronic-filing-standards|SEDAR+]], incluyendo formularios de información anuales, estados financieros auditados y [[material-change-reporting|reportes de cambios materiales]]. Las Unidades de Inversión son de libre transmisión en Canadá después del vencimiento del período inicial de cuatro meses tras la distribución inicial.
 
 ## Estados Unidos — Professional Centres United States LP
 

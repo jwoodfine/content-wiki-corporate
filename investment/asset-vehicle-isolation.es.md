@@ -29,7 +29,7 @@ registro de participaciones y su propio balance general.
 - Las obligaciones fiduciarias del socio gestor corren separadamente hacia los socios
   comanditarios de cada SC; ninguna decisión de gestión tomada en un vehículo de SC puede
   obligar a una SC separada.
-- Para los prestamistas que proveen financiamiento hipotecario comercial a una SC de tenencia
+- Para los prestamistas que proveen [[debt-service-and-financing-structure|financiamiento hipotecario comercial]] a una SC de tenencia
   directa, el préstamo está garantizado por la propiedad específica en esa SC, y el recurso
   del prestamista en caso de incumplimiento se limita a esa propiedad.
 

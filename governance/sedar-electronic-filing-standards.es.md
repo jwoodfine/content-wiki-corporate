@@ -15,9 +15,9 @@ references:
 **SEDAR+** (Sistema de Análisis y Recuperación de Documentos Electrónicos Plus) es la
 plataforma de presentación electrónica y divulgación pública mantenida por los
 Administradores de Valores Canadienses para la recepción, almacenamiento y difusión pública
-de los documentos de divulgación presentados por los emisores canadienses que presentan
+de los documentos de divulgación presentados por los [[regulated-reporting-entity|emisores canadienses]] que presentan
 informes.[^1] SEDAR+ reemplazó a la plataforma SEDAR original en 2023 como el sistema
-primario de presentación de divulgación continua para los mercados de capitales canadienses.
+primario de presentación de [[continuous-disclosure-obligations|divulgación continua]] para los mercados de capitales canadienses.
 
 ## Descripción general del sistema
 
@@ -31,7 +31,7 @@ que es la fecha utilizada para los propósitos de cumplimiento.
 
 Las categorías primarias aplicables a un emisor que presenta informes bajo la NI 51-102 son:
 
-**Estados financieros** — estados financieros anuales en un plazo de 90 días del cierre del
+**Estados financieros** — [[financial-reporting|estados financieros anuales]] en un plazo de 90 días del cierre del
 ejercicio fiscal; estados financieros intermedios en un plazo de 45 días de cada uno de los
 primeros tres cierres de trimestre.
 
@@ -41,10 +41,10 @@ MD&A trimestral presentado de forma concurrente con los estados financieros inte
 **Formulario de Información Anual** — presentado en un plazo de 90 días del cierre del
 ejercicio fiscal.
 
-**Informes de Cambio Material** — Formulario 51-102F3 presentado en un plazo de 10 días de
+**[[material-change-reporting|Informes de Cambio Material]]** — Formulario 51-102F3 presentado en un plazo de 10 días de
 cada cambio material.
 
-**Comunicados de prensa** — presentados de forma concurrente con su difusión pública.
+**[[press-releases|Comunicados de prensa]]** — presentados de forma concurrente con su difusión pública.
 
 ## Requisitos técnicos de presentación
 

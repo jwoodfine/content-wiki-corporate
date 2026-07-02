@@ -18,7 +18,7 @@ paired_with: regional-market-capital-gap.md
 cites: []
 ---
 
-Un **Mercado Regional** es una geografía de bienes raíces comerciales situada fuera de los grandes centros metropolitanos: nodos urbanos con niveles de ingreso disponible comparables a los Mercados Metropolitanos, presencia activa de Minoristas Nacionales y demanda demostrada de arrendamientos de calidad institucional, pero sin la profundidad de capital institucional que atraen los Mercados Metropolitanos. El sistema bancario comercial no financia adecuadamente los Mercados Regionales para fines de construcción y financiamiento de salida, creando una brecha de capital estructural que las Direct-Hold Solutions están diseñadas para resolver.
+Un **Mercado Regional** es una geografía de bienes raíces comerciales situada fuera de los grandes centros metropolitanos: nodos urbanos con niveles de ingreso disponible comparables a los Mercados Metropolitanos, presencia activa de Minoristas Nacionales y demanda demostrada de arrendamientos de calidad institucional, pero sin la profundidad de capital institucional que atraen los Mercados Metropolitanos. El sistema bancario comercial no financia adecuadamente los Mercados Regionales para fines de construcción y financiamiento de salida, creando una brecha de capital estructural que las [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] están diseñadas para resolver.
 
 ## Características del Mercado
 
@@ -30,7 +30,7 @@ A pesar de esto, los bancos comerciales no otorgan sistemáticamente financiamie
 
 ## El Modelo Legacy de Joint Venture
 
-La brecha de financiamiento en los Mercados Regionales no es una condición nueva. Ha persistido a través de múltiples ciclos inmobiliarios. La respuesta convencional para los desarrolladores que operan en estas geografías fue la estructura de joint venture: una combinación de la experiencia en proyectos del desarrollador y el control del sitio con la capacidad de balance del socio financiero.
+La brecha de financiamiento en los Mercados Regionales no es una condición nueva. Ha persistido a través de múltiples [[commercial-real-estate-cycles|ciclos inmobiliarios]]. La respuesta convencional para los desarrolladores que operan en estas geografías fue la estructura de joint venture: una combinación de la experiencia en proyectos del desarrollador y el control del sitio con la capacidad de balance del socio financiero.
 
 El modelo de joint venture requería socios financieros capaces de aportar un mayor porcentaje de capital del que dicta el financiamiento convencional, junto con la capacidad de balance para garantizar préstamos de construcción convencionales y financiamiento de salida. Este acuerdo funcionó a nivel de proyecto: un desarrollador con sólidas relaciones regionales y un socio financiero comprometido podía ejecutar desarrollos individuales dentro de las restricciones de capital de los Mercados Regionales.
 
@@ -38,9 +38,9 @@ La limitación del modelo de joint venture es la escalabilidad. Un joint venture
 
 ## La Respuesta de las Direct-Hold Solutions
 
-Las Direct-Hold Solutions representan la evolución estructural del modelo de joint venture. En lugar de ensamblar capital para proyectos individuales caso por caso, las Direct-Hold Solutions establecen cada vehículo como una Entidad Regulada Emisora de Información — una estructura de inversión de capital cerrado con estados financieros divulgados públicamente y Unidades de Inversión de Libre Transmisión.
+Las Direct-Hold Solutions representan la evolución estructural del modelo de joint venture. En lugar de ensamblar capital para proyectos individuales caso por caso, las Direct-Hold Solutions establecen cada vehículo como una [[regulated-reporting-entity|Entidad Regulada Emisora de Información]] — una estructura de inversión de capital cerrado con estados financieros divulgados públicamente y Unidades de Inversión de Libre Transmisión.
 
-Esta estructura aborda la brecha de capital mediante dos mecanismos. Primero, convierte lo que anteriormente era capital negociado privadamente en términos bilaterales en un valor divulgado públicamente y transmisible. El Capital Multigeneracional — inversores institucionales y cualificados que buscan exposición inmobiliaria de larga duración sin salidas controladas por el gestor — puede participar a través de unidades que tienen las mismas características legales que los emisores de informes convencionales: estados anuales auditados, obligaciones de divulgación continua y libertad de transmisión.
+Esta estructura aborda la brecha de capital mediante dos mecanismos. Primero, convierte lo que anteriormente era capital negociado privadamente en términos bilaterales en un valor divulgado públicamente y transmisible. El Capital Multigeneracional — inversores institucionales y cualificados que buscan exposición inmobiliaria de larga duración sin salidas controladas por el gestor — puede participar a través de unidades que tienen las mismas características legales que los emisores de informes convencionales: estados anuales auditados, [[continuous-disclosure-obligations|obligaciones de divulgación continua]] y libertad de transmisión.
 
 Segundo, la estandarización del producto de desarrollo — los Woodfine Buildings — permite que la construcción avance a escala sin rediseñar el activo para cada mercado. El mismo Prototipo se despliega en sitios de desarrollo en todas las jurisdicciones objetivo, sujeto al cumplimiento de los códigos locales de zonificación y construcción.
 

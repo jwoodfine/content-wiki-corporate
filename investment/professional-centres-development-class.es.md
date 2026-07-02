@@ -22,9 +22,9 @@ La **Clase de Desarrollo Professional Centres** es el vocabulario estandarizado 
 
 ## Mandato Principal: Professional Centres y Suburban Office
 
-El mandato principal de las Direct-Hold Solutions se concentra en dos tipos de edificios.
+El mandato principal de las [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] se concentra en dos tipos de edificios.
 
-**Professional Centres** son edificios de tres a cinco pisos diseñados para arrendatarios profesionales de alta eficiencia. La base de arrendatarios objetivo comprende operadores de servicios profesionales — despachos de abogados, prácticas contables, grupos dentales y usuarios médicos — que han alcanzado su capacidad en Mercados Metropolitanos y requieren arrendamientos de calidad institucional en Mercados Regionales para anclar sus operaciones de fuerza laboral distribuida. Sin espacio institucional de calidad en los Mercados Regionales, estos operadores no pueden ejecutar su expansión hacia geografías no metropolitanas.
+**Professional Centres** son edificios de tres a cinco pisos diseñados para arrendatarios profesionales de alta eficiencia. La base de arrendatarios objetivo comprende operadores de servicios profesionales — despachos de abogados, prácticas contables, grupos dentales y usuarios médicos — que han alcanzado su capacidad en Mercados Metropolitanos y requieren arrendamientos de calidad institucional en [[regional-market-capital-gap|Mercados Regionales]] para anclar sus operaciones de fuerza laboral distribuida. Sin espacio institucional de calidad en los Mercados Regionales, estos operadores no pueden ejecutar su expansión hacia geografías no metropolitanas.
 
 **Suburban Office** son edificios de seis a nueve pisos que atienden a una gama más amplia de usuarios de oficinas, incluyendo ocupantes Académicos, Empresariales, Cívicos y de Laboratorio. El tipo Suburban Office acomoda arrendatarios que requieren placas de piso más grandes o mayor presencia vertical de la que proporciona la configuración de Professional Centres.
 
@@ -34,7 +34,7 @@ El resultado es flexibilidad operativa para el arrendatario dentro de un edifici
 
 ## Formatos de Relleno: Retail Select y Tech Industrial
 
-Dos tipos de edificios adicionales completan la clase de desarrollo. Retail Select y Tech Industrial no son productos de inversión independientes; funcionan como formatos de relleno que maximizan la cobertura del sitio en Sitios de Desarrollo donde los tipos de edificios principales no consumen toda el área desarrollable o donde aplican restricciones de altura de zonificación.
+Dos tipos de edificios adicionales completan la [[development-class-economics|clase de desarrollo]]. Retail Select y Tech Industrial no son productos de inversión independientes; funcionan como formatos de relleno que maximizan la cobertura del sitio en Sitios de Desarrollo donde los tipos de edificios principales no consumen toda el área desarrollable o donde aplican restricciones de altura de zonificación.
 
 **Retail Select** acomoda arrendatarios de planta baja que proporcionan servicios minoristas y personales. Los arrendatarios objetivo para Retail Select incluyen bancos, proveedores de telefonía móvil, farmacias, ópticas, operadores de cuidado personal, minoristas de joyería y minoristas de suplementos de salud. Los proveedores de servicios de alimentación están explícitamente excluidos de los espacios Retail Select. Esta exclusión es una decisión de diseño deliberada: las operaciones de servicio de alimentación generan demanda de estacionamiento, requisitos de gestión de residuos e infraestructura de ventilación que reducen la eficiencia general del sitio.
 
@@ -50,7 +50,7 @@ Esta disciplina es intencional. La estandarización del Prototipo de edificio y 
 
 ## Relación con las Anclas de Minoristas Nacionales
 
-La Clase de Desarrollo Professional Centres está diseñada para funcionar en proximidad física a anclas de Minoristas Nacionales que operan en Centros Comerciales existentes. Los Arrendatarios Nacionales — operadores de servicios profesionales que se expanden desde Mercados Metropolitanos — buscan arrendamientos en Mercados Regionales accesibles para sus clientes y personal.
+La Clase de Desarrollo Professional Centres está diseñada para funcionar en proximidad física a anclas de Minoristas Nacionales que operan en [[power-centre-co-location-thesis|Centros Comerciales]] existentes. Los Arrendatarios Nacionales — operadores de servicios profesionales que se expanden desde Mercados Metropolitanos — buscan arrendamientos en Mercados Regionales accesibles para sus clientes y personal.
 
 El formato Retail Select en particular se beneficia del tráfico peatonal y vehicular generado por las operaciones del ancla del Centro Comercial. Los arrendatarios de Retail Select en banca, farmacia y servicios personales atraen clientes de la misma base de consumidores que los anclas de Minoristas Nacionales atraen al Centro Comercial.
 

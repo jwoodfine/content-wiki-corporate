@@ -17,7 +17,7 @@ paired_with: north-american-office-market-recovery.md
 
 El mercado de oficinas comerciales de América del Norte entró en una corrección estructural
 a partir de 2022, cuando el alza de las tasas de interés comprimió los valores de las
-propiedades e incrementó considerablemente el costo de la deuda.
+propiedades e incrementó considerablemente el [[debt-service-and-financing-structure|costo de la deuda]].
 
 ## Escala de la corrección
 

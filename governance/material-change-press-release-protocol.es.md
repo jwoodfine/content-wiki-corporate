@@ -12,8 +12,8 @@ references:
     text: "Form 51-102F3 — Material Change Report. CSA."
 ---
 
-Un **cambio material** según la NI 51-102 es un cambio en el negocio, las operaciones o el
-capital del emisor que presenta informes que razonablemente cabría esperar que tuviera un
+Un **[[material-change-reporting|cambio material]]** según la [[continuous-disclosure-obligations|NI 51-102]] es un cambio en el negocio, las operaciones o el
+capital del [[regulated-reporting-entity|emisor que presenta informes]] que razonablemente cabría esperar que tuviera un
 efecto significativo en el precio de mercado o el valor de cualquiera de los valores del
 emisor.[^1] El protocolo de comunicación de cambios materiales está impulsado por eventos y
 opera de forma independiente del ciclo de informes trimestral y anual: cuando se produce un
@@ -28,7 +28,7 @@ cambio material si razonablemente cabría esperar que afectara significativament
 mercado o al valor de los valores del emisor.
 
 Las categorías comunes de cambio material para las sociedades de tenencia de bienes inmuebles
-y las estructuras de inversión de tenencia directa incluyen:
+y las estructuras de inversión de [[direct-hold-solutions-structural-comparison|tenencia directa]] incluyen:
 
 - Completar o rescindir una adquisición o enajenación importante
 - Suscribir o rescindir una empresa conjunta o sociedad significativa

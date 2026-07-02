@@ -16,7 +16,7 @@ paired_with: insider-reporting.md
 ---
 
 El reporte de iniciados es la obligación de los directores, funcionarios y accionistas
-significativos de un emisor reportante de revelar su titularidad de valores y sus transacciones
+significativos de un [[regulated-reporting-entity|emisor reportante]] de revelar su titularidad de valores y sus transacciones
 en dichos valores a los reguladores y al público de manera oportuna. En Canadá, esta obligación
 está regida principalmente por el Instrumento Nacional 55-104 *Requisitos y Exenciones de
 Reporte de Iniciados*, que consolidó y modernizó el régimen de reporte de iniciados que
@@ -29,7 +29,7 @@ de personas que poseen o se presume que poseen información material no pública
 El concepto de "iniciado reportante" conforme al IN 55-104 es más estrecho que la categoría
 estatutaria más amplia de "iniciado". Un iniciado reportante es un individuo que, a través de
 su relación con el emisor o con un tenedor significativo de los valores del emisor, razonablemente
-se esperaría que tuviera acceso regular a hechos o cambios materiales sobre el emisor antes de
+se esperaría que tuviera acceso regular a hechos o [[material-change-reporting|cambios materiales]] sobre el emisor antes de
 que dichos hechos o cambios sean divulgados públicamente.
 
 Las categorías que siempre son iniciados reportantes incluyen: directores y funcionarios del
@@ -94,8 +94,8 @@ negociación completos después de la publicación de resultados del emisor para
 ## Equivalentes jurisdiccionales cruzados
 
 Como Entidad Reportante Regulada prospectiva en múltiples jurisdicciones, Woodfine Capital
-Projects prevé mantener un marco de reporte de iniciados consistente en todas las Jurisdicciones
-Calificadas en las que se convierta en entidad reportante, adaptado a los requisitos específicos
+Projects prevé mantener un marco de reporte de iniciados consistente en todas las [[four-jurisdiction-framework|Jurisdicciones Calificadas]]
+en las que se convierta en entidad reportante, adaptado a los requisitos específicos
 de cada una.
 
 En Estados Unidos, la obligación equivalente es la Sección 16 de la Ley de Valores de 1934,

@@ -16,8 +16,8 @@ paired_with: continuous-disclosure-obligations.md
 ---
 
 El Instrumento Nacional 51-102 Obligaciones de Divulgación Continua establece los requisitos
-de presentación pública permanentes para los emisores que cotizan en Canadá. Un emisor que
-cotiza es una entidad que ha distribuido valores al público y está registrada en SEDAR+,
+de presentación pública permanentes para los [[regulated-reporting-entity|emisores que cotizan]] en Canadá. Un emisor que
+cotiza es una entidad que ha distribuido valores al público y está registrada en [[sedar-electronic-filing-standards|SEDAR+]],
 el Sistema de Análisis y Recuperación de Documentos Electrónicos mantenido por los
 Administradores de Valores Canadienses.
 
@@ -26,7 +26,7 @@ Administradores de Valores Canadienses.
 Un emisor que cotiza debe presentar un paquete de divulgación anual dentro de los 90 días
 posteriores al cierre de su ejercicio fiscal. El paquete comprende tres documentos.
 
-**Estados financieros anuales** — Estados financieros auditados preparados de conformidad
+**Estados financieros anuales** — [[financial-reporting|Estados financieros auditados]] preparados de conformidad
 con las normas contables aplicables (NIIF para la mayoría de las entidades con distribución
 pública bajo NI 52-107), con cifras comparativas del año anterior.
 
@@ -43,14 +43,14 @@ para el período anual.
 
 Para cada uno de los tres primeros trimestres fiscales, un emisor que cotiza debe presentar
 dentro de los 45 días posteriores al cierre del trimestre estados financieros interinos no
-auditados y MD&A interino.
+auditados y [[quarterly-mda-filing-requirements|MD&A interino]].
 
 ## Informes de cambios materiales
 
-Un emisor que cotiza debe divulgar de inmediato cualquier cambio material en su negocio,
+Un emisor que cotiza debe divulgar de inmediato cualquier [[material-change-reporting|cambio material]] en su negocio,
 operaciones o asuntos. Al determinar que ha ocurrido un cambio material, el emisor debe:
 
-1. Emitir un comunicado de prensa divulgando la naturaleza y el contenido del cambio
+1. Emitir un [[material-change-press-release-protocol|comunicado de prensa]] divulgando la naturaleza y el contenido del cambio
    inmediatamente después de su determinación.
 2. Presentar un informe de cambio material (Formulario 51-102F3) dentro de los 10 días
    posteriores al comunicado.

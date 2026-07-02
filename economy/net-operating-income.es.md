@@ -17,7 +17,7 @@ paired_with: net-operating-income.md
 
 El ingreso operativo neto (ION) es la métrica fundamental de la economía inmobiliaria
 comercial. Mide los ingresos que genera una propiedad a partir de operaciones después de
-deducir los gastos operativos, pero antes del servicio de deuda, depreciación, impuesto
+deducir los gastos operativos, pero antes del [[debt-service-and-financing-structure|servicio de deuda]], depreciación, impuesto
 sobre la renta y gastos de capital. El ION es la base de la valoración de propiedades, el
 análisis crediticio de prestamistas y el análisis de rendimiento para inversores.
 

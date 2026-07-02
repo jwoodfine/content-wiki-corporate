@@ -61,16 +61,15 @@ de ingresos planas o decrecientes.
 
 ## Valoración bajo NIIF 13 y NIC 40
 
-Para las entidades que contabilizan las propiedades de inversión según el modelo de valor
-razonable (NIC 40), el valor de mercado de cada propiedad se evalúa en cada fecha de
+Para las entidades que contabilizan las propiedades de inversión según el [[financial-reporting|modelo de valor razonable]]
+(NIC 40), el valor de mercado de cada propiedad se evalúa en cada fecha de
 reporte. La NIIF 13 exige que la medición del valor razonable utilice los datos de mercado
 observables en la máxima medida posible.
 
 La divulgación de sensibilidad de la tasa de capitalización — cuantificando el efecto de
 variaciones de ±25, ±50 y ±100 puntos básicos en la tasa asumida sobre el valor razonable
 reportado — es práctica estándar para entidades de propiedades de inversión y es esperada
-explícitamente por los inversores institucionales y los reguladores de valores en el análisis
-y discusión de la administración.
+explícitamente por los inversores institucionales y los reguladores de valores en el [[quarterly-mda-filing-requirements|análisis y discusión de la administración]].
 
 ## Consulte también
 

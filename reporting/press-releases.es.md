@@ -13,14 +13,14 @@ references:
 
 Los **comunicados de prensa e informes de cambios materiales** constituyen el canal de
 divulgación en tiempo real a través del cual Woodfine Capital Projects Inc. comunica los
-desarrollos que constituyen cambios materiales en virtud del derecho canadiense de valores.
+desarrollos que constituyen [[material-change-reporting|cambios materiales]] en virtud del derecho canadiense de valores.
 Un cambio material es cualquier cambio en los negocios, operaciones o capital de la compañía
 que un inversor razonablemente esperaría que tenga un efecto significativo sobre el precio de
 mercado o el valor de los valores de la compañía.[^1]
 
 ## Protocolo de divulgación de cambios materiales
 
-Cuando se produce un cambio material, el NI 51-102 exige una secuencia de divulgación en dos
+Cuando se produce un cambio material, el [[continuous-disclosure-obligations|NI 51-102]] exige una secuencia de divulgación en dos
 pasos:
 
 **Paso 1 — Comunicado de prensa:** Debe emitirse un comunicado de prensa de inmediato tras la
@@ -29,7 +29,7 @@ siguiente día de negociación. El comunicado debe revelar la naturaleza y el al
 material.
 
 **Paso 2 — Informe de cambio material:** Un informe formal de cambio material en el Formulario
-51-102F3 debe presentarse en SEDAR+ dentro de los diez días naturales siguientes a la fecha en
+51-102F3 debe presentarse en [[sedar-electronic-filing-standards|SEDAR+]] dentro de los diez días naturales siguientes a la fecha en
 que se produce el cambio. El informe incluye la naturaleza y el alcance del cambio, los supuestos
 materiales subyacentes a las declaraciones prospectivas contenidas en el informe, y la
 divulgación de cualquier exención solicitada. El informe es firmado por un alto directivo de
@@ -39,7 +39,7 @@ la compañía.
 
 No todo desarrollo significativo constituye un cambio material en virtud del NI 51-102. La
 prueba consiste en determinar si el cambio podría razonablemente esperarse que tenga un efecto
-significativo sobre el precio de mercado o el valor de los valores de un emisor informante.
+significativo sobre el precio de mercado o el valor de los valores de un [[regulated-reporting-entity|emisor informante]].
 Los desarrollos que habitualmente se evalúan en cuanto a su materialidad incluyen cambios en la
 estrategia corporativa, adquisiciones o disposiciones significativas, nuevas financiaciones de
 deuda o capital, cambios en la alta dirección, litigios significativos y cambios materiales en

@@ -15,7 +15,7 @@ editor: woodfine-editorial
 paired_with: material-change-reporting.md
 ---
 
-Un cambio material en los negocios, operaciones o asuntos de un emisor que cotiza desencadena
+Un cambio material en los negocios, operaciones o asuntos de un [[regulated-reporting-entity|emisor que cotiza]] desencadena
 una obligación de divulgación inmediata bajo la Parte 7 del Instrumento Nacional 51-102.
 Cuando se determina que ha ocurrido un cambio material, el emisor debe actuar el mismo día.
 
@@ -28,14 +28,14 @@ es objetivo — medido por el probable impacto en el mercado para un inversor ra
 
 ## El proceso de divulgación en dos pasos
 
-**Paso 1 — Comunicado de prensa.** Inmediatamente después de determinar que ha ocurrido un
+**Paso 1 — [[press-releases|Comunicado de prensa]].** Inmediatamente después de determinar que ha ocurrido un
 cambio material, el emisor debe emitir y presentar un comunicado de prensa divulgando la
 naturaleza y el contenido del cambio a través de un servicio de distribución de noticias
 reconocido.
 
 **Paso 2 — Informe de cambio material (ICM).** Dentro de los 10 días posteriores al
 comunicado de prensa, el emisor debe presentar un informe formal de cambio material en
-SEDAR+ utilizando el Formulario 51-102F3, que incluye la fecha del cambio, una descripción
+[[sedar-electronic-filing-standards|SEDAR+]] utilizando el Formulario 51-102F3, que incluye la fecha del cambio, una descripción
 completa y los efectos sobre los negocios y operaciones del emisor.
 
 ## Informes de cambios materiales confidenciales

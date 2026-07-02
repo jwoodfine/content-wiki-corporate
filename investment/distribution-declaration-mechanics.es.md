@@ -32,7 +32,7 @@ inferior a 1.2×.
 
 ## La compuerta de la RCI
 
-La RCI para cada activo se calcula como el ingreso operativo neto estabilizado dividido entre las
+La RCI para cada activo se calcula como el [[net-operating-income|ingreso operativo neto]] estabilizado dividido entre las
 obligaciones totales de intereses anuales sobre toda la deuda garantizada por el activo. La
 compuerta de la RCI no es una guía flexible — es una restricción operativa incorporada en el
 acuerdo de sociedad. El socio gestor no puede legalmente declarar una distribución que reduciría

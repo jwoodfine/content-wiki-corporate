@@ -32,21 +32,21 @@ término técnico enlaza con el glosario.
    personas y cómo funciona el negocio.
 2. **Los vehículos de inversión** — los vehículos, presentes y
    planificados: las acciones ordinarias de la empresa matriz y las
-   cuatro Direct-Hold Solutions (soluciones de tenencia directa)
+   cuatro [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] (soluciones de tenencia directa)
    planificadas para Canadá, los Estados Unidos, España y México. Qué es
-   cada vehículo, su forma jurídica y las reglas de elegibilidad que se
+   cada vehículo, su forma jurídica y las [[accredited-investor-eligibility|reglas de elegibilidad]] que se
    aplican en la jurisdicción de origen de cada inversor. Cuando una
    oferta está planificada y no abierta, los artículos lo indican con
    claridad.
 3. **El modelo financiero** — el motor financiero. Bajo el Narrow
-   Banking Model (modelo de banca estrecha), los edificios están
+   Banking Model ([[narrow-bank-financial-model|modelo de banca estrecha]]), los edificios están
    previstos para construirse sin deuda de construcción, con capital de
    suscripción; el endeudamiento está planificado para llegar solo
    después de que los edificios estén arrendados y generen ingresos. Las
    comisiones que Woodfine cobra, lo que gana, y por qué su propia
    participación está diseñada para permanecer en garantía (escrow)
    hasta que se haya devuelto el capital de los inversores.
-4. **Distribuciones y transferencias** — la política de distribuciones y
+4. **Distribuciones y transferencias** — la [[distribution-declaration-mechanics|política de distribuciones]] y
    el mecanismo de transferencia. Las distribuciones tienen como
    objetivo pagarse a partir de Distributable Income (ingreso
    distribuible), cuando y si se declaran — no están garantizadas.
@@ -56,7 +56,7 @@ término técnico enlaza con el glosario.
    el mecanismo no es una promesa de comprador ni de precio.
 5. **Gobernanza y asuntos legales** — quién dirige y qué protege a los
    inversores: el consejo y sus consejeros independientes, los comités,
-   la remuneración, las reglas escritas en los documentos constitutivos
+   la remuneración, las reglas escritas en los [[governance-documents|documentos constitutivos]]
    de cada vehículo, y el registro legal — contratos, procedimientos y
    los derechos estatutarios de los inversores.
 6. **Riesgos** — qué podría salir mal, expuesto con claridad y reunido

@@ -16,15 +16,15 @@ references:
 
 La **información financiera anual e intermedia** comprende las divulgaciones financieras
 periódicas obligatorias que Woodfine Capital Projects Inc. tiene previsto presentar, al
-perfeccionarse su oferta pública planificada, como emisor informante en virtud del National
-Instrument 51-102 *Continuous Disclosure Obligations*.[^1] Estos registros
+perfeccionarse su oferta pública planificada, como [[regulated-reporting-entity|emisor informante]] en virtud del National
+Instrument 51-102 *[[continuous-disclosure-obligations|Continuous Disclosure Obligations]]*.[^1] Estos registros
 proporcionan a inversores y reguladores los estados financieros auditados y revisados, el
 análisis de la dirección sobre resultados y perspectivas, y el formulario de información anual
 que describe la estructura empresarial, los factores de riesgo y la gobernanza de la compañía.
 
 ## Ciclo de información anual
 
-La divulgación anual del ejercicio cerrado el 31 de diciembre debe presentarse a más tardar el
+La [[ni-51-102-annual-reporting-cycle|divulgación anual]] del ejercicio cerrado el 31 de diciembre debe presentarse a más tardar el
 31 de marzo del año siguiente (90 días después del cierre del ejercicio). El paquete de
 presentación anual consta de tres componentes.
 
@@ -64,7 +64,7 @@ factores de riesgo cuando las condiciones han cambiado.
 
 ## Información de las soluciones de participación directa
 
-Cada solución de tenencia directa que haya completado una oferta pública mediante prospecto
+Cada [[direct-hold-solutions-structural-comparison|solución de tenencia directa]] que haya completado una oferta pública mediante prospecto
 es un emisor informante distinto con obligaciones independientes bajo el NI 51-102; WCP
 tiene previsto convertirse en emisor informante al perfeccionarse su oferta pública planificada.
 Cada solución de tenencia directa presenta sus propios estados financieros anuales auditados,
@@ -80,7 +80,7 @@ cada solución para el ejercicio fiscal correspondiente.
 ## Presentación en SEDAR+ y accesibilidad
 
 Todos los documentos financieros anuales e intermedios se presentan electrónicamente a través
-de SEDAR+ y quedan accesibles al público en el momento de la presentación.[^2] La siguiente
+de [[sedar-electronic-filing-standards|SEDAR+]] y quedan accesibles al público en el momento de la presentación.[^2] La siguiente
 tabla se actualizará a medida que se realicen las presentaciones.
 
 ## Registros financieros

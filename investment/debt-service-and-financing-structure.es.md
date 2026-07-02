@@ -16,7 +16,7 @@ paired_with: debt-service-and-financing-structure.md
 ---
 
 Las adquisiciones de bienes raíces comerciales se financian habitualmente con una combinación
-de capital y deuda hipotecaria. La estructura de financiamiento en cada sociedad en comandita
+de capital y deuda hipotecaria. La estructura de financiamiento en cada [[limited-partnership-structure|sociedad en comandita]]
 de tenencia directa se diseña en torno a dos restricciones: el límite de relación préstamo-
 valor establecido por el prestamista, y el piso de la razón de cobertura del servicio de
 deuda establecido como convenio en el acuerdo rector de la sociedad.
@@ -40,14 +40,14 @@ préstamo-valor (RPV).
 
 ## Dimensionamiento de deuda restringido por la RCSD
 
-La razón de cobertura del servicio de deuda (RCSD) es el ION dividido entre el servicio anual
+La razón de cobertura del servicio de deuda (RCSD) es el [[net-operating-income|ION]] dividido entre el servicio anual
 de deuda. Los prestamistas institucionales en Canadá típicamente requieren una RCSD de 1.20×
 a 1.30× en el momento de originar una hipoteca comercial.
 
 ## Riesgo de tasa de interés
 
 La tasa de interés en una hipoteca comercial puede ser fija durante el plazo o flotante
-basada en una tasa de referencia. Las hipotecas a tasa fija protegen a la SC de aumentos
+basada en una [[interest-rate-transmission|tasa de referencia]]. Las hipotecas a tasa fija protegen a la SC de aumentos
 en las tasas de interés durante el plazo. Las hipotecas a tasa flotante exponen a la SC a
 cambios inmediatos en el costo del servicio de deuda a medida que se mueven las tasas de
 referencia.

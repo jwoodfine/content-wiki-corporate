@@ -32,14 +32,14 @@ el mayor regulador de valores canadiense por número de emisores y capitalizaci�
 
 ## Sistema de presentación
 
-**SEDAR+ (Sistema de Análisis y Recuperación de Documentos Electrónicos Plus)** — El sistema
+**[[sedar-electronic-filing-standards|SEDAR+]] (Sistema de Análisis y Recuperación de Documentos Electrónicos Plus)** — El sistema
 electrónico de presentación y divulgación operado por la CSA. Todos los documentos de
 divulgación continua se presentan a través de SEDAR+ y son accesibles públicamente sin costo
 el día de la presentación.
 
 ## Clasificaciones de emisores
 
-**Emisor que cotiza** — Una entidad que ha distribuido valores al público y está sujeta a las
+**[[regulated-reporting-entity|Emisor que cotiza]]** — Una entidad que ha distribuido valores al público y está sujeta a las
 obligaciones de divulgación continua de NI 51-102.
 
 **Emisor de riesgo** — Un emisor que cotiza en una bolsa de valores de riesgo (TSX Venture
@@ -56,7 +56,7 @@ NI 51-102 Parte 6.
 sobre la condición financiera y los resultados de operaciones. Presentado anualmente y
 trimestralmente.
 
-**Informe de cambio material (ICM)** — Formulario 51-102F3 presentado en SEDAR+ dentro de
+**[[material-change-reporting|Informe de cambio material]] (ICM)** — Formulario 51-102F3 presentado en SEDAR+ dentro de
 los 10 días posteriores a un comunicado de prensa sobre un cambio material.
 
 ## Exenciones e instrumentos

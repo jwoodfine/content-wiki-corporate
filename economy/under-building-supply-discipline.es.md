@@ -18,7 +18,7 @@ paired_with: under-building-supply-discipline.md
 cites: []
 ---
 
-La **Baja Construcción** es la política deliberada de desarrollar menos metros cuadrados arrendables totales por Sitio de Desarrollo que la demanda identificada en el Mercado Regional circundante. Woodfine implementa esta restricción como una característica estructural de la Direct-Hold Solution, no como respuesta a restricciones de capital: cada Woodfine Building está dimensionado para estar totalmente arrendado y en plena ocupación a su finalización, en lugar de dimensionarse para capturar el máximo área arrendable que una huella determinada podría acomodar. La consecuencia inmediata es la ocupación plena y la generación de listas de espera. La consecuencia a largo plazo es la preservación del poder de fijación de precios en todo el portafolio.
+La **Baja Construcción** es la política deliberada de desarrollar menos metros cuadrados arrendables totales por Sitio de Desarrollo que la demanda identificada en el [[regional-market-capital-gap|Mercado Regional]] circundante. Woodfine implementa esta restricción como una característica estructural de la [[direct-hold-solutions-structural-comparison|Direct-Hold Solution]], no como respuesta a restricciones de capital: cada Woodfine Building está dimensionado para estar totalmente arrendado y en plena ocupación a su finalización, en lugar de dimensionarse para capturar el máximo área arrendable que una huella determinada podría acomodar. La consecuencia inmediata es la ocupación plena y la generación de listas de espera. La consecuencia a largo plazo es la preservación del poder de fijación de precios en todo el portafolio.
 
 ## La Justificación de la Economía Circular
 

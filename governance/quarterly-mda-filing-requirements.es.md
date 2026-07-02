@@ -12,7 +12,7 @@ references:
     text: "NIC 34 Información Financiera Intermedia. IASB."
 ---
 
-Los emisores canadienses que presentan informes sujetos a la NI 51-102 están obligados a
+Los [[regulated-reporting-entity|emisores canadienses que presentan informes]] sujetos a la [[continuous-disclosure-obligations|NI 51-102]] están obligados a
 depositar estados financieros intermedios y un Análisis y Discusión de la Administración
 (MD&A) trimestral para cada uno de los tres primeros trimestres fiscales. El ciclo de
 informes trimestrales se distingue del ciclo anual tanto por la norma de estados financieros
@@ -39,15 +39,15 @@ Los elementos requeridos incluyen:
 - **Resultados de las operaciones** — discusión de los resultados del trimestre actual y del
   acumulado hasta la fecha en comparación con los períodos comparativos del año anterior
 - **Liquidez y recursos de capital** — análisis de los flujos de efectivo del período actual
-- **Acuerdos fuera de balance** — divulgación actualizada de cualquier cambio material
+- **Acuerdos fuera de balance** — divulgación actualizada de cualquier [[material-change-reporting|cambio material]]
 - **Transacciones con partes relacionadas** — divulgación completa
 - **Transacciones propuestas** — divulgación de adquisiciones o enajenaciones significativas
   ya anunciadas públicamente pero aún no completadas
 
 Para las entidades inmobiliarias, el MD&A trimestral típicamente aborda la ocupación de la
 cartera y las tendencias de las tasas de alquiler, los movimientos del valor razonable de las
-propiedades de inversión, el perfil de vencimiento de la deuda y la exposición a tipos de
-interés, y cualquier cambio material en la estructura de la cartera de tenencia directa.
+propiedades de inversión, el [[debt-service-and-financing-structure|perfil de vencimiento de la deuda]] y la exposición a tipos de
+interés, y cualquier cambio material en la [[direct-hold-solutions-structural-comparison|estructura de la cartera de tenencia directa]].
 
 ## Plazos de presentación
 

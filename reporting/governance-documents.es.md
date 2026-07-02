@@ -33,7 +33,7 @@ consejo y la autoridad de gestión cotidiana.
 
 ## Comité de auditoría
 
-El comité de auditoría asiste al consejo en su supervisión de la integridad de la información
+El [[audit-committee-mandate|comité de auditoría]] asiste al consejo en su supervisión de la integridad de la información
 financiera, la independencia y el desempeño del auditor externo, y la adecuación de los
 procesos de control interno y gestión de riesgos de la compañía. El estatuto del comité
 especifica:

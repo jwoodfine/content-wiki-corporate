@@ -19,13 +19,13 @@ paired_with: global-investment-terminology.md
 cites: []
 ---
 
-Las cuatro jurisdicciones en las que Woodfine Management Corp. tiene previsto desplegar Direct-Hold Solutions — Canadá, Estados Unidos, España y México — mantienen vocabularios legales distintos para describir vehículos de inversión, sus obligaciones de cumplimiento y sus características de transmisibilidad. Woodfine aborda esta divergencia a través de un conjunto de **Términos Puente Globales**: un vocabulario paralelo diseñado para traducirse con precisión en las cuatro jurisdicciones sin importar los supuestos legales de ninguna de ellas individualmente.
+Las [[four-jurisdiction-framework|cuatro jurisdicciones]] en las que Woodfine Management Corp. tiene previsto desplegar Direct-Hold Solutions — Canadá, Estados Unidos, España y México — mantienen vocabularios legales distintos para describir vehículos de inversión, sus obligaciones de cumplimiento y sus características de transmisibilidad. Woodfine aborda esta divergencia a través de un conjunto de **Términos Puente Globales**: un vocabulario paralelo diseñado para traducirse con precisión en las cuatro jurisdicciones sin importar los supuestos legales de ninguna de ellas individualmente.
 
 ## El Problema de la Fractura Jurisdiccional
 
 Tres categorías de terminología conllevan un riesgo particular de mala interpretación entre jurisdicciones.
 
-**Reporting Issuer.** En Canadá, es una categoría legal específica bajo la Ley de Valores canadiense. No tiene traducción directa al español. En México, el equivalente más cercano, *Emisora*, implica una entidad que cotiza en la Bolsa Mexicana de Valores. En España, una traducción literal resultaría en *Emisor de Informes*, que suena a publicador de boletines informativos. El Término Puente Global **Entidad Regulada Emisora de Información** evita estas implicaciones falsas: *Regulada* en español implica presentar documentos ante una autoridad gubernamental, lo que es preciso en las cuatro jurisdicciones.
+**Reporting Issuer.** En Canadá, es una categoría legal específica bajo la Ley de Valores canadiense. No tiene traducción directa al español. En México, el equivalente más cercano, *Emisora*, implica una entidad que cotiza en la Bolsa Mexicana de Valores. En España, una traducción literal resultaría en *Emisor de Informes*, que suena a publicador de boletines informativos. El Término Puente Global **[[regulated-reporting-entity|Entidad Regulada Emisora de Información]]** evita estas implicaciones falsas: *Regulada* en español implica presentar documentos ante una autoridad gubernamental, lo que es preciso en las cuatro jurisdicciones.
 
 **Cotizada vs. Negociada.** En Canadá y Estados Unidos, un vehículo puede estar registrado en un registro de valores — sujeto a requisitos de divulgación completa — sin que se negocie activamente en bolsa. En España y México, el vocabulario legal no mantiene la misma distinción: *Cotizada* implica tanto estado de registro como negociación activa en bolsa. El Término Puente Global **Apta para Bolsa** comunica que un instrumento de deuda cumple los estándares bursátiles sin forzar la etiqueta de No Cotizada que crea confusión legal en contextos hispanohablantes.
 
@@ -47,7 +47,7 @@ Tres categorías de terminología conllevan un riesgo particular de mala interpr
 
 ## Aplicación del Marco
 
-**Portal de Presentación Regulatoria.** Cada Direct-Hold Solution presenta su divulgación obligatoria a través del portal de su jurisdicción soberana: SEDAR+ en Canadá, EDGAR en Estados Unidos, la Sede Electrónica de la CNMV en España y el STIV-2 administrado por la CNBV en México.
+**Portal de Presentación Regulatoria.** Cada Direct-Hold Solution presenta su divulgación obligatoria a través del portal de su jurisdicción soberana: [[sedar-electronic-filing-standards|SEDAR+]] en Canadá, EDGAR en Estados Unidos, la Sede Electrónica de la CNMV en España y el STIV-2 administrado por la CNBV en México.
 
 **Pública No Negociada.** Las Direct-Hold Solutions no están admitidas a negociación en bolsas públicas. Sus Unidades de Inversión están disponibles para transacciones privadas, transferencias institucionales y disposiciones de planificación patrimonial, pero no se negocian en la TSX, NYSE, Bolsa de Madrid ni Bolsa Mexicana de Valores.
 

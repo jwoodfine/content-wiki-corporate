@@ -16,8 +16,8 @@ paired_with: interest-rate-transmission.md
 ---
 
 Las tasas de interés afectan a los bienes raíces comerciales a través de varios canales de
-transmisión distintos simultáneamente: la tasa de capitalización, el costo del financiamiento
-de deuda, el margen de factibilidad para nueva construcción y la tasa de descuento aplicada
+transmisión distintos simultáneamente: la tasa de capitalización, el costo del [[debt-service-and-financing-structure|financiamiento de deuda]],
+el margen de factibilidad para nueva construcción y la tasa de descuento aplicada
 en la valoración por flujos de efectivo descontados. Estos canales no se mueven en sincronía
 — la velocidad y completitud con que los cambios de tasas se propagan a través de cada canal
 varían con la liquidez del mercado, el comportamiento de los prestamistas y las características
@@ -75,7 +75,7 @@ de efectivo proyectados constantes, reduce el valor presente de esos flujos.
 ## Diferenciación por clase de activo
 
 La sensibilidad a la transmisión de tasas de interés varía según la clase de activo. Las
-estructuras de contratos a largo plazo — comunes en Centros Profesionales y activos de
+estructuras de contratos a largo plazo — comunes en [[professional-centres-development-class|Centros Profesionales]] y activos de
 oficinas — proporcionan estabilidad de ingresos durante los ciclos de tasas, pero impiden
 el ajuste ascendente de rentas hasta las fechas de renovación del contrato. Los contratos
 de retail e industrial a corto plazo se ajustan más rápidamente a las condiciones cambiantes

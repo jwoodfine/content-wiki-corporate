@@ -12,12 +12,12 @@ references:
     text: "OSC Staff Notice 51-721 — Financial Reporting Standards. OSC, 2013."
 ---
 
-La **NI 51-102 Continuous Disclosure Obligations** es la norma promulgada por los
+La **[[continuous-disclosure-obligations|NI 51-102 Continuous Disclosure Obligations]]** es la norma promulgada por los
 Administradores de Valores Canadienses que establece los requisitos de divulgación continua
-aplicables a los emisores que presentan informes en Canadá.[^1] El ciclo de informes anuales
+aplicables a los [[regulated-reporting-entity|emisores que presentan informes]] en Canadá.[^1] El ciclo de informes anuales
 bajo la NI 51-102 exige que un emisor que presenta informes deposite tres documentos de
 divulgación primarios en un plazo de 90 días a partir del cierre de su ejercicio fiscal:
-estados financieros anuales auditados preparados de conformidad con las NIIF adoptadas en
+[[financial-reporting|estados financieros anuales auditados]] preparados de conformidad con las NIIF adoptadas en
 Canadá, un Formulario de Información Anual (AIF, Formulario 51-102F2) y un Análisis y
 Discusión de la Administración (MD&A) anual.
 

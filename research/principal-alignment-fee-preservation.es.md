@@ -18,7 +18,7 @@ paired_with: principal-alignment-fee-preservation.md
 cites: []
 ---
 
-El modelo de **Alineación de Principales y Preservación de Tarifas** describe cómo se estructura la compensación en las Direct-Hold Solutions para hacer cumplir una alineación directa entre el interés económico del desarrollador y los rendimientos de inversión de los inversores que atiende. La estructura convencional de inversión alternativa de tarifas — el 2/20 de una comisión de gestión anual del 2% e interés acumulado del 20% — se reestructura de dos maneras: el beneficio del desarrollador se toma como capital en lugar de efectivo, y la tarifa variable de gestión se reemplaza por una contribución fija anual a los gastos generales que no crece con el tiempo ni con la ejecución de transacciones.
+El modelo de **Alineación de Principales y Preservación de Tarifas** describe cómo se estructura la compensación en las [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] para hacer cumplir una alineación directa entre el interés económico del desarrollador y los rendimientos de inversión de los inversores que atiende. La estructura convencional de inversión alternativa de tarifas — el 2/20 de una comisión de gestión anual del 2% e interés acumulado del 20% — se reestructura de dos maneras: el beneficio del desarrollador se toma como capital en lugar de efectivo, y la tarifa variable de gestión se reemplaza por una contribución fija anual a los gastos generales que no crece con el tiempo ni con la ejecución de transacciones.
 
 ## El Problema con el Modelo Convencional 2/20
 

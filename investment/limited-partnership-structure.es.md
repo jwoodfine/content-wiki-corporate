@@ -59,9 +59,9 @@ gravan a nivel de los socios en proporción a las participaciones de cada uno.
 ## Estado de emisor informante
 
 Una sociedad en comandita que ha distribuido sus participaciones al público bajo un prospecto,
-o que cumple los umbrales legales para el estado de emisor informante, está sujeta a las
-obligaciones de divulgación continua de la NI 51-102. Los estados financieros de cada SC de
-tenencia directa se presentan bajo las NIIF y se archivan en SEDAR+.
+o que cumple los umbrales legales para el estado de [[regulated-reporting-entity|emisor informante]], está sujeta a las
+[[continuous-disclosure-obligations|obligaciones de divulgación continua]] de la [[ni-51-102-annual-reporting-cycle|NI 51-102]]. Los estados financieros de cada SC de
+tenencia directa se presentan bajo las NIIF y se archivan en [[sedar-electronic-filing-standards|SEDAR+]].
 
 ## Consulte también
 

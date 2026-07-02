@@ -19,7 +19,7 @@ El análisis de inversión en bienes raíces comerciales comienza con las caract
 y económicas de las clases de edificios, que determinan la base de arrendatarios, las
 estructuras de contratos de arrendamiento, los perfiles de costos operativos y los parámetros
 de financiamiento aplicables a cada tipo de activo. El programa de tenencia directa de WMC
-aplica una taxonomía de cuatro clases: Centros Profesionales, Oficina Suburbana, Industrial
+aplica una taxonomía de cuatro clases: [[professional-centres-development-class|Centros Profesionales]], Oficina Suburbana, Industrial
 Tecnológico y Retail Selectivo.
 
 ## Puntos clave
@@ -31,8 +31,8 @@ Tecnológico y Retail Selectivo.
   Selectivo) producen mayor intensidad de gestión pero menor riesgo de dependencia de
   co-arrendatario que los edificios de oficinas con múltiples pisos.
 - Los Centros Profesionales y Oficina Suburbana se valoran principalmente por el método de
-  capitalización de ingresos (ION ÷ tasa de capitalización); los activos de Industrial
-  Tecnológico y Retail Selectivo en nodos co-ubicados son adicionalmente influenciados
+  capitalización de ingresos (ION ÷ [[capitalization-rate|tasa de capitalización]]); los activos de Industrial
+  Tecnológico y Retail Selectivo en nodos [[power-centre-co-location-thesis|co-ubicados]] son adicionalmente influenciados
   por el tráfico generado por anclas y datos de gasto del consumidor.
 
 ## Centros Profesionales

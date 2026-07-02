@@ -30,7 +30,7 @@ Woodfine posiciona su portafolio para capturar la demanda de arrendatarios que s
 
 BREEAM (Método de Evaluación Ambiental del Establecimiento de Investigación de Edificios) evalúa el rendimiento del edificio en categorías que incluyen uso de energía, eficiencia del agua, abastecimiento de materiales y ecología del sitio. Una calificación BREEAM para un Woodfine Building refleja el rendimiento medido del edificio frente a estos criterios, evaluado de forma independiente por un evaluador BREEAM certificado.
 
-La Geometría de la Sostenibilidad aplicada en el diseño de los Woodfine Buildings — Directiva Europea de Iluminación, Requisitos Suizos de Intercambio de Aire, Requisitos Alemanes de Circulación — produce edificios cuyas características estructurales se alinean con los criterios de rendimiento de BREEAM. La reducción del 30% en los costos operativos que resulta del cumplimiento de la Geometría de la Sostenibilidad es una consecuencia de las características del edificio que también satisfacen los umbrales de rendimiento energético y ambiental de BREEAM.
+La [[geometry-of-sustainability|Geometría de la Sostenibilidad]] aplicada en el diseño de los Woodfine Buildings — Directiva Europea de Iluminación, Requisitos Suizos de Intercambio de Aire, Requisitos Alemanes de Circulación — produce edificios cuyas características estructurales se alinean con los criterios de rendimiento de BREEAM. La reducción del 30% en los costos operativos que resulta del cumplimiento de la Geometría de la Sostenibilidad es una consecuencia de las características del edificio que también satisfacen los umbrales de rendimiento energético y ambiental de BREEAM.
 
 ## Bienestar Centrado en el Ser Humano — Estándar WELL
 

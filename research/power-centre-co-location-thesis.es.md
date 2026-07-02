@@ -26,7 +26,7 @@ Un Centro Comercial es un nodo minorista de gran formato anclado por uno o más 
 
 La presencia de un ancla de Minorista Nacional en operación en o adyacente a un sitio de desarrollo comunica varias cosas simultáneamente. Confirma que la geografía cumple el umbral interno del minorista para demanda de consumidores, tráfico y viabilidad operativa. Confirma que la infraestructura que sirve el sitio — acceso vial, servicios públicos, zonificación — cumple estándares de bienes raíces comerciales. Y proporciona el entorno de compromiso de arrendatario ancla en el que los arrendatarios de oficinas comerciales y profesionales buscan ubicar sus operaciones en Mercados Regionales.
 
-Para las Direct-Hold Solutions, esta confirmación no es diligencia debida complementaria. Es el criterio principal para la calificación del sitio. Si un sitio de desarrollo no se co-ubica con un ancla de Centro Comercial en operación, el sitio no califica para una Inversión Calificada.
+Para las [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]], esta confirmación no es diligencia debida complementaria. Es el criterio principal para la calificación del sitio. Si un sitio de desarrollo no se co-ubica con un ancla de Centro Comercial en operación, el sitio no califica para una Inversión Calificada.
 
 ## Alineación con los Programas de Expansión de Minoristas Nacionales
 
@@ -48,6 +48,6 @@ Un importante minorista de mejoras para el hogar confirmó recientemente un prog
 
 ## Alcance de las Jurisdicciones Calificadas
 
-El requisito de co-ubicación en Centros Comerciales aplica de manera consistente en las cuatro jurisdicciones calificadas: Canadá, Estados Unidos, España y México. Los formatos de Centros Comerciales varían por jurisdicción — los Centros Comerciales norteamericanos son típicamente nodos minoristas de gran formato con estacionamiento en superficie; los equivalentes europeos y latinoamericanos pueden involucrar diferentes configuraciones de sitio — pero el principio subyacente es idéntico: co-ubicación con un ancla de Minorista Nacional en operación cuyo compromiso de tienda valida la geografía.
+El requisito de co-ubicación en Centros Comerciales aplica de manera consistente en las [[four-jurisdiction-framework|cuatro jurisdicciones calificadas]]: Canadá, Estados Unidos, España y México. Los formatos de Centros Comerciales varían por jurisdicción — los Centros Comerciales norteamericanos son típicamente nodos minoristas de gran formato con estacionamiento en superficie; los equivalentes europeos y latinoamericanos pueden involucrar diferentes configuraciones de sitio — pero el principio subyacente es idéntico: co-ubicación con un ancla de Minorista Nacional en operación cuyo compromiso de tienda valida la geografía.
 
 La consistencia del criterio de co-ubicación entre jurisdicciones apoya el modelo de Gobernanza Autosimilar que Woodfine aplica a sus cuatro Direct-Hold Solutions: la misma tesis de inversión, la misma disciplina de selección de sitios y la misma estructura de gobernanza, aplicadas a través de vehículos legales específicos por jurisdicción diseñados para ser funcionalmente equivalentes.
