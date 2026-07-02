@@ -6,7 +6,7 @@ category: investment
 type: topic
 content_type: topic
 quality: complete
-short_description: "The four Woodfine building types that constitute a Qualified Investment development site — Professional Centres, Suburban Office, Retail Select, and Tech Industrial — each engineered to a fixed Prototype and deployed in Campus Design configurations co-located with Power Centre anchors."
+short_description: "Four standardized Woodfine building types — Professional Centres, Suburban Office, Retail Select, and Tech Industrial — each built to a fixed Prototype in Campus Design layouts."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

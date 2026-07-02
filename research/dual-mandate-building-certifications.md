@@ -6,7 +6,7 @@ category: research
 type: topic
 content_type: topic
 quality: complete
-short_description: "The institutional leasing strategy through which Woodfine Buildings secure two simultaneous building certifications — verifiable Environmental Performance (BREEAM standard) alongside Human-Centric Wellness certification (WELL standard) — positioning the portfolio to capture National Tenants vacating obsolescent legacy office inventory that cannot satisfy either mandate."
+short_description: "Leasing strategy certifying every Woodfine Building to both BREEAM environmental and WELL wellness standards, targeting National Tenants exiting legacy office inventory."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

@@ -6,7 +6,7 @@ category: research
 type: topic
 content_type: topic
 quality: complete
-short_description: "The site-selection discipline that anchors Woodfine development to existing Power Centres — Qualified Investments require co-location on or immediately adjacent to operating National Retailer anchors, aligning development velocity to proven retail Rollout Programs rather than speculative demographic projections."
+short_description: "Site-selection discipline requiring Qualified Investment sites to co-locate with operating Power Centre anchors, aligning development to proven National Retailer Rollout Programs."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

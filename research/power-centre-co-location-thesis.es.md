@@ -6,7 +6,7 @@ category: research
 type: topic
 content_type: topic
 quality: complete
-short_description: "La disciplina de selección de sitios que ancla el desarrollo de Woodfine a los Centros Comerciales existentes: las Inversiones Calificadas requieren co-ubicación en o inmediatamente adyacente a anclas de Minoristas Nacionales en operación, alineando la velocidad de desarrollo a los Programas de Expansión minoristas probados en lugar de proyecciones demográficas especulativas."
+short_description: "Disciplina de selección de sitios que exige co-ubicación de las Inversiones Calificadas con anclas de Centros Comerciales en operación, alineada a Programas de Expansión probados."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

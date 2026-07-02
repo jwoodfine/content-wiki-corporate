@@ -6,7 +6,7 @@ category: investment
 type: topic
 content_type: topic
 quality: complete
-short_description: "Las cuatro jurisdicciones soberanas — Canadá, Estados Unidos, España y México — en las que Woodfine Capital Projects Inc. tiene previsto desplegar Direct-Hold Solutions, cada una utilizando el vehículo de inversión de flujo directo exigido por la ley local de valores, con Gobernanza Autosimilar en las cuatro estructuras."
+short_description: "Marco de despliegue previsto de las Direct-Hold Solutions en Canadá, Estados Unidos, España y México, cada una con el vehículo de flujo directo que exige la ley local de valores."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

@@ -6,7 +6,7 @@ category: reference
 type: topic
 content_type: topic
 quality: complete
-short_description: "The cross-border terminology bridge Woodfine uses across its four Direct-Hold Solution jurisdictions — mapping jurisdiction-specific legal terms in Canada, the United States, Spain, and Mexico to a single set of Global Bridge Terms that translate accurately across all four legal systems."
+short_description: "Cross-border vocabulary of Global Bridge Terms mapping jurisdiction-specific legal terminology in Canada, the United States, Spain, and Mexico to one accurate shared lexicon."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

@@ -6,7 +6,7 @@ category: economy
 type: topic
 content_type: topic
 quality: complete
-short_description: "The perpetual equity financing structure that underpins the Direct-Hold Solutions: initial buildings are constructed without pre-leasing or construction loans using equity capital, then the stabilized vehicle issues its own First Secured Mortgage Debentures fully collateralized by the physical buildings — eliminating abstract corporate debt and any prospect of investor capital calls."
+short_description: "Two-phase financing discipline of the Direct-Hold Solutions: equity-funded unlevered construction, then First Secured Mortgage Debentures collateralized by the completed buildings."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

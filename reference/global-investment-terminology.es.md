@@ -6,7 +6,7 @@ category: reference
 type: topic
 content_type: topic
 quality: complete
-short_description: "El puente terminológico transfronterizo que Woodfine utiliza en sus cuatro jurisdicciones de Direct-Hold Solutions, mapeando términos legales específicos por jurisdicción en Canadá, Estados Unidos, España y México a un conjunto único de Términos Puente Globales que se traducen con precisión en los cuatro sistemas legales."
+short_description: "Vocabulario transfronterizo de Términos Puente Globales que mapea la terminología legal de Canadá, Estados Unidos, España y México a un léxico común de traducción precisa."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

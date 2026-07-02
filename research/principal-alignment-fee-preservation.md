@@ -6,7 +6,7 @@ category: research
 type: topic
 content_type: topic
 quality: complete
-short_description: "The compensation model that restructures the classic 2/20 in the Direct-Hold Solutions — developer compensation taken as Equity-Based Compensation held in trust until investor capital is returned, variable management fees replaced by a single fixed annual overhead contribution on Gross Funded Value, and preserved fees retained to compensate independent Asset Managers."
+short_description: "Compensation model replacing the 2/20 structure: developer profit taken as equity held in trust until investor capital is returned, plus a fixed annual overhead contribution."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

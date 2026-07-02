@@ -6,7 +6,7 @@ category: economy
 type: topic
 content_type: topic
 quality: complete
-short_description: "El mecanismo de adquisición mediante el cual las Direct-Hold Solutions de Woodfine aseguran Precios Nacionales en múltiples proyectos de construcción simultáneos comprando directamente a los proveedores en lugar de a través de oficios externos — devolviendo todos los reembolsos y descuentos por volumen a los vehículos de Direct-Hold Solution en lugar de permitir que se capturen como beneficio del contratista."
+short_description: "Estructura de adquisición que agrega compras de materiales entre proyectos simultáneos para asegurar Precios Nacionales, con reembolsos que fluyen a las Direct-Hold Solutions."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

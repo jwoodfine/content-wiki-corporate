@@ -6,7 +6,7 @@ category: investment
 type: topic
 content_type: topic
 quality: complete
-short_description: "The four sovereign jurisdictions — Canada, the United States, Spain, and Mexico — in which Woodfine Capital Projects Inc. is deploying Direct-Hold Solutions, each using the flow-through investment vehicle mandated by local securities law, with Self-Similar Governance across all four structures."
+short_description: "Deployment framework for the Direct-Hold Solutions across Canada, the United States, Spain, and Mexico, each using the flow-through vehicle mandated by local securities law."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

@@ -6,7 +6,7 @@ category: economy
 type: topic
 content_type: topic
 quality: complete
-short_description: "La estructura de financiamiento de capital perpetuo que sustenta las Direct-Hold Solutions: los edificios iniciales se construyen sin pre-arrendamiento ni préstamos de construcción utilizando capital accionario, luego el vehículo estabilizado emite sus propias Obligaciones con Primera Hipoteca Garantizada totalmente colateralizadas por los edificios físicos, eliminando la deuda corporativa abstracta y cualquier posibilidad de llamadas de capital a inversores."
+short_description: "Disciplina de financiamiento en dos fases de las Direct-Hold Solutions: construcción con capital propio, luego Obligaciones con Primera Hipoteca Garantizada sobre los edificios."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

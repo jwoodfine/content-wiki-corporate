@@ -6,7 +6,7 @@ category: investment
 type: topic
 content_type: topic
 quality: complete
-short_description: "Los cuatro tipos de edificios Woodfine que constituyen un sitio de desarrollo de Inversión Calificada: Professional Centres, Suburban Office, Retail Select y Tech Industrial, cada uno diseñado según un Prototipo fijo y desplegado en configuraciones de Diseño Campus co-ubicadas con anclas de Centros Comerciales."
+short_description: "Cuatro tipos estandarizados de edificios Woodfine — Professional Centres, Suburban Office, Retail Select y Tech Industrial — cada uno según un Prototipo fijo en Diseño Campus."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

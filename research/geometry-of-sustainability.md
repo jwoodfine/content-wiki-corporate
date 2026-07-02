@@ -6,7 +6,7 @@ category: research
 type: topic
 content_type: topic
 quality: complete
-short_description: "The engineering discipline through which Woodfine Buildings achieve measurable environmental performance — applying the European Lighting Directive, Swiss Air Exchange Requirements, and German Circulation Requirements to Fixed Floor Plate geometry rather than pursuing ESG label compliance — producing a documented 30% reduction in operating costs for Office Tenants."
+short_description: "Engineering discipline applying European lighting, Swiss air-exchange, and German circulation standards to the fixed floor plate, with a documented 30% operating-cost reduction."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

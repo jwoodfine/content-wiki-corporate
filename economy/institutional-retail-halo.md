@@ -6,7 +6,7 @@ category: economy
 type: topic
 content_type: topic
 quality: complete
-short_description: "The economic mechanism by which co-location with grocery-anchored and necessity-based Power Centres transfers the cash-flow resilience of institutional retail into adjacent professional office space — the Woodfine thesis that positions Woodfine Buildings to benefit from the same foot traffic stability and investor demand characteristics as the National Retailer anchors they adjoin."
+short_description: "Economic thesis that co-location with grocery-anchored Power Centres transfers the cash-flow stability of necessity retail to adjacent Woodfine professional office space."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

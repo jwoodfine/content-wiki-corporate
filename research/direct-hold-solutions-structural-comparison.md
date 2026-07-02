@@ -6,7 +6,7 @@ category: research
 type: topic
 content_type: topic
 quality: complete
-short_description: "A feature-by-feature comparison of the Direct-Hold Solutions against Legacy Joint Ventures, Private Equity real estate funds, and Traditional REITs — identifying the four governance features that are exclusive to the Direct-Hold Solutions structure and the six features shared with listed REITs but absent from private structures."
+short_description: "Feature-by-feature comparison of the Direct-Hold Solutions with Legacy Joint Ventures, Private Equity funds, and Traditional REITs across twelve governance dimensions."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

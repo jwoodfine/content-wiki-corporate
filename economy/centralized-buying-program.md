@@ -6,7 +6,7 @@ category: economy
 type: topic
 content_type: topic
 quality: complete
-short_description: "The procurement mechanism through which Woodfine Direct-Hold Solutions secure National Pricing across multiple simultaneous building projects by purchasing directly from suppliers rather than through external trades — returning all rebates and volume discounts to the Direct-Hold Solution vehicles rather than allowing them to be captured as contractor profit."
+short_description: "Procurement structure aggregating materials purchasing across simultaneous building projects to secure National Pricing, with rebates flowing to the Direct-Hold Solutions."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

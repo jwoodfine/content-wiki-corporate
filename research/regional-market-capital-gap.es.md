@@ -6,7 +6,7 @@ category: research
 type: topic
 content_type: topic
 quality: complete
-short_description: "La brecha de financiamiento estructural en Mercados Regionales que las Direct-Hold Solutions están diseñadas para resolver: la banca comercial no financia adecuadamente la construcción ni el financiamiento de salida en mercados fuera de los grandes centros metropolitanos, a pesar de la demanda de Minoristas Nacionales y niveles de ingreso disponible comparables a los Mercados Metropolitanos."
+short_description: "Déficit estructural de financiamiento de construcción y salida en Mercados Regionales, pese a ingresos comparables a los Metro, que las Direct-Hold Solutions buscan resolver."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

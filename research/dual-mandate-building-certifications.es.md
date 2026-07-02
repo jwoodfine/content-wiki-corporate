@@ -6,7 +6,7 @@ category: research
 type: topic
 content_type: topic
 quality: complete
-short_description: "La estrategia de arrendamiento institucional mediante la cual los Woodfine Buildings obtienen simultáneamente dos certificaciones de rendimiento de edificios — Rendimiento Ambiental verificable (estándar BREEAM) junto con certificación de Bienestar Centrado en el Ser Humano (estándar WELL) — posicionando el portafolio para capturar a los Arrendatarios Nacionales que abandonan el inventario de oficinas heredadas obsoletas que no puede satisfacer ninguno de los dos mandatos."
+short_description: "Estrategia de arrendamiento que certifica cada Woodfine Building bajo los estándares BREEAM y WELL, dirigida a Arrendatarios Nacionales que dejan oficinas heredadas obsoletas."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

@@ -6,7 +6,7 @@ category: research
 type: topic
 content_type: topic
 quality: complete
-short_description: "Una comparación característica por característica de las Direct-Hold Solutions frente a los Fondos Joint Venture Heredados, los Fondos de Capital Privado inmobiliarios y los REIT Tradicionales — identificando las cuatro características de gobernanza exclusivas de las Direct-Hold Solutions y las seis características compartidas con los REIT cotizados pero ausentes de las estructuras privadas."
+short_description: "Comparación característica por característica de las Direct-Hold Solutions con Joint Ventures Heredados, Capital Privado y REIT Tradicionales en doce dimensiones de gobernanza."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

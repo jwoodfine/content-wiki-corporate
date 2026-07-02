@@ -6,7 +6,7 @@ category: research
 type: topic
 content_type: topic
 quality: complete
-short_description: "La disciplina de ingeniería mediante la cual los Woodfine Buildings logran un rendimiento ambiental medible — aplicando la Directiva Europea de Iluminación, los Requisitos Suizos de Intercambio de Aire y los Requisitos Alemanes de Circulación a la geometría de la Planta Fija en lugar de perseguir el cumplimiento de etiquetas ESG — produciendo una reducción documentada del 30% en los costos operativos para los Arrendatarios de Oficinas."
+short_description: "Disciplina de ingeniería que aplica normas europeas, suizas y alemanas de iluminación, aire y circulación a la Planta Fija, con reducción documentada del 30% en costos operativos."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

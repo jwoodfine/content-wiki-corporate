@@ -6,7 +6,7 @@ category: research
 type: topic
 content_type: topic
 quality: complete
-short_description: "The structural financing shortfall in Regional Markets that the Direct-Hold Solutions are designed to resolve — commercial banks do not adequately service construction and take-out financing in markets outside major metropolitan centres, despite National Retailer demand and disposable income levels comparable to Metro Markets."
+short_description: "Structural shortfall in construction and take-out financing in Regional Markets, despite Metro-comparable incomes, that the Direct-Hold Solutions are designed to address."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

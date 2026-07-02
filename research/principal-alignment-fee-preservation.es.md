@@ -6,7 +6,7 @@ category: research
 type: topic
 content_type: topic
 quality: complete
-short_description: "El modelo de compensación que reestructura el clásico 2/20 en las Direct-Hold Solutions — la compensación del desarrollador tomada como Compensación Basada en Capital mantenida en fideicomiso hasta que se devuelva el capital del inversor, las tarifas variables de gestión reemplazadas por una única contribución fija anual a gastos generales sobre el Valor Financiado Bruto, y las tarifas preservadas retenidas para compensar a los Gestores de Activos independientes."
+short_description: "Modelo de compensación que reemplaza el 2/20: beneficio del desarrollador en capital en fideicomiso hasta devolver el capital del inversor, más una contribución fija anual."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

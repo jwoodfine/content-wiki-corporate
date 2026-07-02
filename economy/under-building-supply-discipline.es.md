@@ -6,7 +6,7 @@ category: economy
 type: topic
 content_type: topic
 quality: complete
-short_description: "La política deliberada de las Direct-Hold Solutions de Woodfine de desarrollar menos metros cuadrados arrendables totales que la demanda identificada en el mercado para una ubicación determinada — manteniendo ocupación plena, creando listas de espera documentadas y preservando el poder de fijación de precios a largo plazo en todo el portafolio en adhesión a los principios de Economía Circular."
+short_description: "Política deliberada de desarrollar menos superficie arrendable que la demanda identificada del Mercado Regional, generando ocupación plena, listas de espera y poder de precios."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

@@ -6,7 +6,7 @@ category: economy
 type: topic
 content_type: topic
 quality: complete
-short_description: "El mecanismo económico por el cual la co-ubicación con Centros Comerciales anclados en comestibles y necesidades básicas transfiere la resiliencia del flujo de efectivo del comercio minorista institucional al espacio de oficinas profesionales adyacente — la tesis de Woodfine que posiciona los Woodfine Buildings para beneficiarse de las mismas características de estabilidad de tráfico peatonal y demanda de inversores que los anclas de Minoristas Nacionales que adjuntan."
+short_description: "Tesis económica según la cual la co-ubicación con Centros Comerciales anclados en comestibles transfiere la estabilidad del comercio de necesidad a las oficinas adyacentes."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

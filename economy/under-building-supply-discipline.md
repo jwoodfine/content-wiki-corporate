@@ -6,7 +6,7 @@ category: economy
 type: topic
 content_type: topic
 quality: complete
-short_description: "The deliberate policy of Woodfine Direct-Hold Solutions to develop less total net leasable square footage than the identified market demand for a given location — maintaining full occupancy, creating documented waiting lists, and preserving long-term pricing power across the portfolio in adherence to Circular Economy principles."
+short_description: "Deliberate policy of developing less leasable area than identified Regional Market demand, producing full occupancy, documented waiting lists, and preserved pricing power."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01
