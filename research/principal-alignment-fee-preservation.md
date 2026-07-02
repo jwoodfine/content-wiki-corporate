@@ -18,7 +18,7 @@ paired_with: principal-alignment-fee-preservation.es.md
 cites: []
 ---
 
-The **Principal Alignment and Fee Preservation** model describes how compensation in the Direct-Hold Solutions is structured to enforce a direct alignment between the developer's economic interest and the investment returns of the investors it serves. The conventional alternative investment fee model — the 2/20 structure of a 2% annual management fee and 20% carried interest — is restructured in two ways: developer profit is taken as equity rather than cash, and the variable management fee is replaced by a fixed annual overhead contribution that does not grow with the passage of time or the execution of transactions.
+The **Principal Alignment and Fee Preservation** model describes how compensation in the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] is structured to enforce a direct alignment between the developer's economic interest and the investment returns of the investors it serves. The conventional alternative investment fee model — the 2/20 structure of a 2% annual management fee and 20% carried interest — is restructured in two ways: developer profit is taken as equity rather than cash, and the variable management fee is replaced by a fixed annual overhead contribution that does not grow with the passage of time or the execution of transactions.
 
 ## The Problem with the Conventional 2/20 Model
 
@@ -32,7 +32,7 @@ In the Direct-Hold Solutions, Woodfine does not receive cash management fees bas
 
 The consequence of this structure is a 1:1 alignment between the developer and the investors at the level of the vehicle's equity. The developer's economic profit is not a cash extraction from the vehicle's income stream — it is an ownership stake in the same asset that investors hold, subject to the same market conditions, income performance, and distribution timing. Until the investors who contributed the initial equity capital have received that capital back in full, the developer's units remain in trust and do not participate in distributions. The developer's compensation is contingent on the same outcome that investors are seeking.
 
-The developer's equity position, once earned through the holding period and investor capital return, becomes Retained Equity on the vehicle's balance sheet. Retained Equity functions as a structural reserve: it is permanent capital that does not require distribution, reducing the vehicle's future need to raise external equity for new construction phases. The compounding of Retained Equity over the vehicle's holding period is the mechanism by which the Narrow Bank Financial Model produces a materially larger total asset base on the same initial equity capital than legacy alternatives.
+The developer's equity position, once earned through the holding period and investor capital return, becomes Retained Equity on the vehicle's balance sheet. Retained Equity functions as a structural reserve: it is permanent capital that does not require distribution, reducing the vehicle's future need to raise external equity for new construction phases. The compounding of Retained Equity over the vehicle's holding period is the mechanism by which the [[narrow-bank-financial-model|Narrow Bank Financial Model]] produces a materially larger total asset base on the same initial equity capital than legacy alternatives.
 
 ## The Fixed Annual Overhead Contribution
 

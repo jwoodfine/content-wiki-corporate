@@ -15,7 +15,7 @@ editor: woodfine-editorial
 paired_with: material-change-reporting.es.md
 ---
 
-A material change in the business, operations, or affairs of a reporting issuer triggers an
+A material change in the business, operations, or affairs of a [[regulated-reporting-entity|reporting issuer]] triggers an
 immediate disclosure obligation under Part 7 of National Instrument 51-102. The obligation
 is one of the most time-sensitive in the continuous disclosure regime: when a material change
 is determined to have occurred, the issuer must act the same day.
@@ -35,7 +35,7 @@ materiality is genuinely uncertain.
 
 ## The two-step disclosure process
 
-**Step 1 — Press release.** Immediately upon determination that a material change has
+**Step 1 — [[press-releases|Press release]].** Immediately upon determination that a material change has
 occurred, the issuer must issue and file a news release disclosing the nature and substance
 of the change. The news release must be filed through a recognized news distribution service
 to ensure broad market dissemination. The obligation to issue the press release arises when
@@ -43,7 +43,7 @@ a director or senior officer first determines that a material change has occurre
 the board formally ratifies the decision.
 
 **Step 2 — Material change report (MCR).** Within 10 days of the press release, the
-issuer must file a formal material change report on SEDAR+ using Form 51-102F3. The report
+issuer must file a formal material change report on [[sedar-electronic-filing-standards|SEDAR+]] using Form 51-102F3. The report
 must include: the date of the change, a full description of the change, the effects on
 the issuer's business and operations, and a statement signed by a director or officer.
 

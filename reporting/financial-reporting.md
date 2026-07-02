@@ -16,15 +16,15 @@ references:
 
 **Annual and interim financial reporting** comprises the mandatory periodic financial
 disclosures that Woodfine Capital Projects Inc. intends to file, upon effectiveness of its
-planned prospectus offering, as a reporting issuer under National Instrument 51-102
-*Continuous Disclosure Obligations*.[^1] These filings provide investors and
+planned prospectus offering, as a [[regulated-reporting-entity|reporting issuer]] under National Instrument 51-102
+*[[continuous-disclosure-obligations|Continuous Disclosure Obligations]]*.[^1] These filings provide investors and
 regulators with audited and reviewed financial statements, management's analysis of results and
 outlook, and the annual information form that describes the company's business, risk factors,
 and governance structure.
 
 ## Annual reporting cycle
 
-Annual disclosure for the fiscal year ended December 31 is due no later than March 31 of the
+[[ni-51-102-annual-reporting-cycle|Annual disclosure]] for the fiscal year ended December 31 is due no later than March 31 of the
 following year (90 days after fiscal year end). The annual filing package consists of three
 components.
 
@@ -65,7 +65,7 @@ that occurred during the quarter.
 
 ## Direct-hold solution reporting
 
-Each direct-hold solution that has completed a prospectus offering is a distinct reporting
+Each [[direct-hold-solutions-structural-comparison|direct-hold solution]] that has completed a prospectus offering is a distinct reporting
 issuer with its own obligations under NI 51-102; WCP intends to become a reporting issuer
 upon effectiveness of its planned prospectus offering. Each direct-hold solution files its
 own audited annual financial statements, annual information form, and MD&A as a standalone
@@ -84,7 +84,7 @@ each direct-hold solution for the applicable fiscal year.
 
 ## SEDAR+ filing and accessibility
 
-All annual and interim financial documents are filed electronically through SEDAR+ and become
+All annual and interim financial documents are filed electronically through [[sedar-electronic-filing-standards|SEDAR+]] and become
 publicly accessible upon filing.[^2] Documents are provided in a searchable electronic format
 per the requirements of OSC Staff Notice 51-721. The table below will be updated as filings
 are made.

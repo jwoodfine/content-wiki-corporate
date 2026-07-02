@@ -16,7 +16,7 @@ paired_with: interest-rate-transmission.es.md
 ---
 
 Interest rates affect commercial real estate through several distinct transmission channels
-simultaneously: the capitalisation rate, the cost of debt financing, the feasibility margin
+simultaneously: the capitalisation rate, the cost of [[debt-service-and-financing-structure|debt financing]], the feasibility margin
 for new development, and the discount rate applied in discounted cash flow valuation. These
 channels do not move in lockstep — the speed and completeness with which rate changes propagate
 through each channel vary with market liquidity, lender behaviour, and asset-specific
@@ -72,7 +72,7 @@ a sudden step-up in debt service that was not visible during the fixed-rate term
 
 The interaction between the two channels is asymmetric in downturns: rising rates simultaneously
 reduce asset values (Channel 1) and increase debt service costs (Channel 2), compressing equity
-on both sides. The loan-to-value ratio worsens as value falls; the DSCR worsens as debt service
+on both sides. The [[cre-financial-metrics|loan-to-value ratio]] worsens as value falls; the DSCR worsens as debt service
 rises. Both deteriorations can trigger lender action simultaneously.
 
 ## Channel 3 — Development feasibility
@@ -110,7 +110,7 @@ rate applied to interim cash flows).
 ## Asset-class differentiation
 
 The sensitivity to interest rate transmission varies by asset class. Long-duration lease
-structures — common in Professional Centre and office assets — provide income stability through
+structures — common in [[professional-centres-development-class|Professional Centre]] and office assets — provide income stability through
 rate cycles but prevent upward rent adjustment until lease renewal dates. Short-duration retail
 and industrial leases adjust faster to changing market conditions, allowing rents to reset to
 market levels more quickly, but create higher rollover risk in periods of falling demand.

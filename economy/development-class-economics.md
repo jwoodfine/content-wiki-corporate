@@ -18,7 +18,7 @@ paired_with: development-class-economics.es.md
 Commercial real estate investment analysis begins with the physical and economic
 characteristics of building classes, which determine the tenant base, lease structures,
 operating cost profiles, and financing parameters applicable to each asset type. WMC's
-direct-hold programme applies a four-class taxonomy: Professional Centres, Suburban Office,
+direct-hold programme applies a four-class taxonomy: [[professional-centres-development-class|Professional Centres]], Suburban Office,
 Tech Industrial, and Retail Select. Each class occupies a distinct position in the commercial
 property market with distinct economic characteristics.
 
@@ -30,7 +30,7 @@ property market with distinct economic characteristics.
 - Single-tenancy and small-bay configurations (Tech Industrial, Retail Select) produce higher
   management intensity but lower co-tenancy dependency risk than multi-floor office buildings.
 - Professional Centres and Suburban Office assets are valued primarily on the income
-  capitalisation method (NOI ÷ cap rate); Tech Industrial and Retail Select assets in co-located
+  capitalisation method (NOI ÷ [[capitalization-rate|cap rate]]); Tech Industrial and Retail Select assets in [[power-centre-co-location-thesis|co-located]]
   nodes are additionally influenced by anchor-driven traffic and consumer expenditure data.
 
 ## Professional Centres

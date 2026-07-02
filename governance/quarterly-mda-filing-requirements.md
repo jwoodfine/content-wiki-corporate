@@ -12,7 +12,7 @@ references:
     text: "IAS 34 Interim Financial Reporting. IASB."
 ---
 
-Canadian reporting issuers subject to NI 51-102 are required to file interim financial
+Canadian [[regulated-reporting-entity|reporting issuers]] subject to [[continuous-disclosure-obligations|NI 51-102]] are required to file interim financial
 statements and a quarterly Management's Discussion and Analysis (MD&A) for each of the first
 three fiscal quarters. The quarterly reporting cycle is distinct from the annual cycle in
 both the financial statement standard applied and the deadline applicable to the filing.
@@ -44,7 +44,7 @@ elements include:
   compared to the prior-year comparative periods
 - **Liquidity and capital resources** — analysis of current period cash flows and significant
   changes in liquidity position
-- **Off-balance-sheet arrangements** — updated disclosure of any material changes since the
+- **Off-balance-sheet arrangements** — updated disclosure of any [[material-change-reporting|material changes]] since the
   most recent annual MD&A
 - **Transactions with related parties** — complete disclosure of transactions not already
   disclosed in the financial statements
@@ -56,8 +56,8 @@ For real estate entities, the quarterly MD&A typically addresses:
 - Portfolio occupancy and rental rate trends
 - Fair value movements in investment property
 - Capital expenditure on existing portfolio
-- Debt maturity profile and interest rate exposure
-- Any material changes in the direct-hold portfolio structure
+- [[debt-service-and-financing-structure|Debt maturity profile]] and interest rate exposure
+- Any material changes in the [[direct-hold-solutions-structural-comparison|direct-hold portfolio structure]]
 
 ## Filing deadlines
 

@@ -102,7 +102,7 @@ on terms, loosening underwriting standards. The availability of debt capital acc
 development activity beyond what equity markets alone would support.
 
 During recession phases, the contraction in lending capacity reinforces the downturn. Assets
-that were financed at peak values face loan-to-value covenant tests that cannot be satisfied
+that were financed at peak values face [[cre-financial-metrics|loan-to-value]] covenant tests that cannot be satisfied
 at current market values; forced sales or equity injections reduce the effective yield for
 leveraged holders. Capitulation selling by distressed owners creates acquisition opportunities
 for unlevered or conservatively financed buyers.
@@ -115,7 +115,7 @@ rent projections are less sensitive to phase timing within the cycle. The invest
 rests on the long-run quality of the node rather than on a specific rent level or cap rate
 prevailing at the time of acquisition.
 
-The operational discipline of maintaining debt service coverage at a minimum floor at the
+The operational discipline of maintaining [[debt-service-and-financing-structure|debt service coverage]] at a minimum floor at the
 asset level — rather than relying on portfolio-level blending of strong and weak assets —
 preserves individual assets through cyclical income pressure without requiring cross-subsidy
 from other holdings.

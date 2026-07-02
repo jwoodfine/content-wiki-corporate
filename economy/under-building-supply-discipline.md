@@ -18,7 +18,7 @@ paired_with: under-building-supply-discipline.es.md
 cites: []
 ---
 
-**Under-building** is the deliberate policy of developing less total net leasable square footage per Development Site than the identified demand in the surrounding Regional Market. Woodfine implements this constraint as a structural feature of the Direct-Hold Solution, not as a response to capital constraints: each Woodfine Building is sized to be fully leased and operating at full occupancy upon completion, rather than sized to capture the maximum leasable area that a given footprint could accommodate. The immediate consequence is full occupancy and waiting list generation. The long-term consequence is preservation of pricing power across the portfolio.
+**Under-building** is the deliberate policy of developing less total net leasable square footage per Development Site than the identified demand in the surrounding [[regional-market-capital-gap|Regional Market]]. Woodfine implements this constraint as a structural feature of the [[direct-hold-solutions-structural-comparison|Direct-Hold Solution]], not as a response to capital constraints: each Woodfine Building is sized to be fully leased and operating at full occupancy upon completion, rather than sized to capture the maximum leasable area that a given footprint could accommodate. The immediate consequence is full occupancy and waiting list generation. The long-term consequence is preservation of pricing power across the portfolio.
 
 ## The Circular Economy Rationale
 

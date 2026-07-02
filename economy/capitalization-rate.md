@@ -82,7 +82,7 @@ in those segments.
 
 ## Valuation under IFRS 13 and IAS 40
 
-For entities that account for investment property under the fair value model (IAS 40), the
+For entities that account for investment property under the [[financial-reporting|fair value model]] (IAS 40), the
 market value of each property is assessed at each reporting date. IFRS 13 requires that fair
 value measurement use the highest and best use of the asset, and that valuation techniques
 incorporate observable market data to the maximum extent possible.
@@ -97,7 +97,7 @@ closing fair value for each period.
 Cap rate sensitivity disclosure — quantifying the effect of ±25, ±50, and ±100 basis-point
 shifts in the assumed cap rate on the reported fair value — is standard practice for investment
 property entities and is explicitly expected by institutional investors and securities regulators
-in management's discussion and analysis.
+in [[quarterly-mda-filing-requirements|management's discussion and analysis]].
 
 ## Market cap rate versus going-in and exit cap rates
 

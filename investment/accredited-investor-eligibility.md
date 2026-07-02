@@ -17,7 +17,7 @@ paired_with: accredited-investor-eligibility.es.md
 
 Limited partnership units in a direct-hold solution are distributed through two channels:
 a prospectus offering during the prospectus marketing period, which qualifies each LP as
-a reporting issuer under applicable Canadian securities legislation; and the accredited
+a [[regulated-reporting-entity|reporting issuer]] under applicable Canadian securities legislation; and the accredited
 investor exemption under National Instrument 45-106 *Prospectus Exemptions*, available to
 institutional and high-net-worth investors. The accredited investor exemption permits the
 sale of LP units to qualifying investors outside the prospectus marketing period, without
@@ -27,7 +27,7 @@ the public disclosure requirements of a prospectus filing.
 
 - The accredited investor exemption permits the distribution of LP units to qualifying
   investors without a prospectus; the exemption does not reduce the issuer's ongoing
-  disclosure obligations as a reporting issuer under NI 51-102 once the LP reaches
+  [[continuous-disclosure-obligations|disclosure obligations]] as a reporting issuer under [[ni-51-102-annual-reporting-cycle|NI 51-102]] once the LP reaches
   reporting issuer status.
 - Eligibility is self-certified by the investor at the time of subscription using the
   form prescribed in NI 45-106; the issuer is responsible for taking reasonable steps
@@ -106,7 +106,7 @@ An LP that has distributed units by way of a prospectus, or that crosses the sta
 threshold of 50 or more non-exempt holders of its securities, becomes a reporting issuer
 subject to the full NI 51-102 disclosure regime. Reporting issuer status means the LP must
 file annual audited financial statements, interim financial statements and MD&A, and an annual
-information form on SEDAR+ regardless of whether it conducts further distributions. The
+information form on [[sedar-electronic-filing-standards|SEDAR+]] regardless of whether it conducts further distributions. The
 accredited investor exemption does not provide any relief from these ongoing obligations
 once reporting issuer status attaches.
 

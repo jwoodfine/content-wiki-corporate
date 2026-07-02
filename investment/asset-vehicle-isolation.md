@@ -31,7 +31,7 @@ protects unit holders from cross-asset contagion.
   no recourse to the assets of any other direct-hold LP in the holding structure.
 - The general partner's fiduciary obligations run separately to the limited partners of
   each LP; no management decision made at one LP vehicle can bind or obligate a separate LP.
-- For lenders providing commercial mortgage financing to a direct-hold LP, the loan is
+- For lenders providing [[debt-service-and-financing-structure|commercial mortgage financing]] to a direct-hold LP, the loan is
   secured against the specific property in that LP, and the lender's recourse on default is
   limited to that property and any other collateral specifically pledged — not to the
   broader portfolio.

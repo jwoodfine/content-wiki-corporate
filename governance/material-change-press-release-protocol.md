@@ -12,8 +12,8 @@ references:
     text: "Form 51-102F3 — Material Change Report. CSA."
 ---
 
-A **material change** under NI 51-102 is a change in the business, operations, or capital
-of the reporting issuer that would reasonably be expected to have a significant effect on
+A **[[material-change-reporting|material change]]** under [[continuous-disclosure-obligations|NI 51-102]] is a change in the business, operations, or capital
+of the [[regulated-reporting-entity|reporting issuer]] that would reasonably be expected to have a significant effect on
 the market price or value of any of the issuer's securities.[^1] The material change
 reporting protocol is event-driven and operates independently of the quarterly and annual
 reporting cycle: when a material change occurs, the issuer must disclose it immediately.
@@ -26,7 +26,7 @@ directors — even if not yet publicly known — constitutes a material change i
 reasonably be expected to significantly affect the market price or value of the issuer's
 securities.
 
-Common categories of material change for real property holding companies and direct-hold
+Common categories of material change for real property holding companies and [[direct-hold-solutions-structural-comparison|direct-hold]]
 investment structures include:
 
 - Completion or termination of a major acquisition or disposition

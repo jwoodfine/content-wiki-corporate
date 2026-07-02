@@ -94,14 +94,14 @@ tax counsel.
 ## Reporting issuer status
 
 A limited partnership that has distributed its units to the public under a prospectus, or
-that meets the statutory thresholds for reporting issuer status under applicable provincial
-securities legislation, is subject to the continuous disclosure obligations of NI 51-102 as
+that meets the statutory thresholds for [[regulated-reporting-entity|reporting issuer]] status under applicable provincial
+securities legislation, is subject to the [[continuous-disclosure-obligations|continuous disclosure obligations]] of [[ni-51-102-annual-reporting-cycle|NI 51-102]] as
 a reporting issuer. In that capacity, the partnership — represented by its general partner —
 is required to file audited annual financial statements, interim financial statements, an
 annual information form, and management's discussion and analysis.
 
 The financial statements of each direct-hold LP are prepared under IFRS (as required for
-reporting issuers under NI 52-107) and are filed on SEDAR+ as the LP's standalone disclosure
+reporting issuers under NI 52-107) and are filed on [[sedar-electronic-filing-standards|SEDAR+]] as the LP's standalone disclosure
 record. These filings are the investment-level document set for that specific direct-hold
 solution; they are not consolidated into the statements of any parent entity.
 

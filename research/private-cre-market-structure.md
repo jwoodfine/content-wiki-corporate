@@ -50,8 +50,8 @@ inventory in suburban commercial markets.
 **Private investors and family offices** range from individual investors holding a single
 commercial property to family offices managing diversified multi-asset portfolios. Private
 investors have typically operated with less leverage discipline and lower disclosure
-requirements than institutional investors, though the accredited investor exemption framework
-and reporting issuer obligations create some convergence for larger private portfolios.
+requirements than institutional investors, though the [[accredited-investor-eligibility|accredited investor]] exemption framework
+and [[regulated-reporting-entity|reporting issuer]] obligations create some convergence for larger private portfolios.
 
 **Institutional investors** — pension funds, insurance companies, sovereign wealth funds,
 and large real estate investment managers — deploy capital at scale and set market cap rates
@@ -98,7 +98,7 @@ concurrently with or prior to closing.
 ## Price discovery and appraisal
 
 The absence of a continuous market creates a reliance on appraisal for both investment
-decision-making and financial reporting. An independent real property appraiser applies
+decision-making and [[financial-reporting|financial reporting]]. An independent real property appraiser applies
 market data — comparable sales, income projections, cap rates from comparable transactions —
 to estimate the market value of a property. For financial reporting under IAS 40 (investment
 property at fair value), the appraised value is the primary input to the fair value

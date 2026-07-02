@@ -19,9 +19,9 @@ paired_with: four-jurisdiction-framework.es.md
 cites: []
 ---
 
-The **Four-Jurisdiction Framework** describes the sovereign deployment architecture of the Woodfine Capital Projects Inc. Direct-Hold Solutions platform. Woodfine Capital Projects Inc. (WCP) is offering for sale Investment Units in four Direct-Hold Solutions, each constituted under the laws of a specific sovereign jurisdiction and each using the flow-through investment vehicle that the laws of that jurisdiction make available. The four jurisdictions are Canada, the United States, Spain, and Mexico.
+The **Four-Jurisdiction Framework** describes the sovereign deployment architecture of the Woodfine Capital Projects Inc. [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] platform. Woodfine Capital Projects Inc. (WCP) is offering for sale Investment Units in four Direct-Hold Solutions, each constituted under the laws of a specific sovereign jurisdiction and each using the flow-through investment vehicle that the laws of that jurisdiction make available. The four jurisdictions are Canada, the United States, Spain, and Mexico.
 
-Each Direct-Hold Solution is a separate Regulated Reporting Entity, subject to the securities laws and continuous disclosure obligations of its sovereign jurisdiction. WCP acts as the promoter of all four vehicles. Wholly owned subsidiaries of WCP serve as general partners and consultants in respect of each vehicle's business operations.
+Each Direct-Hold Solution is a separate [[regulated-reporting-entity|Regulated Reporting Entity]], subject to the securities laws and [[continuous-disclosure-obligations|continuous disclosure obligations]] of its sovereign jurisdiction. WCP acts as the promoter of all four vehicles. Wholly owned subsidiaries of WCP serve as general partners and consultants in respect of each vehicle's business operations.
 
 ## Structure Overview
 
@@ -34,13 +34,13 @@ The four Direct-Hold Solutions are structured as follows:
 | Professional Centres Spain SOCIMI | Spain (Madrid) | Sociedad Cotizada | €250 million | Iberclear (Restricted) |
 | Professional Centres Mexico FIBRA | Mexico (State of Mexico) | Private FIBRA | MN$5,000 million | Indeval (Restricted) |
 
-Each vehicle delivers 100% flow-through taxation under its sovereign tax regime, Freely Transferable Investment Units, and Exchange-Traded First Secured Mortgage Debentures. The legal form varies by jurisdiction — limited partnership in Canada and the United States, SOCIMI in Spain, FIBRA in Mexico — but the economic and governance structure is designed to be functionally equivalent across all four.
+Each vehicle delivers 100% flow-through taxation under its sovereign tax regime, Freely Transferable Investment Units, and Exchange-Traded First Secured Mortgage Debentures. The legal form varies by jurisdiction — [[limited-partnership-structure|limited partnership]] in Canada and the United States, SOCIMI in Spain, FIBRA in Mexico — but the economic and governance structure is designed to be functionally equivalent across all four.
 
 ## Canada — Professional Centres Canada LP
 
 The Professional Centres Canada LP is a closed-end limited partnership domiciled in British Columbia. It is the existing vehicle in the framework — the operating model that demonstrates the structure which the three planned Direct-Hold Solutions are intended to replicate in their respective jurisdictions.
 
-As a Regulated Reporting Entity under Canadian securities laws, the Professional Centres Canada LP files continuous public disclosure on SEDAR+, including annual information forms, audited financial statements, and material change reports. Investment Units are freely transferable in Canada after the expiry of the initial four-month statutory hold period, without consent from WCP, the Canadian General Partner, or other unitholders.
+As a Regulated Reporting Entity under Canadian securities laws, the Professional Centres Canada LP files continuous public disclosure on [[sedar-electronic-filing-standards|SEDAR+]], including annual information forms, audited financial statements, and [[material-change-reporting|material change reports]]. Investment Units are freely transferable in Canada after the expiry of the initial four-month statutory hold period, without consent from WCP, the Canadian General Partner, or other unitholders.
 
 The Canadian General Partner is Woodfine Professional Centres Inc., a subsidiary of WCP. The LP is not listed for trading on the Toronto Stock Exchange or any other Canadian exchange. Units trade over the counter in brokerage-facilitated private transactions.
 
@@ -48,7 +48,7 @@ The Canadian General Partner is Woodfine Professional Centres Inc., a subsidiary
 
 The Professional Centres United States LP is planned to be formed in Delaware. It is structured as a limited partnership under Delaware law and is intended to be a Registered reporting company under United States securities law, with ongoing disclosure filed on EDGAR.
 
-The target gross funded value is US$500 million. The vehicle is designed to apply the same flow-through taxation mechanics available under the United States limited partnership framework, and to deliver Freely Transferable units to United States Accredited Investors on the same basis as the Canadian vehicle delivers to Canadian investors.
+The target gross funded value is US$500 million. The vehicle is designed to apply the same flow-through taxation mechanics available under the United States limited partnership framework, and to deliver Freely Transferable units to United States [[accredited-investor-eligibility|Accredited Investors]] on the same basis as the Canadian vehicle delivers to Canadian investors.
 
 Units in the Professional Centres United States LP are intended to be Public Non-Traded: meeting all securities reporting requirements without listing on the New York Stock Exchange or any other United States exchange. The depositary is planned to be the Depository Trust Company (DTC), the standard United States central securities depositary for non-exchange-traded instruments.
 

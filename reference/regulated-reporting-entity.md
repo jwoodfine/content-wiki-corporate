@@ -19,11 +19,11 @@ paired_with: regulated-reporting-entity.es.md
 cites: []
 ---
 
-A **Regulated Reporting Entity** is the cross-border bridge term Woodfine Management Corp. applies to each of its four Direct-Hold Solutions. The designation describes an investment vehicle that files continuous public disclosure with its sovereign securities regulator, meets mandatory ongoing reporting requirements, and makes its disclosure record publicly available — irrespective of whether its equity is exchange-listed or exchange-traded.
+A **Regulated Reporting Entity** is the cross-border bridge term Woodfine Management Corp. applies to each of its four [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]]. The designation describes an investment vehicle that files [[continuous-disclosure-obligations|continuous public disclosure]] with its sovereign securities regulator, meets mandatory ongoing reporting requirements, and makes its disclosure record publicly available — irrespective of whether its equity is exchange-listed or exchange-traded.
 
 ## The Jurisdictional Fracture Problem
 
-Each of the four jurisdictions in which Woodfine intends to operate uses a distinct legal vocabulary to describe the same compliance status. The terms are not interchangeable: a term that carries precise legal meaning in Canada may be ambiguous, misleading, or legally inaccurate when read by an investor in Spain or Mexico. This divergence — referred to internally as Jurisdictional Fracture — creates a risk that institutional investors, service providers, and regulatory counterparties in one jurisdiction will misread the status of a vehicle that is correctly constituted under the laws of another.
+Each of the [[four-jurisdiction-framework|four jurisdictions]] in which Woodfine intends to operate uses a distinct legal vocabulary to describe the same compliance status. The terms are not interchangeable: a term that carries precise legal meaning in Canada may be ambiguous, misleading, or legally inaccurate when read by an investor in Spain or Mexico. This divergence — referred to internally as Jurisdictional Fracture — creates a risk that institutional investors, service providers, and regulatory counterparties in one jurisdiction will misread the status of a vehicle that is correctly constituted under the laws of another.
 
 In Canada, the controlling term is **Reporting Issuer** under the Canadian Securities Act. In the United States, the Securities and Exchange Commission uses the same term, though derived from a different statutory framework. In Spain, the relevant concept is **Entidad Pública** — an entity inscribed in the National Securities Registry maintained by the Comisión Nacional del Mercado de Valores. In Mexico, the Comisión Nacional Bancaria y de Valores uses **Emisora**, but the term is commonly understood to imply an entity trading on the stock market, which creates a false implication for an unlisted vehicle.
 
@@ -56,7 +56,7 @@ The Direct-Hold Solutions are Public Non-Traded vehicles. They meet all securiti
 
 Each Direct-Hold Solution, as a Regulated Reporting Entity in its sovereign jurisdiction, is subject to the filing obligations of that jurisdiction's securities law:
 
-**Canada — SEDAR+.** The Professional Centres Canada LP files with the British Columbia Securities Commission and makes its disclosure publicly available on SEDAR+. Required filings include annual information forms, audited financial statements, management's discussion and analysis, and material change reports.
+**Canada — SEDAR+.** The Professional Centres Canada LP files with the British Columbia Securities Commission and makes its disclosure publicly available on [[sedar-electronic-filing-standards|SEDAR+]]. Required filings include annual information forms, audited financial statements, management's discussion and analysis, and [[material-change-reporting|material change reports]].
 
 **United States — EDGAR.** The planned Professional Centres United States LP is intended to file with the Securities and Exchange Commission on the EDGAR platform under the applicable reporting-issuer regime.
 
@@ -66,4 +66,4 @@ Each Direct-Hold Solution, as a Regulated Reporting Entity in its sovereign juri
 
 ## Investor Status Equivalence
 
-Qualified Investor status carries equivalent variations across jurisdictions. In Canada and the United States, the relevant designation is Accredited Investor. In Spain, the equivalent is Inversor Cualificado. In Mexico, the applicable category is Gran Público Inversionista. The global bridge term used across all four jurisdictions is **Qualified Investor**, which captures the shared threshold: a sophisticated investor meeting the eligibility criteria of their sovereign jurisdiction for participation in non-retail investment vehicles.
+Qualified Investor status carries equivalent variations across jurisdictions. In Canada and the United States, the relevant designation is [[accredited-investor-eligibility|Accredited Investor]]. In Spain, the equivalent is Inversor Cualificado. In Mexico, the applicable category is Gran Público Inversionista. The global bridge term used across all four jurisdictions is **Qualified Investor**, which captures the shared threshold: a sophisticated investor meeting the eligibility criteria of their sovereign jurisdiction for participation in non-retail investment vehicles.

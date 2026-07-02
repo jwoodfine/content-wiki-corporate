@@ -29,18 +29,18 @@ written in plain language, and every technical term links to the glossary.
    not an asset manager. Its history, its people, and how the business
    operates.
 2. **The Investment Vehicles** — the vehicles, present and planned: the
-   parent company's common shares, and the four Direct-Hold Solutions
+   parent company's common shares, and the four [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]]
    planned for Canada, the United States, Spain, and Mexico. What each
-   vehicle is, its legal form, and the eligibility rules that apply in
+   vehicle is, its legal form, and the [[accredited-investor-eligibility|eligibility rules]] that apply in
    each investor's home jurisdiction. Where an offering is planned
    rather than open, the articles say so plainly.
-3. **The Financial Model** — the financial engine. Under the Narrow
-   Banking Model, buildings are intended to be built with zero
+3. **The Financial Model** — the financial engine. Under the
+   [[narrow-bank-financial-model|Narrow Banking Model]], buildings are intended to be built with zero
    construction debt, using subscription capital; borrowing is planned
    to come only after buildings are leased and earning. The fees
    Woodfine charges, what it earns, and why its own stake is designed to
    stay in escrow until investors' capital has been returned.
-4. **Distributions and Transfers** — the distribution policy and
+4. **Distributions and Transfers** — the [[distribution-declaration-mechanics|distribution policy]] and
    the transfer mechanism. Distributions are targeted to be paid from
    Distributable Income, when and if they are declared — they are not
    guaranteed. Perpetual Equity is the mechanism intended to allow
@@ -49,8 +49,8 @@ written in plain language, and every technical term links to the glossary.
    but the mechanism is not a promise of a buyer or a price.
 5. **Governance and Legal** — who is in charge and what protects
    investors: the board and its independent directors, the committees,
-   compensation, the rules written into every vehicle's governing
-   documents, and the legal record — contracts, proceedings, and
+   compensation, the rules written into every vehicle's
+   [[governance-documents|governing documents]], and the legal record — contracts, proceedings, and
    investors' statutory rights.
 6. **Risks** — what could go wrong, stated plainly and kept in one place.
 

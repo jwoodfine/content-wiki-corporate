@@ -16,7 +16,7 @@ paired_with: debt-service-and-financing-structure.es.md
 ---
 
 Commercial real estate acquisitions are routinely financed with a combination of equity and
-mortgage debt. The financing structure in each direct-hold limited partnership is designed
+mortgage debt. The financing structure in each direct-hold [[limited-partnership-structure|limited partnership]] is designed
 around two constraints: the loan-to-value limit set by the lender, and the debt service
 coverage ratio floor established as a covenant in the partnership's governing agreement. These two constraints
 determine the maximum mortgage quantum for a given asset, the interest obligation that the
@@ -29,10 +29,10 @@ ICR distribution gate must clear, and the interest rate risk profile of the inve
   holding company absent specific guarantees.
 - Debt size is constrained by two independent tests: the lender's loan-to-value (LTV) limit
   (typically 60–75% of appraised value for commercial properties) and the 1.2× ICR floor,
-  which limits total interest to no more than 83.3% of stabilised NOI.
+  which limits total interest to no more than 83.3% of stabilised [[net-operating-income|NOI]].
 - Fixed-rate mortgage debt reduces income statement volatility during the fixed term but
   creates refinancing exposure at maturity; floating-rate or variable-rate debt creates
-  immediate income sensitivity to benchmark rate changes.
+  immediate income sensitivity to [[interest-rate-transmission|benchmark rate]] changes.
 
 ## Loan-to-value constraint
 

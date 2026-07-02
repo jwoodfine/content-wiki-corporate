@@ -16,7 +16,7 @@ paired_with: insider-reporting.es.md
 ---
 
 Insider reporting is the obligation of directors, officers, and significant shareholders of a
-reporting issuer to disclose their ownership of and transactions in the issuer's securities to
+[[regulated-reporting-entity|reporting issuer]] to disclose their ownership of and transactions in the issuer's securities to
 regulators and to the public on a timely basis. In Canada, this obligation is governed primarily
 by National Instrument 55-104 *Insider Reporting Requirements and Exemptions*, which consolidated
 and modernised the insider reporting regime that previously operated under individual provincial
@@ -29,7 +29,7 @@ non-public information about the issuer.
 The concept of "reporting insider" under NI 55-104 is narrower than the broader statutory
 category of "insider." A reporting insider is an individual who, through their relationship
 with the issuer or with a significant holder of the issuer's securities, would reasonably be
-expected to have regular access to material facts or material changes regarding the issuer before
+expected to have regular access to material facts or [[material-change-reporting|material changes]] regarding the issuer before
 those facts or changes are generally disclosed.
 
 The categories that are always reporting insiders include: directors and officers of the issuer;
@@ -102,7 +102,7 @@ measure to eliminate the appearance of trading on undisclosed earnings informati
 ## Cross-jurisdictional equivalents
 
 As a prospective Regulated Reporting Entity in multiple jurisdictions, Woodfine Capital Projects
-intends to maintain an insider reporting framework consistent across all Qualified Jurisdictions
+intends to maintain an insider reporting framework consistent across all [[four-jurisdiction-framework|Qualified Jurisdictions]]
 in which it becomes a reporting entity, adapted to the specific requirements of each.
 
 In the United States, the equivalent obligation is Section 16 of the Securities Exchange Act

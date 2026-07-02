@@ -35,7 +35,7 @@ regulatory requirements change.
 
 ## Audit committee
 
-The audit committee assists the board in its oversight of the integrity of the company's
+The [[audit-committee-mandate|audit committee]] assists the board in its oversight of the integrity of the company's
 financial reporting, the independence and performance of the external auditor, and the
 adequacy of the company's internal control and risk management processes. The committee
 charter specifies:
@@ -47,7 +47,7 @@ charter specifies:
 - Reporting obligations to the full board
 - Meeting frequency and quorum requirements
 
-The audit committee charter is filed as part of the Annual Information Form and is reproduced
+The audit committee charter is filed as part of the [[ni-51-102-annual-reporting-cycle|Annual Information Form]] and is reproduced
 here for direct accessibility.
 
 ## Compensation committee

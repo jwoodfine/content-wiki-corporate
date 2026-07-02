@@ -17,7 +17,7 @@ paired_with: net-operating-income.es.md
 
 Net operating income (NOI) is the foundational metric of commercial real estate economics. It
 measures the income a property generates from operations after deducting operating expenses but
-before debt service, depreciation, income tax, and capital expenditure. NOI sits at the core
+before [[debt-service-and-financing-structure|debt service]], depreciation, income tax, and capital expenditure. NOI sits at the core
 of property valuation, lender underwriting, and investor return analysis.
 
 ## Key takeaways
@@ -72,7 +72,7 @@ or following a significant capital investment in tenant fit-out. For properties 
 leases and substantial tenant improvement programs, the two figures can diverge by ten to fifteen
 percent in any given year.
 
-For financial reporting purposes under IAS 40, the property's value is assessed on its ability
+For [[financial-reporting|financial reporting]] purposes under IAS 40, the property's value is assessed on its ability
 to generate income, and the valuation model incorporates the capitalisation of stabilised NOI
 — typically the cash NOI of the property at normal occupancy.
 
@@ -90,7 +90,7 @@ central to property investment and disposition decisions.
 
 ## NOI in lender underwriting
 
-Commercial mortgage lenders underwrite to the debt service coverage ratio (DSCR), which is NOI
+Commercial mortgage lenders underwrite to the [[cre-financial-metrics|debt service coverage ratio]] (DSCR), which is NOI
 divided by total annual debt service (principal plus interest). A property generating $1,000,000
 of NOI servicing $750,000 of annual debt payments produces a DSCR of 1.33×. Most institutional
 lenders require a minimum DSCR of 1.20× to 1.30× at origination; the debt quantum is constrained

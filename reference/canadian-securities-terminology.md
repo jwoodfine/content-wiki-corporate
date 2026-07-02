@@ -18,7 +18,7 @@ paired_with: canadian-securities-terminology.es.md
 Canadian securities regulation operates through a cooperative framework of provincial
 regulators coordinated by the Canadian Securities Administrators (CSA). The instruments and
 terms below are used consistently throughout the corporate knowledge base and reflect the
-framework applicable to reporting issuers in Canada.
+framework applicable to [[regulated-reporting-entity|reporting issuers]] in Canada.
 
 ## Regulators
 
@@ -38,7 +38,7 @@ capitalisation and is the principal regulator for many larger reporting issuers.
 
 ## Filing system
 
-**SEDAR+ (System for Electronic Document Analysis and Retrieval Plus)** — The electronic
+**[[sedar-electronic-filing-standards|SEDAR+]] (System for Electronic Document Analysis and Retrieval Plus)** — The electronic
 filing and disclosure system operated by the CSA. All continuous disclosure documents (annual
 and interim financial statements, AIF, MD&A, material change reports, prospectuses, and
 technical reports) are filed through SEDAR+ and are publicly accessible at no cost on the
@@ -71,7 +71,7 @@ issuer's financial condition and results of operations. Filed annually and quart
 to address liquidity, capital resources, off-balance-sheet arrangements, and material changes
 in financial position.
 
-**Material change report (MCR)** — A Form 51-102F3 filed on SEDAR+ within 10 days of a
+**[[material-change-reporting|Material change report]] (MCR)** — A Form 51-102F3 filed on SEDAR+ within 10 days of a
 press release disclosing a material change in the issuer's business, operations, or capital.
 
 **Technical report** — A disclosure document required under NI 43-101 Standards of
@@ -89,7 +89,7 @@ domestic reporting issuers (other than those in certain exempt categories) must 
 as issued by the International Accounting Standards Board.
 
 **NI 52-110 Audit Committees** — Establishes the composition, independence, and mandate
-requirements for audit committees of reporting issuers.
+requirements for [[audit-committee-mandate|audit committees]] of reporting issuers.
 
 **NI 51-102 Continuous Disclosure Obligations** — The primary ongoing disclosure instrument;
 establishes the annual and interim filing requirements and the material change reporting

@@ -26,7 +26,7 @@ A Power Centre is a large-format retail node anchored by one or more National Re
 
 The presence of an operating National Retailer anchor at or adjacent to a development site communicates several things simultaneously. It confirms the geography meets the retailer's internal threshold for consumer demand, traffic, and operational viability — a validation the retailer has performed through its own site analysis and committed capital to through its construction investment. It confirms the infrastructure serving the site — road access, utilities, zoning — meets commercial real estate standards. And it provides the anchor-tenant covenant environment in which commercial office and professional leaseholders seek to locate their Regional Market operations.
 
-For the Direct-Hold Solutions, this confirmation is not supplementary due diligence. It is the primary criterion for site qualification. If a development site does not co-locate with an operating Power Centre anchor, the site does not qualify for a Qualified Investment.
+For the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]], this confirmation is not supplementary due diligence. It is the primary criterion for site qualification. If a development site does not co-locate with an operating Power Centre anchor, the site does not qualify for a Qualified Investment.
 
 ## Alignment with National Retailer Rollout Programs
 
@@ -52,7 +52,7 @@ A major home improvement retailer recently confirmed a program to build or remod
 
 ## Scope of Qualified Jurisdictions
 
-The Power Centre co-location requirement applies consistently across all four qualified jurisdictions: Canada, the United States, Spain, and Mexico. Power Centre formats vary by jurisdiction — North American Power Centres are typically large-format, surface-parked retail nodes; European and Latin American equivalents may involve different site configurations — but the underlying principle is identical: co-location with an operating National Retailer anchor whose store commitment validates the geography.
+The Power Centre co-location requirement applies consistently across [[four-jurisdiction-framework|all four qualified jurisdictions]]: Canada, the United States, Spain, and Mexico. Power Centre formats vary by jurisdiction — North American Power Centres are typically large-format, surface-parked retail nodes; European and Latin American equivalents may involve different site configurations — but the underlying principle is identical: co-location with an operating National Retailer anchor whose store commitment validates the geography.
 
 Site selection in each jurisdiction identifies development sites meeting the co-location criterion within the target geography. Where a jurisdiction's land-use or zoning framework creates restrictions on the specific configuration of co-located development — as may apply in urban infill contexts in Spain or mixed-use commercial zones in Mexico — the Prototype is applied to the extent compatible with those constraints. Sites that cannot accommodate the Prototype within local regulatory requirements do not qualify.
 

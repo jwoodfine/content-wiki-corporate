@@ -15,8 +15,8 @@ references:
 **SEDAR+** (System for Electronic Document Analysis and Retrieval Plus) is the electronic
 filing and public disclosure platform maintained by the Canadian Securities Administrators
 for the receipt, storage, and public dissemination of disclosure documents filed by Canadian
-reporting issuers.[^1] SEDAR+ replaced the original SEDAR platform in 2023 as the primary
-continuous disclosure filing system for Canadian capital markets. All documents required
+[[regulated-reporting-entity|reporting issuers]].[^1] SEDAR+ replaced the original SEDAR platform in 2023 as the primary
+[[continuous-disclosure-obligations|continuous disclosure]] filing system for Canadian capital markets. All documents required
 under NI 51-102 must be filed through SEDAR+ to satisfy the regulatory filing obligation.
 
 ## System overview
@@ -37,7 +37,7 @@ information changes.
 SEDAR+ organises filings into categories corresponding to regulatory instruments. The primary
 categories applicable to a reporting issuer under NI 51-102 are:
 
-**Financial statements** — annual financial statements filed within 90 days of fiscal
+**Financial statements** — annual [[financial-reporting|financial statements]] filed within 90 days of fiscal
 year-end; interim financial statements filed within 45 days of each of the first three
 quarter-ends.
 
@@ -46,9 +46,9 @@ filed concurrently with interim financial statements.
 
 **Annual Information Form** — filed within 90 days of fiscal year-end.
 
-**Material Change Reports** — Form 51-102F3 filed within 10 days of each material change.
+**[[material-change-reporting|Material Change Reports]]** — Form 51-102F3 filed within 10 days of each material change.
 
-**Press releases** — material change press releases and other material press releases
+**[[press-releases|Press releases]]** — material change press releases and other material press releases
 filed concurrently with their public dissemination.
 
 **Proxy and information circulars** — management information circulars and proxies for

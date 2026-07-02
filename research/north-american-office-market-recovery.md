@@ -16,7 +16,7 @@ paired_with: north-american-office-market-recovery.es.md
 ---
 
 The North American commercial office market entered a structural correction beginning in 2022
-as rising interest rates compressed property values and sharply increased the cost of debt.
+as rising interest rates compressed property values and sharply increased [[debt-service-and-financing-structure|the cost of debt]].
 The correction reflects both cyclical rate dynamics and a durable shift in occupancy patterns
 following the widespread adoption of hybrid and remote work arrangements. By early 2024,
 brokerage data indicated that pricing had stabilised in several major markets and transaction

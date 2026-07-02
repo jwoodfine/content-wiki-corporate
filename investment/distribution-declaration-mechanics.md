@@ -39,11 +39,11 @@ vehicle in the programme.
 
 ## The ICR gate
 
-The interest coverage ratio for each asset is calculated as stabilised net operating income
+The interest coverage ratio for each asset is calculated as stabilised [[net-operating-income|net operating income]]
 divided by total annual interest obligations on all debt secured against the asset. A ratio
 at or above 1.2× indicates that operating income covers interest with a 20% buffer. A ratio
 below 1.2× means that operating income is insufficient to service debt with the required
-cushion and that declaring a distribution would reduce the cash available for debt service.
+cushion and that declaring a distribution would reduce the cash available for [[debt-service-and-financing-structure|debt service]].
 
 The ICR gate is not a soft guideline — it is a hard operating constraint built into the
 partnership agreement. The general partner cannot lawfully declare a distribution that

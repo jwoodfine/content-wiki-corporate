@@ -15,14 +15,14 @@ editor: woodfine-editorial
 paired_with: investor-relations-policy.es.md
 ---
 
-An investor relations policy is the internal governance document through which a reporting
-issuer regulates the flow of information between the organisation and the investment community:
+An investor relations policy is the internal governance document through which a
+[[regulated-reporting-entity|reporting issuer]] regulates the flow of information between the organisation and the investment community:
 analysts, institutional shareholders, individual investors, and financial media. The policy
 does not create disclosure obligations that are not already established by applicable securities
 law; rather, it operationalises those obligations, designates the individuals authorised to
 speak on behalf of the issuer, and establishes the procedures that prevent inadvertent
-selective disclosure — which would violate both the spirit and the letter of the continuous
-disclosure framework.
+selective disclosure — which would violate both the spirit and the letter of the [[continuous-disclosure-obligations|continuous
+disclosure framework]].
 
 The foundational concern that an investor relations policy addresses is selective disclosure:
 the communication of material non-public information to one or more investors or analysts
@@ -55,7 +55,7 @@ an uncontrolled channel.
 
 The investor relations policy establishes a quiet period in advance of each scheduled earnings
 release. A standard quiet period begins three weeks before the last day of each fiscal quarter
-and ends immediately following the issuance of the earnings press release for that quarter.
+and ends immediately following the issuance of the earnings [[press-releases|press release]] for that quarter.
 During the quiet period, designated spokespersons refrain from meeting with analysts or
 investors and decline to discuss or confirm analyst earnings estimates, revenue expectations,
 or any other forward-looking information that has not been publicly disclosed.
@@ -80,7 +80,7 @@ A guidance policy specifies when the issuer provides forward-looking financial g
 market, in what form, with what caveats, and under what circumstances previously provided
 guidance is updated or withdrawn. Guidance is not required by NI 51-102; it is a voluntary
 disclosure. However, once guidance has been provided, the continuous disclosure obligations
-of NI 51-102 apply to it: if a material change occurs that makes previously disclosed guidance
+of NI 51-102 apply to it: if a [[material-change-reporting|material change]] occurs that makes previously disclosed guidance
 no longer reasonable, the issuer must update or withdraw the guidance through a public filing
 or press release.
 
@@ -100,7 +100,7 @@ must be documented for the audit file.
 ## Earnings releases and investor calls
 
 Each quarterly earnings release is issued as a press release distributed over a recognised
-newswire service, filed on SEDAR+, and made available on the issuer's corporate website
+newswire service, filed on [[sedar-electronic-filing-standards|SEDAR+]], and made available on the issuer's corporate website
 simultaneously with distribution. The earnings press release is accompanied by the interim
 financial statements and MD&A, which are filed at the same time. A conference call open to
 the investment community is held following the press release, typically within two to four
@@ -117,7 +117,7 @@ a press release or other broadly disseminated channel.
 ## Cross-jurisdictional framework for a Regulated Reporting Entity
 
 Woodfine Capital Projects' investor relations policy is intended to operate as a framework
-applicable to the company's obligations in all Qualified Jurisdictions in which it holds
+applicable to the company's obligations in all [[four-jurisdiction-framework|Qualified Jurisdictions]] in which it holds
 reporting entity status. The specific disclosure mechanics differ by jurisdiction — SEDAR+ in
 Canada, EDGAR in the United States, CNMV filings in Spain, BMV filings in Mexico — but the
 underlying policy principles of designated spokespersons, quiet periods, and guidance
