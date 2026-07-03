@@ -25,7 +25,7 @@ requisitos de información financiera de las NIIF.
 **Ingreso operativo neto (ION)** — Ingresos de las operaciones de la propiedad después de
 deducir los gastos operativos, pero antes del servicio de deuda, gastos de capital,
 depreciación e impuesto sobre la renta. El ION es la entrada principal a la valoración de
-propiedades. Ver [[net-operating-income]].
+propiedades. Ver net-operating-income.
 
 **Ingreso bruto efectivo (IBE)** — Ingreso potencial bruto menos vacancia y pérdida de
 crédito.
@@ -54,7 +54,7 @@ distribución: no se declara ninguna distribución cuando la RCI está por debaj
 
 ## Métricas de valoración
 
-**Tasa de capitalización** — ION dividido entre el valor de mercado. Ver [[capitalization-rate]].
+**Tasa de capitalización** — ION dividido entre el valor de mercado. Ver capitalization-rate.
 
 **Valor activo neto (VAN)** — La suma de los valores razonables de todas las propiedades
 en la cartera menos todas las obligaciones de deuda y otros pasivos.
@@ -71,8 +71,8 @@ por cada $1.00 invertido. El MOIC no tiene en cuenta el valor temporal del diner
 
 ## Consulte también
 
-- [[net-operating-income]] — la descripción completa de la métrica ION y sus variantes
-- [[capitalization-rate]] — la métrica de valoración y su sensibilidad a las condiciones
+- net-operating-income — la descripción completa de la métrica ION y sus variantes
+- capitalization-rate — la métrica de valoración y su sensibilidad a las condiciones
   del mercado
-- [[interest-rate-transmission]] — cómo los cambios en los costos de financiamiento afectan
+- interest-rate-transmission — cómo los cambios en los costos de financiamiento afectan
   las métricas de apalancamiento

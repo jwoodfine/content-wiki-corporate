@@ -39,7 +39,7 @@ vehicle in the programme.
 
 ## The ICR gate
 
-The interest coverage ratio for each asset is calculated as stabilised [[net-operating-income|net operating income]]
+The interest coverage ratio for each asset is calculated as stabilised net operating income
 divided by total annual interest obligations on all debt secured against the asset. A ratio
 at or above 1.2× indicates that operating income covers interest with a 20% buffer. A ratio
 below 1.2× means that operating income is insufficient to service debt with the required

@@ -29,10 +29,10 @@ ICR distribution gate must clear, and the interest rate risk profile of the inve
   holding company absent specific guarantees.
 - Debt size is constrained by two independent tests: the lender's loan-to-value (LTV) limit
   (typically 60–75% of appraised value for commercial properties) and the 1.2× ICR floor,
-  which limits total interest to no more than 83.3% of stabilised [[net-operating-income|NOI]].
+  which limits total interest to no more than 83.3% of stabilised NOI.
 - Fixed-rate mortgage debt reduces income statement volatility during the fixed term but
   creates refinancing exposure at maturity; floating-rate or variable-rate debt creates
-  immediate income sensitivity to [[interest-rate-transmission|benchmark rate]] changes.
+  immediate income sensitivity to benchmark rate changes.
 
 ## Loan-to-value constraint
 

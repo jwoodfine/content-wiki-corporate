@@ -40,14 +40,14 @@ préstamo-valor (RPV).
 
 ## Dimensionamiento de deuda restringido por la RCSD
 
-La razón de cobertura del servicio de deuda (RCSD) es el [[net-operating-income|ION]] dividido entre el servicio anual
+La razón de cobertura del servicio de deuda (RCSD) es el ION dividido entre el servicio anual
 de deuda. Los prestamistas institucionales en Canadá típicamente requieren una RCSD de 1.20×
 a 1.30× en el momento de originar una hipoteca comercial.
 
 ## Riesgo de tasa de interés
 
 La tasa de interés en una hipoteca comercial puede ser fija durante el plazo o flotante
-basada en una [[interest-rate-transmission|tasa de referencia]]. Las hipotecas a tasa fija protegen a la SC de aumentos
+basada en una tasa de referencia. Las hipotecas a tasa fija protegen a la SC de aumentos
 en las tasas de interés durante el plazo. Las hipotecas a tasa flotante exponen a la SC a
 cambios inmediatos en el costo del servicio de deuda a medida que se mueven las tasas de
 referencia.

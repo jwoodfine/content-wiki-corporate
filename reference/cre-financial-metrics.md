@@ -27,7 +27,7 @@ expenses (property taxes, insurance, utilities, management, maintenance) but bef
 service, capital expenditure, depreciation, and income tax. NOI is the primary input to
 property valuation through the direct capitalisation method. Two variants are in use: *cash
 NOI* (actual cash flows) and *GAAP NOI* (straight-line rent under IFRS 16, with tenant
-improvement allowances amortised). See [[net-operating-income]].
+improvement allowances amortised). See net-operating-income.
 
 **Effective gross income (EGI)** — Gross potential income less vacancy and credit loss. The
 intermediate step between the theoretical maximum revenue and NOI.
@@ -59,13 +59,13 @@ Institutional lenders typically require DSCR of 1.20–1.30× at origination.
 principal repayment). Used as the distribution-gating metric in the direct-hold programme:
 no distribution is declared when the ICR is below 1.2×. ICR is a more lenient measure than
 DSCR when the mortgage has an amortising structure, because DSCR includes principal repayment
-in the denominator while ICR excludes it. See [[interest-rate-transmission]].
+in the denominator while ICR excludes it. See interest-rate-transmission.
 
 ## Valuation metrics
 
 **Capitalisation rate (cap rate)** — NOI divided by market value. Applied in reverse (value
 = NOI ÷ cap rate) in the direct capitalisation valuation method. Market cap rates are
-observable from comparable transactions. See [[capitalization-rate]].
+observable from comparable transactions. See capitalization-rate.
 
 **Net asset value (NAV)** — The sum of the fair values of all properties in the portfolio
 less all debt obligations and other liabilities. NAV is the primary balance-sheet-based
@@ -107,6 +107,6 @@ the resilience of an asset to vacancy increases.
 
 ## See also
 
-- [[net-operating-income]] — the full description of the NOI metric and its variants
-- [[capitalization-rate]] — the valuation metric and its sensitivity to market conditions
-- [[interest-rate-transmission]] — how changes in financing costs affect the leverage metrics
+- net-operating-income — the full description of the NOI metric and its variants
+- capitalization-rate — the valuation metric and its sensitivity to market conditions
+- interest-rate-transmission — how changes in financing costs affect the leverage metrics

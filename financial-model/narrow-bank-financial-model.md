@@ -38,7 +38,7 @@ Once cash flow from completed and leased buildings has stabilized, the Direct-Ho
 
 ### Issuance covenants and leverage limits
 
-The debt issuance is subject to a coverage covenant: debentures may not be issued unless an [[cre-financial-metrics|Interest Coverage Ratio]] of at least 1.2x is achieved by the existing portfolio's [[net-operating-income|net operating income]]. This covenant prevents debt issuance in advance of demonstrated portfolio income capacity. The constraint that debt cannot be added until existing cash flow covers interest at a minimum multiple ensures that each successive debt issuance is supported by the organic income growth of the portfolio rather than by projected or speculative future income.
+The debt issuance is subject to a coverage covenant: debentures may not be issued unless an [[cre-financial-metrics|Interest Coverage Ratio]] of at least 1.2x is achieved by the existing portfolio's net operating income. This covenant prevents debt issuance in advance of demonstrated portfolio income capacity. The constraint that debt cannot be added until existing cash flow covers interest at a minimum multiple ensures that each successive debt issuance is supported by the organic income growth of the portfolio rather than by projected or speculative future income.
 
 The maximum debt load under the model is 100% of development costs for new construction — debentures fund the construction of additional buildings, not the refinancing of buildings already on the balance sheet. During the active construction phase, the debt-to-asset value of the portfolio is expected to reach no more than approximately 63%.
 

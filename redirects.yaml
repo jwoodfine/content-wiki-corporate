@@ -128,3 +128,54 @@ redirects:
   # moved every article out of reporting/; the category landing itself is retired).
   - from: /reporting
     to: /reports
+
+  # Batch D1 — Phase C re-categorization, CROSS-REPO move: 16 industry/methodology
+  # articles moved to media-knowledge-projects (a different site). Full external URLs,
+  # since the target is not this repo. Slugs renamed where noted.
+  - from: /economy/capitalization-rate
+    to: https://projects.woodfinegroup.com/industry/capitalization-rate
+
+  - from: /economy/net-operating-income
+    to: https://projects.woodfinegroup.com/industry/net-operating-income
+
+  - from: /economy/interest-rate-transmission
+    to: https://projects.woodfinegroup.com/industry/interest-rate-transmission
+
+  - from: /economy/commercial-real-estate-cycles
+    to: https://projects.woodfinegroup.com/industry/commercial-real-estate-cycles
+
+  - from: /economy/under-building-supply-discipline
+    to: https://projects.woodfinegroup.com/industry/under-building-supply-discipline
+
+  - from: /research/private-cre-market-structure
+    to: https://projects.woodfinegroup.com/industry/private-cre-market-structure
+
+  - from: /research/regional-market-capital-gap
+    to: https://projects.woodfinegroup.com/industry/regional-market-capital-gap
+
+  - from: /research/north-american-office-market-recovery
+    to: https://projects.woodfinegroup.com/industry/north-american-office-market-recovery
+
+  - from: /economy/development-class-economics
+    to: https://projects.woodfinegroup.com/buildings/about-development-class-economics
+
+  - from: /investment/professional-centres-development-class
+    to: https://projects.woodfinegroup.com/buildings/class-professional-centres
+
+  - from: /economy/institutional-retail-halo
+    to: https://projects.woodfinegroup.com/site-selection/institutional-retail-halo
+
+  - from: /research/power-centre-co-location-thesis
+    to: https://projects.woodfinegroup.com/site-selection/power-centre-co-location-thesis
+
+  - from: /topic-co-location-investment-thesis
+    to: https://projects.woodfinegroup.com/site-selection/co-location-investment-thesis
+
+  - from: /topic-asset-evaluation
+    to: https://projects.woodfinegroup.com/site-selection/asset-evaluation-protocol
+
+  - from: /research/geometry-of-sustainability
+    to: https://projects.woodfinegroup.com/building-design/geometry-of-sustainability
+
+  - from: /research/dual-mandate-building-certifications
+    to: https://projects.woodfinegroup.com/building-design/dual-mandate-building-certifications
