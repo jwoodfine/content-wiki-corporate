@@ -72,7 +72,7 @@ or following a significant capital investment in tenant fit-out. For properties 
 leases and substantial tenant improvement programs, the two figures can diverge by ten to fifteen
 percent in any given year.
 
-For [[financial-reporting|financial reporting]] purposes under IAS 40, the property's value is assessed on its ability
+For [[about-financial-reporting|financial reporting]] purposes under IAS 40, the property's value is assessed on its ability
 to generate income, and the valuation model incorporates the capitalisation of stabilised NOI
 — typically the cash NOI of the property at normal occupancy.
 

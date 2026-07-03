@@ -46,7 +46,7 @@ Las Direct-Hold Solutions representan la evolución estructural del modelo de jo
 
 ### Conversión a capital divulgado públicamente
 
-Esta estructura aborda la brecha de capital mediante dos mecanismos. Primero, convierte lo que anteriormente era capital negociado privadamente en términos bilaterales en un valor divulgado públicamente y transmisible. El Capital Multigeneracional — inversores institucionales y cualificados que buscan exposición inmobiliaria de larga duración sin salidas controladas por el gestor — puede participar a través de unidades que tienen las mismas características legales que los emisores de informes convencionales: estados anuales auditados, [[continuous-disclosure-obligations|obligaciones de divulgación continua]] y libertad de transmisión.
+Esta estructura aborda la brecha de capital mediante dos mecanismos. Primero, convierte lo que anteriormente era capital negociado privadamente en términos bilaterales en un valor divulgado públicamente y transmisible. El Capital Multigeneracional — inversores institucionales y cualificados que buscan exposición inmobiliaria de larga duración sin salidas controladas por el gestor — puede participar a través de unidades que tienen las mismas características legales que los emisores de informes convencionales: estados anuales auditados, [[about-disclosure-obligations|obligaciones de divulgación continua]] y libertad de transmisión.
 
 ### Estandarización del Prototipo
 

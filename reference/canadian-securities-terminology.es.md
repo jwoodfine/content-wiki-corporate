@@ -32,7 +32,7 @@ el mayor regulador de valores canadiense por número de emisores y capitalizaci�
 
 ## Sistema de presentación
 
-**[[sedar-electronic-filing-standards|SEDAR+]] (Sistema de Análisis y Recuperación de Documentos Electrónicos Plus)** — El sistema
+**[[about-filing-systems|SEDAR+]] (Sistema de Análisis y Recuperación de Documentos Electrónicos Plus)** — El sistema
 electrónico de presentación y divulgación operado por la CSA. Todos los documentos de
 divulgación continua se presentan a través de SEDAR+ y son accesibles públicamente sin costo
 el día de la presentación.
@@ -56,7 +56,7 @@ NI 51-102 Parte 6.
 sobre la condición financiera y los resultados de operaciones. Presentado anualmente y
 trimestralmente.
 
-**[[material-change-reporting|Informe de cambio material]] (ICM)** — Formulario 51-102F3 presentado en SEDAR+ dentro de
+**[[about-material-change-reporting|Informe de cambio material]] (ICM)** — Formulario 51-102F3 presentado en SEDAR+ dentro de
 los 10 días posteriores a un comunicado de prensa sobre un cambio material.
 
 ## Exenciones e instrumentos
@@ -72,5 +72,5 @@ el Consejo de Normas Internacionales de Contabilidad.
 
 ## Consulte también
 
-- [[continuous-disclosure-obligations]] — el marco completo de requisitos de divulgación
+- [[about-disclosure-obligations]] — el marco completo de requisitos de divulgación
 - [[accredited-investor-eligibility]] — la exención de inversor acreditado de NI 45-106

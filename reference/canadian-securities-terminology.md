@@ -38,7 +38,7 @@ capitalisation and is the principal regulator for many larger reporting issuers.
 
 ## Filing system
 
-**[[sedar-electronic-filing-standards|SEDAR+]] (System for Electronic Document Analysis and Retrieval Plus)** — The electronic
+**[[about-filing-systems|SEDAR+]] (System for Electronic Document Analysis and Retrieval Plus)** — The electronic
 filing and disclosure system operated by the CSA. All continuous disclosure documents (annual
 and interim financial statements, AIF, MD&A, material change reports, prospectuses, and
 technical reports) are filed through SEDAR+ and are publicly accessible at no cost on the
@@ -71,7 +71,7 @@ issuer's financial condition and results of operations. Filed annually and quart
 to address liquidity, capital resources, off-balance-sheet arrangements, and material changes
 in financial position.
 
-**[[material-change-reporting|Material change report]] (MCR)** — A Form 51-102F3 filed on SEDAR+ within 10 days of a
+**[[about-material-change-reporting|Material change report]] (MCR)** — A Form 51-102F3 filed on SEDAR+ within 10 days of a
 press release disclosing a material change in the issuer's business, operations, or capital.
 
 **Technical report** — A disclosure document required under NI 43-101 Standards of
@@ -97,6 +97,6 @@ obligation.
 
 ## See also
 
-- [[continuous-disclosure-obligations]] — the full framework of ongoing disclosure
+- [[about-disclosure-obligations]] — the full framework of ongoing disclosure
   requirements under NI 51-102
 - [[accredited-investor-eligibility]] — the NI 45-106 accredited investor exemption in detail

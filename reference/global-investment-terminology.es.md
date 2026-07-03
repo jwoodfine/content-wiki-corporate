@@ -53,7 +53,7 @@ Tres categorías de terminología conllevan un riesgo particular de mala interpr
 
 ## Aplicación del Marco
 
-**Portal de Presentación Regulatoria.** Cada Direct-Hold Solution presenta su divulgación obligatoria a través del portal de su jurisdicción soberana: [[sedar-electronic-filing-standards|SEDAR+]] en Canadá, EDGAR en Estados Unidos, la Sede Electrónica de la CNMV en España y el STIV-2 administrado por la CNBV en México.
+**Portal de Presentación Regulatoria.** Cada Direct-Hold Solution presenta su divulgación obligatoria a través del portal de su jurisdicción soberana: [[about-filing-systems|SEDAR+]] en Canadá, EDGAR en Estados Unidos, la Sede Electrónica de la CNMV en España y el STIV-2 administrado por la CNBV en México.
 
 **Pública No Negociada.** Las Direct-Hold Solutions no están admitidas a negociación en bolsas públicas. Sus Unidades de Inversión están disponibles para transacciones privadas, transferencias institucionales y disposiciones de planificación patrimonial, pero no se negocian en la TSX, NYSE, Bolsa de Madrid ni Bolsa Mexicana de Valores.
 

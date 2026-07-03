@@ -98,7 +98,7 @@ concurrently with or prior to closing.
 ## Price discovery and appraisal
 
 The absence of a continuous market creates a reliance on appraisal for both investment
-decision-making and [[financial-reporting|financial reporting]]. An independent real property appraiser applies
+decision-making and [[about-financial-reporting|financial reporting]]. An independent real property appraiser applies
 market data — comparable sales, income projections, cap rates from comparable transactions —
 to estimate the market value of a property. For financial reporting under IAS 40 (investment
 property at fair value), the appraised value is the primary input to the fair value

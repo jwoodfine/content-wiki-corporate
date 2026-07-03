@@ -17,7 +17,7 @@ paired_with: audit-committee-mandate.es.md
 
 National Instrument 52-110 Audit Committees establishes mandatory requirements for the audit
 committees of [[regulated-reporting-entity|reporting issuers]]. The audit committee is a standing committee of the board
-of directors responsible for oversight of [[financial-reporting|financial reporting]] integrity, external auditor
+of directors responsible for oversight of [[about-financial-reporting|financial reporting]] integrity, external auditor
 independence, and internal control adequacy. Its mandate is to provide independent
 oversight of management's financial reporting responsibilities on behalf of investors.
 
@@ -46,7 +46,7 @@ responsibilities.
 ## Core responsibilities
 
 **Financial statement oversight.** The audit committee reviews the annual and interim
-financial statements before they are approved by the board and filed on [[sedar-electronic-filing-standards|SEDAR+]]. The
+financial statements before they are approved by the board and filed on [[about-filing-systems|SEDAR+]]. The
 review includes examination of significant accounting policies and estimates, areas of
 management judgement, and any identified material weaknesses or significant deficiencies.
 
@@ -75,5 +75,5 @@ Disclosure of audit and non-audit fees paid to the external auditor is required 
 ## See also
 
 - board-governance-structure — the broader board governance framework
-- [[continuous-disclosure-obligations]] — the financial reporting obligations the audit
+- [[about-disclosure-obligations]] — the financial reporting obligations the audit
   committee oversees

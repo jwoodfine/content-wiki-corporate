@@ -55,7 +55,7 @@ The following table sets out the jurisdiction-specific terms and their Global Br
 
 ## How Each Dimension Is Applied
 
-**Regulatory Filing Portal.** Each Direct-Hold Solution files its mandatory disclosure through the portal of its sovereign jurisdiction: [[sedar-electronic-filing-standards|SEDAR+]] in Canada, EDGAR in the United States, the CNMV's Sede Electrónica in Spain, and STIV-2 administered by the CNBV in Mexico. The Global Bridge Term Regulatory Filing Portal refers to any of these systems interchangeably when describing the disclosure obligation at a cross-border level.
+**Regulatory Filing Portal.** Each Direct-Hold Solution files its mandatory disclosure through the portal of its sovereign jurisdiction: [[about-filing-systems|SEDAR+]] in Canada, EDGAR in the United States, the CNMV's Sede Electrónica in Spain, and STIV-2 administered by the CNBV in Mexico. The Global Bridge Term Regulatory Filing Portal refers to any of these systems interchangeably when describing the disclosure obligation at a cross-border level.
 
 **Public Non-Traded.** The Direct-Hold Solutions are not listed on public exchanges. Their Investment Units are available for private transactions, institutional transfers, and estate arrangements, but do not trade on the Toronto Stock Exchange, the New York Stock Exchange, the Bolsa de Madrid, or the Bolsa Mexicana de Valores. The Spain SOCIMI vehicle requires statutory listing on the Bolsa de Madrid for tax-exempt status under Spanish law; in that jurisdiction, the Cotizada designation carries mandatory legal consequences that do not apply in Canada, the United States, or Mexico.
 
@@ -63,7 +63,7 @@ The following table sets out the jurisdiction-specific terms and their Global Br
 
 ### Transferability and security identifiers
 
-**Freely Transferable.** All four Direct-Hold Solutions are structured so that Investment Units may be transferred without consent from the general partner, the promoter, or other unitholders, subject to applicable securities law hold periods. In Canada, the initial four-month statutory hold period applies after initial distribution. In Spain and Mexico, the equivalent is expressed as Libre Transmisión under the applicable SOCIMI and FIBRA regulations. Freely Transferable status is a direct consequence of Regulated Reporting Entity compliance: the [[continuous-disclosure-obligations|continuous disclosure obligation]] removes the information asymmetry that private equity lock-ups are designed to manage.
+**Freely Transferable.** All four Direct-Hold Solutions are structured so that Investment Units may be transferred without consent from the general partner, the promoter, or other unitholders, subject to applicable securities law hold periods. In Canada, the initial four-month statutory hold period applies after initial distribution. In Spain and Mexico, the equivalent is expressed as Libre Transmisión under the applicable SOCIMI and FIBRA regulations. Freely Transferable status is a direct consequence of Regulated Reporting Entity compliance: the [[about-disclosure-obligations|continuous disclosure obligation]] removes the information asymmetry that private equity lock-ups are designed to manage.
 
 **Global Security Identifier.** In Canada and the United States, securities are identified primarily by CUSIP number, with ISIN derived from the CUSIP base. In Spain and Mexico, the primary identifier is ISIN. The Global Bridge Term Global Security Identifier refers to the ISIN as the cross-border common reference, applicable in all four jurisdictions.
 

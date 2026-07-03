@@ -18,7 +18,7 @@ paired_with: audit-committee-mandate.md
 El Instrumento Nacional 52-110 Comités de Auditoría establece los requisitos obligatorios
 para los comités de auditoría de los [[regulated-reporting-entity|emisores que cotizan]]. El comité de auditoría es un
 comité permanente del consejo de administración responsable de supervisar la integridad de
-la [[financial-reporting|información financiera]], la independencia del auditor externo y la adecuación de los
+la [[about-financial-reporting|información financiera]], la independencia del auditor externo y la adecuación de los
 controles internos.
 
 ## Composición e independencia
@@ -36,7 +36,7 @@ tener experiencia contable o financiera relacionada.
 ## Responsabilidades principales
 
 **Supervisión de estados financieros.** El comité revisa los estados financieros anuales e
-interinos antes de que sean aprobados por el consejo y presentados en [[sedar-electronic-filing-standards|SEDAR+]].
+interinos antes de que sean aprobados por el consejo y presentados en [[about-filing-systems|SEDAR+]].
 
 **Supervisión del auditor externo.** El comité es directamente responsable del nombramiento,
 la compensación y la supervisión del auditor externo, incluyendo la revisión de su
@@ -53,5 +53,5 @@ contables internos o asuntos de auditoría.
 ## Consulte también
 
 - board-governance-structure — el marco más amplio de gobernanza del consejo
-- [[continuous-disclosure-obligations]] — las obligaciones de información financiera que
+- [[about-disclosure-obligations]] — las obligaciones de información financiera que
   el comité supervisa

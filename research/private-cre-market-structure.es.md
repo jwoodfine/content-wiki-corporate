@@ -54,7 +54,7 @@ los activos tasados son indicadores ampliamente citados de las condiciones del m
 ## Descubrimiento de precios y valoración
 
 La ausencia de un mercado continuo crea una dependencia de la valoración tanto para la toma
-de decisiones de inversión como para la [[financial-reporting|información financiera]]. Los valores de tasación
+de decisiones de inversión como para la [[about-financial-reporting|información financiera]]. Los valores de tasación
 rezagan los precios de las transacciones de mercado: las comparables utilizadas por el
 tasador son transacciones cerradas que pueden tener de tres a doce meses de antigüedad.
 

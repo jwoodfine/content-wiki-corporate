@@ -1,0 +1,130 @@
+# Redirects for media-knowledge-corporate
+# Category redesign, 2026-07-03 (Phase C re-categorization, batch B1 — mechanical bulk
+# moves). See .agent/audit/2026-07-02-category-redesign/proposal-corporate.md for the
+# full design. Format: Hugo-compatible redirect list. The wiki engine emits 301 for
+# each `from` path. Language variants are handled by the engine's i18n routing; only
+# EN slugs are listed here.
+
+redirects:
+
+  # Batch B1 Part 2 — within-corporate category moves (slug unchanged, category only).
+  - from: /economy/narrow-bank-financial-model
+    to: /financial-model/narrow-bank-financial-model
+
+  - from: /economy/centralized-buying-program
+    to: /financial-model/centralized-buying-program
+
+  - from: /investment/accredited-investor-eligibility
+    to: /investments/accredited-investor-eligibility
+
+  - from: /investment/four-jurisdiction-framework
+    to: /investments/four-jurisdiction-framework
+
+  - from: /investment/limited-partnership-structure
+    to: /investments/limited-partnership-structure
+
+  - from: /investment/asset-vehicle-isolation
+    to: /financial-model/asset-vehicle-isolation
+
+  - from: /investment/debt-service-and-financing-structure
+    to: /financial-model/debt-service-and-financing-structure
+
+  - from: /investment/distribution-declaration-mechanics
+    to: /distributions/distribution-declaration-mechanics
+
+  - from: /research/direct-hold-solutions-structural-comparison
+    to: /investments/direct-hold-solutions-structural-comparison
+
+  - from: /research/principal-alignment-fee-preservation
+    to: /financial-model/principal-alignment-fee-preservation
+
+  - from: /reporting/press-releases
+    to: /reports/press-releases
+
+  - from: /reporting/events-presentations
+    to: /reports/events-presentations
+
+  - from: /reporting/governance-documents
+    to: /governance/governance-documents
+
+  - from: /reporting/investor-relations-policy
+    to: /governance/investor-relations-policy
+
+  # Batch B1 Part 3 — the about-* explainer band inside reports/ (rename at move time).
+  - from: /reporting/financial-reporting
+    to: /reports/about-financial-reporting
+
+  - from: /governance/continuous-disclosure-obligations
+    to: /reports/about-disclosure-obligations
+
+  - from: /governance/ni-51-102-annual-reporting-cycle
+    to: /reports/about-annual-reporting-cycle
+
+  - from: /governance/quarterly-mda-filing-requirements
+    to: /reports/about-quarterly-reporting
+
+  - from: /governance/sedar-electronic-filing-standards
+    to: /reports/about-filing-systems
+
+  - from: /topic-regulatory-posture
+    to: /reports/about-regulatory-posture
+
+  - from: /reporting/insider-reporting
+    to: /reports/about-insider-reporting
+
+  - from: /topic-continuous-disclosure
+    to: /reports/about-continuous-disclosure
+
+  # Merge: reporting/material-change-reporting + governance/material-change-press-release-protocol
+  # consolidated into a single survivor article; both old paths redirect to it.
+  - from: /reporting/material-change-reporting
+    to: /reports/about-material-change-reporting
+
+  - from: /governance/material-change-press-release-protocol
+    to: /reports/about-material-change-reporting
+
+  # Batch B1 Part 4 — flat root topic-* articles moved into category directories,
+  # slug prefix dropped.
+  - from: /topic-corporate-structure
+    to: /company/corporate-structure
+
+  - from: /topic-vendor-customer-model
+    to: /company/vendor-customer-model
+
+  - from: /topic-technology-services
+    to: /company/technology-services
+
+  - from: /topic-property-ledger-technology
+    to: /company/property-ledger-technology
+
+  - from: /topic-direct-hold-framework
+    to: /investments/direct-hold-framework
+
+  - from: /topic-investor-access
+    to: /investments/investor-access
+
+  - from: /topic-investment-units
+    to: /investments/investment-units
+
+  - from: /topic-interest-coverage-ratio
+    to: /financial-model/interest-coverage-ratio
+
+  - from: /topic-equity-transfer-model
+    to: /distributions/equity-transfer-model
+
+  - from: /topic-perpetual-equity-model
+    to: /distributions/perpetual-equity-model
+
+  - from: /topic-redemption-elimination
+    to: /distributions/redemption-elimination
+
+  - from: /topic-fiduciary-data-mandate
+    to: /governance/fiduciary-data-mandate
+
+  - from: /topic-data-governance
+    to: /governance/data-governance
+
+  # Category-level courtesy redirect: reporting/ dissolved into reports/ (Part 2 + Part 3
+  # moved every article out of reporting/; the category landing itself is retired).
+  - from: /reporting
+    to: /reports

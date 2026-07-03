@@ -46,7 +46,7 @@ The Direct-Hold Solutions represent the structural evolution of the joint ventur
 
 ### Conversion to publicly disclosed capital
 
-This structure addresses the capital gap through two mechanisms. First, it converts what was previously bilateral, privately negotiated capital into a publicly disclosed, transferable security. Multi-Generational Capital — institutional and qualified investors seeking long-duration real estate exposure without manager-controlled exit — can participate through units that carry the same legal characteristics as conventional reporting issuers: audited annual statements, [[continuous-disclosure-obligations|ongoing disclosure obligations]], and freedom of transfer.
+This structure addresses the capital gap through two mechanisms. First, it converts what was previously bilateral, privately negotiated capital into a publicly disclosed, transferable security. Multi-Generational Capital — institutional and qualified investors seeking long-duration real estate exposure without manager-controlled exit — can participate through units that carry the same legal characteristics as conventional reporting issuers: audited annual statements, [[about-disclosure-obligations|ongoing disclosure obligations]], and freedom of transfer.
 
 ### Prototype standardization
 
