@@ -19,6 +19,7 @@ Reports — Direct-Hold Solution Canada holds every report the Canadian partners
 financial statements, management's discussion, regulatory filings, valuations and appraisals,
 and distribution records.
 
-Document seeds for this shelf are staged in a later authoring batch, following the same
-six-document layout used across every Direct-Hold Solution's reports shelf. This landing page
-exists so the category resolves cleanly in the taxonomy ahead of that build-out.
+A [[canada-reporting-overview|reporting overview]] for this shelf is now published. The full six-document
+filing layout used across every Direct-Hold Solution's reports shelf — financial statements,
+MD&A, filings, valuations and appraisals, and distribution records — is staged in a later
+authoring batch as those documents are compiled.

@@ -19,7 +19,8 @@ Informes — Solución de Tenencia Directa Estados Unidos reúne todo informe qu
 sociedad estadounidense: estados financieros, informes de la administración, presentaciones
 regulatorias, valuaciones y tasaciones, y registros de distribución.
 
-Los documentos semilla para este espacio se incorporarán en un lote de redacción posterior,
-siguiendo el mismo formato de seis documentos utilizado en el espacio de informes de cada
-Solución de Tenencia Directa. Esta página de aterrizaje existe para que la categoría se resuelva
-correctamente en la taxonomía antes de ese desarrollo de contenido.
+Ya se publicó un [[united-states-reporting-overview|panorama de reporte]] para este espacio. El formato
+completo de seis documentos utilizado en el espacio de informes de cada Solución de Tenencia
+Directa —estados financieros, MD&A, presentaciones, valuaciones y tasaciones, y registros de
+distribución— se incorporará en un lote de redacción posterior, previsto para cuando el vehículo
+planeado de Estados Unidos esté constituido y reportando.

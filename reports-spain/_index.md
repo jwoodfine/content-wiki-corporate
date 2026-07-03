@@ -19,6 +19,7 @@ Reports — Direct-Hold Solution Spain holds every report the Spanish company pu
 financial statements, management reporting, regulatory filings, valuations and appraisals, and
 distribution records.
 
-Document seeds for this shelf are staged in a later authoring batch, following the same
-six-document layout used across every Direct-Hold Solution's reports shelf. This landing page
-exists so the category resolves cleanly in the taxonomy ahead of that build-out.
+A [[spain-reporting-overview|reporting overview]] for this shelf is now published. The full six-document
+filing layout used across every Direct-Hold Solution's reports shelf — financial statements,
+MD&A, filings, valuations and appraisals, and distribution records — is staged in a later
+authoring batch, intended for once the planned Spain vehicle is established and reporting.
