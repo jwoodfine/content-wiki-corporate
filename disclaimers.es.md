@@ -26,8 +26,8 @@ Algunos artículos describen características planificadas o previstas de estruc
 corporativas. Estas declaraciones prospectivas están sujetas a riesgos e incertidumbres
 materiales. Los resultados reales pueden diferir. El lenguaje prospectivo se identifica
 con términos como "planificado", "previsto", "puede" o "objetivo", en cumplimiento de los
-requisitos de [[topic-continuous-disclosure|divulgación continua]] bajo la NI 51-102 y el SN 51-721 de la OSC,
-y coherente con la [[topic-regulatory-posture|postura regulatoria]] del emisor.
+requisitos de [[about-continuous-disclosure|divulgación continua]] bajo la NI 51-102 y el SN 51-721 de la OSC,
+y coherente con la [[about-regulatory-posture|postura regulatoria]] del emisor.
 
 ## Exactitud
 

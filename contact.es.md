@@ -20,4 +20,4 @@ de los canales institucionales oficiales.
 Para correcciones o actualizaciones del contenido de la wiki, indique el artículo específico
 y el fundamento factual de la corrección. Las decisiones editoriales son tomadas por el equipo
 de MCorp de acuerdo con los estándares editoriales documentados en el
-artículo [[about]] y la [[topic-regulatory-posture|postura regulatoria]] del emisor.
+artículo [[about]] y la [[about-regulatory-posture|postura regulatoria]] del emisor.

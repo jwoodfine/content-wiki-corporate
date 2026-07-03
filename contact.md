@@ -18,4 +18,4 @@ through official institutional channels.
 For corrections or updates to wiki content, flag the specific article and the factual
 basis for the correction. Editorial decisions are made by MCorp staff
 in accordance with the editorial standards documented in the [[about]] article and the
-[[topic-regulatory-posture|regulatory posture]] of the issuer.
+[[about-regulatory-posture|regulatory posture]] of the issuer.
