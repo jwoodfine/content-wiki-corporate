@@ -23,6 +23,8 @@ Last updated: 2026-05-20.
 | `about.md` | About this wiki |
 | `contact.md` | Contact information |
 | `disclaimers.md` | Disclosure and liability disclaimers |
+| `important-information.md` | Important Information band content — read by the engine and rendered above the footer on every page; chrome content, excluded from the article index. Long-form version is `disclaimers.md`. |
+| `important-information.es.md` | Spanish bilingual pair for `important-information.md` |
 | `featured-topic.yaml` | Home-page featured article pin |
 | `leapfrog-facts.yaml` | Home-page DYK panel facts |
 | `glossary-corporate.csv` | Term glossary |

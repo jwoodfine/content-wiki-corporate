@@ -7,18 +7,42 @@ category: governance
 short_description: "Avisos de divulgación, responsabilidad y declaraciones prospectivas de la wiki corporativa de Woodfine."
 status: active
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-24
+last_edited: 2026-07-06
 editor: pointsav-engineering
 paired_with: disclaimers.md
 ---
 
+Esta es la versión completa del aviso; en cada página se muestra un resumen más breve de
+Información Importante.
+
+## Oferta de valores
+
+Woodfine Capital Projects Inc. ("Woodfine") patrocina soluciones inmobiliarias de tenencia
+directa. Las participaciones en dichas soluciones se ofrecen únicamente a inversionistas que
+califiquen conforme a una exención de prospecto aplicable —incluida la exención de
+inversionista acreditado prevista en el Instrumento Nacional 45-106 — Exenciones de
+Prospecto— y a exenciones equivalentes en otras jurisdicciones aplicables. Nada de lo que
+figura en esta wiki constituye una oferta de venta ni una solicitud de oferta de compra de
+valor alguno. Toda oferta se realiza exclusivamente por medio del Memorando de Colocación
+Privada aplicable, que los posibles inversionistas deben revisar, junto con sus propios
+asesores profesionales, antes de invertir.
+
 ## Sin asesoramiento de inversión
 
-Nada de lo que figura en esta wiki constituye asesoramiento de inversión, una solicitud de
-compra o venta de valores, ni una oferta de participación en ningún producto de inversión.
 Los artículos describen las características estructurales y jurídicas de los marcos de
 MCorp — incluido el [[topic-direct-hold-framework|Marco de Tenencia Directa]] y
-los modelos de gobernanza relacionados — como material de referencia para profesionales institucionales.
+los modelos de gobernanza relacionados — como material de referencia para profesionales
+institucionales, y quedan calificados en su totalidad por el Memorando de Colocación Privada
+aplicable y por los documentos constitutivos del emisor correspondiente.
+
+## Riesgo
+
+La inversión en soluciones inmobiliarias de tenencia directa conlleva un riesgo
+significativo, incluida la posible pérdida de capital. El rendimiento pasado no es indicativo
+de resultados futuros. Las referencias a características estructurales tales como comisiones
+de asesoría, transferibilidad y metodología de valor neto de los activos describen los
+términos contractuales de las soluciones de tenencia directa y no constituyen declaraciones
+sobre resultados o rendimientos de la inversión.
 
 ## Declaraciones prospectivas
 
@@ -35,3 +59,16 @@ Woodfine Management Corp. realiza esfuerzos razonables para mantener la exactitu
 información contenida en esta wiki. No obstante, se trata de un recurso de referencia,
 no de un documento jurídico. Para los términos definitivos de cualquier estructura,
 consulte la documentación jurídica autorizada que rige dicha estructura.
+
+## Registro
+
+Las actividades sujetas a registro de Woodfine y sus afiliadas se llevan a cabo, cuando así
+se requiera, bajo las categorías de registro aplicables prescritas por la British Columbia
+Securities Commission y otros reguladores de valores canadienses. Los detalles específicos
+de registro están disponibles a solicitud.
+
+## Jurisdicción
+
+Woodfine Capital Projects Inc. está constituida en Columbia Británica, Canadá. Las
+referencias a la Sovereign Data Foundation en este wiki describen una iniciativa planificada
+o prevista únicamente, no una titular de capital actual ni un órgano de gobierno activo.
