@@ -37,7 +37,7 @@ project-editorial). Five categories with bilingual MOC pages:
 | `investment/` | Direct-hold structure, equity model, vehicle types |
 | `governance/` | Regulatory posture, disclosure, investor access |
 | `economy/` | Distributist + cooperative economic foundations |
-| `research/` | Bloomberg/WSJ institutional research summaries |
+| `research/` | Institutional-press-register research summaries |
 | `reference/` | Terminology, glossary expansions |
 
 Existing flat `topic-*.md` articles remain at root until migrated
@@ -72,10 +72,10 @@ Out of scope:
 Articles address an **institutional finance audience** — investment
 bankers, asset managers, portfolio managers, and auditors reviewing
 MCorp holdings and structures. Prose standard:
-Bloomberg / Financial Times institutional register. No marketing
+institutional financial-press register. No marketing
 vocabulary, no AI-product language.
 
-Every article is written as if a Goldman Sachs banker will read it
+Every article is written as if a senior finance reader will read it
 cold. Clear noun phrases; consequence-first sentences; no hedges.
 
 ## 4. Commit flow
