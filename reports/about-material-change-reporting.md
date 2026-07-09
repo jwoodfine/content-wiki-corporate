@@ -79,6 +79,21 @@ prejudice a pending transaction that has not yet been announced. Confidential tr
 at the regulator's discretion and is not available routinely. The issuer must re-file a
 public MCR as soon as the basis for confidentiality no longer exists.
 
+## Filing mechanics under Part 7
+
+The material change report is filed electronically under the issuer's continuous-disclosure
+profile on [[about-filing-systems|SEDAR+]], using Form 51-102F3. The filing is certified by
+signature of a director or senior officer of the issuer, who attests to the accuracy and
+completeness of the report as filed. Part 7 imposes the 10-day filing deadline as a hard
+requirement running from the date the press release was issued, not from the date the material
+change itself occurred — the press release date is the operative trigger for the filing clock.
+
+Failure to file a required material change report within the Part 7 deadline is a continuous
+disclosure default. Provincial and territorial securities regulators may respond to a persistent
+filing default with a failure-to-file cease trade order, which halts trading in the issuer's
+securities until the default is remedied. This makes the two-step sequence — same-day press
+release, ten-day MCR — a compliance-critical path rather than an administrative formality.
+
 ## Common triggers
 
 Material changes most frequently arise from: significant acquisitions or dispositions,

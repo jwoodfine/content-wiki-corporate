@@ -67,6 +67,24 @@ la divulgación inmediata sería indebidamente perjudicial para los intereses de
 El tratamiento confidencial está a discreción del regulador y el emisor debe volver a
 presentar un ICM público tan pronto como la base de confidencialidad deje de existir.
 
+## Mecánica de presentación bajo la Parte 7
+
+El informe de cambio material se presenta electrónicamente bajo el perfil de divulgación
+continua del emisor en [[about-filing-systems|SEDAR+]], utilizando el Formulario 51-102F3.
+La presentación se certifica con la firma de un director o funcionario superior del emisor,
+quien da fe de la exactitud e integridad del informe presentado. La Parte 7 impone el plazo
+de 10 días como un requisito estricto que corre desde la fecha del comunicado de prensa, no
+desde la fecha en que ocurrió el cambio material — la fecha del comunicado de prensa es el
+disparador operativo del plazo de presentación.
+
+El incumplimiento del plazo de presentación del informe de cambio material bajo la Parte 7
+constituye un incumplimiento de divulgación continua. Los reguladores de valores provinciales
+y territoriales pueden responder a un incumplimiento persistente de presentación con una
+orden de suspensión de operaciones por falta de presentación, que detiene la negociación de
+los valores del emisor hasta que se subsane el incumplimiento. Esto convierte la secuencia de
+dos pasos — comunicado de prensa el mismo día, ICM en diez días — en una ruta crítica de
+cumplimiento y no en una formalidad administrativa.
+
 ## Consulte también
 
 - [[about-disclosure-obligations]] — el marco más amplio de requisitos de divulgación
