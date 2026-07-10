@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "The Company"
+title: "Company"
 slug: company-index
 category: company
 type: topic

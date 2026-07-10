@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "The Investment Vehicles"
+title: "Investment Vehicles"
 slug: investments-index
 category: investments
 type: topic

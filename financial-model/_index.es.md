@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "El Modelo Financiero"
+title: "Modelo Financiero"
 slug: financial-model-index
 category: financial-model
 type: topic
