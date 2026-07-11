@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Commercial Real Estate Financial Metrics"
+title: "Commercial real estate financial metrics"
 slug: cre-financial-metrics
 category: reference
 type: topic
@@ -10,7 +10,7 @@ short_description: "Definitions of the primary financial metrics used in commerc
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 paired_with: cre-financial-metrics.es.md
 ---

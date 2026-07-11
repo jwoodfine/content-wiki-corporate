@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Regulatory Posture"
+title: "Regulatory posture"
 slug: about-regulatory-posture
 short_description: "Woodfine Capital Projects Inc. applies a continuous-disclosure posture aligned with NI 51-102 and OSC Staff Notice 51-721 in advance of its planned prospectus offering; all public materials are treated as reviewable under this regime."
 category: reports
@@ -11,7 +11,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 paired_with: about-regulatory-posture.es.md
 cites: []

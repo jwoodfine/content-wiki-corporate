@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Non-IFRS Measures Explained"
+title: "Non-IFRS measures explained"
 slug: non-ifrs-measures-explained
 category: reference
 type: topic
@@ -11,7 +11,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-07-11
 editor: pointsav-engineering
 paired_with: non-ifrs-measures-explained.es.md
 ---

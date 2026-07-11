@@ -1,8 +1,8 @@
 ---
-title: "Annual Reporting Cycle"
+title: "Annual reporting cycle"
 slug: about-annual-reporting-cycle
 category: reports
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 status: stable
 short_description: "Annual disclosure obligations of a Canadian reporting issuer: audited IFRS financial statements, Annual Information Form, and MD&A due within 90 days of fiscal year-end."

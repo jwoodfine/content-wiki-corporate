@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Canadian Securities Regulatory Terminology"
+title: "Canadian securities regulatory terminology"
 slug: canadian-securities-terminology
 category: reference
 type: topic
@@ -10,7 +10,7 @@ short_description: "Definitions of the primary Canadian securities regulatory te
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 paired_with: canadian-securities-terminology.es.md
 ---

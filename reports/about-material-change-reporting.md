@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Material Change Reporting"
+title: "Material change reporting"
 slug: about-material-change-reporting
 aliases:
   - material-change-press-release-protocol
@@ -12,7 +12,7 @@ short_description: "The mechanics of material change reporting under NI 51-102 P
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-07-11
 editor: woodfine-editorial
 paired_with: about-material-change-reporting.es.md
 ---

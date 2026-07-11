@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Insider Reporting"
+title: "Insider reporting"
 slug: about-insider-reporting
 category: reports
 type: topic
@@ -10,7 +10,7 @@ short_description: "The mechanics of insider reporting under National Instrument
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-30
+last_edited: 2026-07-11
 editor: woodfine-editorial
 paired_with: about-insider-reporting.es.md
 ---

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Investment Units"
+title: "Investment units"
 slug: investment-units
 aliases:
   - topic-investment-units
@@ -15,7 +15,7 @@ paired_with: investment-units.es.md
 audience: public
 bcsc_class: public-disclosure-safe
 language: en
-last_edited: 2026-06-16
+last_edited: 2026-07-11
 see_also:
   - topic-perpetual-equity-model
   - topic-direct-hold-framework

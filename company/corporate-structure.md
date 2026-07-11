@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Corporate Structure"
+title: "Corporate structure"
 slug: corporate-structure
 aliases:
   - topic-corporate-structure
@@ -13,7 +13,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 paired_with: corporate-structure.es.md
 cites: []

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Debt Service and Financing Structure"
+title: "Debt service and financing structure"
 slug: debt-service-and-financing-structure
 category: financial-model
 type: topic
@@ -10,7 +10,7 @@ short_description: "How commercial mortgage financing is structured within direc
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 paired_with: debt-service-and-financing-structure.es.md
 ---

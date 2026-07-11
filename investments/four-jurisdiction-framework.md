@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Four-Jurisdiction Framework"
+title: "Four-jurisdiction framework"
 slug: four-jurisdiction-framework
 category: investments
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Deployment framework for the Direct-Hold Solutions across Canada, the United States, Spain, and Mexico, each using the flow-through vehicle mandated by local securities law."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

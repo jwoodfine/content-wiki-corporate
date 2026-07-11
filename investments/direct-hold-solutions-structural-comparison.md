@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Direct-Hold Solutions Structural Comparison"
+title: "Direct-hold solutions structural comparison"
 slug: direct-hold-solutions-structural-comparison
 category: investments
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Feature-by-feature comparison of the Direct-Hold Solutions with Legacy Joint Ventures, Private Equity funds, and Traditional REITs across twelve governance dimensions."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

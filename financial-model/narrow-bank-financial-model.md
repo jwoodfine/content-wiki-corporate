@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Narrow Bank Financial Model"
+title: "Narrow bank financial model"
 slug: narrow-bank-financial-model
 category: financial-model
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Two-phase financing discipline of the Direct-Hold Solutions: equity-funded unlevered construction, then First Secured Mortgage Debentures collateralized by the completed buildings."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

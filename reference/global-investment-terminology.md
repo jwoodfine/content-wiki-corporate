@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Global Investment Terminology"
+title: "Global investment terminology"
 slug: global-investment-terminology
 category: reference
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Cross-border vocabulary of Global Bridge Terms mapping jurisdiction-specific legal terminology in Canada, the United States, Spain, and Mexico to one accurate shared lexicon."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

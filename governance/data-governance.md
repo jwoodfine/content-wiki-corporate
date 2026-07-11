@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Data Governance"
+title: "Data governance"
 slug: data-governance
 aliases:
   - topic-data-governance
@@ -13,7 +13,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 paired_with: data-governance.es.md
 cites: []

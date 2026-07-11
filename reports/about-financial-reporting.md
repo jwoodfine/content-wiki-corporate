@@ -1,8 +1,8 @@
 ---
-title: "Financial Reporting"
+title: "Financial reporting"
 slug: about-financial-reporting
 category: reports
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 status: stable
 short_description: "Periodic financial disclosures Woodfine Capital Projects Inc. intends to file as a reporting issuer under NI 51-102 upon effectiveness of its planned prospectus offering."

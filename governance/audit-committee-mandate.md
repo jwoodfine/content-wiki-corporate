@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Audit Committee Mandate"
+title: "Audit committee mandate"
 slug: audit-committee-mandate
 category: governance
 type: topic
@@ -10,7 +10,7 @@ short_description: "The composition, independence requirements, and responsibili
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 paired_with: audit-committee-mandate.es.md
 ---

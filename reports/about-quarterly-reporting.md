@@ -1,8 +1,8 @@
 ---
-title: "Quarterly Reporting"
+title: "Quarterly reporting"
 slug: about-quarterly-reporting
 category: reports
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 status: stable
 short_description: "Interim reporting under NI 51-102: condensed IAS 34 financial statements and quarterly MD&A due within 45 days of each of the first three fiscal quarter-ends."

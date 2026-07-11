@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Asset Vehicle Isolation"
+title: "Asset vehicle isolation"
 slug: asset-vehicle-isolation
 category: financial-model
 type: topic
@@ -10,7 +10,7 @@ short_description: "The legal and structural mechanisms through which each direc
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 paired_with: asset-vehicle-isolation.es.md
 ---

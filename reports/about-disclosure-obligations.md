@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Continuous Disclosure Obligations"
+title: "Continuous disclosure obligations"
 slug: about-disclosure-obligations
 category: reports
 type: topic
@@ -10,7 +10,7 @@ short_description: "The ongoing disclosure obligations of a reporting issuer und
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 paired_with: about-disclosure-obligations.es.md
 ---

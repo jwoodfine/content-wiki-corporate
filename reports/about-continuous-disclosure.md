@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Continuous Disclosure and Wiki Publication"
+title: "Continuous disclosure and wiki publication"
 slug: about-continuous-disclosure
 short_description: "NI 51-102 reporting requirements applicable to Woodfine Capital Projects Inc., including annual information form, MD&A, material change reports, and OSC SN 51-721 electronic filing."
 category: reports
@@ -11,7 +11,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 paired_with: about-continuous-disclosure.es.md
 cites: []

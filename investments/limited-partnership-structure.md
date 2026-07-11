@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Limited Partnership Structure"
+title: "Limited partnership structure"
 slug: limited-partnership-structure
 category: investments
 type: topic
@@ -10,7 +10,7 @@ short_description: "How the limited partnership legal form implements the direct
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 paired_with: limited-partnership-structure.es.md
 ---

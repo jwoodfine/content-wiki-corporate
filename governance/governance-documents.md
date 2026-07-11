@@ -1,8 +1,8 @@
 ---
-title: "Corporate Governance Documents"
+title: "Corporate governance documents"
 slug: governance-documents
 category: governance
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 status: stable
 short_description: "Board mandate, committee charters, governance policy, and code of business conduct published as disclosure of governance practices under NP 58-201 and NI 58-101."

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Centralized Buying Program"
+title: "Centralized buying program"
 slug: centralized-buying-program
 category: financial-model
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Procurement structure aggregating materials purchasing across simultaneous building projects to secure National Pricing, with rebates flowing to the Direct-Hold Solutions."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

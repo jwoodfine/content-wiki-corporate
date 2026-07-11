@@ -1,8 +1,8 @@
 ---
-title: "Filing Systems"
+title: "Filing systems"
 slug: about-filing-systems
 category: reports
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 status: stable
 short_description: "Filing platform operated by the CSA for public dissemination of continuous disclosure documents, covering document categories, XBRL format rules, and NI 52-109 certification."

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Principal Alignment and Fee Preservation"
+title: "Principal alignment and fee preservation"
 slug: principal-alignment-fee-preservation
 category: financial-model
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Compensation model replacing the 2/20 structure: developer profit taken as equity held in trust until investor capital is returned, plus a fixed annual overhead contribution."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

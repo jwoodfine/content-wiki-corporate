@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Distribution Declaration Mechanics"
+title: "Distribution declaration mechanics"
 slug: distribution-declaration-mechanics
 category: distributions
 type: topic
@@ -10,7 +10,7 @@ short_description: "How distributions in direct-hold limited partnerships are de
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 paired_with: distribution-declaration-mechanics.es.md
 ---

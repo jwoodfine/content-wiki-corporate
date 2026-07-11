@@ -1,12 +1,12 @@
 ---
 schema: foundry-doc-v1
 content_type: page
-title: "About This Wiki"
+title: "About this wiki"
 slug: about
 category: governance
 short_description: "Purpose, scope, and editorial standards of the Woodfine Corporate reference wiki."
 status: active
-last_edited: 2026-05-20
+last_edited: 2026-07-11
 editor: pointsav-engineering
 ---
 

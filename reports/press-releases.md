@@ -1,8 +1,8 @@
 ---
-title: "Press Releases and Material Change Reports"
+title: "Press releases and material change reports"
 slug: press-releases
 category: reports
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 status: stable
 short_description: "Real-time disclosure channel for material changes: immediate press release, Form 51-102F3 filing on SEDAR+ within ten days, and forward-looking statement standards."

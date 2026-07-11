@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Investor Access"
+title: "Investor access"
 slug: investor-access
 aliases:
   - topic-investor-access
@@ -13,7 +13,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 paired_with: investor-access.es.md
 cites: []

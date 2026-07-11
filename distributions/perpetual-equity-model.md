@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Perpetual Equity Model"
+title: "Perpetual equity model"
 slug: perpetual-equity-model
 aliases:
   - topic-perpetual-equity-model
@@ -15,7 +15,7 @@ paired_with: perpetual-equity-model.es.md
 audience: public
 bcsc_class: public-disclosure-safe
 language: en
-last_edited: 2026-06-16
+last_edited: 2026-07-11
 see_also:
   - topic-investment-units
   - topic-redemption-elimination

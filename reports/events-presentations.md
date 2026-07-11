@@ -1,8 +1,8 @@
 ---
-title: "Events and Presentations"
+title: "Events and presentations"
 slug: events-presentations
 category: reports
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 status: stable
 short_description: "Record of shareholder meetings, investor presentations, and industry conference appearances, with archived materials and advance notice of forthcoming events where available."

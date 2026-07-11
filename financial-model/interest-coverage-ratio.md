@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Interest Coverage Ratio"
+title: "Interest coverage ratio"
 slug: interest-coverage-ratio
 aliases:
   - topic-interest-coverage-ratio
@@ -13,7 +13,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 paired_with: interest-coverage-ratio.es.md
 cites: []
