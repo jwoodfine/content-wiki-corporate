@@ -19,7 +19,7 @@ paired_with: investor-access.es.md
 cites: []
 ---
 
-An investor in a WMC [[topic-direct-hold-framework|Direct-Hold]] asset holds a position in a specific named property. Access to position data, financial reports, and transaction records is provided through the investor portal operated by MCorp. The portal reflects the investor's [[topic-property-ledger-technology|ledger]] position — equity percentage, financial event history, and transfer records — for each asset in which they hold a position. The position is structured as [[topic-investment-units|investment units]] in the named asset.
+An investor in a WMC [[direct-hold-framework|Direct-Hold]] asset holds a position in a specific named property. Access to position data, financial reports, and transaction records is provided through the investor portal operated by MCorp. The portal reflects the investor's [[property-ledger-technology|ledger]] position — equity percentage, financial event history, and transfer records — for each asset in which they hold a position. The position is structured as [[investment-units|investment units]] in the named asset.
 
 ## Key takeaways
 
@@ -39,13 +39,13 @@ The frequency and format of financial reports is governed by WMC's investor comm
 
 ## Transfer records
 
-When an investor transfers equity to a counterparty under the [[topic-equity-transfer-model|Equity Transfer Model]], the ledger records the transaction: timestamp, transferring party identity, acquiring party identity, and the percentage transferred. The transferring investor receives confirmation of the completed transaction. The acquiring investor receives an updated position statement reflecting the new equity percentage.
+When an investor transfers equity to a counterparty under the [[equity-transfer-model|Equity Transfer Model]], the ledger records the transaction: timestamp, transferring party identity, acquiring party identity, and the percentage transferred. The transferring investor receives confirmation of the completed transaction. The acquiring investor receives an updated position statement reflecting the new equity percentage.
 
 WMC updates the ledger to reflect the transfer. WMC does not approve or broker transfers between private parties — its role is to record the transaction accurately on the ledger and confirm the updated positions to both parties.
 
 ## No secondary market
 
-WMC does not operate a secondary market, a matched-order book, or a buyback facility — see [[topic-redemption-elimination|Redemption Elimination]] for the structural rationale. Investors seeking liquidity identify a willing counterparty independently. The corporate entity does not intermediate this process and makes no representation about the availability or pricing of private liquidity for any specific asset.
+WMC does not operate a secondary market, a matched-order book, or a buyback facility — see [[redemption-elimination|Redemption Elimination]] for the structural rationale. Investors seeking liquidity identify a willing counterparty independently. The corporate entity does not intermediate this process and makes no representation about the availability or pricing of private liquidity for any specific asset.
 
 Broker-dealer channels that operate independently of the corporate entity may be engaged by investors to arrange transfers; WMC makes no representation about the suitability, availability, or cost of such channels.
 
@@ -59,9 +59,9 @@ The investor portal provides a ledger-accurate view of each investor's position 
 
 ## See also
 
-- [[topic-equity-transfer-model|Equity Transfer Model]] — the mechanics of peer-to-peer equity transfers in Direct-Hold assets
+- [[equity-transfer-model|Equity Transfer Model]] — the mechanics of peer-to-peer equity transfers in Direct-Hold assets
 - [[about-continuous-disclosure|Continuous Disclosure Obligations]] — the OSC reporting requirements that govern financial disclosures made through the portal
-- [[topic-property-ledger-technology|Property Ledger Technology]] — the technical infrastructure that maintains position data and financial event history
+- [[property-ledger-technology|Property Ledger Technology]] — the technical infrastructure that maintains position data and financial event history
 
 ---
 

@@ -19,7 +19,7 @@ paired_with: investor-access.md
 cites: []
 ---
 
-Un inversor en un activo de [[topic-direct-hold-framework|Tenencia Directa]] de WMC posee una posición en una propiedad específica y nombrada. El acceso a los datos de posición, informes financieros y registros de transacciones se proporciona a través del portal de inversores operado por MCorp. El portal refleja la posición del inversor en el [[topic-property-ledger-technology|registro]] —porcentaje de capital, historial de eventos financieros y registros de transferencias— para cada activo en el que mantiene una posición. La posición se estructura en [[topic-investment-units|unidades de inversión]] en el activo nombrado.
+Un inversor en un activo de [[direct-hold-framework|Tenencia Directa]] de WMC posee una posición en una propiedad específica y nombrada. El acceso a los datos de posición, informes financieros y registros de transacciones se proporciona a través del portal de inversores operado por MCorp. El portal refleja la posición del inversor en el [[property-ledger-technology|registro]] —porcentaje de capital, historial de eventos financieros y registros de transferencias— para cada activo en el que mantiene una posición. La posición se estructura en [[investment-units|unidades de inversión]] en el activo nombrado.
 
 ## Datos de posición
 
@@ -33,13 +33,13 @@ La frecuencia y el formato de los informes financieros se rigen por los estánda
 
 ## Registros de transferencias
 
-Cuando un inversor transfiere capital a una contraparte en virtud del [[topic-equity-transfer-model|Modelo de Transferencia de Capital]], el registro documenta la transacción: marca de tiempo, identidad de la parte cedente, identidad de la parte adquirente y porcentaje transferido. El inversor cedente recibe confirmación de la transacción completada. El inversor adquirente recibe un estado de posición actualizado que refleja el nuevo porcentaje de capital.
+Cuando un inversor transfiere capital a una contraparte en virtud del [[equity-transfer-model|Modelo de Transferencia de Capital]], el registro documenta la transacción: marca de tiempo, identidad de la parte cedente, identidad de la parte adquirente y porcentaje transferido. El inversor cedente recibe confirmación de la transacción completada. El inversor adquirente recibe un estado de posición actualizado que refleja el nuevo porcentaje de capital.
 
 WMC actualiza el registro para reflejar la transferencia. WMC no aprueba ni intermedia las transferencias entre partes privadas; su función es registrar la transacción con exactitud en el libro y confirmar las posiciones actualizadas a ambas partes.
 
 ## Sin mercado secundario
 
-WMC no opera un mercado secundario, un libro de órdenes cruzadas ni una facilidad de recompra — véase [[topic-redemption-elimination|Eliminación de Redención]] para el fundamento estructural. Los inversores que buscan liquidez identifican de forma independiente una contraparte dispuesta. La entidad corporativa no intermedia este proceso y no hace ninguna declaración sobre la disponibilidad ni el precio de la liquidez privada para ningún activo específico.
+WMC no opera un mercado secundario, un libro de órdenes cruzadas ni una facilidad de recompra — véase [[redemption-elimination|Eliminación de Redención]] para el fundamento estructural. Los inversores que buscan liquidez identifican de forma independiente una contraparte dispuesta. La entidad corporativa no intermedia este proceso y no hace ninguna declaración sobre la disponibilidad ni el precio de la liquidez privada para ningún activo específico.
 
 Los canales de intermediación que operan de forma independiente de la entidad corporativa pueden ser utilizados por los inversores para facilitar transferencias; WMC no hace ninguna declaración sobre la idoneidad, disponibilidad ni coste de dichos canales.
 
@@ -49,9 +49,9 @@ El acceso al portal se realiza mediante credenciales. WMC es responsable de la a
 
 ## Véase también
 
-- [[topic-equity-transfer-model|Modelo de Transferencia de Capital]] — la mecánica de las transferencias de capital entre pares en activos de Tenencia Directa
+- [[equity-transfer-model|Modelo de Transferencia de Capital]] — la mecánica de las transferencias de capital entre pares en activos de Tenencia Directa
 - [[about-continuous-disclosure|Obligaciones de Divulgación Continua]] — los requisitos de reporte ante la OSC que rigen las divulgaciones financieras realizadas a través del portal
-- [[topic-property-ledger-technology|Tecnología del Registro de Propiedades]] — la infraestructura técnica que mantiene los datos de posición y el historial de eventos financieros
+- [[property-ledger-technology|Tecnología del Registro de Propiedades]] — la infraestructura técnica que mantiene los datos de posición y el historial de eventos financieros
 
 ---
 
