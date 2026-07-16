@@ -32,10 +32,12 @@ nivel de fondo, capital perpetuo sin restricción de venta del activo para la sa
 alineación de intereses entre el Gerente Principal y los titulares de capital mediante una
 participación obligatoria del 10%.
 
-Esta enciclopedia está organizada en cinco áreas de conocimiento: [[investment/_index|estructura
-de inversión y arquitectura de vehículos]], [[governance/_index|postura regulatoria y
-obligaciones de divulgación]], [[economy/_index|filosofía económica y modelos cooperativos]],
-[[research/_index|investigación institucional de mercado]] y terminología de referencia.
+Esta enciclopedia está organizada en torno a [[company/_index|la empresa matriz]],
+[[investments/_index|los vehículos de inversión]], [[financial-model/_index|el modelo
+financiero que los sustenta]], [[distributions/_index|las distribuciones y transferencias
+de unidades]], [[governance/_index|la gobernanza y la estructura legal]],
+[[risks/_index|los factores de riesgo]], [[reports/_index|los informes regulatorios]] y la
+terminología de referencia.
 
 Las declaraciones prospectivas en esta enciclopedia reflejan las intenciones actuales y están
 sujetas a riesgos e incertidumbres; las afirmaciones se formulan con términos como planificado,

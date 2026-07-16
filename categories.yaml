@@ -6,7 +6,7 @@ audience: >-
   language throughout; categories are neutral, factual descriptions of the
   company and how it is organized — not securities-form section headings,
   and not invitations.
-version: 2026-07-02
+version: 2026-07-15
 companion: >-
   media-knowledge-projects carries the buildings-and-places half of the
   story: the buildings, how they are designed, how sites are chosen, the
@@ -123,18 +123,10 @@ categories:
     audience: "All readers — entity-specific"
     order: 11
 
-  - id: research
-    name: "Research"
-    scope: >-
-      The flagship long-form research papers — complete arguments, argued
-      end to end, with full citations. A small curated set, ~3-5 papers.
-    audience: "Analyst, academic, technical diligence"
-    order: 12
-
   - id: reference
     name: "Glossary and Reader's Guide"
     scope: >-
       Every defined term in plain words, plus the forward-looking-
       statements advisory and the non-IFRS measures explained.
     audience: "All readers — consulted, not browsed"
-    order: 13
+    order: 12

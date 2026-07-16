@@ -28,10 +28,11 @@ of underlying assets, elimination of fund-level redemption mechanics, perpetual 
 with no asset-sale-required-for-exit constraint, and alignment of interest between the
 Principal Manager and equity holders through a mandatory 10% co-investment stake.
 
-This encyclopedia is organized into five knowledge areas: [[investment/_index|investment
-structure and vehicle architecture]], [[governance/_index|regulatory posture and disclosure
-obligations]], [[economy/_index|economic philosophy and cooperative models]],
-[[research/_index|institutional market research]], and reference terminology. The investment
+This encyclopedia is organized around [[company/_index|the parent company itself]],
+[[investments/_index|the investment vehicles]], [[financial-model/_index|the financial model
+behind them]], [[distributions/_index|distributions and unit transfers]],
+[[governance/_index|governance and legal structure]], [[risks/_index|risk factors]],
+[[reports/_index|regulatory reports]], and reference terminology. The investments
 section covers the four direct-hold vehicle types, the equity transfer model, and the
 fiduciary mandate in detail.
 

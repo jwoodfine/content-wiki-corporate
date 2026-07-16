@@ -21,3 +21,14 @@ informal 6-category layout described in the archive CLAUDE.md.
 Rationale, the old → new rename table, the migration map, and the full BCSC
 disclosure posture are in
 `.agent/audit/2026-07-02-category-redesign/proposal-corporate.md`.
+
+**2026-07-15 — `research` category retired.** Ratified by Command via mailbox
+reply (operator-confirmed before execution) as a reversal of both the
+2026-07-02 decision above and `BRIEF-category-redesign-phase-c.md`'s locked
+decision, both cited explicitly per Command's own instruction. JOURNAL papers
+were never actually seeded into this shelf and never will be — the sovereign-
+per-surface JOURNAL model (`BRIEF-journal-research-programme.md`, project-editorial)
+routes all JOURNAL content to each product site's own `/research` page instead of
+the three media-knowledge wikis. The `research/_index.md`(+`.es.md`) empty shell
+is removed; `categories.yaml` drops the `research` entry (12 categories remain).
+No articles existed in this category — zero content lost, zero redirects needed.
