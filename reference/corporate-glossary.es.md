@@ -141,7 +141,7 @@ Es un conjunto curado de aproximadamente cincuenta términos, seleccionados de u
 
 **Ratio de Gastos Totales (TER)** — El costo total de administrar y operar un fondo de inversión, expresado como porcentaje de los activos bajo gestión.
 
-**Estructura de Gestión Tripartita** — Un modelo de gestión de tres partes en el que un desarrollador administra la construcción, una función de cumplimiento supervisa la gobernanza y un sindicato de gestores de activos supervisa las operaciones. Ver [[tripartite-management-structure|Estructura de gestión tripartita]].
+**Estructura de Gestión Tripartita** — La separación funcional en tres partes de la gestión de cada Solución de Tenencia Directa: ejecución del desarrollo y la construcción, administración del cumplimiento de una Entidad Reguladora Informante, y un sindicato independiente de Gestores de Activos que aporta Capital Privado Calificado — sin que ninguna función tenga autoridad sobre más de una de estas partes. Ver [[tripartite-management-structure|Estructura de gestión tripartita]].
 
 ## V
 

@@ -141,7 +141,7 @@ It is a curated core set of roughly fifty terms, selected from an internal extra
 
 **Total Expense Ratio (TER)** — The total cost of managing and operating an investment fund, expressed as a percentage of assets under management.
 
-**Tripartite Management Structure** — A three-party management model in which a developer manages construction, a compliance function oversees governance, and a syndicate of asset managers oversees operations. See [[tripartite-management-structure|Tripartite management structure]].
+**Tripartite Management Structure** — The three-way functional separation of each Direct-Hold Solution's management into development and construction execution, Regulated Reporting Entity compliance administration, and an independent Asset Manager banking syndicate sourcing Qualified Private Capital — with no single function holding authority over more than one leg. See [[tripartite-management-structure|Tripartite management structure]].
 
 ## V
 

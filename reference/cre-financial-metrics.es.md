@@ -65,6 +65,29 @@ en la cartera menos todas las obligaciones de deuda y otros pasivos.
 de todos los flujos de efectivo sea igual a cero. La TIR es la medida de rendimiento total
 para una inversión con plazo determinado, expresada como una tasa anualizada.
 
+**Tasa de crecimiento anual compuesta (CAGR)** — La tasa anual única y uniforme a la que un
+valor inicial tendría que crecer, componiéndose una vez al año sin flujos de efectivo
+intermedios, para alcanzar un valor final determinado en un número dado de años: (valor
+final ÷ valor inicial)^(1 ÷ número de años) − 1. El CAGR describe únicamente los dos puntos
+extremos de un período de tenencia; asume una tasa constante aplicada de manera uniforme en
+todo el período y no toma en cuenta ninguna distribución, llamada de capital u otro flujo de
+efectivo ocurrido entre esos dos puntos.
+
+**TIR frente a CAGR** — Ambas métricas se expresan como porcentajes anualizados, pero
+responden preguntas distintas y pueden divergir de manera significativa incluso cuando los
+valores inicial y final son idénticos. El CAGR es una tasa de crecimiento punto a punto: solo
+compara el valor inicial y el final y asume una única tasa de composición uniforme entre
+ambos. La TIR es la tasa de descuento que hace que el valor presente neto de la totalidad de
+los flujos de efectivo realizados — cada distribución intermedia y cada llamada de capital,
+más el valor terminal en la disposición — sea igual a cero, por lo que pondera correctamente
+el momento en que ocurrieron esos flujos. Una inversión que devuelve capital antes tiene una
+TIR más alta que una inversión idéntica que devuelve el mismo capital total más tarde, aun
+cuando ambas mostrarían el mismo CAGR; el CAGR no puede ver esa diferencia porque no examina
+lo que ocurre dentro del período de tenencia. El CAGR es la herramienta adecuada para
+describir una apreciación simple punto a punto; la TIR es la herramienta adecuada para
+evaluar una inversión de plazo determinado con flujos de efectivo que entran y salen a lo
+largo del período.
+
 **Múltiplo sobre capital invertido (MOIC)** — Efectivo total devuelto al inversor dividido
 entre el efectivo total invertido. Un MOIC de 2.0× significa que el inversor recibió $2.00
 por cada $1.00 invertido. El MOIC no tiene en cuenta el valor temporal del dinero.

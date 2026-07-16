@@ -54,7 +54,7 @@ Units in the Professional Centres United States LP are intended to be Public Non
 
 ## Spain — Professional Centres Spain SOCIMI
 
-The Professional Centres Spain SOCIMI is planned to be formed in Madrid as a Sociedad Cotizada de Inversión en el Mercantile Inmobiliario (SOCIMI). The SOCIMI is Spain's flow-through real estate investment vehicle. Under Spanish law, SOCIMI status confers exemption from corporate income tax on qualifying rental income and capital gains, subject to mandatory listing on a regulated market.
+The Professional Centres Spain SOCIMI is planned to be formed in Madrid as a Sociedad Anónima Cotizada de Inversión en el Mercado Inmobiliario (SOCIMI). The SOCIMI is Spain's flow-through real estate investment vehicle. Under Spanish law, SOCIMI status confers exemption from corporate income tax on qualifying rental income and capital gains, subject to mandatory listing on a regulated market.
 
 The Spain vehicle carries a mandatory listing requirement that does not apply in Canada, the United States, or Mexico: to maintain SOCIMI tax-exempt status, the vehicle must be listed on a regulated market, such as BME Growth or the main Bolsa de Madrid. This means the Spain SOCIMI is Cotizada — listed and subject to electronic matching on the exchange — in a way that the other three vehicles are not required to be. The Spain vehicle's Investment Units are nevertheless intended to be Freely Transferable, consistent with the framework, through the Iberclear central depositary. Continuous disclosure is intended to be filed with Spain's securities-market regulator, the Comisión Nacional del Mercado de Valores (CNMV), through its Sede Electrónica filing system.
 

@@ -82,6 +82,27 @@ IRR is the total return measure for a time-limited investment, expressed as an a
 rate. It is sensitive to the timing of cash flows and to the assumed exit capitalisation
 rate at disposition.
 
+**Compound annual growth rate (CAGR)** — The single, smoothed annual rate at which a
+beginning value would have to compound, once per year with no interim cash flows, to
+reach a given ending value over a stated number of years: (ending value ÷ beginning
+value)^(1 ÷ number of years) − 1. CAGR describes only the two endpoints of a holding
+period; it assumes one constant rate applied evenly across the full period and takes no
+account of any distributions, capital calls, or other cash flows that occurred between
+them.
+
+**IRR vs. CAGR** — The two metrics are both expressed as annualised percentages, but they
+answer different questions and can diverge materially even when the beginning and ending
+values are identical. CAGR is a point-to-point growth rate: it compares only the starting
+and ending value and assumes a single smooth compounding rate in between. IRR is the
+discount rate that sets the net present value of the entire realized cash-flow stream —
+every interim distribution and capital call, plus the terminal value at disposition —
+equal to zero, so it correctly weights when those cash flows occurred. An investment that
+returns capital earlier carries a higher IRR than an otherwise identical investment that
+returns the same total capital later, even though the two would show an identical CAGR;
+CAGR cannot see that difference because it does not look inside the holding period. CAGR
+is the right tool for describing simple point-to-point appreciation; IRR is the right tool
+for evaluating a time-limited investment with cash flows moving in and out along the way.
+
 **Multiple on invested capital (MOIC)** — Total cash returned to the investor divided by
 total cash invested. A MOIC of 2.0× means the investor received $2.00 back for every $1.00
 invested over the holding period. MOIC does not account for the time value of money; a 2.0×
