@@ -2,7 +2,7 @@
 title: "Corporate governance documents"
 slug: governance-documents
 category: governance
-last_edited: 2026-07-11
+last_edited: 2026-07-15
 editor: woodfine-editorial
 status: stable
 short_description: "Board mandate, committee charters, governance policy, and code of business conduct published as disclosure of governance practices under NP 58-201 and NI 58-101."
@@ -80,6 +80,16 @@ officers, employees, and contractors of WCP. It covers conflicts of interest, co
 information, fair dealing with customers and suppliers, compliance with applicable law, and
 the procedures for reporting concerns. The code is reviewed annually by the nominating and
 governance committee.
+
+## Unanimous shareholder agreement
+
+A Unanimous Shareholder Agreement, filed as a material contract, restricts the issuance and
+transfer of WCP's shares and sets the limits within which the board sets director and
+executive compensation. A separate, partnership-level instance of this agreement binds
+Woodfine Professional Centres Inc. — general partner of Professional Centres Canada LP — to a
+majority of arm's-length, independent directors on its board (see
+[[professional-centres-canada-lp-structure|Professional Centres Canada LP structure]] for the
+general partner's specific board-composition and quorum requirements).
 
 ## Governance documents
 

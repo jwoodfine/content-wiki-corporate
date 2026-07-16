@@ -9,7 +9,7 @@ quality: complete
 short_description: "Deployment framework for the Direct-Hold Solutions across Canada, the United States, Spain, and Mexico, each using the flow-through vehicle mandated by local securities law."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-11
+last_edited: 2026-07-15
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -56,17 +56,17 @@ Units in the Professional Centres United States LP are intended to be Public Non
 
 The Professional Centres Spain SOCIMI is planned to be formed in Madrid as a Sociedad Cotizada de Inversión en el Mercantile Inmobiliario (SOCIMI). The SOCIMI is Spain's flow-through real estate investment vehicle. Under Spanish law, SOCIMI status confers exemption from corporate income tax on qualifying rental income and capital gains, subject to mandatory listing on a regulated market.
 
-The Spain vehicle carries a mandatory listing requirement that does not apply in Canada, the United States, or Mexico: to maintain SOCIMI tax-exempt status, the vehicle must be listed on a regulated market, such as BME Growth or the main Bolsa de Madrid. This means the Spain SOCIMI is Cotizada — listed and subject to electronic matching on the exchange — in a way that the other three vehicles are not required to be. The Spain vehicle's Investment Units are nevertheless intended to be Freely Transferable, consistent with the framework, through the Iberclear central depositary.
+The Spain vehicle carries a mandatory listing requirement that does not apply in Canada, the United States, or Mexico: to maintain SOCIMI tax-exempt status, the vehicle must be listed on a regulated market, such as BME Growth or the main Bolsa de Madrid. This means the Spain SOCIMI is Cotizada — listed and subject to electronic matching on the exchange — in a way that the other three vehicles are not required to be. The Spain vehicle's Investment Units are nevertheless intended to be Freely Transferable, consistent with the framework, through the Iberclear central depositary. Continuous disclosure is intended to be filed with Spain's securities-market regulator, the Comisión Nacional del Mercado de Valores (CNMV), through its Sede Electrónica filing system.
 
 The target gross funded value is €250 million. The Spanish General Partner is planned to be a wholly owned subsidiary of WCP constituted under Spanish law.
 
 ## Mexico — Professional Centres Mexico FIBRA
 
-The Professional Centres Mexico FIBRA is planned to be formed in the State of Mexico as a Fideicomiso de Infraestructura en Bienes Raíces (FIBRA). A FIBRA is a private trust structure under Mexican law that serves as the local equivalent of a real estate investment trust. The FIBRA's Certificados de Participación Inmobiliaria (CBFIs) — trust participation certificates — constitute the Investment Units in the Mexico vehicle.
+The Professional Centres Mexico FIBRA is planned to be formed in the State of Mexico as a Fideicomiso de Infraestructura en Bienes Raíces (FIBRA). A FIBRA is a private trust structure under Mexican law that serves as the local equivalent of a real estate investment trust: a Mexican banking institution licensed to act as fiduciary holds legal title to the underlying real property in trust, for the benefit of the CBFI holders, who hold the beneficial and economic interest without direct real property title. Fiscal transparency at the trust level — pass-through taxation to CBFI holders — is established under Articles 187 and 188 of Mexico's Ley del Impuesto sobre la Renta (LISR), the federal income tax law. The FIBRA's Certificados de Participación Inmobiliaria (CBFIs) — trust participation certificates — constitute the Investment Units in the Mexico vehicle.
 
-The Mexico FIBRA is a Private FIBRA: its CBFIs are unlisted and trade over the counter at a reference value, deposited at Indeval, Mexico's central securities depositary. Continuous disclosure is filed with the Comisión Nacional Bancaria y de Valores (CNBV) through the STIV-2 platform. The Mexico vehicle is subject to CNBV registration requirements as an unlisted Emisora.
+The Mexico FIBRA is a Private FIBRA: its CBFIs are unlisted and trade over the counter at a reference value, deposited at Indeval, Mexico's central securities depositary. The reference-value pricing method is authorized for unlisted FIBRAs under Article 188 of the LISR and Resolución Miscelánea Fiscal Rule 3.21.3.2, in place of a public market price. Continuous disclosure is filed with the Comisión Nacional Bancaria y de Valores (CNBV) through the STIV-2 platform. The Mexico vehicle is subject to CNBV registration requirements as an unlisted Emisora. CBFIs are separately registered in Mexico's Registro Nacional de Valores (RNV), which the CNBV administers, notwithstanding the Private FIBRA variant's unlisted trading status.
 
-The target gross funded value is MN$5,000 million pesos. The Administrator is planned to be a wholly owned subsidiary of WCP constituted under Mexican law.
+The target gross funded value is MN$5,000 million pesos. The Administrator is planned to be a wholly owned subsidiary of WCP constituted under Mexican law. The vehicle's Exchange-Traded First Secured Mortgage Debentures are intended to trade on the Bolsa Mexicana de Valores (BMV) or the Bolsa Institucional de Valores (BIVA), Mexico's two authorized securities exchanges, distinct from the CBFIs, which remain unlisted.
 
 ## Self-Similar Governance
 

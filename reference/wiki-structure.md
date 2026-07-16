@@ -15,6 +15,8 @@ short_description: "A reader's map: this knowledge base describes the
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
+last_edited: 2026-07-15
+editor: woodfine-editorial
 paired_with: wiki-structure.es.md
 ---
 
@@ -72,6 +74,19 @@ them all.
 
 Each section opens with the company's profile: its legal form, home
 country, regulator, filing system, auditor, and year end.
+
+## The newsroom
+
+The Reports — Woodfine Capital Projects section also carries a newsroom: a
+feed of dated releases, distinct from the standing reference material
+around it. Two release types populate it — a Regulatory Release, the
+short, minimum-word disclosure issued for a material change event, and a
+Media Release, a longer narrative account built around a specific event.
+The newsroom is not a separate site; each reporting company's Reports
+section is intended to carry its own feed, though today only the parent
+company's section does. It is distinct from the companion projects
+knowledge base's News category, which carries release notes about that
+knowledge base itself, not corporate disclosure.
 
 ## Research and reference
 

@@ -10,7 +10,7 @@ short_description: "Cómo la forma jurídica de sociedad en comandita implementa
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-29
+last_edited: 2026-07-15
 editor: woodfine-editorial
 paired_with: limited-partnership-structure.md
 ---
@@ -41,6 +41,21 @@ y es personalmente responsable de las deudas y obligaciones de la sociedad. Los 
 comanditarios aportan capital y participan en los resultados económicos, pero no tienen
 autoridad para comprometer a la sociedad y soportan responsabilidad solo en la medida de
 su capital invertido.
+
+## Mecanismo de dispensa y modificación de convenios
+
+El convenio de razón de cobertura de intereses, junto con los demás convenios de disciplina
+crediticia de la sociedad, no es absoluto: una Resolución Especial permite a los socios
+comanditarios dispensar los convenios de endeudamiento — incluido el umbral de
+[[interest-coverage-ratio|razón de cobertura de intereses]] que condiciona la emisión de nueva
+deuda —, aumentar el límite de captación de capital, o aprobar otras modificaciones
+fundamentales a los documentos rectores de la sociedad. Una Resolución Especial requiere una
+mayoría calificada definida de los votos emitidos, o una resolución escrita equivalente; el
+umbral de voto específico se establece en el acuerdo de sociedad en comandita de cada solución
+de tenencia directa. Debido a que esa mayoría calificada corresponde a los socios comanditarios
+y no al socio gestor, el convenio no puede relajarse unilateralmente por la administración —
+toda dispensa está sujeta al mismo estándar de consentimiento de los inversores que cualquier
+otra modificación fundamental a los documentos rectores de la sociedad.
 
 ## Cuentas de capital
 

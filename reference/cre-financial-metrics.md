@@ -6,11 +6,11 @@ category: reference
 type: topic
 content_type: topic
 quality: complete
-short_description: "Definitions of the primary financial metrics used in commercial real estate investment analysis: NOI, DSCR, LTV, ICR, FFO, AFFO, NAV, IRR, and MOIC."
+short_description: "Definitions of the primary financial metrics used in commercial real estate investment analysis: NOI, DSCR, LTV, ICR, FFO, AFFO, NAV, IRR, CAGR, and MOIC."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-07-15
 editor: woodfine-editorial
 paired_with: cre-financial-metrics.es.md
 ---

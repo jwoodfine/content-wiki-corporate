@@ -16,6 +16,8 @@ short_description: "Un mapa para el lector: esta base de conocimiento
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
+last_edited: 2026-07-15
+editor: woodfine-editorial
 paired_with: wiki-structure.md
 ---
 
@@ -81,6 +83,21 @@ Aprenda una y las habrá aprendido todas.
 Cada sección abre con el perfil de la empresa: su forma jurídica, país
 de origen, regulador, sistema de presentación, auditor y cierre de
 ejercicio.
+
+## El Newsroom
+
+La sección de Informes — Woodfine Capital Projects también incluye un
+Newsroom: un canal de comunicados fechados, distinto del material de
+referencia permanente que lo rodea. Dos tipos de comunicado lo alimentan
+— un Regulatory Release (comunicado regulatorio), la divulgación breve y
+de palabras mínimas que se emite ante un hecho de cambio material, y un
+Media Release (comunicado mediático), un relato más extenso construido en
+torno a un acontecimiento concreto. El Newsroom no es un sitio aparte:
+cada sección de Informes de cada empresa que informa está prevista para
+tener su propio canal, aunque hoy solo lo tiene la sección de la empresa
+matriz. Es distinto de la categoría Noticias de la base de conocimiento
+de proyectos que la acompaña, la cual recoge notas de lanzamiento sobre
+esa base de conocimiento y no divulgación corporativa.
 
 ## Investigación y referencia
 

@@ -43,6 +43,8 @@ Es un conjunto curado de aproximadamente cincuenta términos, seleccionados de u
 
 **Depósito Central de Valores** — El registro custodio nacional de valores en una jurisdicción — CDS en Canadá, DTC en Estados Unidos, Indeval en México, Iberclear en España.
 
+**Tasa de Crecimiento Anual Compuesta (CAGR)** — La tasa anual única y uniforme a la que un valor inicial tendría que crecer para alcanzar un valor final determinado, asumiendo que no hay flujos de efectivo intermedios; distinta de la TIR, que pondera el momento de las distribuciones y llamadas de capital reales. Ver [[cre-financial-metrics|Métricas financieras de bienes raíces comerciales]].
+
 **Estructura Corporativa** — La estructura de tres entidades bajo Woodfine Capital Projects Inc. que separa la propiedad, la tecnología y las operaciones de bienes raíces. Ver [[corporate-structure|Estructura corporativa]].
 
 ## D

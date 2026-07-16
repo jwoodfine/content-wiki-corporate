@@ -10,7 +10,7 @@ short_description: "How the limited partnership legal form implements the direct
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-07-15
 editor: woodfine-editorial
 paired_with: limited-partnership-structure.es.md
 ---
@@ -63,6 +63,19 @@ The transfer provisions of the agreement implement the equity transfer model: li
 may transfer their units to willing counterparties without requiring general partner approval,
 subject only to compliance with applicable securities law exemptions. The general partner
 updates the unit register to record the transfer.
+
+## Covenant waiver and amendment mechanics
+
+The interest coverage ratio covenant, along with the partnership's other borrowing-discipline
+covenants, is not absolute: a Special Resolution allows limited partners to waive the borrowing
+covenants — including the [[interest-coverage-ratio|interest coverage ratio]] floor that gates
+new debt issuance — increase the fund-raising cap, or approve other fundamental changes to the
+partnership's governing documents. A Special Resolution requires a defined supermajority of
+votes cast, or an equivalent written resolution; the specific vote threshold is set out in each
+direct-hold solution's partnership agreement. Because that supermajority sits with the limited
+partners rather than the general partner, the covenant floor cannot be relaxed unilaterally by
+management — any waiver carries the same investor-consent standard as any other fundamental
+amendment to the partnership's governing documents.
 
 ## Capital accounts
 

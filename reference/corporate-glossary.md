@@ -43,6 +43,8 @@ It is a curated core set of roughly fifty terms, selected from an internal extra
 
 **Central Securities Depository** — The national ledger of record for securities — CDS in Canada, DTC in the United States, Indeval in Mexico, Iberclear in Spain.
 
+**Compound Annual Growth Rate (CAGR)** — The single, smoothed annual rate at which a beginning value would have to compound to reach a given ending value, assuming no interim cash flows; distinct from IRR, which weights the timing of actual distributions and capital calls. See [[cre-financial-metrics|Commercial real estate financial metrics]].
+
 **Corporate Structure** — The three-entity structure under Woodfine Capital Projects Inc. separating ownership, technology, and real estate operations. See [[corporate-structure|Corporate structure]].
 
 ## D

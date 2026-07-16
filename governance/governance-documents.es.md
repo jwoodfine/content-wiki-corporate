@@ -2,7 +2,7 @@
 title: "Documentos de gobernanza corporativa"
 slug: governance-documents
 category: governance
-last_edited: 2026-06-29
+last_edited: 2026-07-15
 editor: woodfine-editorial
 status: stable
 short_description: "Mandato del consejo, estatutos de comités, política de gobernanza y código de conducta empresarial publicados como divulgación de prácticas de gobernanza bajo NP 58-201 y NI 58-101."
@@ -75,6 +75,17 @@ El código de conducta empresarial establece las normas éticas aplicables a tod
 consejeros, funcionarios, empleados y contratistas de WCP. Cubre los conflictos de interés,
 la información confidencial, el trato justo con clientes y proveedores, el cumplimiento de la
 legislación aplicable y los procedimientos para la denuncia de irregularidades.
+
+## Acuerdo unánime de accionistas
+
+Un Acuerdo Unánime de Accionistas, presentado como contrato material, restringe la emisión y
+la transferencia de las acciones de WCP y establece los límites dentro de los cuales el consejo
+fija la retribución de consejeros y directivos. Una instancia distinta de este acuerdo, a nivel
+de la sociedad en comandita, sujeta a Woodfine Professional Centres Inc. — socio general de
+Professional Centres Canada LP — a que la mayoría de su consejo esté compuesta por directores
+independientes, sin vínculos con el promotor (véase
+[[professional-centres-canada-lp-structure|la estructura de Professional Centres Canada LP]]
+para los requisitos específicos de composición y quórum del consejo del socio general).
 
 ## Documentos de gobernanza
 

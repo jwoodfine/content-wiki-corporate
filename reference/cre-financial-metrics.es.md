@@ -6,11 +6,11 @@ category: reference
 type: topic
 content_type: topic
 quality: complete
-short_description: "Definiciones de las métricas financieras primarias utilizadas en el análisis de inversión en bienes raíces comerciales: ION, RCSD, RPV, RCI, FFO, AFFO, VAN, TIR y MOIC."
+short_description: "Definiciones de las métricas financieras primarias utilizadas en el análisis de inversión en bienes raíces comerciales: ION, RCSD, RPV, RCI, FFO, AFFO, VAN, TIR, CAGR y MOIC."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-29
+last_edited: 2026-07-15
 editor: woodfine-editorial
 paired_with: cre-financial-metrics.md
 ---

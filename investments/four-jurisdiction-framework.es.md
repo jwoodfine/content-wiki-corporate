@@ -9,7 +9,7 @@ quality: complete
 short_description: "Marco de despliegue previsto de las Direct-Hold Solutions en Canadá, Estados Unidos, España y México, cada una con el vehículo de flujo directo que exige la ley local de valores."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-15
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -48,13 +48,13 @@ La Professional Centres United States LP está prevista para constituirse en Del
 
 La Professional Centres Spain SOCIMI está prevista para constituirse en Madrid como Sociedad Cotizada de Inversión en el Mercado Inmobiliario. El SOCIMI es el vehículo inmobiliario de flujo directo de España. Bajo la ley española, el estado SOCIMI confiere exención del impuesto de sociedades sobre rentas de alquiler y plusvalías calificadas, sujeto a cotización obligatoria en un mercado regulado.
 
-El vehículo de España lleva un requisito de cotización estatutaria que no aplica en Canadá, Estados Unidos o México: para mantener el estado de exención fiscal del SOCIMI, el vehículo debe estar admitido a negociación en un mercado regulado, como BME Growth o el mercado principal de la Bolsa de Madrid. El valor financiado bruto objetivo es €250 millones.
+El vehículo de España lleva un requisito de cotización estatutaria que no aplica en Canadá, Estados Unidos o México: para mantener el estado de exención fiscal del SOCIMI, el vehículo debe estar admitido a negociación en un mercado regulado, como BME Growth o el mercado principal de la Bolsa de Madrid. La divulgación continua está prevista para presentarse ante el regulador español de mercados de valores, la Comisión Nacional del Mercado de Valores (CNMV), a través de su sistema de Sede Electrónica. El valor financiado bruto objetivo es €250 millones.
 
 ## México — Professional Centres Mexico FIBRA
 
-La Professional Centres Mexico FIBRA está prevista para constituirse en el Estado de México como Fideicomiso de Infraestructura en Bienes Raíces (FIBRA). Una FIBRA es una estructura de fideicomiso privado bajo la ley mexicana que sirve como el equivalente local de un fideicomiso de inversión inmobiliaria. Los Certificados de Participación Inmobiliaria (CBFIs) del FIBRA — certificados de participación fiduciaria — constituyen las Unidades de Inversión en el vehículo de México.
+La Professional Centres Mexico FIBRA está prevista para constituirse en el Estado de México como Fideicomiso de Infraestructura en Bienes Raíces (FIBRA). Una FIBRA es una estructura de fideicomiso privado bajo la ley mexicana que sirve como el equivalente local de un fideicomiso de inversión inmobiliaria: una institución bancaria mexicana autorizada como fiduciaria retiene el título legal del bien inmueble subyacente en fideicomiso, en beneficio de los tenedores de CBFIs, quienes reciben el interés económico sin ostentar directamente la titularidad del inmueble. La transparencia fiscal del fideicomiso se sustenta en los Artículos 187 y 188 de la Ley del Impuesto sobre la Renta (LISR). Los Certificados de Participación Inmobiliaria (CBFIs) del FIBRA — certificados de participación fiduciaria — constituyen las Unidades de Inversión en el vehículo de México.
 
-La FIBRA de México es una FIBRA Privada: sus CBFIs no están cotizados y se negocian en OTC a un valor de referencia, depositados en Indeval, el depositario central de valores de México. La divulgación continua se presenta ante la CNBV a través de la plataforma STIV-2. El valor financiado bruto objetivo es MN$5.000 millones de pesos.
+La FIBRA de México es una FIBRA Privada: sus CBFIs no están cotizados y se negocian en OTC a un valor de referencia, depositados en Indeval, el depositario central de valores de México. Este método de valor de referencia está autorizado para FIBRAs no listadas bajo el Artículo 188 de la LISR y la Regla 3.21.3.2 de la Resolución Miscelánea Fiscal, en lugar de un precio de mercado público. La divulgación continua se presenta ante la CNBV a través de la plataforma STIV-2. Los CBFIs están además inscritos en el Registro Nacional de Valores (RNV) de México, que administra la CNBV, pese al carácter no listado de la FIBRA Privada. Las Obligaciones con Primera Hipoteca Garantizada Negociadas en Bolsa del vehículo están previstas para negociarse en la Bolsa Mexicana de Valores (BMV) o la Bolsa Institucional de Valores (BIVA), las dos bolsas de valores autorizadas de México, distintas de los CBFIs, que permanecen no listados. El valor financiado bruto objetivo es MN$5.000 millones de pesos.
 
 ## Gobernanza Autosimilar
 
