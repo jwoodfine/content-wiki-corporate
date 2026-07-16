@@ -27,22 +27,28 @@ This repo is **content only**. No code. No compiled binaries.
 Classification per workspace §8: **content-wiki repo** — no project
 registry. The per-project-cluster mechanism does not apply.
 
-**Category layout (2026-06-26).** This repo was converted from flat
-layout to category directories as part of the jennifer-to-wiki
-backfill initiative (BRIEF-jennifer-to-wiki-backfill.md in
-project-editorial). Five categories with bilingual MOC pages:
+**Category layout (corrected 2026-07-15 — was stale since the 2026-07-02
+Phase C redesign; see `BRIEF-category-redesign-phase-c.md` in
+project-editorial).** Canonical source is this repo's own root
+`categories.yaml` — read that directly if this table and it ever
+disagree again. Thirteen categories, all with bilingual MOC pages:
 
 | Category | Scope |
 |---|---|
-| `investment/` | Direct-hold structure, equity model, vehicle types |
-| `governance/` | Regulatory posture, disclosure, investor access |
-| `economy/` | Distributist + cooperative economic foundations |
-| `research/` | Institutional-press-register research summaries |
-| `reference/` | Terminology, glossary expansions |
+| `company/` | Who Woodfine is — the parent holding company |
+| `investments/` | The investment vehicles, present and planned |
+| `financial-model/` | The Narrow Banking financial engine |
+| `distributions/` | Distribution policy and unit-transfer mechanism |
+| `governance/` | Who is in charge, investor protections |
+| `risks/` | Market, property, financing, development, structural risk |
+| `reports/` | The parent company's own paper trail |
+| `reports-canada/`, `reports-united-states/`, `reports-spain/`, `reports-mexico/` | Per-jurisdiction Direct-Hold Solution vehicle reporting |
+| `research/` | Flagship long-form research (JOURNAL never publishes here — see `research`-category retirement in `BRIEF-journal-and-taxonomy-redesign.md`) |
+| `reference/` | Glossary, terminology, forward-looking-statements advisory |
 
-Existing flat `topic-*.md` articles remain at root until migrated
-(confirmed migration plan: alias-based `git mv`, pending alias
-engine verification with Command). New articles go into categories.
+No flat `topic-*.md` articles remain — migration to category
+directories completed as part of Phase C (2026-07-03). New articles
+go directly into the category their subject matter belongs to.
 
 Three root institutional pages — `about.md`, `contact.md`,
 `disclaimers.md` — stay at root with `category: governance` frontmatter.
