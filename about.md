@@ -10,10 +10,11 @@ last_edited: 2026-07-11
 editor: pointsav-engineering
 ---
 
-This wiki is the corporate reference for MCorp's legal architectures,
+This wiki is the corporate reference for the Woodfine group's legal architectures,
 economic models, and fiduciary compliance protocols — including the [[topic-direct-hold-framework|Direct-Hold framework]],
 the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]], and the [[topic-corporate-structure|corporate structure]]
-within which WMC operates. It is maintained by MCorp staff and is intended
+of Woodfine Capital Projects Inc. and its subsidiaries. It is maintained by MCorp, which may engage
+third-party contractors and service providers under its oversight to do so, and is intended
 for institutional finance professionals — investment bankers, asset managers, portfolio managers,
 and auditors reviewing Woodfine holdings and structures.
 
