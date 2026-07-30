@@ -69,7 +69,7 @@ de registro están disponibles a solicitud.
 
 ## Jurisdicción
 
-Woodfine Capital Projects Inc. está constituida en Columbia Británica, Canadá. Las
+Woodfine Capital Projects Inc. está constituida federalmente bajo la Ley Canadiense de Sociedades por Acciones (Canada Business Corporations Act), y está registrada extra-provincialmente para operar en Columbia Británica, Canadá. Las
 referencias a la Sovereign Data Foundation en este wiki describen una iniciativa planificada
 o prevista únicamente, no una titular de capital actual ni un órgano de gobierno activo.
 

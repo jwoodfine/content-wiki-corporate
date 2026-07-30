@@ -17,10 +17,11 @@ categories:
   - id: company
     name: "The Company"
     scope: >-
-      Who Woodfine is: a British Columbia holding company that develops and
-      promotes commercial buildings — a Developer and Promoter, not an
-      asset manager — its history, its people, its subsidiaries, and how
-      the business operates.
+      Who Woodfine is: a federally incorporated Canadian holding company,
+      extra-provincially registered to carry on business in British Columbia,
+      that develops and promotes commercial buildings — a Developer and
+      Promoter, not an asset manager — its history, its people, its
+      subsidiaries, and how the business operates.
     audience: "Everyone — first visit"
     order: 1
 

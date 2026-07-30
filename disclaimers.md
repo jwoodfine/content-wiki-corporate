@@ -64,7 +64,7 @@ available on request.
 
 ## Jurisdiction
 
-Woodfine Capital Projects Inc. is organised in British Columbia, Canada. References to the
+Woodfine Capital Projects Inc. is incorporated federally under the Canada Business Corporations Act, and is extra-provincially registered to carry on business in British Columbia, Canada. References to the
 Sovereign Data Foundation on this wiki describe a planned or intended initiative only, not a
 current equity holder or active governance body.
 
