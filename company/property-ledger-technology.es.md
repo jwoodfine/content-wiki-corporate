@@ -4,7 +4,7 @@ title: "Tecnología del Registro de Propiedades"
 slug: property-ledger-technology
 aliases:
   - topic-property-ledger-technology
-short_description: "Infraestructura tecnológica subyacente a cada registro de propiedades de WMC: registro criptográfico de participaciones fraccionarias de capital, eventos del activo e historial de transferencias, mantenido por PointSav Digital Systems bajo la custodia de WMC."
+short_description: "Infraestructura tecnológica subyacente a cada registro de propiedades de los vehículos de Tenencia Directa: registro criptográfico de participaciones fraccionarias de capital, eventos del activo e historial de transferencias, mantenido por PointSav Digital Systems bajo la custodia del órgano de gobierno del vehículo."
 category: company
 type: reference
 content_type: topic
@@ -13,13 +13,13 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-25
+last_edited: 2026-07-30
 editor: pointsav-engineering
 paired_with: property-ledger-technology.md
 cites: []
 ---
 
-Cada activo mantenido bajo el [[topic-direct-hold-framework|Marco de Tenencia Directa]] tiene un registro de propiedades asociado. El registro es el documento autoritativo de las asignaciones fraccionarias de capital, los eventos financieros del activo y el historial de transferencias. MCorp ostenta la custodia legal del registro en virtud del [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]]; PointSav Digital Systems mantiene la infraestructura técnica en su calidad de proveedor de servicios tecnológicos contratado bajo el [[topic-technology-services|acuerdo de servicios tecnológicos]].
+Cada activo mantenido bajo el [[topic-direct-hold-framework|Marco de Tenencia Directa]] tiene un registro de propiedades asociado. El registro es el documento autoritativo de las asignaciones fraccionarias de capital, los eventos financieros del activo y el historial de transferencias. El propio órgano de gobierno del vehículo — en Canadá, el socio general, Woodfine Professional Centres Inc. — ostenta la custodia legal del registro en virtud del [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]]; PointSav Digital Systems mantiene la infraestructura técnica en su calidad de proveedor de servicios tecnológicos contratado bajo el [[topic-technology-services|acuerdo de servicios tecnológicos]].
 
 ## Qué registra el libro
 
@@ -33,11 +33,11 @@ El registro de propiedades recoge tres categorías de información:
 
 ## Custodia y control
 
-WMC ostenta la custodia legal de todos los datos del registro. PointSav mantiene la infraestructura técnica —claves privadas, hardware de servidores, pila de software— como proveedor de servicios contratado en virtud del acuerdo de servicios tecnológicos. La entidad que posee las claves privadas y opera el registro es la que ejerce el control técnico efectivo sobre el documento. WMC, como custodio legal, dirige cómo se opera la infraestructura y puede exigir la exportación de datos o la transferencia de infraestructura en cualquier momento.
+El órgano de gobierno del vehículo ostenta la custodia legal de todos los datos del registro. PointSav mantiene la infraestructura técnica —claves privadas, hardware de servidores, pila de software— como proveedor de servicios contratado en virtud del acuerdo de servicios tecnológicos. La entidad que posee las claves privadas y opera el registro es la que ejerce el control técnico efectivo sobre el documento. El órgano de gobierno, como custodio legal, dirige cómo se opera la infraestructura y puede exigir la exportación de datos o la transferencia de infraestructura en cualquier momento.
 
 ## Principio de control soberano
 
-Un propietario de inmueble que no puede acceder al registro que acredita su titularidad sobre un activo queda funcionalmente desposeído. La arquitectura está diseñada para que WMC pueda recuperar el control operativo completo del registro de forma independiente de cualquier proveedor de tecnología específico. Los datos del registro se almacenan en formatos portables; el documento no está vinculado a la implementación de software específica de PointSav.
+Un propietario de inmueble que no puede acceder al registro que acredita su titularidad sobre un activo queda funcionalmente desposeído. La arquitectura está diseñada para que el órgano de gobierno pueda recuperar el control operativo completo del registro de forma independiente de cualquier proveedor de tecnología específico. Los datos del registro se almacenan en formatos portables; el documento no está vinculado a la implementación de software específica de PointSav.
 
 ## Mecanismos de integridad
 
@@ -45,12 +45,12 @@ La estructura de solo adición de los registros operativos impide la modificaci�
 
 ## No es un libro de contabilidad distribuido público
 
-El registro de propiedades es un registro criptográfico mantenido por la entidad corporativa. No es una cadena de bloques pública ni un libro de contabilidad distribuido mantenido por validadores externos. La entidad corporativa es la autoridad sobre el estado del registro. Esta es una decisión de diseño deliberada: los libros de contabilidad distribuidos públicos introducen dependencias de contrapartes —redes de validadores, órganos de gobernanza de protocolos— que la arquitectura está específicamente diseñada para evitar.
+El registro de propiedades es un registro criptográfico mantenido bajo la autoridad del órgano de gobierno del vehículo. No es una cadena de bloques pública ni un libro de contabilidad distribuido mantenido por validadores externos. El órgano de gobierno es la autoridad sobre el estado del registro. Esta es una decisión de diseño deliberada: los libros de contabilidad distribuidos públicos introducen dependencias de contrapartes —redes de validadores, órganos de gobernanza de protocolos— que la arquitectura está específicamente diseñada para evitar.
 
 ## Véase también
 
-- [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] — las obligaciones de WMC como custodio del registro de propiedades
-- [[topic-data-governance|Gobernanza de Datos]] — cómo se manejan los datos personales y operativos bajo el marco de custodia de WMC
+- [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] — las obligaciones del órgano de gobierno como custodio del registro de propiedades
+- [[topic-data-governance|Gobernanza de Datos]] — cómo se manejan los datos personales y operativos bajo el marco de custodia del órgano de gobierno
 - [[topic-vendor-customer-model|Modelo Proveedor-Cliente]] — la relación de servicios bajo la cual PointSav mantiene la infraestructura técnica
 - [Arquitectura del Registro WORM](https://documentation.pointsav.com/infrastructure/worm-ledger-architecture) — arquitectura subyacente del registro referenciada en este artículo
 

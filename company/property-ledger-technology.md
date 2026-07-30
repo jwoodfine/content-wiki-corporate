@@ -4,7 +4,7 @@ title: "Property ledger technology"
 slug: property-ledger-technology
 aliases:
   - topic-property-ledger-technology
-short_description: "Technology infrastructure underlying each WMC property ledger: cryptographic record of fractional equity holdings, asset events, and transfer history, maintained by PointSav Digital Systems under WMC custody."
+short_description: "Technology infrastructure underlying each Direct-Hold vehicle's property ledger: cryptographic record of fractional equity holdings, asset events, and transfer history, maintained by PointSav Digital Systems under the vehicle's governing-body custody."
 category: company
 type: reference
 content_type: topic
@@ -13,19 +13,19 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-07-30
 editor: pointsav-engineering
 paired_with: property-ledger-technology.es.md
 cites: []
 ---
 
-Each asset maintained under the [[topic-direct-hold-framework|Direct-Hold framework]] has an associated property ledger. The ledger is the authoritative record of fractional equity assignments, asset financial events, and transfer history. MCorp holds legal custody of the ledger under the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]]; PointSav Digital Systems maintains the technical infrastructure as the contracted technology provider under the [[topic-technology-services|technology services agreement]].
+Each asset maintained under the [[topic-direct-hold-framework|Direct-Hold framework]] has an associated property ledger. The ledger is the authoritative record of fractional equity assignments, asset financial events, and transfer history. The vehicle's own governing body — in Canada, the General Partner, Woodfine Professional Centres Inc. — holds legal custody of the ledger under the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]]; PointSav Digital Systems maintains the technical infrastructure as the contracted technology provider under the [[topic-technology-services|technology services agreement]].
 
 ## Key takeaways
 
 - Each Direct-Hold asset has a dedicated ledger capturing three record categories: fractional equity assignments, asset financial events (append-only), and peer-to-peer transfer history with a full chain of title from initial issuance.
-- WMC holds legal custody and directs how the infrastructure is operated; PointSav holds the private keys and server hardware as a contracted services provider — the entity that controls the keys is in effective technical control of the record.
-- The ledger is a private cryptographic record maintained by the corporate entity, not a public blockchain — external validator dependencies and protocol governance bodies are deliberately excluded from the architecture.
+- The vehicle's governing body holds legal custody and directs how the infrastructure is operated; PointSav holds the private keys and server hardware as a contracted services provider — the entity that controls the keys is in effective technical control of the record.
+- The ledger is a private cryptographic record maintained under the governing body's authority, not a public blockchain — external validator dependencies and protocol governance bodies are deliberately excluded from the architecture.
 
 ## What the ledger records
 
@@ -39,11 +39,11 @@ The property ledger captures three categories of information:
 
 ## Custody and control
 
-WMC holds legal custody of all ledger data. PointSav maintains the technical infrastructure — private keys, server hardware, software stack — as a contracted services provider under the technology services agreement. The entity that holds the private keys and operates the ledger is the entity in effective technical control of the record. WMC, as the legal custodian, directs how the infrastructure is operated and can require data export or infrastructure transfer at any time.
+The vehicle's governing body holds legal custody of all ledger data. PointSav maintains the technical infrastructure — private keys, server hardware, software stack — as a contracted services provider under the technology services agreement. The entity that holds the private keys and operates the ledger is the entity in effective technical control of the record. The governing body, as the legal custodian, directs how the infrastructure is operated and can require data export or infrastructure transfer at any time.
 
 ## Sovereign control principle
 
-A property owner that cannot access the ledger proving ownership of an asset is functionally dispossessed. The architecture is designed so that WMC can recover full operational control of the ledger independently of any single technology provider. Ledger data is stored in portable formats; the record is not locked to PointSav's specific software implementation.
+A property owner that cannot access the ledger proving ownership of an asset is functionally dispossessed. The architecture is designed so that the governing body can recover full operational control of the ledger independently of any single technology provider. Ledger data is stored in portable formats; the record is not locked to PointSav's specific software implementation.
 
 ## Integrity mechanisms
 
@@ -51,16 +51,16 @@ The append-only structure of operational records prevents retroactive modificati
 
 ## Not a public distributed ledger
 
-The property ledger is a cryptographic record maintained by the corporate entity. It is not a public blockchain or a distributed ledger maintained by external validators. The corporate entity is the authority on ledger state. This is a deliberate design choice: public distributed ledgers introduce counterparty dependencies — validator networks, protocol governance bodies — that the architecture is specifically designed to avoid.
+The property ledger is a cryptographic record maintained under the vehicle's governing body's authority. It is not a public blockchain or a distributed ledger maintained by external validators. The governing body is the authority on ledger state. This is a deliberate design choice: public distributed ledgers introduce counterparty dependencies — validator networks, protocol governance bodies — that the architecture is specifically designed to avoid.
 
 ## The bottom line
 
-The property ledger is the legal foundation of the investor relationship: it is the record that proves who holds what in each named asset. The architecture is designed around two priorities — integrity and sovereignty. Integrity is maintained by append-only financial event records and the F12 commit protocol, which prevents any automated process from modifying the equity record. Sovereignty is maintained by storing ledger data in portable formats under WMC's legal custody, so that WMC can recover full operational control independently of its current technology provider. The choice of a private cryptographic record over a public distributed ledger reflects the same logic: external validator networks introduce dependencies the architecture is built to avoid.
+The property ledger is the legal foundation of the investor relationship: it is the record that proves who holds what in each named asset. The architecture is designed around two priorities — integrity and sovereignty. Integrity is maintained by append-only financial event records and the F12 commit protocol, which prevents any automated process from modifying the equity record. Sovereignty is maintained by storing ledger data in portable formats under the governing body's legal custody, so that the governing body can recover full operational control independently of its current technology provider. The choice of a private cryptographic record over a public distributed ledger reflects the same logic: external validator networks introduce dependencies the architecture is built to avoid.
 
 ## See also
 
-- [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] — WMC's obligations as the data custodian of the property ledger
-- [[topic-data-governance|Data Governance]] — how personal and operational data are handled under WMC's custody framework
+- [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] — the governing body's obligations as the data custodian of the property ledger
+- [[topic-data-governance|Data Governance]] — how personal and operational data are handled under the governing body's custody framework
 - [[topic-vendor-customer-model|Vendor-Customer Model]] — the services relationship under which PointSav maintains the technical infrastructure
 - [WORM Ledger Architecture](https://documentation.pointsav.com/infrastructure/worm-ledger-architecture) — the underlying ledger architecture referenced in this article
 
