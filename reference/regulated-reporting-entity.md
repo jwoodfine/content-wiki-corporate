@@ -9,7 +9,7 @@ quality: complete
 short_description: "The cross-border bridge term Woodfine uses in place of jurisdiction-specific designations such as Reporting Issuer, Entidad Pública, or Emisora — a Regulated Reporting Entity files continuous public disclosure in its sovereign jurisdiction regardless of exchange-listing status."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-11
+last_edited: 2026-07-30
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -42,7 +42,7 @@ The following table maps the Regulated Reporting Entity designation to its sover
 
 ## Public Oversight and Mandatory Disclosure
 
-The practical consequence of Regulated Reporting Entity status is the elimination of the traditional private equity hold period. Because each Direct-Hold Solution is subject to continuous Public Oversight and mandatory Ongoing Reporting Requirements, Investment Units are Freely Transferable. Investors are not restricted by statutory lock-up periods or redemption queues. The units may be transferred in private transactions, institutional transfers, or estate planning arrangements without requiring consent from the general partner or other unitholders.
+The practical consequence of Regulated Reporting Entity status is the elimination of the traditional private equity hold period. Because each Direct-Hold Solution is subject to continuous Public Oversight and mandatory Ongoing Reporting Requirements, Investment Units are Freely Transferable. Investors are not restricted by statutory lock-up periods or redemption queues. The units may be transferred in private transactions, institutional transfers, or estate planning arrangements to any eligible counterparty. In Canada and the planned United States vehicle, the general partner records each transfer and is contractually obligated to admit an eligible transferee — declining only on a short, enumerated list of grounds — rather than exercising open-ended approval discretion; other unitholders have no approval role in an ordinary transfer.
 
 This characteristic distinguishes the Direct-Hold Solutions from conventional closed-end funds, where investor exit depends on manager-initiated liquidity events. The Regulated Reporting Entity structure replaces that dependency with a continuous disclosure obligation, which provides the legal foundation for free transferability.
 
