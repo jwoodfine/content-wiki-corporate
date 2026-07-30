@@ -15,7 +15,7 @@ paired_with: perpetual-equity-model.es.md
 audience: public
 bcsc_class: public-disclosure-safe
 language: en
-last_edited: 2026-07-11
+last_edited: 2026-07-30
 see_also:
   - topic-investment-units
   - topic-redemption-elimination
@@ -24,7 +24,7 @@ see_also:
 
 The Perpetual Equity Model describes the investment framework applied to [[topic-investment-units|investment units]] in named real assets. Under this model, equity is held indefinitely without a fixed redemption horizon, maturity date, or mandatory exit event.
 
-Positions are transferred through the secondary market rather than redeemed by the issuing entity. This structure eliminates redemption queues and liquidity reserves while allowing equity to compound over an indefinite holding period. See [[topic-redemption-elimination|Redemption Elimination]] for the structural rationale.
+Positions transfer over-the-counter to any eligible counterparty rather than being redeemed by the issuing entity. This structure eliminates redemption queues and liquidity reserves while allowing equity to compound over an indefinite holding period. See [[topic-redemption-elimination|Redemption Elimination]] for the structural rationale.
 
 ## Overview
 
@@ -32,11 +32,11 @@ The Perpetual Equity Model is a structural departure from conventional real-asse
 
 Equity positions are denominated in [[topic-investment-units|investment units]] recorded in the property ledger for each named asset. The number of units in circulation is fixed at issuance; the issuing entity does not issue additional units except through formally documented corporate decisions.
 
-## Secondary Market
+## Over-the-Counter Transfer
 
-Investors who require liquidity identify willing counterparties independently. The corporate entity does not intermediate the exit, maintain a buyback facility, or commit to any form of put right. The secondary market for investment units in a given asset is thin by design — a consequence of the asset-specific, fixed-supply structure rather than a deficiency to be corrected.
+Investors who require liquidity identify eligible counterparties independently. The corporate entity does not intermediate the exit, maintain a buyback facility, or commit to any form of put right. The over-the-counter market for investment units in a given asset is thin by design — a consequence of the asset-specific, fixed-supply structure rather than a deficiency to be corrected.
 
-Transfer mechanics are straightforward: the seller identifies a counterparty, agrees a price bilaterally, and the property ledger is updated to reflect the new unit holder. No corporate consent is required; no notification period applies to the transfer itself.
+Transfer mechanics are straightforward: the seller identifies a counterparty, agrees a price bilaterally, and the property ledger is updated to reflect the new unit holder. No general partner approval decision is required for an ordinary transfer, though a holder crossing 10% of outstanding units must notify the general partner (a disclosure obligation, not an approval gate).
 
 ## Distribution Policy
 
@@ -58,7 +58,7 @@ The per-asset ICR measurement is structural: an underperforming asset does not d
 
 ## The bottom line
 
-The Perpetual Equity Model replaces the fund cycle's compulsory exit with a secondary-market transfer mechanism. For a unit holder, this eliminates forced-sale risk and the bid-ask discount that fixed-fund-cycle vehicles realise at wind-down. The 1.2× ICR floor and per-asset distribution calculation retain cash at the asset level when operating performance is under pressure — a buffer that a pooled vehicle with blended-portfolio distributions would dilute across the portfolio.
+The Perpetual Equity Model replaces the fund cycle's compulsory exit with an over-the-counter transfer mechanism. For a unit holder, this eliminates forced-sale risk and the bid-ask discount that fixed-fund-cycle vehicles realise at wind-down. The 1.2× ICR floor and per-asset distribution calculation retain cash at the asset level when operating performance is under pressure — a buffer that a pooled vehicle with blended-portfolio distributions would dilute across the portfolio.
 
 ## See also
 

@@ -15,7 +15,7 @@ paired_with: perpetual-equity-model.md
 audience: public
 bcsc_class: public-disclosure-safe
 language: es
-last_edited: 2026-06-16
+last_edited: 2026-07-30
 see_also:
   - topic-investment-units
   - topic-redemption-elimination
@@ -24,7 +24,7 @@ see_also:
 
 El Modelo de Capital Perpetuo describe el marco de inversión aplicado a [[topic-investment-units|unidades de inversión]] en activos reales nombrados. Bajo este modelo, el capital se mantiene indefinidamente sin horizonte de redención fijo, fecha de vencimiento ni evento de salida obligatorio.
 
-Las posiciones se transfieren a través del mercado secundario en lugar de ser reembolsadas por la entidad emisora. Esta estructura elimina las colas de redención y las reservas de liquidez al tiempo que permite que el capital se capitalice durante un período de tenencia indefinido. Véase [[topic-redemption-elimination|Eliminación de Redención]] para el fundamento estructural.
+Las posiciones se transfieren de forma extrabursátil a cualquier contraparte elegible, en lugar de ser reembolsadas por la entidad emisora. Esta estructura elimina las colas de redención y las reservas de liquidez al tiempo que permite que el capital se capitalice durante un período de tenencia indefinido. Véase [[topic-redemption-elimination|Eliminación de Redención]] para el fundamento estructural.
 
 ## Resumen
 
@@ -32,11 +32,11 @@ El Modelo de Capital Perpetuo constituye una ruptura estructural respecto a los 
 
 Las posiciones de capital se denominan en [[topic-investment-units|unidades de inversión]] registradas en el libro contable de la propiedad de cada activo nombrado. El número de unidades en circulación se fija en la emisión; la entidad emisora no crea unidades adicionales salvo mediante decisiones corporativas formalmente documentadas.
 
-## Mercado secundario
+## Transferencia extrabursátil
 
-Los inversores que requieren liquidez identifican contrapartes dispuestas de forma independiente. La entidad corporativa no intermedia la salida, no mantiene una facilidad de recompra ni asume ningún derecho de venta. El mercado secundario de unidades de inversión en un activo determinado es intencionalmente reducido — consecuencia de la estructura de oferta fija y específica del activo, no una deficiencia a corregir.
+Los inversores que requieren liquidez identifican contrapartes elegibles de forma independiente. La entidad corporativa no intermedia la salida, no mantiene una facilidad de recompra ni asume ningún derecho de venta. El mercado extrabursátil de unidades de inversión en un activo determinado es intencionalmente reducido — consecuencia de la estructura de oferta fija y específica del activo, no una deficiencia a corregir.
 
-La mecánica de la transferencia es directa: el vendedor identifica una contraparte, acuerda un precio bilateralmente y el libro contable de la propiedad se actualiza para reflejar al nuevo tenedor de unidades. No se requiere consentimiento corporativo; no se aplica ningún plazo de notificación a la propia transferencia.
+La mecánica de la transferencia es directa: el vendedor identifica una contraparte, acuerda un precio bilateralmente y el libro contable de la propiedad se actualiza para reflejar al nuevo tenedor de unidades. No se requiere una decisión de aprobación del socio general para una transferencia ordinaria, aunque un titular que cruce el 10% de las unidades en circulación debe notificar al socio general (una obligación de divulgación, no una puerta de aprobación).
 
 ## Política de distribuciones
 
@@ -58,7 +58,7 @@ La medición del RCI por activo es estructural: un activo con bajo rendimiento n
 
 ## Conclusión
 
-El Modelo de Capital Perpetuo sustituye la salida obligatoria del ciclo de fondos por un mecanismo de transferencia en el mercado secundario. Para el tenedor de una unidad, esto elimina el riesgo de venta forzosa y el descuento comprador-vendedor que los vehículos de ciclo de fondo fijo realizan en el momento de la liquidación. El suelo de RCI del 1,2× y el cálculo de distribuciones por activo retienen el efectivo a nivel de activo cuando el rendimiento operativo está bajo presión — un colchón que un vehículo mancomunado con distribuciones de cartera combinada diluiría en toda la cartera.
+El Modelo de Capital Perpetuo sustituye la salida obligatoria del ciclo de fondos por un mecanismo de transferencia extrabursátil. Para el tenedor de una unidad, esto elimina el riesgo de venta forzosa y el descuento comprador-vendedor que los vehículos de ciclo de fondo fijo realizan en el momento de la liquidación. El suelo de RCI del 1,2× y el cálculo de distribuciones por activo retienen el efectivo a nivel de activo cuando el rendimiento operativo está bajo presión — un colchón que un vehículo mancomunado con distribuciones de cartera combinada diluiría en toda la cartera.
 
 ## Véase también
 
