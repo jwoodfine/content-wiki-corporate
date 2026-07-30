@@ -4,7 +4,7 @@ title: "Corporate structure"
 slug: corporate-structure
 aliases:
   - topic-corporate-structure
-short_description: "Three-entity structure under Woodfine Capital Projects Inc., separating the technology vendor from the commercial real estate operator."
+short_description: "Corporate structure under Woodfine Capital Projects Inc.: the parent, its technology and delegated-services subsidiaries, and the vehicle-level subsidiaries that govern the Direct-Hold programme."
 category: company
 type: reference
 content_type: topic
@@ -13,50 +13,66 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-07-30
 editor: pointsav-engineering
 paired_with: corporate-structure.es.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. is the federally incorporated Canadian parent company holding two wholly-owned subsidiaries: PointSav Digital Systems and MCorp. The three entities occupy distinct roles — ownership, technology, and commercial operations — that do not overlap. The arrangement implements the [[topic-vendor-customer-model|vendor-customer model]] at the corporate level and underpins the [[topic-direct-hold-framework|Direct-Hold framework]] under which WMC operates, with [[topic-fiduciary-data-mandate|fiduciary data custody]] held by WMC and platform services delivered by PointSav.
+Woodfine Capital Projects Inc. (WCP) is the federally incorporated Canadian parent company, extra-provincially registered to carry on business in British Columbia. It conducts its business through wholly-owned subsidiaries, of which several are described here: PointSav Digital Systems, the technology vendor; Woodfine Management Corp. ("MCorp"), a delegated-services subsidiary; and a further set of vehicle-level subsidiaries — including Woodfine Professional Centres Inc., Woodfine Advisors Inc., and Benetti Holdings Inc. — that carry defined roles in the [[topic-direct-hold-framework|Direct-Hold framework]]. "Woodfine" refers to WCP and its subsidiaries and affiliates collectively; it is not a synonym for MCorp. The arrangement implements the [[topic-vendor-customer-model|vendor-customer model]] at the corporate level.
 
 ## Key takeaways
 
-- Three entities occupy non-overlapping roles: Woodfine Capital Projects Inc. provides governance and ownership; PointSav Digital Systems delivers technology services; MCorp manages investor relations, originates and governs direct-hold limited partnerships, and operates as fiduciary data custodian.
-- PointSav cannot make investment decisions and does not hold equity in managed properties; WMC cannot modify platform code — the separation is enforced at the corporate boundary, not by contract alone.
-- The design intent is that an operational failure at PointSav does not impair WMC's fiduciary function, and a financial event at WMC does not impair PointSav's platform operations.
+- WCP provides governance and ownership; PointSav Digital Systems delivers technology services; MCorp retains third-party consultants and performs tasks delegated to it by other WCP subsidiaries. MCorp is not the general partner of any Direct-Hold vehicle and does not govern the direct-hold limited partnerships.
+- Governance of each Direct-Hold vehicle sits with that vehicle's own governing body — in Canada, the General Partner, Woodfine Professional Centres Inc. — not with MCorp. See "Vehicle-level subsidiaries" below.
+- PointSav cannot make investment decisions and does not hold equity in managed properties; MCorp cannot modify platform code — the separation is enforced at the corporate boundary, not by contract alone.
 
 ## Parent entity
 
-Woodfine Capital Projects Inc. is incorporated under the Canada Business Corporations Act (CBCA), with its registered office in British Columbia. It is the 100% owner of both subsidiaries and provides the governance framework within which each operates. The parent entity does not itself manage real estate assets or develop technology products. Its function is structural: it holds the ownership relationship and sets the policy framework that governs the two operating entities below it.
+Woodfine Capital Projects Inc. is incorporated under the Canada Business Corporations Act (CBCA), and is extra-provincially registered to carry on business in British Columbia. It is the 100% owner of its subsidiaries and provides the governance framework within which each operates. The parent entity does not itself manage real estate assets or develop technology products. Its function is structural: it holds the ownership relationship and sets the policy framework that governs the operating entities below it.
 
 ## Technology vendor
 
-PointSav Digital Systems is a wholly-owned subsidiary of Woodfine Capital Projects Inc. PointSav develops and maintains the [[topic-property-ledger-technology|property ledger]] platform, investor portal, and data infrastructure that the commercial operator uses to manage Direct-Hold assets, under the [[topic-technology-services|technology services agreement]].
+PointSav Digital Systems is a wholly-owned subsidiary of Woodfine Capital Projects Inc. PointSav develops and maintains the [[topic-property-ledger-technology|property ledger]] platform, investor portal, and data infrastructure used to manage Direct-Hold assets, under the [[topic-technology-services|technology services agreement]].
 
-PointSav does not hold equity in any managed property. PointSav does not make investment decisions and does not manage investor relations. Its mandate is confined to technology: platform development, ledger integrity, security posture, and system availability. Investment and capital decisions belong to the commercial operator.
+PointSav does not hold equity in any managed property. PointSav does not make investment decisions and does not manage investor relations. Its mandate is confined to technology: platform development, ledger integrity, security posture, and system availability. Investment and capital decisions belong to each vehicle's own governing body.
 
-## Commercial operator
+## Delegated-services subsidiary
 
-MCorp (Woodfine Management Corp.) is a wholly-owned subsidiary of Woodfine Capital Projects Inc. WMC manages investor relations, originates and governs the direct-hold limited partnerships through which commercial assets are held, and operates the property ledger as fiduciary data custodian. Legal title to each property is held by a separate WCP Titleco nominee company that is beneficially owned by the applicable direct-hold limited partnership; WMC holds interests in those partnerships as part of the management structure and acts as the investor-facing entity for the Direct-Hold programme.
+MCorp (Woodfine Management Corp.) is a wholly-owned subsidiary of Woodfine Capital Projects Inc. Its mandate is service delivery inside the group: MCorp retains third-party consultants — professional, technical, and administrative — and performs tasks that other WCP subsidiaries delegate to it, on the terms of those delegations.
 
-WMC is the entity with which investors transact. It is responsible for asset governance, investor communications, and the accuracy of property ledger records.
+MCorp is not the general partner of any Direct-Hold vehicle, is not the administrator of any trust vehicle, and does not originate or govern the limited partnerships through which commercial assets are held. It holds no promoter equity in those vehicles: the promoter's equity-based compensation is held through Benetti Holdings Inc., a separate WCP subsidiary, escrowed until limited partners recover 100% of contributed capital or a defined liquidity event occurs (see [[professional-centres-canada-lp-structure|Professional Centres Canada LP structure]]).
+
+## Vehicle-level subsidiaries
+
+Governance of each Direct-Hold vehicle rests with the governing body its legal form requires:
+
+| Vehicle | Legal form | Governing body |
+|---|---|---|
+| Professional Centres Canada LP | Limited partnership (British Columbia) | Woodfine Professional Centres Inc., a BC corporation and WCP subsidiary, as general partner |
+| Professional Centres United States LP (planned) | Limited partnership (Delaware) | A Delaware corporation, intended to be a WCP subsidiary, as general partner — not yet formed |
+| Professional Centres Spain SOCIMI (planned) | Sociedad Anónima Cotizada | A board of directors (Consejo de Administración) — a SOCIMI is a listed corporation, not a partnership, and has no general partner |
+| Professional Centres Mexico FIBRA (planned) | Fideicomiso (trust) | An Administrator (Administrador), planned as a WCP subsidiary, together with a Technical Committee (Comité Técnico) |
+
+In Canada, the General Partner retains **Woodfine Advisors Inc.**, a WCP subsidiary, under an advisory services agreement to provide procurement, development, and management services; equivalent retained advisors are intended for the planned vehicles, though none has yet been named. Woodfine Advisors Inc. and MCorp are distinct entities: Woodfine Advisors Inc. is the Canada partnership's retained operational advisor under a disclosed related-party agreement, while MCorp performs delegated tasks and consultant procurement for the group generally.
+
+Legal title to each property is held by a separate WCP Titleco nominee company beneficially owned by the applicable partnership. [[topic-fiduciary-data-mandate|Fiduciary data custody]] of the property ledger sits with each vehicle's governing body — in Canada, Woodfine Professional Centres Inc. as General Partner — not with MCorp.
 
 ## Separation principle
 
-The three-entity structure separates technology decisions from real estate decisions at the corporate level. PointSav cannot make investment decisions; its charter is technology services. WMC cannot modify platform code; that is PointSav's domain. Neither entity has authority in the other's operational scope.
+The corporate structure separates technology decisions from real estate decisions at the corporate level. PointSav cannot make investment decisions; its charter is technology services. Neither MCorp nor PointSav modifies the other's domain, and neither has governance authority over any Direct-Hold vehicle — that authority sits with each vehicle's own governing body.
 
-This separation is structural, not contractual. A contract can be amended; a corporate boundary requires a restructuring. The design intent is that neither an operational failure at PointSav nor a financial event at WMC automatically impairs the other entity's core function.
+This separation is structural, not contractual. A contract can be amended; a corporate boundary requires a restructuring. The design intent is that an operational failure at PointSav or a financial event at MCorp does not automatically impair the vehicles' governance or the other entity's core function.
 
 ## The bottom line
 
-The three-entity structure is a governance architecture, not a tax or administrative convenience. By placing technology decisions inside PointSav and investment decisions inside WMC, the group prevents either function from encroaching on the other. Investors transact with WMC; they do not have a direct legal relationship with the technology platform, and PointSav has no authority over the investment decisions that affect investor capital. The corporate boundary makes this separation durable: altering it requires a restructuring, not a policy amendment.
+The corporate structure is a governance architecture, not a tax or administrative convenience. By placing technology decisions inside PointSav and real-estate governance inside each vehicle's own governing body, the group prevents any single function from encroaching on another. Investors hold Investment Units in a named Direct-Hold vehicle and hold their position at the vehicle level; management authority and fiduciary responsibility for that vehicle's business sit with its governing body — in Canada, Woodfine Professional Centres Inc. as General Partner. Investors have no direct legal relationship with the technology platform, and PointSav has no authority over investment decisions. The corporate boundary makes this separation durable: altering it requires a restructuring, not a policy amendment.
 
 ## See also
 
-- [[topic-vendor-customer-model|Vendor-Customer Model]] — the services relationship between PointSav and WMC
-- [[topic-direct-hold-framework|Direct-Hold Framework]] — the asset ownership structure WMC operates
+- [[topic-vendor-customer-model|Vendor-Customer Model]] — the services relationship between PointSav and the group
+- [[topic-direct-hold-framework|Direct-Hold Framework]] — the asset ownership structure each vehicle's governing body operates
+- [[professional-centres-canada-lp-structure|Professional Centres Canada LP Structure]] — the Canada vehicle's General Partner, Advisor, and promoter-equity structure in full
 - [[about-regulatory-posture|Regulatory Posture]] — OSC disclosure obligations applicable to the group
 
 ---
