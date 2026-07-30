@@ -4,7 +4,7 @@ title: "Vendor-customer model"
 slug: vendor-customer-model
 aliases:
   - topic-vendor-customer-model
-short_description: "Structural separation between PointSav Digital Systems as technology vendor and MCorp as commercial real estate operator and technology customer."
+short_description: "Structural separation between PointSav Digital Systems as technology vendor and each Direct-Hold vehicle's governing body as data custodian and technology customer, with MCorp handling delegated day-to-day platform administration."
 category: company
 type: reference
 content_type: topic
@@ -13,51 +13,51 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-07-30
 editor: pointsav-engineering
 paired_with: vendor-customer-model.es.md
 cites: []
 ---
 
-PointSav Digital Systems occupies the vendor role; MCorp occupies the customer role within the [[topic-corporate-structure|Woodfine corporate structure]]. PointSav delivers technology platform services — [[topic-property-ledger-technology|property ledger]] infrastructure, investor portal, software maintenance — and WMC directs platform requirements, holds data custody under the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]], and is solely accountable for investment and fiduciary decisions affecting [[topic-direct-hold-framework|Direct-Hold]] assets.
+PointSav Digital Systems occupies the vendor role within the [[topic-corporate-structure|Woodfine corporate structure]]. PointSav delivers technology platform services — [[topic-property-ledger-technology|property ledger]] infrastructure, investor portal, software maintenance — to each Direct-Hold vehicle. Each vehicle's own governing body — in Canada, the General Partner, Woodfine Professional Centres Inc. — holds data custody under the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] and is solely accountable for investment and fiduciary decisions affecting [[topic-direct-hold-framework|Direct-Hold]] assets; MCorp administers day-to-day platform requirements and investor communications as a task delegated to it by the governing body.
 
 ## Key takeaways
 
-- PointSav's role ends at the platform boundary: it provides operational and technical services but exercises no discretion over data, holds no equity in WMC-managed assets, and provides no investment or fiduciary advice.
-- WMC holds portable custody of the property ledger; if WMC engages a different technology provider, the ledger data moves with WMC and does not remain with PointSav.
-- The vendor-customer separation structurally isolates failure modes: a technology disruption at PointSav does not affect WMC's legal title to assets, and a financial event at WMC does not interrupt PointSav's platform obligations.
+- PointSav's role ends at the platform boundary: it provides operational and technical services but exercises no discretion over data, holds no equity in any vehicle's managed assets, and provides no investment or fiduciary advice.
+- Each vehicle's governing body holds portable custody of the property ledger; if the governing body engages a different technology provider, the ledger data moves with it and does not remain with PointSav.
+- The vendor-customer separation structurally isolates failure modes: a technology disruption at PointSav does not affect a governing body's legal title to assets, and a financial event elsewhere in the group does not interrupt PointSav's platform obligations.
 
 ## Vendor obligations
 
-PointSav's obligations under the [[topic-technology-services|technology services agreement]] are operational and technical. The vendor is responsible for platform availability, software integrity, security posture, and ledger data consistency. PointSav does not exercise discretion over what data is stored, how it is classified, or how it is used — those decisions belong to WMC as the data custodian.
+PointSav's obligations under the [[topic-technology-services|technology services agreement]] are operational and technical. The vendor is responsible for platform availability, software integrity, security posture, and ledger data consistency. PointSav does not exercise discretion over what data is stored, how it is classified, or how it is used — those decisions belong to each vehicle's governing body as the data custodian.
 
-PointSav does not represent WMC to investors or regulators. PointSav does not provide compliance advice, investment advice, or fiduciary services. The vendor's scope ends at the platform boundary.
+PointSav does not represent any vehicle's governing body to investors or regulators. PointSav does not provide compliance advice, investment advice, or fiduciary services. The vendor's scope ends at the platform boundary.
 
 ## Customer rights
 
-WMC retains full legal custody of all data processed by the platform — see [[topic-data-governance|Data Governance]] for the full custody framework. If WMC engages a different technology provider, the property ledger data is portable — it does not remain with PointSav. The architecture is designed so that WMC can reconstruct full operational control of the ledger from exported data without dependency on any specific software implementation.
+Each vehicle's governing body retains full legal custody of all data processed by the platform for its vehicle — see [[topic-data-governance|Data Governance]] for the full custody framework. If a governing body engages a different technology provider, the property ledger data is portable — it does not remain with PointSav. The architecture is designed so that the governing body can reconstruct full operational control of the ledger from exported data without dependency on any specific software implementation.
 
-WMC directs the platform requirements. PointSav builds and maintains to those requirements. The customer determines what the platform does; the vendor determines how.
+The governing body directs the platform requirements, with MCorp administering day-to-day requirements-gathering and coordination as a delegated task. PointSav builds and maintains to those requirements. The customer side determines what the platform does; the vendor determines how.
 
 ## Separation of failure modes
 
 In a commingled structure — where a technology provider also participates in capital management — a failure in one domain compounds into the other. A technology outage affecting a platform operator who also manages capital creates simultaneous operational and financial risk.
 
-The vendor-customer separation prevents this compounding. A technology failure at PointSav does not affect WMC's legal title to assets or the validity of equity records. A financial event at WMC does not interrupt PointSav's ability to maintain platform infrastructure. The failure modes are structurally isolated.
+The vendor-customer separation prevents this compounding. A technology failure at PointSav does not affect a governing body's legal title to assets or the validity of equity records. A financial event elsewhere in the group does not interrupt PointSav's ability to maintain platform infrastructure. The failure modes are structurally isolated.
 
 ## Not a marketing relationship
 
-PointSav does not market WMC's investment products, and WMC does not promote PointSav's technology platform as part of investor communications. The relationship is a services agreement, not a joint venture. Neither entity holds equity in the other's core business operations.
+PointSav does not market any vehicle's investment products, and no governing body promotes PointSav's technology platform as part of investor communications. The relationship is a services agreement, not a joint venture. Neither PointSav nor any vehicle's governing body holds equity in the other's core business operations.
 
 ## The bottom line
 
-The vendor-customer model assigns PointSav the role of technology builder and WMC the role of data custodian, investment decision-maker, and investor relationship owner. The two entities do not hold equity in each other's core operations, do not cross-market each other's products, and are not jointly responsible for any investment outcome. The structural separation means that the platform and the investment management function can each be evaluated, replaced, or restructured independently.
+The vendor-customer model assigns PointSav the role of technology builder and each vehicle's governing body the role of data custodian, investment decision-maker, and investor relationship owner — with MCorp handling delegated day-to-day platform administration. The parties do not hold equity in each other's core operations, do not cross-market each other's products, and are not jointly responsible for any investment outcome. The structural separation means that the platform and the investment management function can each be evaluated, replaced, or restructured independently.
 
 ## See also
 
-- [[topic-corporate-structure|Corporate Structure]] — the ownership relationship between both entities
-- [[topic-technology-services|Technology Services Agreement]] — structure of the services contract between PointSav and WMC
-- [[topic-data-governance|Data Governance]] — WMC's data custody obligations under the vendor-customer model
+- [[topic-corporate-structure|Corporate Structure]] — the ownership relationship among all these entities
+- [[topic-technology-services|Technology Services Agreement]] — structure of the services contract between PointSav and each vehicle
+- [[topic-data-governance|Data Governance]] — each governing body's data custody obligations under the vendor-customer model
 
 ---
 
