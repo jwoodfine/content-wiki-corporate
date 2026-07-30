@@ -13,7 +13,7 @@
 
 ## Sobre Este Repositorio
 
-Esta es la biblioteca pública de gobernanza y arquitectura financiera de MCorp. Documenta la lógica estructural del marco de inversión de Tenencia Directa — el modelo financiero que Woodfine utiliza para desarrollar, gestionar y mantener bienes raíces comerciales con certificación ambiental en América del Norte y Europa.
+Esta es la biblioteca pública de gobernanza y arquitectura financiera del grupo Woodfine. Documenta la lógica estructural del marco de inversión de Tenencia Directa — el modelo financiero que Woodfine utiliza para desarrollar, gestionar y mantener bienes raíces comerciales con certificación ambiental en América del Norte y Europa.
 
 El lector objetivo es un banquero de inversión, gestor de activos o auditor que desea comprender la estructura del vehículo de inversión, los controles de gobernanza y la arquitectura financiera antes de una primera conversación.
 
@@ -39,14 +39,16 @@ Woodfine no opera fondos de inversión. Opera Soluciones de Tenencia Directa —
 
 ## Estructura de Gobernanza
 
-Los cuatro vehículos jurisdiccionales activos:
+Woodfine Capital Projects Inc. (WCP) es la matriz, promotora y desarrolladora. Cada Solución de Tenencia Directa está gobernada por el órgano que exige su forma legal: Woodfine Professional Centres Inc. (subsidiaria de WCP) como socio general en Canadá; un socio general de Delaware, un Consejo de Administración español y un Administrador mexicano con Comité Técnico para los tres vehículos planificados. Woodfine Management Corp. (MCorp) es una subsidiaria separada de WCP que contrata consultores externos y realiza tareas delegadas por otras subsidiarias; no es socio general, administrador ni órgano de gobierno de ningún vehículo.
 
-| Entidad | Jurisdicción | Designación |
-|:---|:---|:---|
-| Woodfine Professional Centres Limited Partnership | Canadá | Emisor Regulado bajo BCSC |
-| Woodfine Professional Centres 2 Limited Partnership | Estados Unidos | Entidad de Reporte Regulada |
-| Woodfine Professional Centres 3 SOCIMI | España | Sociedad Cotizada |
-| Woodfine Professional Centres 4 FIBRA | México | Fideicomiso de flujo directo |
+Los vehículos jurisdiccionales establecidos y planificados:
+
+| Entidad | Jurisdicción | Estado | Designación |
+|:---|:---|:---|:---|
+| Woodfine Professional Centres Limited Partnership | Canadá | Establecido | Emisor Regulado bajo BCSC |
+| Woodfine Professional Centres 2 Limited Partnership | Estados Unidos | Planificado | Entidad de Reporte Regulada |
+| Woodfine Professional Centres 3 SOCIMI | España | Planificado | Sociedad Cotizada |
+| Woodfine Professional Centres 4 FIBRA | México | Planificado | Fideicomiso de flujo directo |
 
 ---
 
