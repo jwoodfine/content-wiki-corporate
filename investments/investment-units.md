@@ -15,7 +15,7 @@ paired_with: investment-units.es.md
 audience: public
 bcsc_class: public-disclosure-safe
 language: en
-last_edited: 2026-07-11
+last_edited: 2026-07-30
 see_also:
   - topic-perpetual-equity-model
   - topic-direct-hold-framework
@@ -42,7 +42,7 @@ Each investment unit in a named asset carries three categories of rights.
 
 **Economic rights.** Unit holders receive a proportional share of distributions declared for the relevant asset. Distributions, when declared, are paid in proportion to outstanding unit counts; no unit within the same asset carries a preferential distribution right over another.
 
-**Transfer rights.** Units are freely transferable to willing counterparties. Transfers are recorded in the property ledger in the sequence received; no transfer requires prior consent from the issuing entity or from other unit holders. The transferee acquires the full economic and information rights of the transferor upon ledger settlement.
+**Transfer rights.** Units are freely transferable to any eligible counterparty. Transfers are recorded in the property ledger in the sequence received by the vehicle's governing body, which is contractually obligated to admit an eligible transferee — declining only on a short, enumerated list of grounds — rather than exercising open-ended approval discretion; other unit holders have no approval role. The transferee acquires the full economic and information rights of the transferor upon ledger settlement.
 
 **Information rights.** Unit holders in a named asset receive periodic operating statements for that asset, including revenue, operating expenses, and the current interest coverage ratio. Information is asset-specific and does not extend to other properties in the corporate holding structure.
 
@@ -54,11 +54,11 @@ The ICR floor is a direct protection for unit holders: it prevents distributions
 
 ## Relationship to the Perpetual Equity Model
 
-Investment units are the instrument through which the [[topic-perpetual-equity-model|Perpetual Equity Model]] is expressed. The perpetual holding horizon — no mandatory exit, no fixed fund cycle — means unit holders do not face a compulsory redemption event. Liquidity is available through the secondary market by identifying a willing counterparty; the corporate entity does not participate in the exit.
+Investment units are the instrument through which the [[topic-perpetual-equity-model|Perpetual Equity Model]] is expressed. The perpetual holding horizon — no mandatory exit, no fixed fund cycle — means unit holders do not face a compulsory redemption event. Liquidity is available over-the-counter by identifying an eligible counterparty; the corporate entity does not participate in the exit.
 
 ## The bottom line
 
-Investment units are asset-specific, fixed-supply instruments with no cross-exposure between properties in the corporate structure. The 1.2× ICR floor suspends distributions before they outpace operating income. Transfers require no corporate consent. For a regulated buyer, the combination of ledger-recorded ownership, structural asset isolation, and an ICR-linked distribution gate provides a predictable framework for permanent equity allocation to named real property.
+Investment units are asset-specific, fixed-supply instruments with no cross-exposure between properties in the corporate structure. The 1.2× ICR floor suspends distributions before they outpace operating income. Ordinary transfers require no discretionary approval decision — the vehicle's governing body is contractually obligated to admit an eligible transferee, declining only on a short, enumerated list of grounds. For a regulated buyer, the combination of ledger-recorded ownership, structural asset isolation, and an ICR-linked distribution gate provides a predictable framework for permanent equity allocation to named real property.
 
 ## See also
 

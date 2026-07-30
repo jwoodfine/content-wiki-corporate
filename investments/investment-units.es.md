@@ -15,7 +15,7 @@ paired_with: investment-units.md
 audience: public
 bcsc_class: public-disclosure-safe
 language: es
-last_edited: 2026-06-16
+last_edited: 2026-07-30
 see_also:
   - topic-perpetual-equity-model
   - topic-direct-hold-framework
@@ -42,7 +42,7 @@ Cada unidad de inversión en un activo nombrado confiere tres categorías de der
 
 **Derechos económicos.** Los tenedores de unidades reciben una participación proporcional en las distribuciones declaradas para el activo correspondiente. Las distribuciones, cuando se declaran, se pagan en proporción al número de unidades en circulación; ninguna unidad del mismo activo goza de un derecho de distribución preferente sobre otra.
 
-**Derechos de transferencia.** Las unidades son libremente transferibles a contrapartes dispuestas. Las transferencias se registran en el libro contable en el orden en que se reciben; ninguna transferencia requiere el consentimiento previo de la entidad emisora ni de los demás tenedores de unidades. El cesionario adquiere todos los derechos económicos y de información del cedente en el momento de la liquidación en el libro contable.
+**Derechos de transferencia.** Las unidades son libremente transferibles a cualquier contraparte elegible. Las transferencias se registran en el libro contable en el orden en que se reciben, por el órgano de gobierno del vehículo, que está obligado contractualmente a admitir a un cesionario elegible — negándose únicamente por una lista breve y enumerada de motivos — en lugar de ejercer discrecionalidad de aprobación abierta; los demás tenedores de unidades no tienen ningún rol de aprobación. El cesionario adquiere todos los derechos económicos y de información del cedente en el momento de la liquidación en el libro contable.
 
 **Derechos de información.** Los tenedores de unidades de un activo nombrado reciben estados operativos periódicos de ese activo, que incluyen ingresos, gastos operativos y el ratio de cobertura de intereses (RCI) vigente. La información es específica del activo y no se extiende a otras propiedades de la estructura corporativa.
 
@@ -54,11 +54,11 @@ El suelo del RCI protege directamente a los tenedores de unidades: impide que se
 
 ## Relación con el Modelo de Capital Perpetuo
 
-Las unidades de inversión son el instrumento a través del cual se expresa el [[topic-perpetual-equity-model|Modelo de Capital Perpetuo]]. El horizonte de tenencia perpetuo — sin salida obligatoria, sin ciclo de fondo fijo — significa que los tenedores de unidades no enfrentan un evento de redención forzosa. La liquidez está disponible a través del mercado secundario identificando una contraparte dispuesta; la entidad corporativa no participa en la salida.
+Las unidades de inversión son el instrumento a través del cual se expresa el [[topic-perpetual-equity-model|Modelo de Capital Perpetuo]]. El horizonte de tenencia perpetuo — sin salida obligatoria, sin ciclo de fondo fijo — significa que los tenedores de unidades no enfrentan un evento de redención forzosa. La liquidez está disponible de forma extrabursátil identificando una contraparte elegible; la entidad corporativa no participa en la salida.
 
 ## Conclusión
 
-Las unidades de inversión son instrumentos de oferta fija y específicos de cada activo, sin exposición cruzada entre propiedades de la estructura corporativa. El suelo de RCI del 1,2× suspende las distribuciones antes de que superen los ingresos operativos. Las transferencias no requieren consentimiento corporativo. Para un comprador regulado, la combinación de propiedad registrada en el libro contable, aislamiento estructural del activo y una compuerta de distribución vinculada al RCI proporciona un marco predecible para la asignación permanente de capital a inmuebles nombrados.
+Las unidades de inversión son instrumentos de oferta fija y específicos de cada activo, sin exposición cruzada entre propiedades de la estructura corporativa. El suelo de RCI del 1,2× suspende las distribuciones antes de que superen los ingresos operativos. Las transferencias ordinarias no requieren una decisión de aprobación discrecional — el órgano de gobierno del vehículo está obligado contractualmente a admitir a un cesionario elegible, negándose únicamente por una lista breve y enumerada de motivos. Para un comprador regulado, la combinación de propiedad registrada en el libro contable, aislamiento estructural del activo y una compuerta de distribución vinculada al RCI proporciona un marco predecible para la asignación permanente de capital a inmuebles nombrados.
 
 ## Véase también
 
