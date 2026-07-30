@@ -4,7 +4,7 @@ title: "Equity transfer model"
 slug: equity-transfer-model
 aliases:
   - topic-equity-transfer-model
-short_description: "Peer-to-peer transfer mechanism that allows investors to exit their position directly to willing counterparties, without requiring a liquidity pool or corporate buyback."
+short_description: "Over-the-counter transfer mechanism that allows investors to exit their position directly to eligible counterparties, without requiring a liquidity pool or corporate buyback."
 category: distributions
 type: reference
 content_type: topic
@@ -13,29 +13,29 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-07-30
 editor: pointsav-engineering
 paired_with: equity-transfer-model.es.md
 cites: []
 ---
 
-Woodfine [[topic-direct-hold-framework|Direct-Hold]] equity transfers freely between private parties; the corporate entity records the change but does not approve or intermediate it. Two structural principles govern the model: freely transferable equity and strict peer-to-peer execution — no corporate intermediation, no liquidity windows. The model relies on the [[topic-fiduciary-data-mandate|fiduciary data mandate]] for ledger integrity and operates alongside the [[topic-interest-coverage-ratio|interest coverage ratio]] discipline applied at the asset level.
+Each Direct-Hold vehicle's Investment Units transfer over-the-counter between private parties; the vehicle's own governing body records the completed transfer. Two structural principles govern the model: freely transferable equity within a short, enumerated set of conditions, and peer-to-peer execution — no formal secondary market, no market maker, no corporate buyback facility. The model relies on the [[topic-fiduciary-data-mandate|fiduciary data mandate]] for ledger integrity and operates alongside the [[topic-interest-coverage-ratio|interest coverage ratio]] discipline applied at the asset level.
 
 ## Key takeaways
 
-- Direct-Hold equity is freely transferable to any willing counterparty without requiring corporate approval for the transfer — distinguishing the model from restricted-equity structures where the issuer holds right of first refusal or imposes transfer conditions.
-- The corporate entity does not maintain a secondary market, matched-order book, or buyback facility; liquidity is determined by the market of willing buyers, not by corporate policy.
+- Direct-Hold equity is freely transferable to any eligible counterparty without a general partner approval decision in the ordinary case — distinguishing the model from restricted-equity structures where the issuer holds a right of first refusal or exercises open-ended transfer-approval discretion. In Canada, the General Partner is contractually obligated to admit an eligible transferee, declining only on a short, enumerated list of grounds.
+- No Direct-Hold vehicle maintains a formal secondary market, matched-order book, or buyback facility; liquidity is determined by the market of willing, eligible buyers, not by corporate policy.
 - Each transfer is recorded on the asset ledger with a full chain of title, so ownership of a fractional interest is always evidenced by a ledger entry rather than a paper certificate.
 
 ## Freely transferable equity
 
-MCorp issues freely transferable private equity in each isolated [[topic-property-ledger-technology|property ledger]]. "Freely transferable" means the holder may offer their interest to any willing counterparty without requiring corporate approval for the transfer itself. The corporate entity maintains the ledger but does not control who may acquire equity in it. Each unit of equity issued constitutes an [[topic-investment-units|investment unit]] in the named asset.
+Each Direct-Hold vehicle issues Investment Units in its own isolated [[topic-property-ledger-technology|property ledger]]. "Freely transferable" means a holder may offer their interest to any eligible counterparty; the vehicle's governing body does not exercise business judgment over who may acquire it. In Canada, the General Partner is contractually obligated to admit any transferee — subject only to two narrow, enumerated grounds: (a) counsel's opinion that the transfer would violate securities or other law, or (b) the General Partner's belief that the transferee's required eligibility representations are untrue. Each unit of equity issued constitutes an [[topic-investment-units|investment unit]] in the named asset.
 
-This distinguishes the model from restricted-equity structures — common in private real estate vehicles — where the issuer retains right of first refusal, imposes transfer restrictions, or requires investor qualification re-approval on each transfer.
+This distinguishes the model from restricted-equity structures — common in private real estate vehicles — where the issuer retains an open-ended right of first refusal or exercises discretionary transfer-approval power. A transferee does make the same eligibility representations (residency, investor-status, and similar) on each transfer — this is not a business-judgment re-approval, but it is a real, recurring step, not the absence of one.
 
-## Peer-to-peer execution
+## Over-the-counter execution
 
-Transfer execution is strictly between private parties. The corporate entity does not maintain a secondary market, a matched-order book, or a buyback facility. An investor seeking liquidity locates a willing counterparty through their own commercial relationships or through broker-dealer channels that operate independently of the corporate entity.
+Transfer execution is between private parties. No Direct-Hold vehicle maintains a formal secondary market, a matched-order book, or a buyback facility. In Canada, the General Partner records the transfer once the required documentation is delivered — a ministerial recording step, not a discretionary approval, though a narrow, enumerated set of transfers can be declined (see above) or, after the fact, reversed: a holder who causes the partnership adverse tax consequences by becoming a non-resident can be required to divest, at independent-appraiser fair value. An investor seeking liquidity locates an eligible counterparty through their own commercial relationships or through broker-dealer channels that operate independently of the corporate entity.
 
 ## No subjective liquidity requirements
 
@@ -47,7 +47,7 @@ The asset ledger records each transfer with a full chain of title. Ownership of 
 
 ## The bottom line
 
-The Equity Transfer Model removes the corporate entity from the liquidity equation without removing it from the record-keeping obligation. Investors can transfer their position to a willing counterparty at any time; WMC's role is to record that transfer accurately, not to approve it or to provide a market for it. The absence of redemption gates and liquidity windows is a design feature, not a limitation: it eliminates the structural tension between asset liquidity and investor liquidity that characterizes pooled fund structures. The ledger — maintained under the fiduciary data mandate — provides the authoritative record of every transfer in the chain of title.
+The Equity Transfer Model removes the corporate entity from the liquidity equation without removing it from the record-keeping obligation. Investors can transfer their position to an eligible counterparty at any time; the vehicle's governing body's role is to record that transfer accurately — declining only on the narrow, enumerated grounds described above — not to exercise open-ended approval discretion or to provide a market for it. The absence of redemption gates and liquidity windows is a design feature, not a limitation: it eliminates the structural tension between asset liquidity and investor liquidity that characterizes pooled fund structures. The ledger — maintained under the fiduciary data mandate — provides the authoritative record of every transfer in the chain of title.
 
 ## See also
 
