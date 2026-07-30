@@ -11,7 +11,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-07-30
 editor: pointsav-engineering
 paired_with: offering-risk.es.md
 ---
@@ -37,13 +37,14 @@ by anyone considering whether the units are a suitable holding for their own liq
 
 ## No guarantee of finding a buyer
 
-Because units are transferred through a private, bilateral secondary market rather than through
+Because units are transferred over-the-counter, between private parties, rather than through
 an exchange or a company-operated facility, a unit holder seeking to sell is responsible for
-identifying a willing counterparty independently. There is no market maker, no listing on a
+identifying an eligible counterparty independently. There is no market maker, no listing on a
 public exchange for the equity units, and no assurance that a buyer will be available at any
-particular time or at any particular price. The secondary market for units in a specific,
-named asset is narrow by design — the number of potential counterparties for any single
-asset's units is inherently smaller than the market for a listed, exchange-traded security. A
+particular time or at any particular price. The pool of potential counterparties for units in a
+specific, named asset is narrow by design and further limited by the eligibility requirements
+each transferee must meet — the number of eligible counterparties for any single asset's units
+is inherently smaller than the market for a listed, exchange-traded security. A
 unit holder may be unable to sell within a desired timeframe, or may be able to sell only at a
 discount to the unit's most recent appraised or book value, particularly if the asset's
 performance has declined or if general market conditions for private real estate transactions

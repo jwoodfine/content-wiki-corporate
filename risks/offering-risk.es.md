@@ -11,7 +11,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-07-30
 editor: pointsav-engineering
 paired_with: offering-risk.md
 ---
@@ -40,14 +40,16 @@ adecuada para sus propias necesidades de liquidez.
 
 ## Sin garantía de encontrar un comprador
 
-Debido a que las unidades se transfieren mediante un mercado secundario privado y bilateral en
+Debido a que las unidades se transfieren de forma extrabursátil, entre partes privadas, en
 lugar de a través de una bolsa o de un mecanismo operado por la compañía, un tenedor de
-unidades que busca vender es responsable de identificar una contraparte dispuesta de manera
+unidades que busca vender es responsable de identificar una contraparte elegible de manera
 independiente. No existe un creador de mercado, ni cotización en una bolsa pública para las
 unidades de capital, ni garantía de que exista un comprador en un momento particular o a un
-precio particular. El mercado secundario para las unidades de un activo específico y nombrado
-es reducido por diseño —el número de contrapartes potenciales para las unidades de un solo
-activo es, por naturaleza, menor que el mercado de un valor listado y negociado en bolsa—. Un
+precio particular. El conjunto de contrapartes potenciales para las unidades de un activo
+específico y nombrado es reducido por diseño y se limita aún más por los requisitos de
+elegibilidad que debe cumplir cada cesionario —el número de contrapartes elegibles para las
+unidades de un solo activo es, por naturaleza, menor que el mercado de un valor listado y
+negociado en bolsa—. Un
 tenedor de unidades puede no poder vender dentro del plazo deseado, o puede vender únicamente
 con un descuento respecto al valor tasado o en libros más reciente de la unidad, particularmente
 si el desempeño del activo ha disminuido o si las condiciones generales del mercado para
