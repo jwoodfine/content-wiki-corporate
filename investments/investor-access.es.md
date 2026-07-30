@@ -4,7 +4,7 @@ title: "Acceso de Inversores"
 slug: investor-access
 aliases:
   - topic-investor-access
-short_description: "Cómo los inversores en activos de Tenencia Directa acceden a los datos de posición, informes financieros y registros del libro a través del portal de inversores de WMC."
+short_description: "Cómo los inversores en activos de Tenencia Directa acceden a los datos de posición, informes financieros y registros del libro a través del portal de inversores operado por MCorp."
 category: investments
 type: reference
 content_type: topic
@@ -13,13 +13,13 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-25
+last_edited: 2026-07-30
 editor: pointsav-engineering
 paired_with: investor-access.md
 cites: []
 ---
 
-Un inversor en un activo de [[direct-hold-framework|Tenencia Directa]] de WMC posee una posición en una propiedad específica y nombrada. El acceso a los datos de posición, informes financieros y registros de transacciones se proporciona a través del portal de inversores operado por MCorp. El portal refleja la posición del inversor en el [[property-ledger-technology|registro]] —porcentaje de capital, historial de eventos financieros y registros de transferencias— para cada activo en el que mantiene una posición. La posición se estructura en [[investment-units|unidades de inversión]] en el activo nombrado.
+Un inversor en un activo de [[direct-hold-framework|Tenencia Directa]] posee una posición en una propiedad específica y nombrada. El acceso a los datos de posición, informes financieros y registros de transacciones se proporciona a través del portal de inversores operado por MCorp. El portal refleja la posición del inversor en el [[property-ledger-technology|registro]] —porcentaje de capital, historial de eventos financieros y registros de transferencias— para cada activo en el que mantiene una posición, con el propio registro mantenido bajo la autoridad del órgano de gobierno del vehículo (en Canadá, el socio general, Woodfine Professional Centres Inc.). La posición se estructura en [[investment-units|unidades de inversión]] en el activo nombrado.
 
 ## Datos de posición
 
@@ -27,25 +27,25 @@ Los datos de posición representan el capital fraccionario actual del inversor e
 
 ## Informes financieros
 
-WMC proporciona a los inversores informes financieros periódicos para cada activo en el que mantienen una posición. Los informes abarcan el rendimiento financiero a nivel de activo: tasa de ocupación, ingresos por arrendamiento, servicio de deuda, distribuciones e ingreso operativo neto. Los informes no se agregan entre activos; cada informe corresponde a un único activo y a la posición de un único inversor en ese activo.
+MCorp proporciona a los inversores informes financieros periódicos para cada activo en el que mantienen una posición, como tarea delegada por el órgano de gobierno del vehículo. Los informes abarcan el rendimiento financiero a nivel de activo: tasa de ocupación, ingresos por arrendamiento, servicio de deuda, distribuciones e ingreso operativo neto. Los informes no se agregan entre activos; cada informe corresponde a un único activo y a la posición de un único inversor en ese activo.
 
-La frecuencia y el formato de los informes financieros se rigen por los estándares de comunicación con inversores de WMC, coherentes con las [[about-continuous-disclosure|obligaciones de divulgación]] aplicables en virtud del NI 51-102. Cuando los eventos financieros desencadenan la obligación de reportar cambios materiales, esa divulgación se realiza también a través de SEDAR+ y del portal.
+La frecuencia y el formato de los informes financieros se rigen por los estándares de comunicación con inversores de MCorp, coherentes con las [[about-continuous-disclosure|obligaciones de divulgación]] aplicables en virtud del NI 51-102. Cuando los eventos financieros desencadenan la obligación de reportar cambios materiales, esa divulgación se realiza también a través de SEDAR+ y del portal.
 
 ## Registros de transferencias
 
-Cuando un inversor transfiere capital a una contraparte en virtud del [[equity-transfer-model|Modelo de Transferencia de Capital]], el registro documenta la transacción: marca de tiempo, identidad de la parte cedente, identidad de la parte adquirente y porcentaje transferido. El inversor cedente recibe confirmación de la transacción completada. El inversor adquirente recibe un estado de posición actualizado que refleja el nuevo porcentaje de capital.
+Cuando un inversor transfiere capital a una contraparte elegible en virtud del [[equity-transfer-model|Modelo de Transferencia de Capital]], el registro documenta la transacción: marca de tiempo, identidad de la parte cedente, identidad de la parte adquirente y porcentaje transferido. El inversor cedente recibe confirmación de la transacción completada. El inversor adquirente recibe un estado de posición actualizado que refleja el nuevo porcentaje de capital.
 
-WMC actualiza el registro para reflejar la transferencia. WMC no aprueba ni intermedia las transferencias entre partes privadas; su función es registrar la transacción con exactitud en el libro y confirmar las posiciones actualizadas a ambas partes.
+El órgano de gobierno del vehículo — en Canadá, el socio general — registra la transferencia y está obligado contractualmente a admitir a un cesionario elegible, negándose únicamente por una lista breve y enumerada de motivos (una opinión de derecho de valores, o declaraciones de elegibilidad falsas); fuera de eso no ejerce discrecionalidad de aprobación ni intermedia transferencias entre partes privadas. MCorp no tiene ningún rol en este paso.
 
-## Sin mercado secundario
+## Transferencia extrabursátil
 
-WMC no opera un mercado secundario, un libro de órdenes cruzadas ni una facilidad de recompra — véase [[redemption-elimination|Eliminación de Redención]] para el fundamento estructural. Los inversores que buscan liquidez identifican de forma independiente una contraparte dispuesta. La entidad corporativa no intermedia este proceso y no hace ninguna declaración sobre la disponibilidad ni el precio de la liquidez privada para ningún activo específico.
+Ningún vehículo de Tenencia Directa opera un mercado secundario formal, un libro de órdenes cruzadas ni una facilidad de recompra — véase [[redemption-elimination|Eliminación de Redención]] para el fundamento estructural. Los inversores que buscan liquidez identifican de forma independiente una contraparte elegible. La entidad corporativa no intermedia este proceso y no hace ninguna declaración sobre la disponibilidad ni el precio de la liquidez privada para ningún activo específico.
 
-Los canales de intermediación que operan de forma independiente de la entidad corporativa pueden ser utilizados por los inversores para facilitar transferencias; WMC no hace ninguna declaración sobre la idoneidad, disponibilidad ni coste de dichos canales.
+Los canales de intermediación que operan de forma independiente de la entidad corporativa pueden ser utilizados por los inversores para facilitar transferencias; ni MCorp ni el órgano de gobierno del vehículo hacen ninguna declaración sobre la idoneidad, disponibilidad ni coste de dichos canales.
 
 ## Acceso al portal
 
-El acceso al portal se realiza mediante credenciales. WMC es responsable de la autenticación de los inversores y de la habilitación y revocación del acceso al portal. PointSav mantiene la infraestructura del portal; WMC controla quién recibe acceso y bajo qué condiciones. Las credenciales se emiten en el momento en que el inversor completa el proceso de incorporación para un activo específico.
+El acceso al portal se realiza mediante credenciales. MCorp es responsable de la autenticación de los inversores y de la habilitación y revocación del acceso al portal, como tarea delegada por el órgano de gobierno del vehículo. PointSav mantiene la infraestructura del portal; MCorp controla quién recibe acceso y bajo qué condiciones. Las credenciales se emiten en el momento en que el inversor completa el proceso de incorporación para un activo específico.
 
 ## Véase también
 
