@@ -10,7 +10,7 @@ short_description: "How the limited partnership legal form implements the direct
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-15
+last_edited: 2026-07-30
 editor: woodfine-editorial
 paired_with: limited-partnership-structure.es.md
 ---
@@ -56,13 +56,20 @@ capped liability protects them from loss beyond their investment.
 The partnership agreement is the governing instrument of each direct-hold solution. It
 specifies the rights and obligations of all partners: the capital account structure, the
 allocation of income and loss among partners, the conditions for distributions, the transfer
-provisions that allow limited partners to transfer their units without general partner consent,
-and the governance procedures for material decisions.
+provisions that allow limited partners to transfer their units to any eligible counterparty
+subject to a short, enumerated list of grounds on which the general partner may decline a
+specific transfer, and the governance procedures for material decisions.
 
-The transfer provisions of the agreement implement the equity transfer model: limited partners
-may transfer their units to willing counterparties without requiring general partner approval,
-subject only to compliance with applicable securities law exemptions. The general partner
-updates the unit register to record the transfer.
+The transfer provisions of the agreement implement the [[equity-transfer-model|equity transfer model]]:
+limited partners may transfer their units to any eligible counterparty, subject only to
+compliance with applicable securities law exemptions and the eligibility representations
+each transferee makes. The general partner may decline a specific transfer only where counsel
+opines it would violate securities or other law, or where the general partner believes those
+representations are untrue — otherwise it is contractually obligated to admit the transferee,
+and it updates the unit register to record the transfer. A separate, narrower mechanism can
+require a holder to divest if their status would create adverse tax consequences for the
+partnership, and an acquisition crossing 20% of outstanding units triggers a mandatory-offer
+requirement rather than an ordinary transfer.
 
 ## Covenant waiver and amendment mechanics
 
