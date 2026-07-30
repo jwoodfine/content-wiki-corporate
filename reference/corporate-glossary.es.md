@@ -11,7 +11,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-15
+last_edited: 2026-07-30
 editor: pointsav-engineering
 paired_with: corporate-glossary.md
 cites: []
@@ -33,7 +33,7 @@ Es un conjunto curado de aproximadamente cincuenta términos, seleccionados de u
 
 ## B
 
-**Comisión de Valores de Columbia Británica (BCSC)** — El regulador provincial de valores de Columbia Británica y el regulador principal de Woodfine Management Corp. Ver [[canadian-securities-terminology|Terminología regulatoria de valores canadienses]].
+**Comisión de Valores de Columbia Británica (BCSC)** — El regulador provincial de valores de Columbia Británica y el regulador principal de Professional Centres Canada LP, el emisor informante canadiense del grupo. Ver [[canadian-securities-terminology|Terminología regulatoria de valores canadienses]].
 
 ## C
 
@@ -145,13 +145,21 @@ Es un conjunto curado de aproximadamente cincuenta términos, seleccionados de u
 
 ## V
 
-**Modelo Proveedor-Cliente** — La relación de servicios interna bajo la cual PointSav Digital Systems presta servicios tecnológicos a Woodfine Management Corp. Ver [[vendor-customer-model|Modelo proveedor-cliente]].
+**Modelo Proveedor-Cliente** — La relación de servicios interna bajo la cual PointSav Digital Systems presta servicios tecnológicos a las subsidiarias operativas del grupo Woodfine. Ver [[vendor-customer-model|Modelo proveedor-cliente]].
 
 ## W
 
-**Woodfine Capital Projects Inc. (WCP)** — La sociedad matriz canadiense y propietaria al 100% de PointSav Digital Systems y Woodfine Management Corp. Ver [[corporate-structure|Estructura corporativa]].
+**Woodfine Advisors Inc.** — Subsidiaria de propiedad absoluta de Woodfine Capital Projects Inc., contratada por el socio general canadiense bajo un acuerdo de servicios de asesoría para prestar servicios de adquisición, desarrollo y gestión a Professional Centres Canada LP. Ver [[professional-centres-canada-lp-structure|Estructura de Professional Centres Canada LP]].
 
-**Woodfine Management Corp. (WMC)** — La subsidiaria operativa comercial que gestiona las relaciones con inversionistas y gobierna las sociedades en comandita de tenencia directa. Ver [[corporate-structure|Estructura corporativa]].
+**Woodfine Capital Projects Inc. (WCP)** — La sociedad matriz canadiense, promotora y desarrolladora; propietaria al 100% de sus subsidiarias, incluidas PointSav Digital Systems, Woodfine Management Corp., Woodfine Professional Centres Inc., Woodfine Advisors Inc. y Benetti Holdings Inc. Ver [[corporate-structure|Estructura corporativa]].
+
+**Woodfine Management Corp. (MCorp)** — La subsidiaria de propiedad absoluta de WCP que contrata consultores externos y realiza tareas delegadas por otras subsidiarias de WCP. No es socio general, administrador ni órgano de gobierno de ningún vehículo de Tenencia Directa. Ver [[corporate-structure|Estructura corporativa]].
+
+**Woodfine Professional Centres Inc.** — La sociedad de Columbia Británica, subsidiaria de propiedad absoluta de WCP, que actúa como socio general de Professional Centres Canada LP. Ver [[professional-centres-canada-lp-structure|Estructura de Professional Centres Canada LP]].
+
+**Benetti Holdings Inc.** — La subsidiaria de propósito especial de WCP a través de la cual se mantiene la participación accionaria minoritaria en garantía del promotor en Professional Centres Canada LP. Ver [[professional-centres-canada-lp-structure|Estructura de Professional Centres Canada LP]].
+
+**Administrador / Comité Técnico** — Los órganos de gobierno planificados del vehículo FIBRA de México, que como estructura fiduciaria no tiene socio general. Ver [[four-jurisdiction-framework|Marco de Cuatro Jurisdicciones]].
 
 ## Ver también
 
