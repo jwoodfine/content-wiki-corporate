@@ -3,11 +3,35 @@
 Living record of in-flight cleanup work, open questions, and decisions.
 Read at session start. Update when meaningful cleanup occurs.
 
-Last updated: 2026-07-09.
+Last updated: 2026-07-30.
 
 ---
 
 ## Active issues
+
+### 2026-07-30 — `governance/legal-proceedings.md` asserted a real present-tense fact about the actual entity's legal standing: FIXED; a related open question flagged to Command
+
+Command's GitHub-exposure remediation (2026-07-29) found `governance/legal-proceedings.md`'s
+"Standard disclosure statement" section stated, in present tense, that "Woodfine Capital
+Projects Inc. and its subsidiaries are not party to any legal proceeding that management
+considers material" — a real disclosure fact about the real entity, published as wiki
+content, unlike its sibling articles (`experts.md`, `auditors-transfer-agent-registrar.md`)
+which already describe roles/mechanisms generically and point to the actual filing as
+authoritative rather than restating the current fact. Fixed (EN+ES, commit `304e0f1`):
+reframed to describe the disclosure-item pattern (what it covers, when it applies, where
+the current value lives) without asserting the current status; cross-linked to
+`experts.md` as the parallel precedent.
+
+**Related, not resolved**: the same message flagged `investments/
+four-jurisdiction-framework.md`'s per-jurisdiction target fund figures (C$250M/US$500M/
+€250M/MN$5,000M) as figures that were just removed from `woodfine-media-assets`' entity
+registry as real securities-structuring data. Asked Command directly whether the
+registry removal was about the figures themselves or about the structured/queryable
+registry format specifically — the wiki's own framing is already consistently
+forward-looking ("target gross funded value," "planned to be formed"), which may or may
+not be a materially different case. Not editing this article until that's answered.
+
+---
 
 ### ⚠ Cluster-clone / canonical convention divergence (Master must resolve)
 
