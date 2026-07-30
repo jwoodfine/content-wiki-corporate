@@ -16,7 +16,7 @@
 
 ## About This Repository
 
-This is the public governance and financial architecture library for MCorp. It documents the structural logic of the Direct-Hold investment framework — the financial model that Woodfine uses to develop, manage, and hold environmentally certified commercial real estate across North America and Europe.
+This is the public governance and financial architecture library for the Woodfine group. It documents the structural logic of the Direct-Hold investment framework — the financial model that Woodfine uses to develop, manage, and hold environmentally certified commercial real estate across North America and Europe.
 
 The intended reader is an investment banker, asset manager, or auditor who wants to understand the investment vehicle structure, governance controls, and financial architecture before a first conversation. This repository is the pre-read, not the pitch.
 
@@ -42,18 +42,18 @@ Woodfine does not operate investment funds. It operates Direct-Hold Solutions �
 
 ## Governance Structure
 
-Woodfine Capital Projects Inc. is the parent company. MCorp is the Principal Manager executing the Direct-Hold Solutions. The Tripartite Management Structure — developer managing construction, compliance management, and a banking syndicate of asset managers — ensures arm's-length distance between the enterprise's development function and its investor relations function.
+Woodfine Capital Projects Inc. (WCP) is the parent company, promoter, and developer. Each Direct-Hold Solution is governed by the body its legal form requires: Woodfine Professional Centres Inc. (a WCP subsidiary) as General Partner in Canada; a Delaware General Partner, a Spanish board of directors (Consejo de Administración), and a Mexican Administrator with a Technical Committee for the three planned vehicles. Woodfine Advisors Inc., a WCP subsidiary, is the Canada partnership's retained procurement, development, and management advisor. Woodfine Management Corp. (MCorp) is a separate WCP subsidiary that retains third-party consultants and performs tasks delegated to it by other subsidiaries; it is not a general partner, administrator, or governing body of any vehicle. The Tripartite Management Structure — development execution, compliance administration, and an independent banking syndicate of asset managers — keeps these functions at arm's length from one another.
 
 Each Direct-Hold Solution has its own Independent Oversight Committee. There is no global committee. This is intentional: each jurisdiction's fiduciary obligations are distinct, and a single global body creates the same structural conflation that fund structures create.
 
-The four active Direct-Hold Solutions:
+The established and planned Direct-Hold Solutions:
 
-| Entity | Jurisdiction | Designation |
-|:---|:---|:---|
-| Woodfine Professional Centres Limited Partnership | Canada | Reporting Issuer under BCSC |
-| Woodfine Professional Centres 2 Limited Partnership | United States | Regulated Reporting Entity |
-| Woodfine Professional Centres 3 SOCIMI | Spain | Sociedad Cotizada — listed entity |
-| Woodfine Professional Centres 4 FIBRA | Mexico | Fideicomiso — flow-through trust |
+| Entity | Jurisdiction | Status | Designation |
+|:---|:---|:---|:---|
+| Woodfine Professional Centres Limited Partnership | Canada | Established | Reporting Issuer under BCSC |
+| Woodfine Professional Centres 2 Limited Partnership | United States | Planned | Regulated Reporting Entity |
+| Woodfine Professional Centres 3 SOCIMI | Spain | Planned | Sociedad Cotizada — listed entity |
+| Woodfine Professional Centres 4 FIBRA | Mexico | Planned | Fideicomiso — flow-through trust |
 
 ---
 
