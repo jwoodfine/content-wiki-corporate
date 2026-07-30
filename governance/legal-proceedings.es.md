@@ -11,7 +11,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-07-30
 editor: pointsav-engineering
 paired_with: legal-proceedings.md
 ---
@@ -26,13 +26,20 @@ presentación aplicable en SEDAR+ o el registro equivalente en la jurisdicción 
 
 ## Declaración estándar de divulgación
 
-A la fecha de última edición de este artículo, Woodfine Capital Projects Inc. y sus
-subsidiarias no son parte de ningún procedimiento legal que la administración considere
-material para el negocio, la condición financiera o las operaciones de la compañía. Esta
-declaración cubre los procedimientos pendientes conocidos por la administración a la fecha
-indicada; no se extiende a asuntos que surjan después de esa fecha, los cuales se informarían
-mediante el proceso de reporte de cambio material descrito en [[about-material-change-reporting|Reporte de Cambio
-Material]] y se reflejarían aquí en la siguiente revisión programada.
+Cuando no existe ningún procedimiento legal material, la forma estándar de este elemento de
+divulgación declara que el emisor y sus subsidiarias no son parte de ningún procedimiento legal
+que la administración considere material para el negocio, la condición financiera o las
+operaciones de la compañía; cuando sí existe un procedimiento material, el elemento describe en
+su lugar su naturaleza y estatus. Este wiki no reitera el valor vigente de esa declaración para
+el período actual, porque es vigente únicamente a la fecha de presentación y cambia en cada
+ciclo de reporte. La declaración autorizada y vigente para Woodfine Capital Projects Inc. y sus
+subsidiarias es la presentación aplicable en SEDAR+ o el registro equivalente en la jurisdicción
+aplicable, no este artículo — de forma consistente con cómo este wiki divulga otros elementos
+específicos del período de reporte, como la divulgación de expertos nombrados descrita en
+[[experts|Expertos]]. Un cambio de estatus se informa mediante el proceso de reporte de cambio
+material descrito en [[about-material-change-reporting|Reporte de Cambio Material]] en el
+momento en que ocurre, y se refleja aquí como contexto de referencia en la siguiente revisión
+programada.
 
 ## Qué constituye un procedimiento legal material
 

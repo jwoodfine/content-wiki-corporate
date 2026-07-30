@@ -11,7 +11,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-07-30
 editor: pointsav-engineering
 paired_with: legal-proceedings.es.md
 ---
@@ -26,12 +26,18 @@ applicable jurisdiction.
 
 ## Standard disclosure statement
 
-As of the last-edited date of this article, Woodfine Capital Projects Inc. and its subsidiaries
-are not party to any legal proceeding that management considers material to the business,
-financial condition, or operations of the company. This statement covers pending proceedings
-known to management as of the date above; it does not extend to matters arising after that
-date, which would be reported through the material change reporting process described in
-[[about-material-change-reporting|Material Change Reporting]] and reflected here at the next scheduled review.
+Where no material legal proceeding exists, the standard form of this disclosure item states
+that the issuer and its subsidiaries are not party to any legal proceeding that management
+considers material to the business, financial condition, or operations of the company; where
+a material proceeding does exist, the item instead describes its nature and status. This wiki
+does not restate the current-period value of that statement, because it is current only as of
+the filing date and changes at each reporting cycle. The authoritative, current statement for
+Woodfine Capital Projects Inc. and its subsidiaries is the applicable filing on SEDAR+ or the
+equivalent registry in the applicable jurisdiction, not this article — consistent with how this
+wiki discloses other reporting-period-specific items, such as the named-expert disclosure
+described in [[experts|Experts]]. A change in status is reported through the material change
+reporting process described in [[about-material-change-reporting|Material Change Reporting]]
+at the time it occurs, and reflected here as background context at the next scheduled review.
 
 ## What counts as a material legal proceeding
 
