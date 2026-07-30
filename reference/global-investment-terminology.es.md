@@ -9,7 +9,7 @@ quality: complete
 short_description: "Vocabulario transfronterizo de Términos Puente Globales que mapea la terminología legal de Canadá, Estados Unidos, España y México a un léxico común de traducción precisa."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-30
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -59,7 +59,7 @@ Tres categorías de terminología conllevan un riesgo particular de mala interpr
 
 ### Transmisibilidad y períodos de bloqueo
 
-**Libre Transmisión.** Las cuatro Direct-Hold Solutions están estructuradas de modo que las Unidades de Inversión puedan transmitirse sin consentimiento del socio general, el promotor u otros titulares de unidades, sujeto a los períodos de bloqueo legales aplicables. En Canadá, aplica el período inicial de cuatro meses tras la distribución inicial. En España y México, el equivalente se expresa como Libre Transmisión bajo las regulaciones SOCIMI y FIBRA aplicables.
+**Libre Transmisión.** Las cuatro Direct-Hold Solutions están estructuradas de modo que las Unidades de Inversión son libremente transmisibles a cualquier contraparte elegible, sin una decisión de aprobación del socio general en el caso ordinario. En Canadá y en el vehículo planificado de Estados Unidos, el socio general está obligado contractualmente a admitir a un cesionario elegible, negándose únicamente por una lista breve y enumerada de motivos (una opinión de derecho de valores, declaraciones de elegibilidad falsas, o una adquisición no conforme que cruce el umbral del 20% de oferta pública de adquisición); un mecanismo separado y más limitado puede exigir que un titular se desprenda de sus unidades si su estatus genera consecuencias fiscales adversas para la sociedad. En España y México, la elegibilidad se aplica directamente en el depositario/registro (Libre Transmisión bajo las regulaciones SOCIMI y FIBRA aplicables), sin ningún paso de aprobación del socio general. Esto es distinto en cada jurisdicción de un derecho de primera opción o discrecionalidad abierta de aprobación de transferencias, ninguno de los cuales existe en esta estructura. En Canadá, aplica el período inicial de cuatro meses tras la distribución inicial.
 
 ## Aplicación práctica
 

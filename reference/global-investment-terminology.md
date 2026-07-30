@@ -9,7 +9,7 @@ quality: complete
 short_description: "Cross-border vocabulary of Global Bridge Terms mapping jurisdiction-specific legal terminology in Canada, the United States, Spain, and Mexico to one accurate shared lexicon."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-11
+last_edited: 2026-07-30
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -63,7 +63,7 @@ The following table sets out the jurisdiction-specific terms and their Global Br
 
 ### Transferability and security identifiers
 
-**Freely Transferable.** All four Direct-Hold Solutions are structured so that Investment Units may be transferred without consent from the general partner, the promoter, or other unitholders, subject to applicable securities law hold periods. In Canada, the initial four-month statutory hold period applies after initial distribution. In Spain and Mexico, the equivalent is expressed as Libre Transmisión under the applicable SOCIMI and FIBRA regulations. Freely Transferable status is a direct consequence of Regulated Reporting Entity compliance: the [[about-disclosure-obligations|continuous disclosure obligation]] removes the information asymmetry that private equity lock-ups are designed to manage.
+**Freely Transferable.** All four Direct-Hold Solutions are structured so that Investment Units are freely transferable to any eligible counterparty, without a general partner approval decision in the ordinary case. In Canada and the planned United States vehicle, the general partner is contractually obligated to admit an eligible transferee, declining only on a short, enumerated list of grounds (a securities-law opinion, false eligibility representations, or a non-conforming acquisition crossing the 20% take-over-bid threshold); a separate, narrower mechanism can require a holder to divest if their status creates adverse tax consequences for the partnership. In Spain and Mexico, eligibility is enforced directly at the depository/register (Libre Transmisión under the applicable SOCIMI and FIBRA regulations), with no general partner approval step at all. This is distinct in every jurisdiction from a right of first refusal or open-ended transfer-approval discretion, neither of which exists in this structure. In Canada, the initial four-month statutory hold period applies after initial distribution. Freely Transferable status is a direct consequence of Regulated Reporting Entity compliance: the [[about-disclosure-obligations|continuous disclosure obligation]] removes the information asymmetry that private equity lock-ups are designed to manage.
 
 **Global Security Identifier.** In Canada and the United States, securities are identified primarily by CUSIP number, with ISIN derived from the CUSIP base. In Spain and Mexico, the primary identifier is ISIN. The Global Bridge Term Global Security Identifier refers to the ISIN as the cross-border common reference, applicable in all four jurisdictions.
 
