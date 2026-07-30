@@ -11,13 +11,13 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-25
+last_edited: 2026-07-30
 editor: pointsav-engineering
 paired_with: about-regulatory-posture.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. y sus subsidiarias — incluidas las entidades descritas en la [[topic-corporate-structure|estructura corporativa]] — aplican una postura de divulgación continua alineada con el marco regulatorio de valores canadiense con carácter previo a sus respectivas ofertas públicas planificadas. Los materiales publicados en corporate.woodfinegroup.com se tratan como divulgación públicamente disponible y son revisables en virtud de las [[about-continuous-disclosure|obligaciones de divulgación continua]] del Instrumento Nacional 51-102 y el Aviso del Personal de la OSC 51-721. El régimen cubre las adquisiciones de activos colocadas bajo el [[topic-direct-hold-framework|Marco de Tenencia Directa]] y los [[topic-fiduciary-data-mandate|datos fiduciarios]] mantenidos por WMC como custodio.
+Woodfine Capital Projects Inc. y sus subsidiarias — incluidas las entidades descritas en la [[topic-corporate-structure|estructura corporativa]] — aplican una postura de divulgación continua alineada con el marco regulatorio de valores canadiense con carácter previo a sus respectivas ofertas públicas planificadas. Los materiales publicados en corporate.woodfinegroup.com se tratan como divulgación públicamente disponible y son revisables en virtud de las [[about-continuous-disclosure|obligaciones de divulgación continua]] del Instrumento Nacional 51-102 y el Aviso del Personal de la OSC 51-721. El régimen cubre las adquisiciones de activos colocadas bajo el [[topic-direct-hold-framework|Marco de Tenencia Directa]] y los [[topic-fiduciary-data-mandate|datos fiduciarios]] mantenidos por el órgano de gobierno de cada vehículo como custodio.
 
 ## Marco aplicable
 
@@ -35,7 +35,7 @@ Un cambio material en el negocio, las operaciones o la estructura de capital de 
 
 ## Sovereign Data Foundation
 
-Las referencias a la Sovereign Data Foundation en los materiales de Woodfine describen una estructura institucional planificada. La Fundación no es actualmente titular de participaciones en ningún activo gestionado por WMC. No es actualmente auditora del registro de propiedades. Todas las referencias a la Fundación en los materiales de acceso público incluyen lenguaje de planificación o intención, coherente con las directrices de la OSC sobre declaraciones prospectivas. Cualquier afirmación de que la Fundación posee actualmente derechos de gobernanza, auditoría o propiedad sobre las operaciones de Woodfine sería inexacta bajo la estructura actual.
+Las referencias a la Sovereign Data Foundation en los materiales de Woodfine describen una estructura institucional planificada. La Fundación no es actualmente titular de participaciones en ningún activo gestionado por un vehículo de Tenencia Directa. No es actualmente auditora del registro de propiedades. Todas las referencias a la Fundación en los materiales de acceso público incluyen lenguaje de planificación o intención, coherente con las directrices de la OSC sobre declaraciones prospectivas. Cualquier afirmación de que la Fundación posee actualmente derechos de gobernanza, auditoría o propiedad sobre las operaciones de Woodfine sería inexacta bajo la estructura actual.
 
 ## Alcance del wiki público
 

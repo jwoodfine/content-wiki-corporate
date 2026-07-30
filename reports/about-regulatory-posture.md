@@ -11,13 +11,13 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-07-30
 editor: pointsav-engineering
 paired_with: about-regulatory-posture.es.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. and its subsidiaries — including the entities described in the [[topic-corporate-structure|corporate structure]] — apply a continuous-disclosure posture aligned with the Canadian securities regulatory framework in advance of their respective planned prospectus offerings. Materials published at corporate.woodfinegroup.com are treated as publicly available disclosure and are reviewable under the [[about-continuous-disclosure|continuous-disclosure obligations]] of National Instrument 51-102 and OSC Staff Notice 51-721. The regime covers asset acquisitions placed under the [[topic-direct-hold-framework|Direct-Hold framework]] and the [[topic-fiduciary-data-mandate|fiduciary data]] held by WMC as custodian.
+Woodfine Capital Projects Inc. and its subsidiaries — including the entities described in the [[topic-corporate-structure|corporate structure]] — apply a continuous-disclosure posture aligned with the Canadian securities regulatory framework in advance of their respective planned prospectus offerings. Materials published at corporate.woodfinegroup.com are treated as publicly available disclosure and are reviewable under the [[about-continuous-disclosure|continuous-disclosure obligations]] of National Instrument 51-102 and OSC Staff Notice 51-721. The regime covers asset acquisitions placed under the [[topic-direct-hold-framework|Direct-Hold framework]] and the [[topic-fiduciary-data-mandate|fiduciary data]] held by each vehicle's governing body as custodian.
 
 ## Key takeaways
 
@@ -41,7 +41,7 @@ A material change in the business, operations, or capital structure of Woodfine 
 
 ## Sovereign Data Foundation
 
-References to the Sovereign Data Foundation in Woodfine materials describe a planned institutional structure. The Foundation is not a current equity holder in any WMC-managed asset. It is not a current auditor of the property ledger. All references to the Foundation in public-facing materials carry planned or intended language, consistent with OSC guidance on forward-looking statements. Any representation that the Foundation currently holds governance, audit, or ownership rights over Woodfine operations would be inaccurate under the current structure.
+References to the Sovereign Data Foundation in Woodfine materials describe a planned institutional structure. The Foundation is not a current equity holder in any Direct-Hold vehicle's managed asset. It is not a current auditor of the property ledger. All references to the Foundation in public-facing materials carry planned or intended language, consistent with OSC guidance on forward-looking statements. Any representation that the Foundation currently holds governance, audit, or ownership rights over Woodfine operations would be inaccurate under the current structure.
 
 ## Public wiki scope
 

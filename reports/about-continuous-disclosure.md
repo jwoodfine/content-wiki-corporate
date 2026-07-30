@@ -11,13 +11,13 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-07-30
 editor: pointsav-engineering
 paired_with: about-continuous-disclosure.es.md
 cites: []
 ---
 
-National Instrument 51-102 (Continuous Disclosure Obligations) establishes the periodic and event-driven reporting requirements for reporting issuers in Canada. Woodfine Capital Projects Inc. intends to become subject to the full continuous-disclosure regime under this instrument upon effectiveness of its planned prospectus offering, including annual filings, quarterly reporting, and material change obligations. Each direct-hold limited partnership that has completed a prospectus offering is itself a separate reporting issuer, with independent NI 51-102 obligations filed on SEDAR+. The regime therefore applies to multiple entities within the Woodfine group — each filing separately — and governs disclosures pertaining to [[topic-direct-hold-framework|Direct-Hold]] assets and the [[topic-fiduciary-data-mandate|fiduciary data]] held under WMC custody.
+National Instrument 51-102 (Continuous Disclosure Obligations) establishes the periodic and event-driven reporting requirements for reporting issuers in Canada. Woodfine Capital Projects Inc. intends to become subject to the full continuous-disclosure regime under this instrument upon effectiveness of its planned prospectus offering, including annual filings, quarterly reporting, and material change obligations. Each direct-hold limited partnership that has completed a prospectus offering is itself a separate reporting issuer, with independent NI 51-102 obligations filed on SEDAR+. The regime therefore applies to multiple entities within the Woodfine group — each filing separately — and governs disclosures pertaining to [[topic-direct-hold-framework|Direct-Hold]] assets and the [[topic-fiduciary-data-mandate|fiduciary data]] held under each vehicle's governing-body custody.
 
 ## Key takeaways
 
