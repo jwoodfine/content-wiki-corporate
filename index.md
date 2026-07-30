@@ -20,8 +20,9 @@ editor: pointsav-engineering
 MCorp is the Principal Manager for a portfolio of direct-hold solutions —
 operating structures that bypass layered investment funds to provide perpetual equity
 ownership of commercial real estate through freely transferable investment units.
-Each solution is structured as a regulated reporting entity with mandatory disclosures
-to securities regulators under NI 51-102 and OSC SN 51-721.
+The established Canada solution is structured as a regulated reporting entity with
+mandatory disclosures to securities regulators under NI 51-102 and OSC SN 51-721;
+further planned solutions are intended to be structured the same way once established.
 
 The direct-hold model is built on four structural principles: full beneficial ownership
 of underlying assets, elimination of fund-level redemption mechanics, perpetual equity

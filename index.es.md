@@ -22,9 +22,10 @@ editor: pointsav-engineering
 MCorp es el Gerente Principal de una cartera de soluciones de tenencia directa — estructuras
 operativas que evitan los fondos de inversión por capas para proporcionar participación
 accionaria perpetua en bienes raíces comerciales mediante unidades de inversión de libre
-transmisión. Cada solución está estructurada como una entidad de información regulada con
-divulgaciones obligatorias ante los reguladores de valores bajo la NI 51-102 y el SN 51-721
-de la OSC.
+transmisión. La solución de Canadá, ya establecida, está estructurada como una entidad de
+información regulada con divulgaciones obligatorias ante los reguladores de valores bajo la
+NI 51-102 y el SN 51-721 de la OSC; las soluciones planificadas adicionales tienen previsto
+estructurarse de la misma manera una vez establecidas.
 
 El modelo de tenencia directa se sustenta en cuatro principios estructurales: propiedad
 beneficiaria plena de los activos subyacentes, eliminación de los mecanismos de rescate a

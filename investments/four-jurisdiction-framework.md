@@ -19,13 +19,13 @@ paired_with: four-jurisdiction-framework.es.md
 cites: []
 ---
 
-The **Four-Jurisdiction Framework** describes the sovereign deployment architecture of the Woodfine Capital Projects Inc. [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] platform. Woodfine Capital Projects Inc. (WCP) is offering for sale Investment Units in four Direct-Hold Solutions, each constituted under the laws of a specific sovereign jurisdiction and each using the flow-through investment vehicle that the laws of that jurisdiction make available. The four jurisdictions are Canada, the United States, Spain, and Mexico.
+The **Four-Jurisdiction Framework** describes the sovereign deployment architecture of the Woodfine Capital Projects Inc. [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] platform. Woodfine Capital Projects Inc. (WCP) is offering for sale Investment Units in Professional Centres Canada LP, the established Direct-Hold Solution, and plans to establish three further Direct-Hold Solutions in the United States, Spain, and Mexico, each constituted under the laws of its jurisdiction and each using the flow-through investment vehicle that jurisdiction's laws make available.
 
-Each Direct-Hold Solution is a separate [[regulated-reporting-entity|Regulated Reporting Entity]], subject to the securities laws and [[about-disclosure-obligations|continuous disclosure obligations]] of its sovereign jurisdiction. WCP acts as the promoter of all four vehicles. Wholly owned subsidiaries of WCP serve as general partners and consultants in respect of each vehicle's business operations.
+Professional Centres Canada LP is a [[regulated-reporting-entity|Regulated Reporting Entity]], subject to the securities laws and [[about-disclosure-obligations|continuous disclosure obligations]] of Canada; the planned United States, Spain, and Mexico vehicles are intended to become Regulated Reporting Entities in their respective jurisdictions once established. WCP acts as the promoter of all four vehicles. Wholly owned subsidiaries of WCP serve, or are intended to serve, as general partners and consultants in respect of each vehicle's business operations.
 
 ## Structure Overview
 
-The four Direct-Hold Solutions are structured as follows:
+The established and planned Direct-Hold Solutions are structured as follows (target gross funded values for the three planned vehicles; Canada's figure is the established vehicle's target):
 
 | Vehicle | Jurisdiction | Primary entity | Gross funded value | CSD depositary |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ The four Direct-Hold Solutions are structured as follows:
 | Professional Centres Spain SOCIMI | Spain (Madrid) | Sociedad Cotizada | €250 million | Iberclear (Restricted) |
 | Professional Centres Mexico FIBRA | Mexico (State of Mexico) | Private FIBRA | MN$5,000 million | Indeval (Restricted) |
 
-Each vehicle delivers 100% flow-through taxation under its sovereign tax regime, Freely Transferable Investment Units, and Exchange-Traded First Secured Mortgage Debentures. The legal form varies by jurisdiction — [[limited-partnership-structure|limited partnership]] in Canada and the United States, SOCIMI in Spain, FIBRA in Mexico — but the economic and governance structure is designed to be functionally equivalent across all four.
+Canada's established vehicle delivers 100% flow-through taxation under its sovereign tax regime, Freely Transferable Investment Units, and Exchange-Traded First Secured Mortgage Debentures; the three planned vehicles are designed to deliver the same features once established. The legal form varies by jurisdiction — [[limited-partnership-structure|limited partnership]] in Canada and the United States, SOCIMI in Spain, FIBRA in Mexico — but the economic and governance structure is designed to be functionally equivalent across all four.
 
 ## Canada — Professional Centres Canada LP
 
