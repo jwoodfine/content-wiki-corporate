@@ -9,7 +9,7 @@ quality: complete
 short_description: "Feature-by-feature comparison of the Direct-Hold Solutions with Legacy Joint Ventures, Private Equity funds, and Traditional REITs across twelve governance dimensions."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-11
+last_edited: 2026-07-30
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -55,7 +55,7 @@ Six features appear in both Traditional REITs and Direct-Hold Solutions but are 
 
 **Primary Balance Sheet Asset.** Investment Units in a listed REIT and Investment Units in a Direct-Hold Solution are securities that appear on the investor's balance sheet as a primary asset. Legacy Joint Ventures and Private Equity interests are typically recorded as alternative investments or partnership interests, which may not receive equivalent accounting treatment.
 
-**Freely Transferable Ownership.** As [[regulated-reporting-entity|Regulated Reporting Entities]], the Direct-Hold Solutions issue Investment Units that are freely transferable without manager consent, parallel to the exchange-tradeable shares of a listed REIT.
+**Freely Transferable Ownership.** As [[regulated-reporting-entity|Regulated Reporting Entities]], the Direct-Hold Solutions issue Investment Units that are freely transferable to any eligible counterparty without a manager approval decision in the ordinary case, parallel to the exchange-tradeable shares of a listed REIT — the governing body's role is limited to a short, enumerated list of eligibility grounds, not open-ended discretion.
 
 **Eligible as Collateral.** Units that are freely transferable and recorded as primary balance sheet assets can be pledged as collateral in lending or margin facilities, which is not generally available to holders of Legacy Joint Venture or Private Equity interests.
 
