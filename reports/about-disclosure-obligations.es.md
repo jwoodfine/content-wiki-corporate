@@ -10,7 +10,7 @@ short_description: "Las obligaciones de divulgación continua de un emisor que c
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-29
+last_edited: 2026-07-31
 editor: woodfine-editorial
 paired_with: about-disclosure-obligations.md
 ---
@@ -28,16 +28,20 @@ posteriores al cierre de su ejercicio fiscal. El paquete comprende tres document
 
 **Estados financieros anuales** — [[about-financial-reporting|Estados financieros auditados]] preparados de conformidad
 con las normas contables aplicables (NIIF para la mayoría de las entidades con distribución
-pública bajo NI 52-107), con cifras comparativas del año anterior.
+pública bajo NI 52-107), con cifras comparativas del año anterior. Los estados financieros
+anuales deben enviarse a todos los tenedores de valores registrados que hayan solicitado
+copias.
 
 **Formulario de información anual (FIA)** — Documento de divulgación bajo NI 51-102 Parte 6
 que proporciona una descripción detallada del emisor: sus negocios y operaciones, factores
 de riesgo, estructura de capital, directores y funcionarios, procedimientos legales y
-contratos materiales.
+contratos materiales. No todos los emisores que cotizan están obligados a presentar un FIA;
+el requisito depende de umbrales de capitalización de mercado y de la moneda de reporte.
 
 **Análisis y discusión de la administración anual (MD&A anual)** — Análisis narrativo de
 la administración sobre la condición financiera y los resultados de operaciones del emisor
-para el período anual.
+para el período anual. El MD&A anual también debe abordar los cambios del cuarto trimestre
+y anuales que no hayan sido objeto de divulgación en el [[about-quarterly-reporting|MD&A trimestral]].
 
 ## Divulgación interina
 
@@ -54,6 +58,17 @@ operaciones o asuntos. Al determinar que ha ocurrido un cambio material, el emis
    inmediatamente después de su determinación.
 2. Presentar un informe de cambio material (Formulario 51-102F3) dentro de los 10 días
    posteriores al comunicado.
+
+El requisito de dos pasos — primero el comunicado de prensa, luego el informe formal —
+está diseñado para garantizar que los participantes del mercado reciban aviso oportuno sin
+demora por la preparación de documentos.
+
+## Presentación en SEDAR+
+
+Todos los documentos de divulgación continua se presentan electrónicamente a través de
+SEDAR+. Los documentos presentados son de acceso público sin costo en SEDAR+ el mismo día
+de su presentación, lo que brinda a todos los participantes del mercado acceso simultáneo
+a la información material.
 
 ## Consulte también
 

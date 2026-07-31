@@ -10,7 +10,7 @@ short_description: "Definiciones de los principales términos regulatorios de va
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-29
+last_edited: 2026-07-31
 editor: woodfine-editorial
 paired_with: canadian-securities-terminology.md
 ---
@@ -42,6 +42,11 @@ el día de la presentación.
 **[[regulated-reporting-entity|Emisor que cotiza]]** — Una entidad que ha distribuido valores al público y está sujeta a las
 obligaciones de divulgación continua de NI 51-102.
 
+**Emisor que cotiza sin bolsa (non-exchange-issuer reporting issuer)** — Un emisor que
+cotiza cuyos valores no están listados en una bolsa de valores reconocida. Las obligaciones
+de divulgación continua son en general las mismas que para los emisores listados, aunque
+pueden existir exenciones para ciertos tipos de emisores.
+
 **Emisor de riesgo** — Un emisor que cotiza en una bolsa de valores de riesgo (TSX Venture
 Exchange o Canadian Securities Exchange) con acceso a ciertos requisitos de divulgación
 modificados.
@@ -59,6 +64,11 @@ trimestralmente.
 **[[about-material-change-reporting|Informe de cambio material]] (ICM)** — Formulario 51-102F3 presentado en SEDAR+ dentro de
 los 10 días posteriores a un comunicado de prensa sobre un cambio material.
 
+**Informe técnico (technical report)** — Documento de divulgación requerido bajo NI 43-101
+Estándares de Divulgación para Proyectos Mineros cuando un emisor que cotiza efectúa una
+divulgación que activa el requisito de informe técnico. No aplicable a emisores del sector
+inmobiliario.
+
 ## Exenciones e instrumentos
 
 **NI 45-106 Exenciones de Prospecto** — Rige las exenciones de los requisitos de prospecto.
@@ -67,6 +77,9 @@ la sección 2.3.
 
 **NI 52-107** — Especifica que los emisores canadienses deben usar las NIIF emitidas por
 el Consejo de Normas Internacionales de Contabilidad.
+
+**NI 52-110 Comités de Auditoría** — Establece los requisitos de composición, independencia
+y mandato de los [[audit-committee-mandate|comités de auditoría]] de los emisores que cotizan.
 
 **NI 51-102** — El principal instrumento de divulgación continua.
 

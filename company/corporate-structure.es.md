@@ -13,13 +13,26 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-30
+last_edited: 2026-07-31
 editor: pointsav-engineering
 paired_with: corporate-structure.md
 cites: []
 ---
 
 Woodfine Capital Projects Inc. (WCP) es la empresa matriz canadiense constituida a nivel federal, registrada extra-provincialmente para operar en Columbia Británica. Opera a través de subsidiarias de propiedad absoluta, entre ellas: PointSav Digital Systems, el proveedor de tecnología; Woodfine Management Corp. ("MCorp"), una subsidiaria de servicios delegados; y un conjunto de subsidiarias a nivel de vehículo — incluidas Woodfine Professional Centres Inc., Woodfine Advisors Inc. y Benetti Holdings Inc. — con roles definidos en el [[topic-direct-hold-framework|Marco de Tenencia Directa]]. "Woodfine" se refiere a WCP y sus subsidiarias y afiliadas en conjunto; no es sinónimo de MCorp. El arreglo implementa el [[topic-vendor-customer-model|modelo proveedor-cliente]] a nivel corporativo.
+
+## Puntos clave
+
+- WCP aporta gobernanza y titularidad; PointSav Digital Systems presta los servicios
+  tecnológicos; MCorp contrata consultores externos y realiza las tareas que le delegan
+  otras subsidiarias de WCP. MCorp no es el socio general de ningún vehículo de Tenencia
+  Directa y no rige las sociedades limitadas de tenencia directa.
+- La gobernanza de cada vehículo de Tenencia Directa recae en el órgano de gobierno propio
+  de ese vehículo — en Canadá, el socio general, Woodfine Professional Centres Inc. — no en
+  MCorp. Véase "Subsidiarias a nivel de vehículo" más abajo.
+- PointSav no puede tomar decisiones de inversión ni posee participación en las propiedades
+  gestionadas; MCorp no puede modificar el código de la plataforma — la separación se aplica
+  en el límite corporativo, no solo por contrato.
 
 ## Entidad matriz
 
@@ -35,13 +48,27 @@ MCorp (Woodfine Management Corp.) es una subsidiaria de propiedad absoluta de Wo
 
 ## Subsidiarias a nivel de vehículo
 
-La gobernanza de cada vehículo de Tenencia Directa recae en el órgano que exige su forma legal: en Canadá, **Woodfine Professional Centres Inc.** actúa como socio general; en España (planificado), un Consejo de Administración, ya que la SOCIMI es una sociedad cotizada, no una sociedad limitada; en México (planificado), un Administrador junto con un Comité Técnico. En Canadá, el socio general contrata a **Woodfine Advisors Inc.**, otra subsidiaria de WCP, bajo un acuerdo de servicios de asesoría para la gestión operativa — una entidad distinta de MCorp. La titularidad legal de cada propiedad recae en una sociedad nominataria WCP Titleco independiente. La [[topic-fiduciary-data-mandate|custodia fiduciaria de datos]] del registro de propiedades corresponde al órgano de gobierno de cada vehículo — en Canadá, Woodfine Professional Centres Inc. — no a MCorp.
+La gobernanza de cada vehículo de Tenencia Directa recae en el órgano que exige su forma legal: en Canadá, **Woodfine Professional Centres Inc.** actúa como socio general; en Estados Unidos (planificado), una sociedad limitada de Delaware cuyo socio general sería una corporación de Delaware, prevista como subsidiaria de WCP — aún no constituida; en España (planificado), un Consejo de Administración, ya que la SOCIMI es una sociedad cotizada, no una sociedad limitada; en México (planificado), un Administrador junto con un Comité Técnico. En Canadá, el socio general contrata a **Woodfine Advisors Inc.**, otra subsidiaria de WCP, bajo un acuerdo de servicios de asesoría para la gestión operativa — una entidad distinta de MCorp. La titularidad legal de cada propiedad recae en una sociedad nominataria WCP Titleco independiente. La [[topic-fiduciary-data-mandate|custodia fiduciaria de datos]] del registro de propiedades corresponde al órgano de gobierno de cada vehículo — en Canadá, Woodfine Professional Centres Inc. — no a MCorp.
 
 ## Principio de separación
 
 La estructura corporativa separa las decisiones tecnológicas de las decisiones inmobiliarias a nivel corporativo. PointSav no puede tomar decisiones de inversión; su mandato es la prestación de servicios tecnológicos. Ni MCorp ni PointSav tienen autoridad de gobernanza sobre ningún vehículo de Tenencia Directa — esa autoridad corresponde al órgano de gobierno propio de cada vehículo.
 
 Esta separación es estructural, no contractual. La intención del diseño es que ni una falla operativa en PointSav ni un evento financiero en MCorp perjudiquen automáticamente la gobernanza de los vehículos ni la función principal de la otra entidad.
+
+## Conclusión
+
+La estructura corporativa es una arquitectura de gobernanza, no una conveniencia fiscal o
+administrativa. Al ubicar las decisiones tecnológicas dentro de PointSav y la gobernanza
+inmobiliaria dentro del órgano de gobierno propio de cada vehículo, el grupo impide que
+una sola función invada el ámbito de otra. Los inversores mantienen Unidades de Inversión
+en un vehículo de Tenencia Directa nombrado y mantienen su posición a nivel del vehículo;
+la autoridad de gestión y la responsabilidad fiduciaria del negocio de ese vehículo recaen
+en su órgano de gobierno — en Canadá, Woodfine Professional Centres Inc. como socio
+general. Los inversores no tienen relación jurídica directa con la plataforma tecnológica,
+y PointSav no tiene autoridad sobre las decisiones de inversión. El límite corporativo hace
+que esta separación sea duradera: modificarla exige una reestructuración, no una simple
+enmienda de política.
 
 ## Véase también
 

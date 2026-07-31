@@ -10,7 +10,7 @@ short_description: "Definiciones de las métricas financieras primarias utilizad
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-15
+last_edited: 2026-07-31
 editor: woodfine-editorial
 paired_with: cre-financial-metrics.md
 ---
@@ -25,7 +25,9 @@ requisitos de información financiera de las NIIF.
 **Ingreso operativo neto (ION)** — Ingresos de las operaciones de la propiedad después de
 deducir los gastos operativos, pero antes del servicio de deuda, gastos de capital,
 depreciación e impuesto sobre la renta. El ION es la entrada principal a la valoración de
-propiedades. Ver net-operating-income.
+propiedades. Existen dos variantes: el *ION en efectivo* (flujos de efectivo reales) y el
+*ION NIIF* (renta en línea recta bajo la NIIF 16, con las bonificaciones de mejoras al
+arrendatario amortizadas). Ver net-operating-income.
 
 **Ingreso bruto efectivo (IBE)** — Ingreso potencial bruto menos vacancia y pérdida de
 crédito.
@@ -50,14 +52,24 @@ requieren RCSD de 1.20–1.30× en el origen.
 
 **Razón de cobertura de intereses (RCI)** — ION dividido entre las obligaciones anuales de
 intereses (excluyendo el reembolso de principal). Utilizada como métrica de compuerta de
-distribución: no se declara ninguna distribución cuando la RCI está por debajo de 1.2×.
+distribución: no se declara ninguna distribución cuando la RCI está por debajo de 1.2×. La
+RCI es una medida más laxa que la RCSD cuando la hipoteca tiene una estructura amortizable,
+porque la RCSD incluye el reembolso de principal en el denominador, mientras que la RCI lo
+excluye.
 
 ## Métricas de valoración
 
-**Tasa de capitalización** — ION dividido entre el valor de mercado. Ver capitalization-rate.
+**Tasa de capitalización** — ION dividido entre el valor de mercado. Se aplica de forma
+inversa (valor = ION ÷ tasa de capitalización) en el método de valoración por
+capitalización directa. Las tasas de capitalización de mercado se observan a partir de
+transacciones comparables. Ver capitalization-rate.
 
 **Valor activo neto (VAN)** — La suma de los valores razonables de todas las propiedades
-en la cartera menos todas las obligaciones de deuda y otros pasivos.
+en la cartera menos todas las obligaciones de deuda y otros pasivos. El VAN contable
+(*Book NAV*) utiliza valores de tasación; el VAN ajustado (*Adjusted NAV*) incorpora
+ajustes por el valor razonable de mercado de los pasivos, los costos de transacción y los
+impuestos diferidos. El VAN de valor de mercado (*Market Value NAV*) utiliza evidencia de
+transacciones de mercado actuales en lugar de valores de tasación.
 
 ## Métricas de rendimiento
 
@@ -91,6 +103,29 @@ largo del período.
 **Múltiplo sobre capital invertido (MOIC)** — Efectivo total devuelto al inversor dividido
 entre el efectivo total invertido. Un MOIC de 2.0× significa que el inversor recibió $2.00
 por cada $1.00 invertido. El MOIC no tiene en cuenta el valor temporal del dinero.
+
+**Rendimiento apalancado frente a no apalancado** — Los rendimientos calculados sobre
+inversiones apalancadas incorporan el efecto amplificador de la deuda. El rendimiento no
+apalancado (a veces llamado rendimiento "solo capital" o *all-equity*) mide el rendimiento
+del activo en sí, independientemente de la estructura de financiamiento. La diferencia
+entre la TIR apalancada y la no apalancada refleja el costo y el monto de la deuda
+utilizada.
+
+## Métricas de riesgo
+
+**Tasa de capitalización de entrada (*going-in cap rate*)** — La tasa de capitalización
+implícita en el precio de adquisición respecto del ION estabilizado al momento de la
+compra. El rendimiento de entrada de la inversión.
+
+**Tasa de capitalización de salida (*exit cap rate*)** — La tasa de capitalización asumida
+al momento de la disposición. Se aplica al ION proyectado en la fecha de salida para
+estimar el valor terminal. La diferencia entre las tasas de entrada y salida refleja el
+supuesto del inversor sobre las condiciones futuras del mercado.
+
+**Ocupación de equilibrio (*break-even occupancy*)** — La tasa de ocupación en la cual el
+ION cubre exactamente los gastos operativos totales y el servicio de deuda, produciendo un
+ingreso distribuible de cero. Útil para poner a prueba la resiliencia de un activo frente a
+incrementos de vacancia.
 
 ## Consulte también
 
