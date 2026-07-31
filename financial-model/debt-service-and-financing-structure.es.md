@@ -10,7 +10,7 @@ short_description: "Cómo se estructura el financiamiento hipotecario comercial 
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-29
+last_edited: 2026-07-31
 editor: woodfine-editorial
 paired_with: debt-service-and-financing-structure.md
 ---
@@ -38,11 +38,52 @@ valor tasado de la propiedad. El rango estándar para propiedades comerciales ge
 ingresos en los mercados institucionales canadienses es del 60% al 75% de la relación
 préstamo-valor (RPV).
 
+Con una RPV del 65%, una propiedad tasada en $10,000,000 admite una hipoteca de $6,500,000.
+Los $3,500,000 restantes del valor deben financiarse con capital aportado por los tenedores
+de unidades de la SC. La relación préstamo-valor se evalúa en el origen y puede volver a
+probarse en fechas de refinanciamiento o de revisión de convenios.
+
 ## Dimensionamiento de deuda restringido por la RCSD
 
 La razón de cobertura del servicio de deuda (RCSD) es el ION dividido entre el servicio anual
 de deuda. Los prestamistas institucionales en Canadá típicamente requieren una RCSD de 1.20×
 a 1.30× en el momento de originar una hipoteca comercial.
+
+El piso de la RCI de 1.2×, establecido como convenio en el acuerdo rector de la sociedad, se
+alinea con el mínimo de RCSD típico exigido por los prestamistas. Con una RCI de 1.2× y un
+ION estabilizado de $600,000, la obligación de interés máxima permitida es de $500,000 por
+año (ION ÷ 1.2). A una tasa de interés supuesta del 5.0%, esto limita el principal hipotecario
+a $10,000,000. Si la prueba de RPV permite solo $7,500,000 (al 75% de un valor tasado de
+$10,000,000), rige la restricción más estricta de las dos.
+
+En la práctica, la restricción vinculante varía según el activo: las propiedades con un ION
+reducido en relación con el valor (bajo rendimiento del ION) están restringidas por la RPV;
+las propiedades con un ION sólido pero tasaciones conservadoras del prestamista pueden estar
+restringidas por la RCSD.
+
+## Amortización y períodos de solo interés
+
+Las hipotecas comerciales se estructuran con distintas combinaciones de amortización de
+principal y períodos de solo interés. Un préstamo de solo interés no exige pago de principal
+durante su plazo; al vencimiento, se adeuda la totalidad del principal original (un pago
+"bullet"). Un préstamo amortizable exige pagos de principal programados durante el plazo, lo
+que reduce el saldo pendiente con el tiempo y genera capital en la propiedad mediante la
+amortización de la deuda.
+
+Los períodos de solo interés — habituales en bienes raíces comerciales al momento de originar
+la hipoteca — reducen la salida de efectivo anual durante las fases de estabilización o de
+arrendamiento inicial, cuando la ocupación aún se está consolidando hacia niveles estabilizados
+y el ION puede no sustentar todavía un servicio de deuda amortizable. Cuando la propiedad
+alcanza la ocupación estabilizada, los términos de la hipoteca típicamente pasan a ser
+amortizables; el mayor requerimiento de efectivo del calendario amortizable queda cubierto
+por el ION estabilizado más alto.
+
+El cálculo de la RCI de la SC de tenencia directa utiliza las obligaciones totales de interés,
+no el servicio total de deuda (principal más interés). Una hipoteca de solo interés con un
+costo de interés determinado produce el mismo resultado en la prueba de RCI que una hipoteca
+amortizable con la misma tasa de interés y un principal pendiente menor; la porción de pago
+de principal de una hipoteca totalmente amortizable no se incluye en el denominador de la
+prueba de RCI.
 
 ## Riesgo de tasa de interés
 
@@ -51,6 +92,21 @@ basada en una tasa de referencia. Las hipotecas a tasa fija protegen a la SC de 
 en las tasas de interés durante el plazo. Las hipotecas a tasa flotante exponen a la SC a
 cambios inmediatos en el costo del servicio de deuda a medida que se mueven las tasas de
 referencia.
+
+## Riesgo de refinanciamiento
+
+Al vencimiento de la hipoteca, la SC debe pagar el principal pendiente o refinanciar con una
+nueva hipoteca. El riesgo de refinanciamiento surge cuando las condiciones crediticias, los
+valores de las propiedades o el apetito de los prestamistas se han deteriorado desde el
+financiamiento original: el monto hipotecario disponible puede ser menor (por compresión de
+la RPV o deterioro de la RCSD), y la tasa de interés puede ser más alta. Si el producto
+disponible del refinanciamiento es insuficiente para pagar la hipoteca que vence, la SC debe
+inyectar capital aportado por sus tenedores de unidades o vender el activo para pagar al
+prestamista.
+
+Este riesgo de refinanciamiento es una característica estructural del financiamiento
+hipotecario a plazo limitado y no es específico de las estructuras de tenencia directa; se
+aplica a todos los activos inmobiliarios financiados comercialmente.
 
 ## Consulte también
 

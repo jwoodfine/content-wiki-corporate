@@ -10,7 +10,7 @@ short_description: "La composición, los requisitos de independencia y las respo
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-29
+last_edited: 2026-07-31
 editor: woodfine-editorial
 paired_with: audit-committee-mandate.md
 ---
@@ -28,10 +28,20 @@ independientes. Un director es independiente si no tiene una relación material 
 indirecta con el emisor que pudiera interferir razonablemente con el ejercicio de su juicio
 independiente.
 
+Las siguientes relaciones constituyen, por sí mismas, una determinación de falta de
+independencia: el empleo actual por parte del emisor, la participación en un plan de
+compensación basado en acciones, la aceptación de compensación del emisor distinta de la
+remuneración como consejero, y las relaciones familiares con directivos del emisor.
+
 Todos los miembros del comité de auditoría también deben ser financieramente alfabetizados —
 capaces de leer y comprender estados financieros que presenten una amplitud y nivel de
 complejidad de cuestiones contables comparables a los del emisor. Al menos un miembro debe
 tener experiencia contable o financiera relacionada.
+
+Para los emisores de riesgo ("venture issuers") y otros emisores informantes de menor
+tamaño, la NI 52-110 prevé ciertas exenciones respecto de los requisitos íntegros de
+independencia y composición. Estas exenciones no eximen al emisor de la obligación de
+contar con un comité de auditoría funcional con responsabilidades de supervisión.
 
 ## Responsabilidades principales
 
@@ -49,6 +59,14 @@ controles internos adecuados sobre la información financiera.
 **Procedimientos para denunciantes.** El comité debe establecer procedimientos para la
 recepción, retención y tratamiento de quejas relacionadas con contabilidad, controles
 contables internos o asuntos de auditoría.
+
+## Divulgación en la circular de información del comité de auditoría
+
+Los emisores informantes deben divulgar en su circular de información de la administración
+o en el AIF los nombres y la alfabetización financiera de los miembros del comité de
+auditoría, el estatuto (charter) del comité de auditoría (frecuentemente adjunto como
+anexo), y cualquier servicio preaprobado por el comité. La divulgación de los honorarios de
+auditoría y de no auditoría pagados al auditor externo es obligatoria anualmente.
 
 ## Consulte también
 

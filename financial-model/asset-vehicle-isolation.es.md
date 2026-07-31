@@ -10,7 +10,7 @@ short_description: "Los mecanismos legales y estructurales mediante los cuales c
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-29
+last_edited: 2026-07-31
 editor: woodfine-editorial
 paired_with: asset-vehicle-isolation.md
 ---
@@ -39,6 +39,36 @@ Una sociedad en comandita en Canadá es una entidad legal distinta de sus socios
 de la SC pertenecen a la SC, no a sus socios — y, a la inversa, los acreedores de la SC
 tienen recurso sobre los activos de la SC, no sobre los activos personales de los socios
 comanditarios ni sobre los activos de otras SC que compartan el mismo socio gestor.
+
+## Financiamiento hipotecario y subordinación estructural
+
+Las hipotecas comerciales sobre los activos de tenencia directa están garantizadas por la
+propiedad específica que posee la SC correspondiente. El prestamista hipotecario tiene un
+gravamen de primer grado sobre la propiedad y los demás activos de la SC; no tiene recurso
+sobre propiedades mantenidas en otras SC, sobre el capital mantenido a nivel de la sociedad
+matriz, ni sobre el efectivo mantenido en las carteras de otros inversores.
+
+Las estructuras hipotecarias sin recurso o de recurso limitado — habituales en el
+financiamiento institucional de bienes raíces comerciales — formalizan esta limitación: el
+prestamista acepta expresamente que su recurso en caso de incumplimiento se limita a la
+propiedad misma, y el socio gestor no otorga garantía personal alguna. En las estructuras de
+recurso limitado, el socio gestor puede otorgar garantías limitadas de "exclusión"
+("carve-out") para eventos específicos de conducta indebida (fraude, tergiversación
+intencional, responsabilidad ambiental), que permanecen separadas de la exposición a nivel
+de la propiedad.
+
+## Aislamiento fiscal
+
+Debido a que cada SC es una entidad separada para efectos del impuesto sobre la renta, el
+ingreso y las pérdidas de cada sociedad se calculan por separado. Una pérdida en una SC no
+puede utilizarse para compensar el ingreso de otra SC a nivel de entidad; dichas pérdidas se
+traspasan a los socios y están disponibles para compensar el ingreso de la misma sociedad u
+otras fuentes, sujeto a las reglas de capital en riesgo ("at-risk") y otras disposiciones de
+la Ley del Impuesto sobre la Renta de Canadá aplicables a los socios comanditarios.
+
+Esta separación impide una subsidización cruzada de posiciones fiscales entre activos: la
+posición fiscal de cada SC se determina únicamente por los resultados operativos de su
+propio activo.
 
 ## Registro de participaciones
 

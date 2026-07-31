@@ -10,7 +10,7 @@ short_description: "La exención de inversionista acreditado bajo la NI 45-106 c
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-29
+last_edited: 2026-07-31
 editor: woodfine-editorial
 paired_with: accredited-investor-eligibility.md
 ---
@@ -38,12 +38,14 @@ comercialización del prospecto, sin los requisitos de divulgación pública de 
 
 Un inversionista acreditado incluye, entre otras categorías: instituciones financieras
 reguladas federalmente o provincialmente; fondos de pensiones supervisados por una
-autoridad regulatoria; personas físicas que, solas o con un cónyuge, poseen activos
-financieros con un valor agregado antes de impuestos de al menos $1,000,000; o personas
-físicos cuyo ingreso neto antes de impuestos superó $200,000 en cada uno de los dos
-años calendario más recientes; o personas físicas cuyo ingreso combinado con su cónyuge
-superó $300,000 en cada uno de los dos años más recientes; o entidades incorporadas con
-activos netos de al menos $5,000,000.
+autoridad regulatoria; un distribuidor de inversiones registrado que actúa como principal
+o en representación de una cuenta administrada de forma discrecional; personas físicas que,
+solas o con un cónyuge, poseen activos financieros con un valor agregado antes de impuestos
+de al menos $1,000,000; o personas físicos cuyo ingreso neto antes de impuestos superó
+$200,000 en cada uno de los dos años calendario más recientes; o personas físicas cuyo
+ingreso combinado con su cónyuge superó $300,000 en cada uno de los dos años más recientes;
+o personas físicas que poseen, solas o con un cónyuge, activos netos de al menos
+$5,000,000; o entidades incorporadas con activos netos de al menos $5,000,000.
 
 ## Suscripción y certificación de elegibilidad
 
@@ -58,6 +60,17 @@ Las participaciones de SC adquiridas bajo la exención de inversionista acredita
 sujetas a un período de retención bajo la legislación de valores aplicable antes de que
 puedan revenderse al público. En la mayoría de las provincias canadienses, el período de
 retención es de cuatro meses desde la fecha de distribución.
+
+## Interacción con la divulgación continua
+
+Una SC que haya distribuido participaciones mediante un prospecto, o que cruce el umbral
+estatutario de 50 o más tenedores no exentos de sus valores, se convierte en un emisor
+informante sujeto al régimen íntegro de divulgación de la NI 51-102. La condición de emisor
+informante implica que la SC debe presentar estados financieros anuales auditados, estados
+financieros intermedios y el MD&A, y un formulario de información anual en
+[[about-filing-systems|SEDAR+]], independientemente de si realiza distribuciones adicionales.
+La exención de inversionista acreditado no otorga ningún alivio respecto de estas
+obligaciones continuas una vez que se adquiere la condición de emisor informante.
 
 ## Consulte también
 
