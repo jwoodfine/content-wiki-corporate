@@ -9,7 +9,7 @@ quality: complete
 short_description: "Comparación característica por característica de las Direct-Hold Solutions con Joint Ventures Heredados, Capital Privado y REIT Tradicionales en doce dimensiones de gobernanza."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-31
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -48,6 +48,8 @@ Las Direct-Hold Solutions difieren de las tres estructuras de inversión inmobil
 ## Características Donde las Direct-Hold Solutions Igualan a los REIT Cotizados
 
 Seis características aparecen tanto en los REIT Tradicionales como en las Direct-Hold Solutions pero están ausentes de los Joint Ventures Heredados y los Fondos de Capital Privado: Diversificación de Cartera, Activo Principal en Balance, Libre Transmisión de Titularidad, Elegibilidad como Garantía, Acceso a Registros Públicos y Reporte Regulado Integral.
+
+**Libre Transmisión de Titularidad.** Como [[regulated-reporting-entity|Entidades Reguladas Emisoras de Información]], las Direct-Hold Solutions emiten Unidades de Inversión que son libremente transferibles a cualquier contraparte elegible sin una decisión de aprobación del gestor en el caso ordinario, en paralelo a las acciones negociables en bolsa de un REIT cotizado — el rol del órgano de gobierno se limita a una lista breve y enumerada de motivos de elegibilidad, no a una discrecionalidad abierta.
 
 ## Características Exclusivas de Direct-Hold Solutions
 

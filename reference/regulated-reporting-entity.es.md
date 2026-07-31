@@ -9,7 +9,7 @@ quality: complete
 short_description: "El término puente transfronterizo que Woodfine utiliza en lugar de designaciones específicas por jurisdicción como Reporting Issuer, Entidad Pública o Emisora: una Entidad Regulada Emisora de Información presenta divulgación pública continua ante su regulador soberano independientemente de si cotiza en bolsa."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-31
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -40,7 +40,7 @@ El término puente **Entidad Regulada Emisora de Información** resuelve esta fr
 
 ## Supervisión Pública y Divulgación Obligatoria
 
-La consecuencia práctica del estado de Entidad Regulada Emisora de Información es la eliminación del período tradicional de bloqueo de capital privado. Dado que cada Direct-Hold Solution está sujeta a Supervisión Pública continua y Requisitos de Informes Continuos obligatorios, las Unidades de Inversión son de Libre Transmisión. Los inversores no están restringidos por períodos de bloqueo estatutarios ni colas de reembolso.
+La consecuencia práctica del estado de Entidad Regulada Emisora de Información es la eliminación del período tradicional de bloqueo de capital privado. Dado que cada Direct-Hold Solution está sujeta a Supervisión Pública continua y Requisitos de Informes Continuos obligatorios, las Unidades de Inversión son de Libre Transmisión. Los inversores no están restringidos por períodos de bloqueo estatutarios ni colas de reembolso. Las unidades pueden transferirse mediante transacciones privadas, transferencias institucionales o arreglos de planificación patrimonial a cualquier contraparte elegible. En Canadá y en el vehículo planificado de Estados Unidos, el socio general registra cada transferencia y está contractualmente obligado a admitir a un cesionario elegible — negándose solo por una lista breve y enumerada de motivos — en lugar de ejercer una discrecionalidad de aprobación abierta; los demás tenedores de unidades no tienen ningún rol de aprobación en una transferencia ordinaria.
 
 Esta característica distingue las Direct-Hold Solutions de los fondos cerrados convencionales, en los que la salida del inversor depende de eventos de liquidez iniciados por el gestor. La estructura de Entidad Regulada Emisora de Información reemplaza esa dependencia por una obligación de divulgación continua, que proporciona la base legal para la libre transmisibilidad.
 
@@ -49,3 +49,19 @@ Esta característica distingue las Direct-Hold Solutions de los fondos cerrados 
 Las Direct-Hold Solutions son vehículos Públicos No Negociados. Cumplen todos los requisitos de información de valores de su jurisdicción soberana, pero sus Unidades de Inversión no están admitidas a negociación en una bolsa. Los instrumentos de deuda — Obligaciones con Primera Hipoteca Garantizada — están previstos para ser aptos para bolsa (Exchange-Qualified), proporcionando un precio de referencia disponible públicamente sin que las unidades de capital en sí deban cotizar en bolsa.
 
 El vehículo SOCIMI de España tiene un requisito de cotización estatutaria que no aplica en Canadá, Estados Unidos o México: para mantener el estado de exención fiscal del SOCIMI, el vehículo debe estar admitido a negociación en un mercado regulado. En contextos de lengua española, esta distinción se comunica mediante referencia al Estado Regulatorio del vehículo y el Mecanismo de Liquidez, en lugar de cualquier referencia al estado de cotización.
+
+## Obligaciones de Presentación por Jurisdicción
+
+Cada Direct-Hold Solution, como Entidad Regulada Emisora de Información en su jurisdicción soberana, está sujeta a las obligaciones de presentación de la legislación de valores de esa jurisdicción:
+
+**Canadá — SEDAR+.** La Professional Centres Canada LP presenta ante la British Columbia Securities Commission y pone su divulgación a disposición del público en [[about-filing-systems|SEDAR+]]. Las presentaciones requeridas incluyen formularios de información anual, estados financieros auditados, análisis y discusión de la administración, e [[about-material-change-reporting|informes de cambios materiales]].
+
+**Estados Unidos — EDGAR.** La planificada Professional Centres United States LP tiene previsto presentar ante la Securities and Exchange Commission en la plataforma EDGAR bajo el régimen de emisor informante aplicable.
+
+**España — Sede Electrónica / CNMV.** La planificada Professional Centres Spain SOCIMI tiene previsto inscribirse en el Registro Nacional de Valores Negociables y presentar a través de la Sede Electrónica de la CNMV. La estructura SOCIMI exige la cotización en un mercado regulado para el estado de exención fiscal, lo que hace que la designación Cotizada sea legalmente obligatoria para España de una manera que no lo es para los vehículos de Canadá y Estados Unidos.
+
+**México — STIV-2 / CNBV.** La planificada Professional Centres Mexico FIBRA tiene previsto presentar a través del sistema STIV-2 de la CNBV. La estructura FIBRA opera como un fideicomiso privado (Fideicomiso de Infraestructura en Bienes Raíces) con Certificados de Participación Inmobiliaria (CBFIs) no cotizados depositados en Indeval.
+
+## Equivalencia de Estatus de Inversor
+
+El estatus de Inversor Calificado presenta variaciones equivalentes entre jurisdicciones. En Canadá y Estados Unidos, la designación relevante es [[accredited-investor-eligibility|Inversor Acreditado]]. En España, el equivalente es Inversor Cualificado. En México, la categoría aplicable es Gran Público Inversionista. El término puente global utilizado en las cuatro jurisdicciones es **Inversor Calificado**, que capta el umbral compartido: un inversor sofisticado que cumple los criterios de elegibilidad de su jurisdicción soberana para participar en vehículos de inversión no minoristas.
