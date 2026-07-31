@@ -10,7 +10,7 @@ short_description: "Cómo la forma jurídica de sociedad en comandita implementa
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-15
+last_edited: 2026-07-31
 editor: woodfine-editorial
 paired_with: limited-partnership-structure.md
 ---
@@ -41,6 +41,30 @@ y es personalmente responsable de las deudas y obligaciones de la sociedad. Los 
 comanditarios aportan capital y participan en los resultados económicos, pero no tienen
 autoridad para comprometer a la sociedad y soportan responsabilidad solo en la medida de
 su capital invertido.
+
+## El acuerdo de sociedad en comandita
+
+El acuerdo de sociedad es el instrumento rector de cada solución de tenencia directa.
+Especifica los derechos y obligaciones de todos los socios: la estructura de cuentas de
+capital, la asignación de ingresos y pérdidas entre los socios, las condiciones para las
+distribuciones, las disposiciones de transferencia que permiten a los socios comanditarios
+transferir sus participaciones a cualquier contraparte elegible sujeto a una lista breve y
+enumerada de motivos por los cuales el socio general puede rechazar una transferencia
+específica, y los procedimientos de gobernanza para las decisiones fundamentales.
+
+Las disposiciones de transferencia del acuerdo implementan el
+[[equity-transfer-model|modelo de transferencia de participaciones]]: los socios
+comanditarios pueden transferir sus participaciones a cualquier contraparte elegible,
+sujeto únicamente al cumplimiento de las exenciones aplicables de la legislación de valores
+y a las declaraciones de elegibilidad que haga cada cesionario. El socio general solo puede
+rechazar una transferencia específica cuando el asesor legal opine que violaría la
+legislación de valores u otra legislación aplicable, o cuando el socio general considere que
+esas declaraciones son falsas — de lo contrario, está contractualmente obligado a admitir al
+cesionario y actualiza el registro de participaciones para reflejar la transferencia. Un
+mecanismo separado y más limitado puede exigir que un tenedor se desprenda de sus
+participaciones si su estatus generara consecuencias fiscales adversas para la sociedad, y
+una adquisición que supere el 20% de las participaciones en circulación activa un requisito
+de oferta obligatoria en lugar de una transferencia ordinaria.
 
 ## Mecanismo de dispensa y modificación de convenios
 
