@@ -27,7 +27,7 @@ Woodfine Capital Projects Inc. and its subsidiaries — including the entities d
 
 ## Applicable framework
 
-National Instrument 51-102 (Continuous Disclosure Obligations) establishes the reporting regime for Canadian reporting issuers. The instrument governs annual information forms, management discussion and analysis filings, material change reports, and the periodic financial statement requirements that Woodfine Capital Projects Inc. and MCorp intend to become subject to upon effectiveness of their respective planned prospectus offerings.
+National Instrument 51-102 (Continuous Disclosure Obligations) establishes the reporting regime for Canadian reporting issuers. The instrument governs annual information forms, management discussion and analysis filings, material change reports, and the periodic financial statement requirements that Woodfine Capital Projects Inc. and each direct-hold limited partnership that completes a prospectus offering intend to become subject to upon effectiveness of their respective planned prospectus offerings.
 
 OSC Staff Notice 51-721 (Electronic Delivery of Documents) applies to electronically filed and electronically delivered disclosure documents. All required filings are submitted through SEDAR+.
 
