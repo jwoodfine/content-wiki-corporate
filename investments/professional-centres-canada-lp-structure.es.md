@@ -13,7 +13,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-15
+last_edited: 2026-07-31
 editor: pointsav-engineering
 paired_with: professional-centres-canada-lp-structure.md
 cites: []
@@ -25,7 +25,6 @@ cites: []
 
 - Woodfine Advisors Inc., subsidiaria de propiedad total de WCP, presta servicios de adquisición, desarrollo y gestión a la sociedad bajo un acuerdo de servicios de asesoría que es funcionalmente independiente del rol de gobernanza del socio general.
 - La participación minoritaria del promotor se mantiene a través de Benetti Holdings Inc. y se emitió como compensación basada en participaciones sujeta a fideicomiso de garantía; las participaciones permanecen en dicho fideicomiso, con los derechos de voto conservados, hasta que los socios comanditarios recuperen el 100% del capital aportado o se produzca un evento de liquidez definido.
-- La sociedad está actualmente sujeta a una orden de suspensión de negociación (cease-trade order) de la British Columbia Securities Commission, vinculada a la presentación tardía de informes de divulgación continua y no a ningún hallazgo de fraude; la revocación de la orden es una condición de cierre de la oferta vigente.
 
 ## Asesoría y gestión
 
@@ -41,7 +40,7 @@ Woodfine Properties Inc. fue anteriormente socio comanditario de Professional Ce
 
 ## Situación regulatoria
 
-Professional Centres Canada LP está actualmente sujeta a una orden de suspensión de negociación (cease-trade order) emitida por la British Columbia Securities Commission (BCSC). La orden tiene carácter administrativo y se origina en la presentación tardía de informes de divulgación continua, no en ningún hallazgo de fraude o conducta indebida. La revocación de la orden es una condición de cierre de la oferta vigente: la sociedad debe regularizar sus obligaciones de presentación de informes pendientes y obtener la revocación de la BCSC antes de que la oferta pueda cerrarse. Los inversores potenciales deben considerar el estado de la orden como una condición vigente de la operación, y no como un hecho histórico ya resuelto.
+Professional Centres Canada LP está actualmente sujeta a una orden de suspensión de negociación (cease-trade order) emitida por la British Columbia Securities Commission (BCSC), originada en la presentación tardía de informes de divulgación continua y no en ningún hallazgo de fraude o conducta indebida. La sociedad no tiene actualmente socios comanditarios para quienes esta orden constituya una condición vigente de la operación. La sociedad debe regularizar sus obligaciones de presentación de informes pendientes y obtener la revocación de la BCSC antes de que pueda cerrarse cualquier oferta futura de participaciones.
 
 ## Liquidación y arreglos de depósito
 

@@ -13,7 +13,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-15
+last_edited: 2026-07-31
 editor: pointsav-engineering
 paired_with: professional-centres-canada-lp-structure.es.md
 cites: []
@@ -25,7 +25,6 @@ cites: []
 
 - Woodfine Advisors Inc., a wholly owned subsidiary of WCP, provides procurement, development, and management services to the partnership under an advisory services agreement that is functionally separate from the general partner's governance role.
 - The promoter's minority equity interest is held through Benetti Holdings Inc. and issued as escrowed equity-based compensation; the units remain in escrow, with voting rights retained, until limited partners recover 100% of contributed capital or a defined liquidity event occurs.
-- The partnership is currently subject to a British Columbia Securities Commission cease-trade order tied to delayed continuous-disclosure filings, not any finding of fraud; revocation of the order is a closing condition of the current offering.
 
 ## Advisory and management
 
@@ -41,7 +40,7 @@ Woodfine Properties Inc. was formerly a limited partner of Professional Centres 
 
 ## Regulatory standing
 
-Professional Centres Canada LP is currently subject to a cease-trade order issued by the British Columbia Securities Commission (BCSC). The order is administrative in nature, arising from delayed continuous-disclosure filings rather than any finding of fraud or misconduct. Revocation of the order is a closing condition of the current offering: the partnership must bring its outstanding filing obligations current and obtain the BCSC's revocation before the offering can close. Prospective investors should treat the order's status as a live condition of the transaction rather than a settled historical fact.
+Professional Centres Canada LP is currently subject to a cease-trade order issued by the British Columbia Securities Commission (BCSC), arising from delayed continuous-disclosure filings rather than any finding of fraud or misconduct. The partnership has no current limited partners for whom this order is an active transaction condition. The partnership must bring its outstanding filing obligations current and obtain the BCSC's revocation before any future offering of units can close.
 
 ## Settlement and depositary arrangements
 
