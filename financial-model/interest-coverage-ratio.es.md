@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-31
 editor: pointsav-engineering
 paired_with: interest-coverage-ratio.md
 short_description: "Indicador de servicio de deuda que exige que los ingresos operativos cubran los gastos financieros al menos 1,2 veces, equilibrando la capacidad de endeudamiento con el cumplimiento de los compromisos."
@@ -20,6 +20,12 @@ cites: []
 ---
 
 Un ratio mínimo de cobertura de intereses de 1,2× limita cada activo de [[topic-direct-hold-framework|Tenencia Directa]] de Woodfine — no puede emitirse nueva deuda que reduzca la cobertura de ingresos operativos sobre intereses por debajo de este umbral. La restricción está establecida en el contrato de sociedad limitada que rige cada solución de tenencia directa; se aplica a la emisión de debentures garantizados con primera hipoteca y regula la capacidad de endeudamiento de la sociedad. Opera junto con el [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] y el [[topic-equity-transfer-model|Modelo de Transferencia de Capital]] como el tercer compromiso estructural aplicado por activo.
+
+## Puntos clave
+
+- Cada activo de Tenencia Directa debe mantener ingresos operativos netos que cubran los intereses al menos 1,2 veces, bloqueando cualquier nueva deuda que reduzca la cobertura por debajo de este umbral.
+- El umbral de 1,2 se establece como un compromiso en el contrato de sociedad limitada; proporciona un margen operativo del 20% frente a la vacancia, picos de gastos de mantenimiento o interrupciones de inquilinos a corto plazo.
+- Dado que la ratio se aplica por cada vehículo de activo legalmente aislado, un déficit en el servicio de la deuda de un activo no puede propagarse a otros ni ser enmascarado mediante subsidio cruzado desde un activo más sólido.
 
 ## Qué mide la ratio
 

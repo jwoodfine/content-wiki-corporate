@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-31
 editor: pointsav-engineering
 paired_with: direct-hold-framework.md
 short_description: "Estructura legal que emite participaciones en un único vehículo de tenencia directa nombrado, sin participar en un fondo combinado, eliminando el contagio entre activos."
@@ -24,6 +24,12 @@ El Marco de Tenencia Directa es una estructura jurídica de propiedad bajo la cu
 El marco emite capital específico por estructura: cada inversor posee participaciones en un único vehículo de tenencia directa nombrado, no una participación en un fondo mancomunado.
 
 Cada activo es su propia unidad jurídica y financiera, aislada como un vehículo independiente. Un evento financiero que afecta a un activo no puede propagarse al capital del inversor en otro; el aislamiento es una propiedad de la arquitectura, no una promesa contractual.
+
+## Puntos clave
+
+- Cada inversor posee participaciones en un único vehículo de tenencia directa nombrado, en lugar de una reclamación proporcional sobre un fondo mancomunado.
+- Dado que cada activo se constituye como una unidad jurídica y financiera independiente, un evento financiero que afecta a un activo no puede propagarse al capital del inversor en otro.
+- Las transferencias de capital se ejecutan directamente entre partes privadas, por lo que no existe cola de redención y ningún activo se vende bajo presión para financiar la salida de otro inversor.
 
 ## Qué reemplaza
 
@@ -53,6 +59,10 @@ En cada vehículo de tenencia directa, el socio general ostenta la autoridad de 
 - [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] — requisitos de gobernanza de datos para el libro contable de propiedad
 - [[topic-interest-coverage-ratio|Ratio de Cobertura de Intereses]] — la restricción de deuda aplicada por activo
 - [[topic-redemption-elimination|Eliminación de Redención]] — por qué no existe cola de reembolso en esta estructura
+
+## La conclusión
+
+El Marco de Tenencia Directa sustituye el fondo mancomunado por capital específico de cada activo: cada inversor posee participaciones en un vehículo constituido en torno a una propiedad única nombrada, con el título legal en manos de una sociedad nominada WCP Titleco independiente, en lugar de participar en un vehículo mancomunado. Dado que cada activo es su propia unidad jurídica y financiera, el aislamiento es una propiedad de la arquitectura y el contagio entre activos no puede producirse, de modo que un inversor que evalúa el riesgo de un activo no necesita modelar el resto de una cartera. Al ejecutarse las transferencias directamente entre partes privadas, la estructura no carga ninguna obligación de redención mancomunada ni discrecionalidad del gestor del fondo sobre el capital del inversor.
 
 ---
 

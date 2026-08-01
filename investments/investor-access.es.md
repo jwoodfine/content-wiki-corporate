@@ -13,13 +13,19 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-30
+last_edited: 2026-07-31
 editor: pointsav-engineering
 paired_with: investor-access.md
 cites: []
 ---
 
 Un inversor en un activo de [[direct-hold-framework|Tenencia Directa]] posee una posición en una propiedad específica y nombrada. El acceso a los datos de posición, informes financieros y registros de transacciones se proporciona a través del portal de inversores operado por MCorp. El portal refleja la posición del inversor en el [[property-ledger-technology|registro]] —porcentaje de capital, historial de eventos financieros y registros de transferencias— para cada activo en el que mantiene una posición, con el propio registro mantenido bajo la autoridad del órgano de gobierno del vehículo (en Canadá, el socio general, Woodfine Professional Centres Inc.). La posición se estructura en [[investment-units|unidades de inversión]] en el activo nombrado.
+
+## Puntos clave
+
+- Los datos de posición, los informes financieros y los registros de transferencias se presentan por activo — el portal no agrega varias posiciones de Tenencia Directa, porque cada activo es su propia unidad financiera y legal distinta.
+- Las divulgaciones financieras que desencadenan la obligación de reportar cambios materiales en virtud del NI 51-102 se presentan en SEDAR+ además de a través del portal de inversores, cumpliendo con las obligaciones de divulgación continua.
+- MCorp opera el portal de inversores y controla la habilitación y revocación del acceso como tarea delegada; PointSav mantiene la infraestructura del portal — la división de responsabilidades corresponde al modelo más amplio de proveedor-cliente. La custodia del registro y el registro de transferencias corresponden al propio órgano de gobierno del vehículo, no a MCorp.
 
 ## Datos de posición
 
