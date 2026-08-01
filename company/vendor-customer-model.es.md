@@ -13,13 +13,19 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-30
+last_edited: 2026-07-31
 editor: pointsav-engineering
 paired_with: vendor-customer-model.md
 cites: []
 ---
 
 PointSav Digital Systems ocupa el rol de proveedor dentro de la [[topic-corporate-structure|estructura corporativa de Woodfine]]. PointSav suministra servicios de plataforma tecnológica —infraestructura del [[topic-property-ledger-technology|registro de propiedades]], portal de inversores, mantenimiento de software— a cada vehículo de Tenencia Directa. El propio órgano de gobierno de cada vehículo — en Canadá, el socio general, Woodfine Professional Centres Inc. — ostenta la custodia de los datos en virtud del [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] y es el único responsable de las decisiones de inversión y fiduciarias que afectan a los activos de [[topic-direct-hold-framework|Tenencia Directa]]; MCorp administra los requisitos cotidianos de la plataforma y las comunicaciones con inversores como tarea delegada por el órgano de gobierno.
+
+## Puntos clave
+
+- El rol de PointSav termina en el límite de la plataforma: presta servicios operativos y técnicos, pero no ejerce discrecionalidad sobre los datos, no posee participaciones en los activos gestionados de ningún vehículo y no proporciona asesoramiento de inversión ni fiduciario.
+- El órgano de gobierno de cada vehículo mantiene la custodia portable del registro de propiedades; si el órgano de gobierno contrata a un proveedor de tecnología diferente, los datos del registro se trasladan con él y no permanecen en poder de PointSav.
+- La separación proveedor-cliente aísla estructuralmente los modos de fallo: una interrupción tecnológica en PointSav no afecta la titularidad legal de un órgano de gobierno sobre los activos, y un evento financiero en cualquier otra parte del grupo no interrumpe las obligaciones de plataforma de PointSav.
 
 ## Obligaciones del proveedor
 
@@ -42,6 +48,10 @@ La separación proveedor-cliente impide esta amplificación. Un fallo tecnológi
 ## No es una relación de marketing
 
 PointSav no comercializa los productos de inversión de ningún vehículo, y ningún órgano de gobierno promueve la plataforma tecnológica de PointSav como parte de sus comunicaciones con inversores. La relación es un contrato de servicios, no una empresa conjunta. Ninguna de las partes posee participaciones en las operaciones comerciales principales de la otra.
+
+## La conclusión
+
+El modelo proveedor-cliente asigna a PointSav el rol de constructor de tecnología y al órgano de gobierno de cada vehículo el rol de custodio de datos, responsable de las decisiones de inversión y titular de la relación con los inversores — con MCorp gestionando la administración delegada del día a día de la plataforma. Las partes no poseen participaciones en las operaciones principales de la otra, no comercializan de forma cruzada los productos de la otra, y no son conjuntamente responsables de ningún resultado de inversión. La separación estructural implica que la plataforma y la función de gestión de inversiones pueden evaluarse, sustituirse o reestructurarse cada una de forma independiente.
 
 ## Véase también
 

@@ -13,13 +13,19 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-30
+last_edited: 2026-07-31
 editor: pointsav-engineering
 paired_with: property-ledger-technology.md
 cites: []
 ---
 
 Cada activo mantenido bajo el [[topic-direct-hold-framework|Marco de Tenencia Directa]] tiene un registro de propiedades asociado. El registro es el documento autoritativo de las asignaciones fraccionarias de capital, los eventos financieros del activo y el historial de transferencias. El propio órgano de gobierno del vehículo — en Canadá, el socio general, Woodfine Professional Centres Inc. — ostenta la custodia legal del registro en virtud del [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]]; PointSav Digital Systems mantiene la infraestructura técnica en su calidad de proveedor de servicios tecnológicos contratado bajo el [[topic-technology-services|acuerdo de servicios tecnológicos]].
+
+## Puntos clave
+
+- Cada activo de Tenencia Directa tiene un registro dedicado que recoge tres categorías de asientos: asignaciones fraccionarias de capital, eventos financieros del activo (de solo adición) e historial de transferencias entre pares con una cadena completa de titularidad desde la emisión inicial.
+- El órgano de gobierno del vehículo ostenta la custodia legal y dirige cómo se opera la infraestructura; PointSav posee las claves privadas y el hardware de servidores como proveedor de servicios contratado — la entidad que controla las claves ejerce el control técnico efectivo sobre el registro.
+- El registro es un documento criptográfico privado mantenido bajo la autoridad del órgano de gobierno, no una cadena de bloques pública — las dependencias de validadores externos y los órganos de gobernanza de protocolos quedan deliberadamente excluidos de la arquitectura.
 
 ## Qué registra el libro
 
@@ -46,6 +52,10 @@ La estructura de solo adición de los registros operativos impide la modificaci�
 ## No es un libro de contabilidad distribuido público
 
 El registro de propiedades es un registro criptográfico mantenido bajo la autoridad del órgano de gobierno del vehículo. No es una cadena de bloques pública ni un libro de contabilidad distribuido mantenido por validadores externos. El órgano de gobierno es la autoridad sobre el estado del registro. Esta es una decisión de diseño deliberada: los libros de contabilidad distribuidos públicos introducen dependencias de contrapartes —redes de validadores, órganos de gobernanza de protocolos— que la arquitectura está específicamente diseñada para evitar.
+
+## La conclusión
+
+El registro de propiedades es el fundamento legal de la relación con los inversores: es el documento que prueba quién posee qué en cada activo nombrado. La arquitectura se diseña en torno a dos prioridades — integridad y soberanía. La integridad se mantiene mediante registros de eventos financieros de solo adición y el protocolo de confirmación F12, que impide que cualquier proceso automatizado modifique el registro de capital. La soberanía se mantiene almacenando los datos del registro en formatos portables bajo la custodia legal del órgano de gobierno, de modo que este pueda recuperar el control operativo completo con independencia de su proveedor de tecnología actual. La elección de un registro criptográfico privado frente a un libro de contabilidad distribuido público refleja la misma lógica: las redes de validadores externos introducen dependencias que la arquitectura está diseñada para evitar.
 
 ## Véase también
 

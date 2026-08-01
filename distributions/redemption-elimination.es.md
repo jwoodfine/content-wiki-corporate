@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-31
 editor: pointsav-engineering
 paired_with: redemption-elimination.md
 short_description: "Eliminación estructural del derecho de reembolso de los inversores, suprimiendo el lastre de la reserva de efectivo y el riesgo de corrida inherente a los vehículos inmobiliarios colectivos."
@@ -20,6 +20,12 @@ cites: []
 ---
 
 Los activos de [[topic-direct-hold-framework|Tenencia Directa]] de Woodfine no tienen cola de reembolso — el capital de cada inversor corresponde a una propiedad específica, y la liquidez depende del mercado privado para ese activo, no de las reservas de efectivo de la entidad corporativa. Dado que no existe un fondo mancomunado, la condición que hace necesarios los mecanismos de reembolso está ausente por diseño. La liquidez se ejecuta a través del [[topic-equity-transfer-model|Modelo de Transferencia de Capital]], y la deuda a nivel de activo está limitada por el [[topic-interest-coverage-ratio|Ratio de Cobertura de Intereses]] de modo que no se requieren reservas de efectivo para atender las obligaciones.
+
+## Puntos clave
+
+- La arquitectura de Tenencia Directa elimina la condición de capital mancomunado que hace necesarias las colas de reembolso; al no existir un fondo mancomunado, no hay cola que gestionar ni suspender.
+- Los inversores salen mediante la venta en el mercado privado de su interés específico en el activo, sin afectar las posiciones del resto de los inversores.
+- Sin cola de reembolso, no puede producirse el fallo de coordinación que genera corridas bancarias artificiales en los vehículos mancomunados.
 
 ## Por qué existen las colas de reembolso
 
@@ -42,6 +48,10 @@ Una cola de reembolso es vulnerable a un fallo de coordinación: si los inversor
 La consecuencia estructural para los inversores es explícita: MCorp no ofrece un mecanismo de reembolso. La liquidez depende del mercado privado para el activo específico. La estructura de Tenencia Directa conlleva un perfil de riesgo diferente al de un fondo mancomunado — la entidad corporativa no asume ningún compromiso de liquidez que no pueda cumplir, dado que no existe capital mancomunado del que dicho compromiso pudiera satisfacerse.
 
 Sin cola de reembolso, ninguna presión de salida coordinada puede desestabilizar la cartera. El capital a largo plazo se capitaliza sin la carga estructural de una reserva de efectivo que rinde menos que los activos subyacentes, coherente con el [[topic-perpetual-equity-model|modelo de capital perpetuo]] aplicado a las participaciones fraccionales de los inversores.
+
+## La conclusión
+
+La arquitectura de Tenencia Directa elimina estructuralmente la necesidad de un mecanismo de reembolso, en lugar de gestionarlo. Cada inversor mantiene un interés definido en una propiedad específica; la liquidez la determina el mercado privado para ese activo. La entidad corporativa no asume ningún compromiso de liquidez que no pueda cumplir, porque no existe capital mancomunado del que dicho compromiso pudiera extraerse. El capital a largo plazo se capitaliza sin la carga de una reserva de efectivo permanente, y la presión de salida coordinada no puede desestabilizar la cartera.
 
 ## Véase también
 
