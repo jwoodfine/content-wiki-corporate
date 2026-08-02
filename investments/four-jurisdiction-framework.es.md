@@ -23,6 +23,8 @@ El **Marco de Cuatro Jurisdicciones** describe la arquitectura de despliegue sob
 
 Professional Centres Canada LP es una [[regulated-reporting-entity|Entidad Regulada Emisora de Información]], sujeta a las leyes de valores y [[about-disclosure-obligations|obligaciones de divulgación continua]] de Canadá; los vehículos planificados de Estados Unidos, España y México tienen previsto convertirse en Entidades Reguladas Emisoras de Información en sus respectivas jurisdicciones una vez establecidos. WCP actúa como promotor de los cuatro vehículos. Subsidiarias de propiedad total de WCP sirven, o tienen previsto servir, como socios generales y consultores en relación con las operaciones comerciales de cada vehículo.
 
+Professional Centres Canada LP es una entidad legal ya constituida y existente — a diferencia de los vehículos de Estados Unidos, España y México, que aún no se han establecido. Su objetivo de valor bruto financiado de C$250 millones, al igual que el de cada una de las otras tres jurisdicciones, sigue siendo una cifra prospectiva que aún no se ha alcanzado.
+
 ## Resumen Estructural
 
 Los vehículos establecido y planificados se estructuran de la siguiente manera (valores objetivo de financiamiento bruto para los tres vehículos planificados; la cifra de Canadá es el objetivo del vehículo ya establecido):

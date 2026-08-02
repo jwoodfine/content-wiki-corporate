@@ -23,6 +23,8 @@ The **Four-Jurisdiction Framework** describes the sovereign deployment architect
 
 Professional Centres Canada LP is a [[regulated-reporting-entity|Regulated Reporting Entity]], subject to the securities laws and [[about-disclosure-obligations|continuous disclosure obligations]] of Canada; the planned United States, Spain, and Mexico vehicles are intended to become Regulated Reporting Entities in their respective jurisdictions once established. WCP acts as the promoter of all four vehicles. Wholly owned subsidiaries of WCP serve, or are intended to serve, as general partners and consultants in respect of each vehicle's business operations.
 
+The Professional Centres Canada LP is a formed, existing legal entity — unlike the United States, Spain, and Mexico vehicles, which have not yet been established. Its C$250 million gross funded value target, like each of the other three jurisdictions' targets, remains a prospective figure that has not yet been achieved.
+
 ## Structure Overview
 
 The established and planned Direct-Hold Solutions are structured as follows (target gross funded values for the three planned vehicles; Canada's figure is the established vehicle's target):
