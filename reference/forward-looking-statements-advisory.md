@@ -34,6 +34,12 @@ A statement of present fact — that the Professional Centres Canada LP exists a
 continuous disclosure on SEDAR+, for example — is not a forward-looking statement, and this
 advisory does not qualify statements of that kind.
 
+**Correction (2026-08-02):** this example is now stale — see
+[[professional-centres-canada-lp-structure]]'s disclosure of an active BCSC
+cease-trade order against this same vehicle, arising specifically from delayed
+continuous-disclosure filings. Not resolved unilaterally; same escalation as that
+article. **Flagged, not resolved.**
+
 ## The signal words used in this wiki
 
 Forward-looking statements in this wiki are marked using a consistent set of signal words:

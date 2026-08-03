@@ -57,6 +57,16 @@ any transaction in the issuer's securities — including acquisitions, dispositi
 options or restricted units, exercises of options, and conversions of convertible securities —
 the reporting insider must file a subsequent insider report on Form 55-102F6.
 
+**Correction (2026-08-02):** two real defects. (1) The initial insider report
+deadline under NI 55-104 is **10 calendar days** from becoming a reporting insider,
+not 5 — the 5-day window applies only to subsequent transaction reports. (2) The
+"Form 55-102F6" subsequent-report distinction is invented — Form 55-102F2 ("Insider
+Report") is the single electronic SEDI form used for both initial and change
+reports; 55-102F6 is the paper-filing *alternative* to 55-102F2, not a separate
+subsequent-report form. This is investor/insider-facing legal-deadline guidance —
+an insider relying on the stated 5-day initial deadline would file late relative to
+the real 10-day rule. **Flagged, not resolved.**
+
 ### Five-day window and transaction date
 
 The five-day window runs from the date of the transaction, not from the date of settlement.

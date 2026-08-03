@@ -89,7 +89,9 @@ The parent holding company — as the ultimate beneficial owner of the general p
 observation rights and can receive consolidated information about all asset vehicles through
 normal holding company governance. The parent does not, however, hold the individual assets
 on its own balance sheet: its interest in each LP is an investment accounted for at fair
-value through profit or loss under the investment entity exception of IFRS 10.27. The
+value through profit or loss under the investment entity exception of IFRS 10.27
+*(correction: the consolidation-exception/FVTPL requirement is IFRS 10.31–33; §27
+contains the investment-entity definition criteria, not the exception itself)*. The
 financial statements of the parent and the financial statements of each direct-hold LP are
 separate documents with separate audits and separate SEDAR+ filings.
 

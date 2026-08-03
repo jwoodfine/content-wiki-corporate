@@ -19,7 +19,13 @@ paired_with: regulated-reporting-entity.es.md
 cites: []
 ---
 
-A **Regulated Reporting Entity** is the cross-border bridge term Woodfine Management Corp. applies to each of its four [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]]. The designation describes an investment vehicle that files [[about-disclosure-obligations|continuous public disclosure]] with its sovereign securities regulator, meets mandatory ongoing reporting requirements, and makes its disclosure record publicly available — irrespective of whether its equity is exchange-listed or exchange-traded.
+A **Regulated Reporting Entity** is the cross-border bridge term Woodfine Management Corp. applies to each of its four [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]].
+
+**Correction (2026-08-02, verified against [[corporate-glossary]]):** this casts
+MCorp as sponsor/owner of the four vehicles. Per the corrected governance model,
+MCorp is "not the general partner, administrator, or governing body of any
+Direct-Hold vehicle" — the promoter of all four is Woodfine Capital Projects Inc.
+(WCP), per [[four-jurisdiction-framework]]. **Flagged, not resolved.** The designation describes an investment vehicle that files [[about-disclosure-obligations|continuous public disclosure]] with its sovereign securities regulator, meets mandatory ongoing reporting requirements, and makes its disclosure record publicly available — irrespective of whether its equity is exchange-listed or exchange-traded.
 
 ## The Jurisdictional Fracture Problem
 
@@ -57,6 +63,12 @@ The Direct-Hold Solutions are Public Non-Traded vehicles. They meet all securiti
 Each Direct-Hold Solution, as a Regulated Reporting Entity in its sovereign jurisdiction, is subject to the filing obligations of that jurisdiction's securities law:
 
 **Canada — SEDAR+.** The Professional Centres Canada LP files with the British Columbia Securities Commission and makes its disclosure publicly available on [[about-filing-systems|SEDAR+]]. Required filings include annual information forms, audited financial statements, management's discussion and analysis, and [[about-material-change-reporting|material change reports]].
+
+**⚠️ Correction (2026-08-02) — NOT resolved:** this describes current, unproblematic
+filing behavior, but [[professional-centres-canada-lp-structure]] discloses an
+active BCSC cease-trade order against this same vehicle arising specifically from
+delayed continuous-disclosure filings. See that article's Correction callout — same
+unresolved contradiction, escalated to Command.
 
 **United States — EDGAR.** The planned Professional Centres United States LP is intended to file with the Securities and Exchange Commission on the EDGAR platform under the applicable reporting-issuer regime.
 

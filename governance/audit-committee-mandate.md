@@ -38,6 +38,11 @@ a set of financial statements that present a breadth and level of complexity of 
 issues reasonably comparable to those of the issuer's financial statements. At least one
 member must have accounting or related financial expertise.
 
+**Correction (2026-08-02):** the second sentence overstates NI 52-110. The real
+instrument requires all members to be financially literate and requires the issuer
+to **disclose whether or not** a designated "audit committee financial expert" sits
+on the committee — it does not mandate that one exist. **Flagged, not resolved.**
+
 For venture issuers and other smaller reporting issuers, NI 52-110 provides certain
 exemptions from the full independence and composition requirements. These exemptions do not
 relieve the issuer of the obligation to have a functioning audit committee with oversight

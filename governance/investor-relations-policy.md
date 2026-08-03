@@ -135,6 +135,12 @@ Canada, EDGAR in the United States, CNMV filings in Spain, BMV filings in Mexico
 underlying policy principles of designated spokespersons, quiet periods, and guidance
 management apply uniformly.
 
+**Correction (2026-08-02):** this article's sibling articles [[exemptions]] and
+[[material-contracts]] both name the Mexican filing venue as CNBV's STIV-2 platform
+(the regulator-side system, structurally analogous to SEDAR+/EDGAR/CNMV) — this
+article's "BMV filings" names the stock exchange instead, breaking the pattern.
+**Flagged, not resolved.**
+
 ### Regulation FD alignment in the United States
 
 In the United States, the Regulation FD (Fair Disclosure) rule adopted by the Securities and

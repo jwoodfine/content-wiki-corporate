@@ -72,7 +72,9 @@ upon effectiveness of its planned prospectus offering. Each direct-hold solution
 own audited annual financial statements, annual information form, and MD&A as a standalone
 issuer; these are not consolidated into WCP's financial statements.
 
-WCP applies the investment entity accounting treatment under IFRS 10.27: its interest in each
+WCP applies the investment entity accounting treatment under IFRS 10.27 *(correction:
+the consolidation-exception/FVTPL requirement is IFRS 10.31–33; §27 contains the
+investment-entity definition criteria)*: its interest in each
 direct-hold solution is measured at fair value through profit or loss rather than consolidated
 on a line-by-line basis into WCP's statements. The fair value of WCP's interest in each solution
 is disclosed in WCP's own financial statements in accordance with IFRS 12.19A–G, which requires

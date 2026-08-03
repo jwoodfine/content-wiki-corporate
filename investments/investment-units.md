@@ -24,6 +24,11 @@ see_also:
 
 Investment units are the equity units issued by each direct-hold vehicle within MCorp's [[topic-direct-hold-framework|Direct-Hold]] framework. Each investment unit represents a proportional interest in the specific direct-hold vehicle — not a share in a pooled fund or a proportional claim on a portfolio of properties.
 
+**Correction (2026-08-02, verified against [[corporate-glossary]]):** the
+Direct-Hold framework belongs to Woodfine Capital Projects Inc. (WCP) as promoter,
+not MCorp — MCorp is "not the general partner, administrator, or governing body of
+any Direct-Hold vehicle." **Flagged, not resolved.**
+
 Units are registered through the partnership's book-entry system and are transferable to willing counterparties subject to the restrictions set out in the applicable partnership agreement. The [[topic-perpetual-equity-model|Perpetual Equity Model]] governs the holding horizon for these units.
 
 ## Overview

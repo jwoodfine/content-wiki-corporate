@@ -21,6 +21,10 @@ Professional Centres Mexico FIBRA is a planned Direct-Hold Solution within the
 Fideicomiso de Infraestructura en Bienes Raíces. It is not yet established, and this shelf does
 not yet carry any reports.
 
+**Correction (2026-08-02):** the standard legally-established term (LISR Articles
+187–188) is "Fideicomiso de Infraestructura **y** Bienes Raíces" ("and," not "in").
+**Flagged, not resolved.**
+
 ## What this shelf is intended to hold
 
 Once the Professional Centres Mexico FIBRA is established and reporting, this shelf is intended

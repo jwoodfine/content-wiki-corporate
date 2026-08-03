@@ -16,6 +16,16 @@ notice of forthcoming events where available.
 
 ## Annual general meeting
 
+**Correction (2026-08-02):** this whole article describes AGMs, investor
+presentations, and conference participation in unqualified present tense, as
+established ongoing practice — but its own sibling articles
+([[about-continuous-disclosure]], [[about-regulatory-posture]]) state WCP "intends
+to become subject to the full continuous-disclosure regime upon effectiveness of
+its planned prospectus offering," and [[about-regulatory-posture]] states this
+wiki's own house rule explicitly: materials describing not-yet-in-place activities
+"carry qualifying language: 'planned', 'intended', 'may', 'target', 'expected.'"
+This article violates that stated rule throughout. **Flagged, not resolved.**
+
 The annual general meeting (AGM) of shareholders is held each year, typically in the second
 quarter following the fiscal year end. The AGM provides shareholders with the opportunity to
 elect the board of directors, appoint the external auditor, and vote on other matters requiring

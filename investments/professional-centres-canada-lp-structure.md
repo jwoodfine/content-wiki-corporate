@@ -42,6 +42,12 @@ Woodfine Properties Inc. was formerly a limited partner of Professional Centres 
 
 Professional Centres Canada LP is currently subject to a cease-trade order issued by the British Columbia Securities Commission (BCSC), arising from delayed continuous-disclosure filings rather than any finding of fraud or misconduct. The partnership has no current limited partners for whom this order is an active transaction condition. The partnership must bring its outstanding filing obligations current and obtain the BCSC's revocation before any future offering of units can close.
 
+**⚠️ Correction (2026-08-02) — NOT resolved:** this contradicts [[four-jurisdiction-framework]]
+and this same article's own "Investment Units are freely transferable in Canada"
+language a few sections below, both of which describe active offering/transfer
+activity in the ordinary course. See [[four-jurisdiction-framework]]'s Correction
+callout for full detail. Escalated to Command by mailbox, 2026-08-02.
+
 ## Settlement and depositary arrangements
 
 Investment Units in Professional Centres Canada LP settle through CDS Clearing and Depository Services Inc. (CDS), Canada's central securities depository. On closing, units are delivered electronically through CDS's non-certificated inventory (NCI) system rather than by physical certificate; an investor holds its position through the book-based records of a CDS participant — typically a brokerage or custodian — rather than a unit certificate registered directly in the investor's own name. This settlement mechanism is specific to the Canadian vehicle: the parallel vehicles described in the Four-Jurisdiction Framework settle through the central depository applicable to each jurisdiction.
