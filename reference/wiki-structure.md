@@ -15,7 +15,7 @@ short_description: "A reader's map: this knowledge base describes the
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-15
+last_edited: 2026-08-03
 editor: woodfine-editorial
 paired_with: wiki-structure.es.md
 ---
@@ -88,10 +88,7 @@ company's section does. It is distinct from the companion projects
 knowledge base's News category, which carries release notes about that
 knowledge base itself, not corporate disclosure.
 
-## Research and reference
-
-**Research** holds the flagship research papers — complete, long-form
-arguments with full citations, published as a small curated set.
+## Glossary and reader's guide
 
 **Glossary and Reader's Guide** defines every term used here in plain
 words, and explains the cautionary notes that accompany forward-looking

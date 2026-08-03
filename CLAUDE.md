@@ -5,7 +5,7 @@
 > then applies the repo-specific rules below. Read cold at
 > session start.
 
-Last updated: 2026-06-26.
+Last updated: 2026-08-03.
 
 ---
 
@@ -27,11 +27,11 @@ This repo is **content only**. No code. No compiled binaries.
 Classification per workspace §8: **content-wiki repo** — no project
 registry. The per-project-cluster mechanism does not apply.
 
-**Category layout (corrected 2026-07-15 — was stale since the 2026-07-02
-Phase C redesign; see `BRIEF-category-redesign-phase-c.md` in
+**Category layout (corrected 2026-08-03 — was stale since the 2026-07-15
+`research`-category retirement; see `.agent/rules/journal-registry.md` in
 project-editorial).** Canonical source is this repo's own root
 `categories.yaml` — read that directly if this table and it ever
-disagree again. Thirteen categories, all with bilingual MOC pages:
+disagree again. Twelve categories, all with bilingual MOC pages:
 
 | Category | Scope |
 |---|---|
@@ -43,7 +43,6 @@ disagree again. Thirteen categories, all with bilingual MOC pages:
 | `risks/` | Market, property, financing, development, structural risk |
 | `reports/` | The parent company's own paper trail |
 | `reports-canada/`, `reports-united-states/`, `reports-spain/`, `reports-mexico/` | Per-jurisdiction Direct-Hold Solution vehicle reporting |
-| `research/` | Flagship long-form research (JOURNAL never publishes here — see `research`-category retirement in `BRIEF-journal-and-taxonomy-redesign.md`) |
 | `reference/` | Glossary, terminology, forward-looking-statements advisory |
 
 No flat `topic-*.md` articles remain — migration to category

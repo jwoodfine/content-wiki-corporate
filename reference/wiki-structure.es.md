@@ -16,7 +16,7 @@ short_description: "Un mapa para el lector: esta base de conocimiento
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-15
+last_edited: 2026-08-03
 editor: woodfine-editorial
 paired_with: wiki-structure.md
 ---
@@ -99,11 +99,7 @@ matriz. Es distinto de la categoría Noticias de la base de conocimiento
 de proyectos que la acompaña, la cual recoge notas de lanzamiento sobre
 esa base de conocimiento y no divulgación corporativa.
 
-## Investigación y referencia
-
-**Investigación** reúne los artículos de investigación de referencia —
-argumentos completos y extensos con citas completas, publicados como un
-conjunto reducido y seleccionado.
+## Glosario y guía del lector
 
 **Glosario y guía del lector** define en palabras sencillas cada término
 usado aquí, y explica las notas cautelares que acompañan a las
