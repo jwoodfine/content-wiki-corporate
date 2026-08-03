@@ -24,7 +24,13 @@ redirects:
     to: /investments/limited-partnership-structure
 
   - from: /investment/asset-vehicle-isolation
-    to: /financial-model/asset-vehicle-isolation
+    to: /investments/asset-vehicle-isolation
+
+  # Phase 1c category-fit audit, 2026-08-03 — moved back out of financial-model into
+  # investments (content is legal-form/isolation, not financing-engine mechanics). See
+  # .agent/audit/phase1c-corporate-sweep/category-fit-design-2026-08-03.md.
+  - from: /financial-model/asset-vehicle-isolation
+    to: /investments/asset-vehicle-isolation
 
   - from: /investment/debt-service-and-financing-structure
     to: /financial-model/debt-service-and-financing-structure

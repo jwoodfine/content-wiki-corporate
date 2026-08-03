@@ -2,7 +2,7 @@
 schema: foundry-doc-v1
 title: "Aislamiento del Vehículo de Activos"
 slug: asset-vehicle-isolation
-category: financial-model
+category: investments
 type: topic
 content_type: topic
 quality: complete
