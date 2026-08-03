@@ -5,7 +5,7 @@ slug: portfolio-theory-foundations
 aliases:
   - topic-portfolio-theory-foundations
 short_description: "El Teorema de Separación de Fondos Mutuos, la frontera eficiente y el modelo de cartera 60/40, y cómo el Capital Privado, la Inversión Activista y otras Inversiones Alternativas amplían el marco."
-category: financial-model
+category: reference
 type: reference
 content_type: topic
 quality: complete

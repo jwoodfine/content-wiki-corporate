@@ -2,7 +2,7 @@
 schema: foundry-doc-v1
 title: "Exemptions"
 slug: exemptions
-category: governance
+category: investments
 type: topic
 content_type: topic
 quality: complete

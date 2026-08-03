@@ -107,7 +107,7 @@ redirects:
     to: /investments/direct-hold-framework
 
   - from: /topic-investor-access
-    to: /investments/investor-access
+    to: /company/investor-access
 
   - from: /topic-investment-units
     to: /investments/investment-units
@@ -185,3 +185,14 @@ redirects:
 
   - from: /research/dual-mandate-building-certifications
     to: https://projects.woodfinegroup.com/building-design/dual-mandate-building-certifications
+
+  # Phase 1c category-fit audit follow-through, 2026-08-03 — operator-confirmed placement
+  # calls on the 3 items left flagged by commit 4e8f2c6 (category-fit-design-2026-08-03.md).
+  - from: /governance/exemptions
+    to: /investments/exemptions
+
+  - from: /investments/investor-access
+    to: /company/investor-access
+
+  - from: /financial-model/portfolio-theory-foundations
+    to: /reference/portfolio-theory-foundations
