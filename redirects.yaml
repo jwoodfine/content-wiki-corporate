@@ -11,8 +11,10 @@ redirects:
   - from: /economy/narrow-bank-financial-model
     to: /financial-model/narrow-bank-financial-model
 
+  # Flattened 2026-08-03 — the /financial-model/ hop this redirect used to point to no
+  # longer exists (article moved cross-wiki; see the entry near the end of this file).
   - from: /economy/centralized-buying-program
-    to: /financial-model/centralized-buying-program
+    to: https://projects.woodfinegroup.com/buildings/centralized-buying-program
 
   - from: /investment/accredited-investor-eligibility
     to: /investments/accredited-investor-eligibility
@@ -196,3 +198,13 @@ redirects:
 
   - from: /financial-model/portfolio-theory-foundations
     to: /reference/portfolio-theory-foundations
+
+  # Phase 1c category-fit audit follow-through, 2026-08-03 (4th flagged item resolved
+  # same day) — centralized-buying-program.md was flagged in category-fit-design-2026-
+  # 08-03.md as a same-wiki-vs-cross-wiki placement call (content is construction
+  # procurement/parking-design standards, not "the financial engine" financial-model
+  # charter, and reads closer to media-knowledge-projects' buildings-and-places
+  # charter than to anything in this wiki). Operator confirmed the cross-wiki move;
+  # article now lives at media-knowledge-projects/buildings/centralized-buying-program.
+  - from: /financial-model/centralized-buying-program
+    to: https://projects.woodfinegroup.com/buildings/centralized-buying-program
