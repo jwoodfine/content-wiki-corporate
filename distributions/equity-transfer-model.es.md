@@ -21,6 +21,14 @@ cites: []
 
 Las Unidades de Inversión de cada vehículo de Tenencia Directa se transfieren de forma extrabursátil entre partes privadas; el propio órgano de gobierno del vehículo registra la transferencia completada. Dos principios estructurales rigen el modelo: capital libremente transferible dentro de un conjunto breve y enumerado de condiciones, y ejecución entre partes privadas — sin mercado secundario formal, sin creador de mercado, sin facilidad de recompra corporativa. El modelo se apoya en el [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] para la integridad del libro contable y opera junto con la disciplina del [[topic-interest-coverage-ratio|Ratio de Cobertura de Intereses]] aplicada a nivel de activo.
 
+**Corrección (2026-08-04):** este artículo describe el diseño estructural de las
+Direct-Hold Solutions como clase. Solo el vehículo de Canadá (Woodfine Professional
+Centres Limited Partnership) está actualmente constituido; se encuentra sujeto a una
+orden de suspensión de negociación (cease-trade order) vigente de la BCSC, bajo la
+cual las unidades no son actualmente libremente transferibles. Los vehículos de
+Estados Unidos, España y México están planificados, aún no constituidos.
+**Señalado, no reescrito silenciosamente.**
+
 ## Puntos clave
 
 - El capital de Tenencia Directa es libremente transferible a cualquier contraparte elegible sin que medie, en el caso ordinario, una decisión de aprobación del socio general — lo que distingue el modelo de las estructuras de capital restringido en las que el emisor retiene un derecho de primera opción o ejerce discrecionalidad abierta de aprobación de transferencias. En Canadá, el socio general está obligado contractualmente a admitir a un cesionario elegible, y solo puede negarse por una lista breve y enumerada de motivos.

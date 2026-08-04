@@ -22,7 +22,7 @@ Las Direct-Hold Solutions difieren de las tres estructuras de inversión inmobil
 
 ## Matriz de Comparación Estructural
 
-| Característica | Joint Venture Heredado | Capital Privado | REIT Tradicional | Direct-Hold Solutions |
+| Característica | Joint Venture Heredado | Capital Privado | REIT Tradicional | Direct-Hold Solutions (según diseño) |
 |---|---|---|---|---|
 | Venta de Activos Requerida para Salida | Sí | Sí | No | No |
 | Intereses Capitalizados Permitidos | Sí | Sí | No | No |
@@ -36,6 +36,15 @@ Las Direct-Hold Solutions difieren de las tres estructuras de inversión inmobil
 | Tarifa de Gestión Única Fija | No | No | No | Sí |
 | Derecho de Preferencia en Deuda | No | No | No | Sí |
 | Inversión Calificada (Ancla Minorista) | No | No | No | Sí |
+
+**Corrección (2026-08-04):** la columna «Direct-Hold Solutions» describe el diseño
+estructural como clase, no el estado actual por vehículo. Solo el vehículo de Canadá
+(Woodfine Professional Centres Limited Partnership) está actualmente constituido; se
+encuentra sujeto a una orden de suspensión de negociación vigente de la BCSC, bajo la
+cual las unidades no son actualmente libremente transferibles y el reporte regulado
+integral no está ocurriendo actualmente. Los vehículos de Estados Unidos, España y
+México están planificados, aún no constituidos. **Señalado, no reescrito
+silenciosamente.**
 
 ## Características Donde las Direct-Hold Solutions Eliminan Desventajas Heredadas
 

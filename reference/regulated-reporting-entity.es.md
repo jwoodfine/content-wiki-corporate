@@ -42,6 +42,15 @@ El término puente **Entidad Regulada Emisora de Información** resuelve esta fr
 
 La consecuencia práctica del estado de Entidad Regulada Emisora de Información es la eliminación del período tradicional de bloqueo de capital privado. Dado que cada Direct-Hold Solution está sujeta a Supervisión Pública continua y Requisitos de Informes Continuos obligatorios, las Unidades de Inversión son de Libre Transmisión. Los inversores no están restringidos por períodos de bloqueo estatutarios ni colas de reembolso. Las unidades pueden transferirse mediante transacciones privadas, transferencias institucionales o arreglos de planificación patrimonial a cualquier contraparte elegible. En Canadá y en el vehículo planificado de Estados Unidos, el socio general registra cada transferencia y está contractualmente obligado a admitir a un cesionario elegible — negándose solo por una lista breve y enumerada de motivos — en lugar de ejercer una discrecionalidad de aprobación abierta; los demás tenedores de unidades no tienen ningún rol de aprobación en una transferencia ordinaria.
 
+**Corrección (2026-08-04):** el párrafo anterior describe el diseño estructural
+como clase, no el estado actual por vehículo. Mismo hecho subyacente que la
+corrección escalada y no resuelta más abajo bajo «Obligaciones de Presentación por
+Jurisdicción» — el vehículo de Canadá está actualmente sujeto a una orden de
+suspensión de negociación vigente de la BCSC, bajo la cual las unidades no son
+actualmente libremente transferibles. Los vehículos de Estados Unidos, España y
+México están planificados, aún no constituidos. Consolidado aquí en lugar de añadir
+un tercer aviso disperso. **Señalado, no reescrito silenciosamente.**
+
 Esta característica distingue las Direct-Hold Solutions de los fondos cerrados convencionales, en los que la salida del inversor depende de eventos de liquidez iniciados por el gestor. La estructura de Entidad Regulada Emisora de Información reemplaza esa dependencia por una obligación de divulgación continua, que proporciona la base legal para la libre transmisibilidad.
 
 ## Distinción del Estado de Cotización en Bolsa
@@ -55,6 +64,13 @@ El vehículo SOCIMI de España tiene un requisito de cotización estatutaria que
 Cada Direct-Hold Solution, como Entidad Regulada Emisora de Información en su jurisdicción soberana, está sujeta a las obligaciones de presentación de la legislación de valores de esa jurisdicción:
 
 **Canadá — SEDAR+.** La Professional Centres Canada LP presenta ante la British Columbia Securities Commission y pone su divulgación a disposición del público en [[about-filing-systems|SEDAR+]]. Las presentaciones requeridas incluyen formularios de información anual, estados financieros auditados, análisis y discusión de la administración, e [[about-material-change-reporting|informes de cambios materiales]].
+
+**⚠️ Corrección (2026-08-02) — NO resuelta:** esto describe un comportamiento de
+presentación actual sin problemas, pero [[professional-centres-canada-lp-structure]]
+divulga una orden de suspensión de negociación vigente de la BCSC contra este mismo
+vehículo, derivada específicamente de presentaciones de divulgación continua
+retrasadas. Véase el aviso de corrección de ese artículo — misma contradicción no
+resuelta, escalada a Command.
 
 **Estados Unidos — EDGAR.** La planificada Professional Centres United States LP tiene previsto presentar ante la Securities and Exchange Commission en la plataforma EDGAR bajo el régimen de emisor informante aplicable.
 

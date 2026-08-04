@@ -18,7 +18,19 @@ paired_with: narrow-bank-financial-model.md
 cites: []
 ---
 
-El **Modelo Financiero Narrow Bank** es la disciplina de financiamiento que rige cómo las [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] de Woodfine Management Corp. despliegan capital y emiten deuda. El modelo opera en dos fases secuenciales: una fase inicial de construcción financiada con capital que no requiere pre-arrendamiento ni préstamos de construcción externos, seguida de una fase de emisión de deuda en la que el vehículo de inversión estabilizado emite sus propias [[debt-service-and-financing-structure|Obligaciones con Primera Hipoteca Garantizada]] colateralizadas directamente por los edificios físicos completos.
+El **Modelo Financiero Narrow Bank** es la disciplina de financiamiento que rige cómo las [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] despliegan capital y emiten deuda. El modelo opera en dos fases secuenciales: una fase inicial de construcción financiada con capital que no requiere pre-arrendamiento ni préstamos de construcción externos, seguida de una fase de emisión de deuda en la que el vehículo de inversión estabilizado emite sus propias [[debt-service-and-financing-structure|Obligaciones con Primera Hipoteca Garantizada]] colateralizadas directamente por los edificios físicos completos.
+
+**Corrección (2026-08-04):** dos cuestiones. (1) La introducción decía anteriormente
+«las Direct-Hold Solutions de Woodfine Management Corp.» — MCorp no es el socio
+general, administrador ni propietario de ningún vehículo de Tenencia Directa (es una
+subsidiaria acotada de WCP que contrata consultores y realiza tareas delegadas); se
+eliminó el posesivo. (2) La afirmación «de Libre Transmisión» más adelante describe
+el diseño estructural de las Direct-Hold Solutions como clase. Solo el vehículo de
+Canadá (Woodfine Professional Centres Limited Partnership) está actualmente
+constituido; se encuentra sujeto a una orden de suspensión de negociación vigente de
+la BCSC, bajo la cual las unidades no son actualmente libremente transferibles. Los
+vehículos de Estados Unidos, España y México están planificados, aún no
+constituidos. **Señalado, no reescrito silenciosamente.**
 
 ## Pasivos circunscritos a los activos
 

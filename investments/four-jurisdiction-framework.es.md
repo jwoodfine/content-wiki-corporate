@@ -21,6 +21,21 @@ cites: []
 
 El **Marco de Cuatro Jurisdicciones** describe la arquitectura de despliegue soberano de la plataforma de [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] de Woodfine Capital Projects Inc. (WCP). WCP ofrece Unidades de Inversión en Professional Centres Canada LP, la Direct-Hold Solution ya establecida, y tiene previsto establecer tres Direct-Hold Solutions adicionales en Estados Unidos, España y México, cada una constituida bajo las leyes de su jurisdicción y cada una utilizando el vehículo de inversión de flujo directo que las leyes de esa jurisdicción permiten.
 
+**⚠️ Corrección (2026-08-02) — NO resuelta, requiere decisión del operador/asesoría
+legal, no una corrección unilateral:** este lenguaje en tiempo presente «ofrece para
+la venta» / «libremente transferible» (repetido más abajo) contradice directamente
+[[professional-centres-canada-lp-structure]] (un día más reciente,
+`last_edited: 2026-07-31`), que divulga: «Professional Centres Canada LP está
+actualmente sujeta a una orden de suspensión de negociación (cease-trade order)
+emitida por la British Columbia Securities Commission (BCSC)... La sociedad debe
+poner al día sus obligaciones de presentación pendientes y obtener la revocación de
+la BCSC antes de que pueda cerrarse cualquier oferta futura de unidades.» Una oferta
+activa y la libre transmisibilidad de las unidades no pueden ser ciertas
+simultáneamente junto con una CTO vigente. Esta es una cuestión real de exactitud de
+divulgación de valores — cuál artículo refleja la realidad actual — y no algo que se
+deba suponer ni reconciliar silenciosamente. Escalado a Command por correo interno,
+2026-08-02.
+
 Professional Centres Canada LP es una [[regulated-reporting-entity|Entidad Regulada Emisora de Información]], sujeta a las leyes de valores y [[about-disclosure-obligations|obligaciones de divulgación continua]] de Canadá; los vehículos planificados de Estados Unidos, España y México tienen previsto convertirse en Entidades Reguladas Emisoras de Información en sus respectivas jurisdicciones una vez establecidos. WCP actúa como promotor de los cuatro vehículos. Subsidiarias de propiedad total de WCP sirven, o tienen previsto servir, como socios generales y consultores en relación con las operaciones comerciales de cada vehículo.
 
 Professional Centres Canada LP es una entidad legal ya constituida y existente — a diferencia de los vehículos de Estados Unidos, España y México, que aún no se han establecido. Su objetivo de valor bruto financiado de C$250 millones, al igual que el de cada una de las otras tres jurisdicciones, sigue siendo una cifra prospectiva que aún no se ha alcanzado.
