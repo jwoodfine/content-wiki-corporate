@@ -28,6 +28,16 @@ This repository contains no live financial accounts, active personnel records, o
 
 Woodfine does not operate investment funds. It operates Direct-Hold Solutions — regulated reporting entities that own the underlying real estate assets directly, structured to eliminate the structural bloat and redundant fees of layered fund vehicles. Investors hold units directly in the enterprise that owns the buildings.
 
+**Correction (2026-08-04):** the "Freely Transferable" characterization below (and in
+several sibling articles) describes the Direct-Hold Solutions' structural design as a
+class, without differentiating current status by vehicle. Only the Canada vehicle
+(Woodfine Professional Centres Limited Partnership) is currently established; it is
+currently subject to an active BCSC cease-trade order, under which units are not
+currently freely transferable. The United States, Spain, and Mexico vehicles are
+planned, not yet established. **Flagged, not silently rewritten** — this correction
+applies corpus-wide to every article making the unqualified "freely transferable"/
+"actively offering" claim; see the corresponding correction in each sibling article.
+
 `topic-DIRECT-HOLD-FRAMEWORK.md` — The complete structural argument for Direct-Hold Solutions versus traditional REITs and fund vehicles. Why the elimination of the fund layer is not a simplification but a structural improvement. The four jurisdictional implementations: Canada LP, United States LP, Spain SOCIMI, Mexico FIBRA.
 
 `topic-EQUITY-TRANSFER-MODEL.md` — How Investment Units transfer directly between investors without redemption queues. Why Freely Transferable status — the ability to transfer without requiring the enterprise to sell assets — distinguishes Direct-Hold Solutions from both public REITs and private funds.

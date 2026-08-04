@@ -22,7 +22,7 @@ The Direct-Hold Solutions differ from the three most common alternative real est
 
 ## Structural Comparison Matrix
 
-| Feature | Legacy Joint Venture | Private Equity | Traditional REIT | Direct-Hold Solutions |
+| Feature | Legacy Joint Venture | Private Equity | Traditional REIT | Direct-Hold Solutions (as designed) |
 |---|---|---|---|---|
 | Asset Sale Required for Exit | Yes | Yes | No | No |
 | Capitalized Interest Permitted | Yes | Yes | No | No |
@@ -36,6 +36,14 @@ The Direct-Hold Solutions differ from the three most common alternative real est
 | Single Fixed Management Fee | No | No | No | Yes |
 | Debt Right of First Refusal | No | No | No | Yes |
 | Qualified Investment (Major Retailer Anchor) | No | No | No | Yes |
+
+**Correction (2026-08-04):** the "Direct-Hold Solutions" column describes the
+structural design as a class, not current per-vehicle status. Only the Canada
+vehicle (Woodfine Professional Centres Limited Partnership) is currently
+established; it is currently subject to an active BCSC cease-trade order, under
+which units are not currently freely transferable and comprehensive regulated
+reporting is not currently occurring. The United States, Spain, and Mexico vehicles
+are planned, not yet established. **Flagged, not silently rewritten.**
 
 ## Features Where Direct-Hold Solutions Eliminate Legacy Disadvantages
 

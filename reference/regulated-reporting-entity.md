@@ -48,7 +48,15 @@ The following table maps the Regulated Reporting Entity designation to its sover
 
 ## Public Oversight and Mandatory Disclosure
 
-The practical consequence of Regulated Reporting Entity status is the elimination of the traditional private equity hold period. Because each Direct-Hold Solution is subject to continuous Public Oversight and mandatory Ongoing Reporting Requirements, Investment Units are Freely Transferable. Investors are not restricted by statutory lock-up periods or redemption queues. The units may be transferred in private transactions, institutional transfers, or estate planning arrangements to any eligible counterparty. In Canada and the planned United States vehicle, the general partner records each transfer and is contractually obligated to admit an eligible transferee — declining only on a short, enumerated list of grounds — rather than exercising open-ended approval discretion; other unitholders have no approval role in an ordinary transfer.
+The practical consequence of Regulated Reporting Entity status is the elimination of the traditional private equity hold period. Because each Direct-Hold Solution is subject to continuous Public Oversight and mandatory Ongoing Reporting Requirements, Investment Units are designed to be Freely Transferable. Investors are not restricted by statutory lock-up periods or redemption queues. The units may be transferred in private transactions, institutional transfers, or estate planning arrangements to any eligible counterparty. In Canada and the planned United States vehicle, the general partner records each transfer and is contractually obligated to admit an eligible transferee — declining only on a short, enumerated list of grounds — rather than exercising open-ended approval discretion; other unitholders have no approval role in an ordinary transfer.
+
+**Correction (2026-08-04):** the paragraph above describes the structural design as
+a class, not current per-vehicle status. Same underlying fact as the escalated,
+unresolved correction below under "Filing Obligations by Jurisdiction" — the Canada
+vehicle is currently subject to an active BCSC cease-trade order, under which units
+are not currently freely transferable. The United States, Spain, and Mexico
+vehicles are planned, not yet established. Consolidated here rather than adding a
+third scattered callout. **Flagged, not silently rewritten.**
 
 This characteristic distinguishes the Direct-Hold Solutions from conventional closed-end funds, where investor exit depends on manager-initiated liquidity events. The Regulated Reporting Entity structure replaces that dependency with a continuous disclosure obligation, which provides the legal foundation for free transferability.
 

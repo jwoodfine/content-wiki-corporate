@@ -21,6 +21,13 @@ cites: []
 
 Each Direct-Hold vehicle's Investment Units transfer over-the-counter between private parties; the vehicle's own governing body records the completed transfer. Two structural principles govern the model: freely transferable equity within a short, enumerated set of conditions, and peer-to-peer execution — no formal secondary market, no market maker, no corporate buyback facility. The model relies on the [[topic-fiduciary-data-mandate|fiduciary data mandate]] for ledger integrity and operates alongside the [[topic-interest-coverage-ratio|interest coverage ratio]] discipline applied at the asset level.
 
+**Correction (2026-08-04):** this article describes the Direct-Hold Solutions'
+structural design as a class. Only the Canada vehicle (Woodfine Professional Centres
+Limited Partnership) is currently established; it is currently subject to an active
+BCSC cease-trade order, under which units are not currently freely transferable. The
+United States, Spain, and Mexico vehicles are planned, not yet established. **Flagged,
+not silently rewritten.**
+
 ## Key takeaways
 
 - Direct-Hold equity is freely transferable to any eligible counterparty without a general partner approval decision in the ordinary case — distinguishing the model from restricted-equity structures where the issuer holds a right of first refusal or exercises open-ended transfer-approval discretion. In Canada, the General Partner is contractually obligated to admit an eligible transferee, declining only on a short, enumerated list of grounds.

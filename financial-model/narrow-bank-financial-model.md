@@ -18,7 +18,18 @@ paired_with: narrow-bank-financial-model.es.md
 cites: []
 ---
 
-The **Narrow Bank Financial Model** is the financing discipline that governs how Woodfine Management Corp.'s [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] deploy capital and issue debt. The model operates in two sequential phases: an initial equity-funded construction phase that requires no pre-leasing and no external construction loans, followed by a debt issuance phase in which the stabilized investment vehicle issues its own [[debt-service-and-financing-structure|First Secured Mortgage Debentures]] collateralized directly by the completed physical buildings.
+The **Narrow Bank Financial Model** is the financing discipline that governs how the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] deploy capital and issue debt. The model operates in two sequential phases: an initial equity-funded construction phase that requires no pre-leasing and no external construction loans, followed by a debt issuance phase in which the stabilized investment vehicle issues its own [[debt-service-and-financing-structure|First Secured Mortgage Debentures]] collateralized directly by the completed physical buildings.
+
+**Correction (2026-08-04):** two issues. (1) The lead previously read "Woodfine
+Management Corp.'s Direct-Hold Solutions" — MCorp is not the general partner,
+administrator, or owner of any Direct-Hold Solution (it is a narrow WCP subsidiary
+that hires consultants and performs delegated tasks); the possessive was removed.
+(2) The "Freely Transferable" claim further below describes the Direct-Hold
+Solutions' structural design as a class. Only the Canada vehicle (Woodfine
+Professional Centres Limited Partnership) is currently established; it is currently
+subject to an active BCSC cease-trade order, under which units are not currently
+freely transferable. The United States, Spain, and Mexico vehicles are planned, not
+yet established. **Flagged, not silently rewritten.**
 
 ## Ring-fenced liabilities
 
