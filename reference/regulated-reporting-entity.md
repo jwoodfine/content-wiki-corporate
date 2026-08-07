@@ -19,7 +19,7 @@ paired_with: regulated-reporting-entity.es.md
 cites: []
 ---
 
-A **Regulated Reporting Entity** is the cross-border bridge term Woodfine Management Corp. applies to each of its four [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]].
+A **Regulated Reporting Entity** is the cross-border bridge term MCorp applies to each of its four [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]].
 
 **Correction (2026-08-02, verified against [[corporate-glossary]]):** this casts
 MCorp as sponsor/owner of the four vehicles. Per the corrected governance model,

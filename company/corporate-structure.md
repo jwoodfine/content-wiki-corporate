@@ -39,7 +39,7 @@ PointSav does not hold equity in any managed property. PointSav does not make in
 
 ## Delegated-services subsidiary
 
-MCorp (Woodfine Management Corp.) is a wholly-owned subsidiary of Woodfine Capital Projects Inc. Its mandate is service delivery inside the group: MCorp retains third-party consultants — professional, technical, and administrative — and performs tasks that other WCP subsidiaries delegate to it, on the terms of those delegations.
+MCorp is a wholly-owned subsidiary of Woodfine Capital Projects Inc. Its mandate is service delivery inside the group: MCorp retains third-party consultants — professional, technical, and administrative — and performs tasks that other WCP subsidiaries delegate to it, on the terms of those delegations.
 
 MCorp is not the general partner of any Direct-Hold vehicle, is not the administrator of any trust vehicle, and does not originate or govern the limited partnerships through which commercial assets are held. It holds no promoter equity in those vehicles: the promoter's equity-based compensation is held through Benetti Holdings Inc., a separate WCP subsidiary, escrowed until limited partners recover 100% of contributed capital or a defined liquidity event occurs (see [[professional-centres-canada-lp-structure|Professional Centres Canada LP structure]]).
 

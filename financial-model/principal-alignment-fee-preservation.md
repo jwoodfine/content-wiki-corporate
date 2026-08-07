@@ -40,7 +40,7 @@ The developer's equity position, once earned through the holding period and inve
 
 ## The Fixed Annual Overhead Contribution
 
-Variable management fees — acquisition fees, asset management fees, disposition fees, financing fees — are replaced by a single fixed annual overhead contribution calculated on the Gross Funded Value of each Direct-Hold Solution. The overhead contribution is a contribution to the operating costs of Woodfine Management Corp., calculated as a fixed percentage of the stated gross funded value of the vehicle rather than as a mark-to-market percentage of net asset value.
+Variable management fees — acquisition fees, asset management fees, disposition fees, financing fees — are replaced by a single fixed annual overhead contribution calculated on the Gross Funded Value of each Direct-Hold Solution. The overhead contribution is a contribution to the operating costs of MCorp, calculated as a fixed percentage of the stated gross funded value of the vehicle rather than as a mark-to-market percentage of net asset value.
 
 ### Fee predictability and valuation independence
 
