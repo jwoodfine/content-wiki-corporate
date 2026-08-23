@@ -20,7 +20,6 @@ last_edited: 2026-07-30
 see_also:
   - topic-perpetual-equity-model
   - topic-direct-hold-framework
-  - topic-property-ledger-technology
 ---
 
 Investment units are the equity units issued by each direct-hold vehicle within Woodfine Capital Projects Inc.'s (WCP) [[topic-direct-hold-framework|Direct-Hold]] framework, as promoter. Each investment unit represents a proportional interest in the specific direct-hold vehicle — not a share in a pooled fund or a proportional claim on a portfolio of properties.

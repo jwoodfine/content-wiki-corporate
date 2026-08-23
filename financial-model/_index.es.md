@@ -51,7 +51,7 @@ Cómo se estiman el valor y las cifras prospectivas.
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: valuation-and-forecasting-methodology -->
 - [[holding-company-valuation-methodology]] — El marco de tres métodos — precio/utilidad, rendimiento de utilidades y valor en libros — utilizado para modelar una estimación compuesta del valor razonable por acción de la empresa matriz, distinta de la valoración a nivel de activo o de vehículo.
 - [[ifrs-forecast-methodology-direct-hold-solutions]] — Cómo un pronóstico financiero de 10 años, con estilo NIIF, para una Solución de Tenencia Directa aplica la NIIF 18, la NIC 40, la NIIF 13 y la NIIF 2 para proyectar futuros estados financieros — ilustrativo, no una garantía de resultados.
-- [[sensitivity-and-stress-test-methodology]] — Cómo las Soluciones de Tenencia Directa modelan el estrés de tasa de interés, ocupación y rendimiento de desarrollo frente al convenio de cobertura de intereses.
+- [[sensitivity-and-stress-test-methodology]] — Cómo las Soluciones de Tenencia Directa modelan el estrés de tasa de interés, ocupación y rendimiento de desarrollo frente al convenio de cobertura de intereses de 1.20x.
 <!-- END AUTO-GENERATED -->
 
 ## Consulte también

@@ -20,7 +20,6 @@ last_edited: 2026-07-30
 see_also:
   - topic-perpetual-equity-model
   - topic-direct-hold-framework
-  - topic-property-ledger-technology
 ---
 
 Las unidades de inversión son las participaciones emitidas por cada vehículo de tenencia directa dentro del marco de [[topic-direct-hold-framework|Tenencia Directa]] de Woodfine Capital Projects Inc. (WCP), como promotor. Cada unidad de inversión representa un interés proporcional en el vehículo de tenencia directa específico, no una participación en un fondo mancomunado ni una participación proporcional en una cartera de propiedades.
