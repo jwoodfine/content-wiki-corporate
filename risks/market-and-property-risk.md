@@ -17,10 +17,10 @@ editor: pointsav-engineering
 paired_with: market-and-property-risk.es.md
 ---
 
-Commercial real estate values and income depend on the demand for space in the specific
-markets where a property is located. Market and property risk covers the ways that demand,
-supply, and general economic conditions can move against a specific building, reducing its
-income, its value, or both. This risk is present in every commercial real estate holding,
+Demand, supply, and general economic conditions can move against a specific building,
+reducing its income, its value, or both — market and property risk covers these ways a
+holding can lose ground. Commercial real estate values and income depend on the demand for
+space in the specific markets where a property is located. This risk is present in every commercial real estate holding,
 including each of the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]], and is not eliminated by any
 element of the corporate or financing structure described elsewhere in this wiki.
 

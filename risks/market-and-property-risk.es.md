@@ -17,10 +17,11 @@ editor: pointsav-engineering
 paired_with: market-and-property-risk.md
 ---
 
-El valor y el ingreso de un inmueble comercial dependen de la demanda de espacio en los
-mercados específicos donde se ubica la propiedad. El riesgo de mercado y de propiedad abarca
-las formas en que la demanda, la oferta y las condiciones económicas generales pueden actuar en
-contra de un edificio específico, reduciendo su ingreso, su valor, o ambos. Este riesgo está
+La demanda, la oferta y las condiciones económicas generales pueden actuar en contra de un
+edificio específico, reduciendo su ingreso, su valor, o ambos — el riesgo de mercado y de
+propiedad abarca estas formas en que una tenencia puede perder terreno. El valor y el ingreso
+de un inmueble comercial dependen de la demanda de espacio en los mercados específicos donde
+se ubica la propiedad. Este riesgo está
 presente en toda tenencia inmobiliaria comercial, incluida cada una de las
 [[direct-hold-solutions-structural-comparison|Soluciones de Tenencia Directa]], y ningún elemento de la estructura corporativa o de
 financiamiento descrita en este wiki lo elimina.

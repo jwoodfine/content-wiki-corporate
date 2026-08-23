@@ -17,11 +17,11 @@ editor: pointsav-engineering
 paired_with: structure-and-regulatory-risk.md
 ---
 
-El [[four-jurisdiction-framework|Marco de Cuatro Jurisdicciones]] despliega las [[direct-hold-solutions-structural-comparison|Soluciones de
+Operar en cuatro regímenes legales y fiscales distintos introduce riesgo estructural y
+regulatorio que una estructura de una sola jurisdicción no tendría. El
+[[four-jurisdiction-framework|Marco de Cuatro Jurisdicciones]] despliega las [[direct-hold-solutions-structural-comparison|Soluciones de
 Tenencia Directa]] en Canadá, Estados Unidos, España y México, cada una utilizando la forma de
-vehículo legal que la ley soberana pone a disposición en esa jurisdicción. Operar en cuatro
-regímenes legales y fiscales distintos introduce riesgo estructural y regulatorio que una
-estructura de una sola jurisdicción no tendría.
+vehículo legal que la ley soberana pone a disposición en esa jurisdicción.
 
 ## Riesgo de estructura legal multijurisdiccional
 

@@ -17,11 +17,11 @@ editor: pointsav-engineering
 paired_with: structure-and-regulatory-risk.es.md
 ---
 
-The [[four-jurisdiction-framework|Four-Jurisdiction Framework]] deploys the [[direct-hold-solutions-structural-comparison|Direct-Hold
-Solutions]] across Canada, the United States, Spain, and Mexico, each using the legal vehicle
-form that sovereign law makes available in that jurisdiction. Operating across four distinct
-legal and tax regimes introduces structural and regulatory risk that a single-jurisdiction
-structure would not carry.
+Operating across four distinct legal and tax regimes introduces structural and regulatory
+risk that a single-jurisdiction structure would not carry. The [[four-jurisdiction-framework|Four-Jurisdiction Framework]]
+deploys the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] across Canada, the United States, Spain, and
+Mexico, each using the legal vehicle form that sovereign law makes available in that
+jurisdiction.
 
 ## Multi-jurisdictional legal structure risk
 
