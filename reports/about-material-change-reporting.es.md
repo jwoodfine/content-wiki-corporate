@@ -35,8 +35,9 @@ cambio material, el emisor debe emitir y presentar un comunicado de prensa divul
 naturaleza y el contenido del cambio a través de un servicio de distribución de noticias
 reconocido.
 
-**Paso 2 — Informe de cambio material (ICM).** Dentro de los 10 días posteriores al
-comunicado de prensa, el emisor debe presentar un informe formal de cambio material en
+**Paso 2 — Informe de cambio material (ICM).** Tan pronto como sea posible y, en todo caso,
+dentro de los 10 días posteriores a la fecha en que ocurrió el cambio material, el emisor
+debe presentar un informe formal de cambio material en
 [[about-filing-systems|SEDAR+]] utilizando el Formulario 51-102F3, que incluye la fecha del cambio, una descripción
 completa y los efectos sobre los negocios y operaciones del emisor.
 
@@ -73,9 +74,8 @@ El informe de cambio material se presenta electrónicamente bajo el perfil de di
 continua del emisor en [[about-filing-systems|SEDAR+]], utilizando el Formulario 51-102F3.
 La presentación se certifica con la firma de un director o funcionario superior del emisor,
 quien da fe de la exactitud e integridad del informe presentado. La Parte 7 impone el plazo
-de 10 días como un requisito estricto que corre desde la fecha del comunicado de prensa, no
-desde la fecha en que ocurrió el cambio material — la fecha del comunicado de prensa es el
-disparador operativo del plazo de presentación.
+de 10 días corriendo desde la fecha en que ocurrió el cambio material, no desde la fecha
+del comunicado de prensa.
 
 El incumplimiento del plazo de presentación del informe de cambio material bajo la Parte 7
 constituye un incumplimiento de divulgación continua. Los reguladores de valores provinciales

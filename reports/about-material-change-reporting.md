@@ -50,16 +50,6 @@ material change report on [[about-filing-systems|SEDAR+]] using Form 51-102F3. T
 must include: the date of the change, a full description of the change, the effects on
 the issuer's business and operations, and a statement signed by a director or officer.
 
-**Correction (2026-08-04):** this section previously said the MCR deadline ran "within 10
-days of the press release" — incorrect. NI 51-102 s.7.1(1) verified against the current
-in-force text (OSC's unofficial consolidation and BCSC's currently-published version, Sept
-19, 2025): Step 1 (press release) is correctly "immediate" as already stated above; Step 2
-(the MCR) is "as soon as practicable, and in any event within 10 days of the date on which
-the material change occurs" — the 10-day clock runs from the change date, not the
-press-release date. **Flagged, not silently rewritten** — see also the second, more
-explicit instance of the same error under "Filing mechanics under Part 7" below, corrected
-in the same pass.
-
 ### Content requirements for the press release
 
 The material change press release must include:
@@ -98,12 +88,6 @@ signature of a director or senior officer of the issuer, who attests to the accu
 completeness of the report as filed. Part 7 imposes the 10-day filing deadline as soon as
 practicable, and in any event running from the date the material change itself occurred —
 not from the date the press release was issued.
-
-**Correction (2026-08-04):** this paragraph previously stated the opposite — that the
-10-day clock ran from the press-release date, "the operative trigger for the filing clock."
-That was the same error corrected above under "The two-step disclosure process," restated
-here even more explicitly. NI 51-102 s.7.1(1) admits no press-release-anchored reading in
-either primary source checked. **Flagged, not silently rewritten.**
 
 Failure to file a required material change report within the Part 7 deadline is a continuous
 disclosure default. Provincial and territorial securities regulators may respond to a persistent
