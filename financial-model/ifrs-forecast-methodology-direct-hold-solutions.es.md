@@ -5,6 +5,7 @@ slug: ifrs-forecast-methodology-direct-hold-solutions
 aliases: []
 short_description: "Cómo un pronóstico financiero de 10 años, con estilo NIIF, para una Solución de Tenencia Directa aplica la NIIF 18, la NIC 40, la NIIF 13 y la NIIF 2 para proyectar futuros estados financieros — ilustrativo, no una garantía de resultados."
 category: financial-model
+index_group: valuation-and-forecasting-methodology
 type: reference
 content_type: topic
 quality: complete

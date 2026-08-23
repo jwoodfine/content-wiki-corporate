@@ -5,6 +5,7 @@ slug: sensitivity-and-stress-test-methodology
 aliases: []
 short_description: "How Direct-Hold Solutions model interest-rate, occupancy, and development-yield stress against the 1.20x interest-coverage covenant."
 category: financial-model
+index_group: valuation-and-forecasting-methodology
 type: topic
 content_type: topic
 quality: complete

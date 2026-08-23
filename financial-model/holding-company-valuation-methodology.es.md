@@ -6,6 +6,7 @@ aliases:
   - topic-holding-company-valuation-methodology
 short_description: "El marco de tres métodos — precio/utilidad, rendimiento de utilidades y valor en libros — utilizado para modelar una estimación compuesta del valor razonable por acción de la empresa matriz, distinta de la valoración a nivel de activo o de vehículo."
 category: financial-model
+index_group: valuation-and-forecasting-methodology
 type: reference
 content_type: topic
 quality: complete

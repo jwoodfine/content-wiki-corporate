@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Debt service and financing structure"
 slug: debt-service-and-financing-structure
 category: financial-model
+index_group: financing-discipline
 type: topic
 content_type: topic
 quality: complete

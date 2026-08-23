@@ -6,6 +6,7 @@ aliases:
   - topic-holding-company-valuation-methodology
 short_description: "The three-method framework — price/earnings, earnings-yield, and book value — used to model a composite fair-value-per-share estimate for the parent holding company, distinct from asset- and vehicle-level valuation."
 category: financial-model
+index_group: valuation-and-forecasting-methodology
 type: reference
 content_type: topic
 quality: complete

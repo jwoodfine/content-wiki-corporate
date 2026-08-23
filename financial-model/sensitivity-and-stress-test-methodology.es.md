@@ -5,6 +5,7 @@ slug: sensitivity-and-stress-test-methodology
 aliases: []
 short_description: "Cómo las Soluciones de Tenencia Directa modelan el estrés de tasa de interés, ocupación y rendimiento de desarrollo frente al convenio de cobertura de 1.20x."
 category: financial-model
+index_group: valuation-and-forecasting-methodology
 type: topic
 content_type: topic
 quality: complete

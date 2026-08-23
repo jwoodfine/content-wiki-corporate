@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Narrow bank financial model"
 slug: narrow-bank-financial-model
 category: financial-model
+index_group: financing-discipline
 type: topic
 content_type: topic
 quality: complete

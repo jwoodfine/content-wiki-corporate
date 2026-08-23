@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Principal alignment and fee preservation"
 slug: principal-alignment-fee-preservation
 category: financial-model
+index_group: compensation-and-alignment
 type: topic
 content_type: topic
 quality: complete

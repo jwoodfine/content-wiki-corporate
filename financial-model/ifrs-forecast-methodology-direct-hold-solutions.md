@@ -5,6 +5,7 @@ slug: ifrs-forecast-methodology-direct-hold-solutions
 aliases: []
 short_description: "How a 10-year IFRS-styled financial forecast for a Direct-Hold Solution vehicle applies IFRS 18, IAS 40, IFRS 13, and IFRS 2 to project future financial statements — illustrative, not a guarantee of results."
 category: financial-model
+index_group: valuation-and-forecasting-methodology
 type: reference
 content_type: topic
 quality: complete
