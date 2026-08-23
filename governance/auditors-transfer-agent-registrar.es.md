@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Auditores, Agente de Transferencia y Registrador"
 slug: auditors-transfer-agent-registrar
 category: governance
+index_group: board-and-management-oversight
 type: topic
 content_type: topic
 quality: complete

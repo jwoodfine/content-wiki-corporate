@@ -6,6 +6,7 @@ aliases:
   - three-legged-stool-management-structure
 short_description: "The three-way functional separation — development execution, Regulated Reporting Entity compliance, and an independent Asset Manager banking syndicate — that governs how each Direct-Hold Solution is managed and capitalized."
 category: governance
+index_group: board-and-management-oversight
 type: reference
 content_type: topic
 quality: complete

@@ -6,6 +6,7 @@ aliases:
   - topic-data-governance
 short_description: "Each Direct-Hold vehicle's data custody framework: who holds what data, where, and under what obligations — consistent with the Fiduciary Data Mandate and PIPEDA requirements."
 category: governance
+index_group: data-custody
 type: reference
 content_type: topic
 quality: complete

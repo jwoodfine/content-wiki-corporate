@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Derechos Estatutarios"
 slug: statutory-rights
 category: governance
+index_group: disclosure-obligations-and-investor-rights
 type: topic
 content_type: topic
 quality: complete

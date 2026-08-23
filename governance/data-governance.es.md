@@ -6,6 +6,7 @@ aliases:
   - topic-data-governance
 short_description: "El marco de custodia de datos de cada vehículo de Tenencia Directa: quién posee qué datos, dónde y bajo qué obligaciones, coherente con el Mandato Fiduciario de Datos y los requisitos de PIPEDA."
 category: governance
+index_group: data-custody
 type: reference
 content_type: topic
 quality: complete

@@ -5,6 +5,7 @@ slug: fiduciary-data-mandate
 aliases:
   - topic-fiduciary-data-mandate
 category: governance
+index_group: data-custody
 type: reference
 content_type: topic
 quality: complete

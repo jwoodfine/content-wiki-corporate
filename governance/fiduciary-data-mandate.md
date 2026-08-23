@@ -6,6 +6,7 @@ aliases:
   - topic-fiduciary-data-mandate
 short_description: "Custody and sovereignty requirement that the corporate entity holds physical control of the ledger hardware and cryptographic keys, not a third-party custodian."
 category: governance
+index_group: data-custody
 type: reference
 content_type: topic
 quality: complete

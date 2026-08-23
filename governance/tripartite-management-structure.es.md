@@ -6,6 +6,7 @@ aliases:
   - three-legged-stool-management-structure
 short_description: "La separación funcional tripartita — ejecución del desarrollo, cumplimiento de la Entidad de Reporte Regulada, y un sindicato bancario independiente de Gestores de Activos — que rige la gestión y capitalización de cada Solución de Tenencia Directa."
 category: governance
+index_group: board-and-management-oversight
 type: reference
 content_type: topic
 quality: complete

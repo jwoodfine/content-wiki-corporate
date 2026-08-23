@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Procedimientos Legales"
 slug: legal-proceedings
 category: governance
+index_group: disclosure-obligations-and-investor-rights
 type: topic
 content_type: topic
 quality: complete

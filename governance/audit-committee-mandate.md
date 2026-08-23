@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Audit committee mandate"
 slug: audit-committee-mandate
 category: governance
+index_group: board-and-management-oversight
 type: topic
 content_type: topic
 quality: complete

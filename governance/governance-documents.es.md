@@ -2,6 +2,7 @@
 title: "Documentos de gobernanza corporativa"
 slug: governance-documents
 category: governance
+index_group: board-and-management-oversight
 last_edited: 2026-07-15
 editor: woodfine-editorial
 status: stable

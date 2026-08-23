@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Mandato del Comité de Auditoría"
 slug: audit-committee-mandate
 category: governance
+index_group: board-and-management-oversight
 type: topic
 content_type: topic
 quality: complete

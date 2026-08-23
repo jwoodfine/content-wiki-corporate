@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Material contracts"
 slug: material-contracts
 category: governance
+index_group: disclosure-obligations-and-investor-rights
 type: topic
 content_type: topic
 quality: complete

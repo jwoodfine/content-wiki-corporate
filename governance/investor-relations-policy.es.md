@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Política de Relaciones con Inversionistas"
 slug: investor-relations-policy
 category: governance
+index_group: disclosure-obligations-and-investor-rights
 type: topic
 content_type: topic
 quality: complete

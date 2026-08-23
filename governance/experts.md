@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Experts"
 slug: experts
 category: governance
+index_group: disclosure-obligations-and-investor-rights
 type: topic
 content_type: topic
 quality: complete

@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Legal proceedings"
 slug: legal-proceedings
 category: governance
+index_group: disclosure-obligations-and-investor-rights
 type: topic
 content_type: topic
 quality: complete
