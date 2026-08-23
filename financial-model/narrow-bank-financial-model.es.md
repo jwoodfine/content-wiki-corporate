@@ -47,7 +47,7 @@ A medida que la cartera entra en su fase de gestión estabilizada, una parte def
 
 ## Consecuencias Estructurales
 
-**Sin intereses capitalizados.** Los Estatutos Universales de Gobernanza de las Direct-Hold Solutions prohíben explícitamente los intereses capitalizados. Todos los intereses se reconocen como gasto en el período en que se incurren.
+**Sin intereses capitalizados.** El contrato rector propio de cada Direct-Hold Solution prohíbe explícitamente los intereses capitalizados. Todos los intereses se reconocen como gasto en el período en que se incurren.
 
 **Sin deuda corporativa.** Las Obligaciones con Primera Hipoteca Garantizada son obligaciones del vehículo de inversión, totalmente garantizadas por los edificios físicos. No hay facilidad de endeudamiento de empresa operativa, línea de crédito revolvente ni deuda corporativa no garantizada.
 

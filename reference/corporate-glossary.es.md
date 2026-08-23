@@ -122,7 +122,7 @@ Es un conjunto curado de aproximadamente cincuenta términos, seleccionados de u
 
 ## Q
 
-**Inversión Calificada** — Un sitio de desarrollo que cumple los criterios de co-ubicación, prototipo y diseño de campus que los Estatutos Universales de Gobernanza exigen para el despliegue de capital. Ver [[direct-hold-solutions-structural-comparison|Comparación estructural de Direct-Hold Solutions]].
+**Inversión Calificada** — Un sitio de desarrollo que cumple los criterios que el contrato rector propio de cada Direct-Hold Solution exige para el despliegue de capital. Ver [[direct-hold-solutions-structural-comparison|Comparación estructural de Direct-Hold Solutions]].
 
 ## R
 

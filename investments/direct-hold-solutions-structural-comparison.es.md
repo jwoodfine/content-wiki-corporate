@@ -44,7 +44,7 @@ Las Direct-Hold Solutions, según diseño, difieren de las tres estructuras de i
 
 ### Prohibición de intereses capitalizados
 
-**Sin intereses capitalizados.** Los Estatutos Universales de Gobernanza de las Direct-Hold Solutions prohíben explícitamente los intereses capitalizados. Todos los intereses se reconocen como gasto en el período en que se incurren, eliminando la práctica que puede ocultar el costo real del financiamiento de construcción.
+**Sin intereses capitalizados.** El contrato rector propio de cada Direct-Hold Solution prohíbe explícitamente los intereses capitalizados. Todos los intereses se reconocen como gasto en el período en que se incurren, eliminando la práctica que puede ocultar el costo real del financiamiento de construcción.
 
 ## Características Donde las Direct-Hold Solutions Igualan a los REIT Cotizados
 
@@ -62,4 +62,4 @@ Seis características aparecen tanto en los REIT Tradicionales como en las Direc
 
 **Derecho de Preferencia en Deuda.** Las Direct-Hold Solutions otorgan a los inversores un derecho de preferencia sobre las Obligaciones con Primera Hipoteca Garantizada emitidas por el vehículo para el financiamiento de nueva construcción, permitiendo a los inversores de capital existentes participar en la emisión de deuda del vehículo antes de que se ofrezca a compradores externos.
 
-**Disciplina de Inversión Calificada.** Los Estatutos Universales de Gobernanza exigen que el capital se despliegue exclusivamente en Inversiones Calificadas — sitios de desarrollo que cumplen los criterios de co-ubicación, requisitos de Prototipo y estándares de Diseño Campus. Ninguna otra estructura del conjunto comparativo impone una restricción comparable de despliegue de capital a través de sus documentos de gobernanza.
+**Disciplina de Inversión Calificada.** El contrato rector propio de cada Direct-Hold Solution exige que el capital se despliegue exclusivamente en sitios de desarrollo que cumplen la disciplina de desarrollo de las Direct-Hold Solutions. Ninguna otra estructura del conjunto comparativo impone una restricción comparable de despliegue de capital a través de sus documentos de gobernanza.

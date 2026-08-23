@@ -78,6 +78,6 @@ La FIBRA de México es una FIBRA Privada: sus CBFIs no están cotizados y se neg
 
 ## Gobernanza Autosimilar
 
-Cada una de las cuatro Direct-Hold Solutions aplica los Estatutos Universales de Gobernanza de Woodfine a su estructura de vehículo específica por jurisdicción. El resultado es Gobernanza Autosimilar en las cuatro jurisdicciones: disciplina de inversión idéntica, estándares de divulgación idénticos y mecánica de Unidades de Inversión de Libre Transmisión idéntica, entregada a través de la forma legal que cada jurisdicción soberana exige.
+Cada una de las cuatro Direct-Hold Solutions cuenta con su propio contrato de sociedad o fideicomiso rector, específico para la forma jurídica de su jurisdicción. Estos contratos son autosimilares en su contenido: la misma disciplina de inversión y la misma mecánica de Unidades de Inversión, entregadas a través de la forma legal que exige cada jurisdicción.
 
 El despliegue de las cuatro jurisdicciones no está previsto que ocurra simultáneamente. La Professional Centres Canada LP es el modelo operativo. Los vehículos de Estados Unidos, España y México son Direct-Hold Solutions planificadas, previstas para constituirse a medida que avanzan los procesos de captación de capital y registro regulatorio en cada jurisdicción.

@@ -85,7 +85,7 @@ The target gross funded value is MN$5,000 million pesos. The Administrator is pl
 
 ## Self-Similar Governance
 
-Each of the four Direct-Hold Solutions applies Woodfine's Universal Governing Bylaws to its jurisdiction-specific vehicle structure. The result is Self-Similar Governance across all four jurisdictions: identical investment discipline, identical disclosure standards, and identical Freely Transferable Investment Unit mechanics, delivered through the legal form that each sovereign jurisdiction mandates.
+Each of the four Direct-Hold Solutions has its own governing partnership or trust agreement, specific to its jurisdiction's legal form. These agreements are self-similar in substance: the same investment discipline and the same Investment Unit mechanics, delivered through the legal form that each jurisdiction mandates.
 
 This approach eliminates the need for the investor to develop jurisdiction-specific investment frameworks for each of Canada, the United States, Spain, and Mexico. The governance characteristics of the Professional Centres Canada LP — continuous disclosure, audited financials, freely transferable units, exchange-qualified debt — are intended to be replicated in each of the three planned vehicles, subject only to the adjustments required by local securities law.
 

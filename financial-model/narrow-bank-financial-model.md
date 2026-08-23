@@ -53,7 +53,7 @@ This deleveraging dynamic is driven by portfolio operations rather than by capit
 
 The Narrow Bank Financial Model has several structural consequences that distinguish it from conventional commercial real estate financing.
 
-**No capitalized interest.** The Universal Governing Bylaws of the Direct-Hold Solutions explicitly prohibit capitalized interest. Interest costs are expensed as incurred; they are not added to the principal of the loan or deferred to future periods. This constraint eliminates a common mechanism by which debt can grow during construction without appearing in current-period income statements.
+**No capitalized interest.** Each Direct-Hold Solution's own governing agreement explicitly prohibits capitalized interest. Interest costs are expensed as incurred; they are not added to the principal of the loan or deferred to future periods. This constraint eliminates a common mechanism by which debt can grow during construction without appearing in current-period income statements.
 
 **No corporate debt.** The First Secured Mortgage Debentures are obligations of the investment vehicle, fully secured by the physical buildings. There is no operating company borrowing facility, no revolving credit line, and no unsecured corporate debt. If a debenture goes into default, the underlying real estate asset resolves the obligation. The remaining portfolio continues operating unaffected.
 
