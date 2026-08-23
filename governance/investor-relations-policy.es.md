@@ -118,7 +118,8 @@ La política de relaciones con inversionistas de Woodfine Capital Projects está
 operar como un marco aplicable a las obligaciones de la empresa en todas las [[four-jurisdiction-framework|Jurisdicciones Calificadas]]
 en las que tenga estatus de entidad reportante. Las mecánicas específicas de
 divulgación difieren por jurisdicción — SEDAR+ en Canadá, EDGAR en Estados Unidos, presentaciones
-ante la CNMV en España, presentaciones ante la BMV en México — pero los principios fundamentales
+ante la CNMV en España, presentaciones ante la Comisión Nacional Bancaria y de Valores a través
+de su plataforma STIV-2 en México — pero los principios fundamentales
 de la política de portavoces designados, períodos de restricción y gestión de la orientación
 financiera se aplican de manera uniforme.
 

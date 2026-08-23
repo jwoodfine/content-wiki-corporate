@@ -131,15 +131,10 @@ a press release or other broadly disseminated channel.
 Woodfine Capital Projects' investor relations policy is intended to operate as a framework
 applicable to the company's obligations in all [[four-jurisdiction-framework|Qualified Jurisdictions]] in which it holds
 reporting entity status. The specific disclosure mechanics differ by jurisdiction — SEDAR+ in
-Canada, EDGAR in the United States, CNMV filings in Spain, BMV filings in Mexico — but the
+Canada, EDGAR in the United States, CNMV filings in Spain, filings with the Comisión Nacional
+Bancaria y de Valores through its STIV-2 platform in Mexico — but the
 underlying policy principles of designated spokespersons, quiet periods, and guidance
 management apply uniformly.
-
-**Correction (2026-08-02):** this article's sibling articles [[exemptions]] and
-[[material-contracts]] both name the Mexican filing venue as CNBV's STIV-2 platform
-(the regulator-side system, structurally analogous to SEDAR+/EDGAR/CNMV) — this
-article's "BMV filings" names the stock exchange instead, breaking the pattern.
-**Flagged, not resolved.**
 
 ### Regulation FD alignment in the United States
 
