@@ -7,7 +7,7 @@ index_group: financing-discipline
 type: topic
 content_type: topic
 quality: complete
-short_description: "How commercial mortgage financing is structured within direct-hold limited partnerships: loan-to-value conventions, DSCR-constrained debt sizing, interest rate risk, and the interaction between debt structure and the ICR distribution gate."
+short_description: "How commercial mortgage financing is structured within direct-hold limited partnerships: loan-to-value conventions, interest rate risk, and the interaction between debt structure and the ICR distribution gate."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
@@ -18,19 +18,19 @@ paired_with: debt-service-and-financing-structure.es.md
 
 Commercial real estate acquisitions are routinely financed with a combination of equity and
 mortgage debt. The financing structure in each direct-hold [[limited-partnership-structure|limited partnership]] is designed
-around two constraints: the loan-to-value limit set by the lender, and the debt service
-coverage ratio floor established as a covenant in the partnership's governing agreement. These two constraints
-determine the maximum mortgage quantum for a given asset, the interest obligation that the
-ICR distribution gate must clear, and the interest rate risk profile of the investment.
+around two constraints: the loan-to-value limit set by the lender, and the 1.2× Interest
+Coverage Ratio (ICR) floor established as a covenant in the partnership's governing
+agreement. These two constraints determine the maximum mortgage quantum for a given asset,
+the interest obligation that the ICR distribution gate must clear, and the interest rate
+risk profile of the investment.
 
 ## Key takeaways
 
 - The mortgage debt in each direct-hold LP is secured against that LP's specific property;
   lenders have no recourse to the properties of other LPs or to the equity of the parent
   holding company absent specific guarantees.
-- Debt size is constrained by two independent tests: the lender's loan-to-value (LTV) limit
-  (typically 60–75% of appraised value for commercial properties) and the 1.2× ICR floor,
-  which limits total interest to no more than 83.3% of stabilised NOI.
+- Debt size is constrained by the lender's loan-to-value (LTV) limit and by the 1.2× ICR
+  floor established as a covenant in the partnership's governing agreement.
 - Fixed-rate mortgage debt reduces income statement volatility during the fixed term but
   creates refinancing exposure at maturity; floating-rate or variable-rate debt creates
   immediate income sensitivity to benchmark rate changes.
@@ -38,30 +38,10 @@ ICR distribution gate must clear, and the interest rate risk profile of the inve
 ## Loan-to-value constraint
 
 Commercial mortgage lenders set a maximum loan as a percentage of the property's appraised
-value. The standard range for income-producing commercial property in Canadian institutional
-markets is 60% to 75% LTV, with lower leverage permitted for trophy assets or fully leased
-long-term-covenanted tenancies, and higher leverage occasionally available under government-
-backed programs for specific asset types.
-
-At 65% LTV, a property appraised at $10,000,000 supports a mortgage of $6,500,000. The
-remaining $3,500,000 of value must be funded with equity from the LP unit holders. The LTV
-ratio is assessed at origination and may be tested again at refinancing or covenant review dates.
-
-## DSCR-constrained debt sizing
-
-The debt service coverage ratio (DSCR) is the second independent constraint on mortgage size.
-The DSCR is NOI divided by annual debt service (principal and interest). Institutional lenders
-in Canada typically require DSCR of 1.20× to 1.30× at origination for commercial mortgages.
-
-The 1.2× ICR floor, established as a covenant in the partnership's governing agreement, aligns with the typical
-lender DSCR minimum. At a 1.2× ICR and stabilised NOI of $600,000, the maximum permissible
-interest obligation is $500,000 per year (NOI ÷ 1.2). At an assumed interest rate of 5.0%,
-this constrains the mortgage principal to $10,000,000. If the LTV test allows only $7,500,000
-(at 75% of $10,000,000 appraised value), the more restrictive of the two constraints governs.
-
-In practice, the binding constraint varies by asset: properties with thin NOI relative to
-value (low NOI yield) are LTV-constrained; properties with strong NOI but conservative
-lender valuations may be DSCR-constrained.
+value. At 65% LTV, for example, a property appraised at $10,000,000 supports a mortgage of
+$6,500,000; the remaining $3,500,000 of value must be funded with equity from the LP unit
+holders. The LTV ratio is assessed at origination and may be tested again at refinancing or
+covenant review dates.
 
 ## Amortisation and interest-only periods
 
@@ -86,26 +66,23 @@ included in the denominator of the ICR test.
 ## Interest rate risk
 
 The interest rate on a commercial mortgage can be fixed for the term or floating based on a
-benchmark rate (such as the Canadian Overnight Repo Rate Average — CORRA — plus a credit
-spread). Fixed-rate mortgages protect the LP from interest rate increases during the term
-and lock in a predictable debt service cost. At maturity, the mortgage must be refinanced
-at the then-current market rate, which may be materially higher or lower than the original rate.
+benchmark rate plus a credit spread. Fixed-rate mortgages protect the LP from interest rate
+increases during the term and lock in a predictable debt service cost. At maturity, the
+mortgage must be refinanced at the then-current market rate, which may be materially higher
+or lower than the original rate.
 
 Floating-rate mortgages expose the LP to immediate changes in debt service cost as benchmark
 rates move. An upward movement in benchmark rates increases interest expense and reduces the
 ICR, potentially triggering the distribution suspension protocol if the rate increase is
 sufficient to breach the 1.2× floor.
 
-The partnership does not hedge interest rate risk at the entity level as a standing policy;
-hedging decisions — interest rate caps, swaps — are made in connection with specific mortgage
-transactions based on the risk profile of the relevant asset and market conditions at the time.
-
 ## Refinancing risk
 
 At mortgage maturity, the LP must either repay the outstanding principal or refinance with
 a new mortgage. Refinancing risk arises when credit conditions, property values, or lender
 appetite have deteriorated since the original financing: the available mortgage quantum may
-be lower (due to LTV compression or DSCR deterioration), and the interest rate may be higher.
+be lower (due to LTV compression or a decline in the property's ICR), and the interest rate
+may be higher.
 If the available refinancing proceeds are insufficient to repay the maturing mortgage, the LP
 must inject equity capital from its unit holders or sell the asset to repay the lender.
 

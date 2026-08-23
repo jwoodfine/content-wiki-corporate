@@ -7,7 +7,7 @@ index_group: financing-discipline
 type: topic
 content_type: topic
 quality: complete
-short_description: "Cómo se estructura el financiamiento hipotecario comercial dentro de las sociedades en comandita de tenencia directa: convenciones de relación préstamo-valor, dimensionamiento de deuda restringido por la RCSD, riesgo de tasa de interés e interacción entre la estructura de deuda y la compuerta de distribución de la RCI."
+short_description: "Cómo se estructura el financiamiento hipotecario comercial dentro de las sociedades en comandita de tenencia directa: convenciones de relación préstamo-valor, riesgo de tasa de interés e interacción entre la estructura de deuda y la compuerta de distribución de la RCI."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
@@ -19,48 +19,27 @@ paired_with: debt-service-and-financing-structure.md
 Las adquisiciones de bienes raíces comerciales se financian habitualmente con una combinación
 de capital y deuda hipotecaria. La estructura de financiamiento en cada [[limited-partnership-structure|sociedad en comandita]]
 de tenencia directa se diseña en torno a dos restricciones: el límite de relación préstamo-
-valor establecido por el prestamista, y el piso de la razón de cobertura del servicio de
-deuda establecido como convenio en el acuerdo rector de la sociedad.
+valor establecido por el prestamista, y el piso de la Razón de Cobertura de Intereses (RCI)
+de 1.2×, establecido como convenio en el acuerdo rector de la sociedad.
 
 ## Puntos clave
 
 - La deuda hipotecaria en cada SC de tenencia directa está garantizada por la propiedad
   específica de esa SC; los prestamistas no tienen recurso sobre las propiedades de otras SC.
-- El tamaño de la deuda está restringido por dos pruebas independientes: el límite de relación
-  préstamo-valor del prestamista (típicamente 60–75% del valor tasado) y el piso de la RCI
-  de 1.2×.
+- El tamaño de la deuda está restringido por el límite de relación préstamo-valor del
+  prestamista y por el piso de la RCI de 1.2×, establecido como convenio en el acuerdo rector
+  de la sociedad.
 - La deuda a tasa fija reduce la volatilidad del estado de resultados durante el plazo fijo
   pero crea exposición al refinanciamiento al vencimiento.
 
 ## Restricción de relación préstamo-valor
 
 Los prestamistas hipotecarios comerciales establecen un préstamo máximo como porcentaje del
-valor tasado de la propiedad. El rango estándar para propiedades comerciales generadoras de
-ingresos en los mercados institucionales canadienses es del 60% al 75% de la relación
-préstamo-valor (RPV).
-
-Con una RPV del 65%, una propiedad tasada en $10,000,000 admite una hipoteca de $6,500,000.
-Los $3,500,000 restantes del valor deben financiarse con capital aportado por los tenedores
-de unidades de la SC. La relación préstamo-valor se evalúa en el origen y puede volver a
-probarse en fechas de refinanciamiento o de revisión de convenios.
-
-## Dimensionamiento de deuda restringido por la RCSD
-
-La razón de cobertura del servicio de deuda (RCSD) es el ION dividido entre el servicio anual
-de deuda. Los prestamistas institucionales en Canadá típicamente requieren una RCSD de 1.20×
-a 1.30× en el momento de originar una hipoteca comercial.
-
-El piso de la RCI de 1.2×, establecido como convenio en el acuerdo rector de la sociedad, se
-alinea con el mínimo de RCSD típico exigido por los prestamistas. Con una RCI de 1.2× y un
-ION estabilizado de $600,000, la obligación de interés máxima permitida es de $500,000 por
-año (ION ÷ 1.2). A una tasa de interés supuesta del 5.0%, esto limita el principal hipotecario
-a $10,000,000. Si la prueba de RPV permite solo $7,500,000 (al 75% de un valor tasado de
-$10,000,000), rige la restricción más estricta de las dos.
-
-En la práctica, la restricción vinculante varía según el activo: las propiedades con un ION
-reducido en relación con el valor (bajo rendimiento del ION) están restringidas por la RPV;
-las propiedades con un ION sólido pero tasaciones conservadoras del prestamista pueden estar
-restringidas por la RCSD.
+valor tasado de la propiedad. Con una RPV del 65%, por ejemplo, una propiedad tasada en
+$10,000,000 admite una hipoteca de $6,500,000; los $3,500,000 restantes del valor deben
+financiarse con capital aportado por los tenedores de unidades de la SC. La relación
+préstamo-valor se evalúa en el origen y puede volver a probarse en fechas de refinanciamiento
+o de revisión de convenios.
 
 ## Amortización y períodos de solo interés
 
@@ -100,7 +79,7 @@ Al vencimiento de la hipoteca, la SC debe pagar el principal pendiente o refinan
 nueva hipoteca. El riesgo de refinanciamiento surge cuando las condiciones crediticias, los
 valores de las propiedades o el apetito de los prestamistas se han deteriorado desde el
 financiamiento original: el monto hipotecario disponible puede ser menor (por compresión de
-la RPV o deterioro de la RCSD), y la tasa de interés puede ser más alta. Si el producto
+la RPV o deterioro de la RCI de la propiedad), y la tasa de interés puede ser más alta. Si el producto
 disponible del refinanciamiento es insuficiente para pagar la hipoteca que vence, la SC debe
 inyectar capital aportado por sus tenedores de unidades o vender el activo para pagar al
 prestamista.

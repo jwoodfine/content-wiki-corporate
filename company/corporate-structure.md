@@ -4,7 +4,7 @@ title: "Corporate structure"
 slug: corporate-structure
 aliases:
   - topic-corporate-structure
-short_description: "Woodfine Capital Projects Inc.'s corporate structure: the parent holding company, the Manager and technology subsidiaries beneath it, and the general partners and promoter-equity companies of each Direct-Hold Solution."
+short_description: "Woodfine Capital Projects Inc.'s corporate structure: the parent holding company, the Manager and technology subsidiaries beneath it, and the governing entities and promoter-equity companies of each Direct-Hold Solution."
 category: company
 index_group: corporate-structure-and-ownership
 type: reference

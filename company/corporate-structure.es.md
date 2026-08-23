@@ -4,7 +4,7 @@ title: "Estructura corporativa"
 slug: corporate-structure
 aliases:
   - topic-corporate-structure
-short_description: "Estructura corporativa de Woodfine Capital Projects Inc.: la empresa matriz, las subsidiarias de Gestión y de tecnología debajo de ella, y los socios generales y sociedades de participación del promotor de cada Solución de Tenencia Directa."
+short_description: "Estructura corporativa de Woodfine Capital Projects Inc.: la empresa matriz, las subsidiarias de Gestión y de tecnología debajo de ella, y las entidades de gobierno y sociedades de participación del promotor de cada Solución de Tenencia Directa."
 category: company
 index_group: corporate-structure-and-ownership
 type: reference

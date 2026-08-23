@@ -6,7 +6,7 @@ category: company
 type: topic
 content_type: topic
 quality: complete
-short_description: "Quién es Woodfine: una sociedad de cartera de Columbia Británica que desarrolla y promueve edificios comerciales — un Desarrollador y Promotor, no un gestor de activos — su historia, su gente, sus subsidiarias y cómo opera el negocio."
+short_description: "Quién es Woodfine: una sociedad de cartera canadiense constituida federalmente, registrada extraprovincialmente en Columbia Británica, que desarrolla y promueve edificios comerciales — un Desarrollador y Promotor, no un gestor de activos — su historia, su gente, sus subsidiarias y cómo opera el negocio."
 index_type: thematic
 index_scope: company
 status: active
