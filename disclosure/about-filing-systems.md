@@ -15,12 +15,13 @@ references:
     text: "National Instrument 51-102 Continuous Disclosure Obligations. CSA, 2004 (as amended)."
 ---
 
-**SEDAR+** (System for Electronic Document Analysis and Retrieval Plus) is the electronic
-filing and public disclosure platform maintained by the Canadian Securities Administrators
-for the receipt, storage, and public dissemination of disclosure documents filed by Canadian
-[[regulated-reporting-entity|reporting issuers]].[^1] SEDAR+ replaced the original SEDAR platform in 2023 as the primary
-[[about-disclosure-obligations|continuous disclosure]] filing system for Canadian capital markets. All documents required
-under NI 51-102 must be filed through SEDAR+ to satisfy the regulatory filing obligation.
+All documents required under NI 51-102 must be filed through **SEDAR+** (System for
+Electronic Document Analysis and Retrieval Plus) to satisfy the regulatory filing
+obligation. The Canadian Securities Administrators maintain the electronic filing and
+public disclosure platform for the receipt, storage, and public dissemination of
+disclosure documents filed by Canadian [[regulated-reporting-entity|reporting issuers]].[^1]
+SEDAR+ replaced the original SEDAR platform in 2023 as the primary
+[[about-disclosure-obligations|continuous disclosure]] filing system for Canadian capital markets.
 
 ## System overview
 

@@ -15,10 +15,12 @@ references:
     text: "National Instrument 51-102 Continuous Disclosure Obligations. CSA, 2004 (as amended)."
 ---
 
-**SEDAR+** (Sistema de Análisis y Recuperación de Documentos Electrónicos Plus) es la
-plataforma de presentación electrónica y divulgación pública mantenida por los
-Administradores de Valores Canadienses para la recepción, almacenamiento y difusión pública
-de los documentos de divulgación presentados por los [[regulated-reporting-entity|emisores canadienses]] que presentan
+Todo documento exigido por la NI 51-102 debe presentarse a través de **SEDAR+** (Sistema
+de Análisis y Recuperación de Documentos Electrónicos Plus) para satisfacer la obligación
+regulatoria de presentación. Los Administradores de Valores Canadienses mantienen la
+plataforma de presentación electrónica y divulgación pública para la recepción,
+almacenamiento y difusión pública de los documentos de divulgación presentados por los
+[[regulated-reporting-entity|emisores canadienses]] que presentan
 informes.[^1] SEDAR+ reemplazó a la plataforma SEDAR original en 2023 como el sistema
 primario de presentación de [[about-disclosure-obligations|divulgación continua]] para los mercados de capitales canadienses.
 

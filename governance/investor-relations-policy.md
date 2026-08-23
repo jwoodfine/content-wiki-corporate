@@ -16,8 +16,8 @@ editor: woodfine-editorial
 paired_with: investor-relations-policy.es.md
 ---
 
-An investor relations policy is the internal governance document through which a
-[[regulated-reporting-entity|reporting issuer]] regulates the flow of information between the organisation and the investment community:
+The investor relations policy regulates the flow of information between a
+[[regulated-reporting-entity|reporting issuer]] and the investment community:
 analysts, institutional shareholders, individual investors, and financial media. The policy
 does not create disclosure obligations that are not already established by applicable securities
 law; rather, it operationalises those obligations, designates the individuals authorised to

@@ -23,7 +23,7 @@ see_also:
   - direct-hold-framework
 ---
 
-El Modelo de Capital Perpetuo describe el marco de inversión aplicado a [[investment-units|unidades de inversión]] en activos reales nombrados. Bajo este modelo, el capital se mantiene indefinidamente sin horizonte de redención fijo, fecha de vencimiento ni evento de salida obligatorio.
+Bajo el Modelo de Capital Perpetuo, las [[investment-units|unidades de inversión]] en activos reales nombrados no tienen horizonte de redención fijo, fecha de vencimiento ni evento de salida obligatorio: el capital se mantiene indefinidamente.
 
 Las posiciones se transfieren de forma extrabursátil a cualquier contraparte elegible, en lugar de ser reembolsadas por la entidad emisora. Esta estructura elimina las colas de redención y las reservas de liquidez al tiempo que permite que el capital se capitalice durante un período de tenencia indefinido. Véase [[redemption-elimination|Eliminación de Redención]] para el fundamento estructural.
 

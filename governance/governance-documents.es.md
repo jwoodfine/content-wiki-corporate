@@ -16,13 +16,12 @@ references:
     url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/58-101"
 ---
 
-Los **documentos de gobernanza corporativa** son los instrumentos fundacionales mediante los
-cuales Woodfine Capital Projects Inc. estructura su consejo de administración, define las
-responsabilidades de los comités del consejo y establece las políticas que rigen la relación
-entre el consejo, la dirección y los accionistas. Estos documentos se publican aquí como
-divulgación pública de las prácticas de gobernanza, en consonancia con la National Policy
-58-201 *Corporate Governance Guidelines*[^1] y los requisitos de divulgación conexos del
-National Instrument 58-101.[^2]
+Woodfine Capital Projects Inc. publica aquí sus **documentos de gobernanza corporativa**
+como divulgación pública de las prácticas de gobernanza, en consonancia con la National
+Policy 58-201 *Corporate Governance Guidelines*[^1] y los requisitos de divulgación conexos
+del National Instrument 58-101.[^2] Estos instrumentos fundacionales estructuran el consejo
+de administración, definen las responsabilidades de los comités del consejo y establecen
+las políticas que rigen la relación entre el consejo, la dirección y los accionistas.
 
 ## Mandato del consejo
 

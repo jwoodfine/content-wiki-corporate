@@ -23,7 +23,7 @@ see_also:
   - direct-hold-framework
 ---
 
-The Perpetual Equity Model describes the investment framework applied to [[investment-units|investment units]] in named real assets. Under this model, equity is held indefinitely without a fixed redemption horizon, maturity date, or mandatory exit event.
+Under the Perpetual Equity Model, [[investment-units|investment units]] in named real assets carry no fixed redemption horizon, maturity date, or mandatory exit event: equity is held indefinitely.
 
 Positions transfer over-the-counter to any eligible counterparty rather than being redeemed by the issuing entity. This structure eliminates redemption queues and liquidity reserves while allowing equity to compound over an indefinite holding period. See [[redemption-elimination|Redemption Elimination]] for the structural rationale.
 

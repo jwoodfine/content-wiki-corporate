@@ -16,8 +16,8 @@ editor: woodfine-editorial
 paired_with: about-insider-reporting.es.md
 ---
 
-Insider reporting is the obligation of directors, officers, and significant shareholders of a
-[[regulated-reporting-entity|reporting issuer]] to disclose their ownership of and transactions in the issuer's securities to
+Directors, officers, and significant shareholders of a
+[[regulated-reporting-entity|reporting issuer]] must disclose their ownership of and transactions in the issuer's securities to
 regulators and to the public on a timely basis. In Canada, this obligation is governed primarily
 by National Instrument 55-104 *Insider Reporting Requirements and Exemptions*, which consolidated
 and modernised the insider reporting regime that previously operated under individual provincial

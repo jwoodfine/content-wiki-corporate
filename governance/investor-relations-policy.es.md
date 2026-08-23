@@ -16,8 +16,8 @@ editor: woodfine-editorial
 paired_with: investor-relations-policy.md
 ---
 
-Una política de relaciones con inversionistas es el documento de gobernanza interna a través
-del cual un [[regulated-reporting-entity|emisor reportante]] regula el flujo de información entre la organización y la
+La política de relaciones con inversionistas regula el flujo de información entre un
+[[regulated-reporting-entity|emisor reportante]] y la
 comunidad inversora: analistas, accionistas institucionales, inversionistas individuales y
 medios financieros. La política no crea obligaciones de divulgación que no estén ya establecidas
 por la legislación de valores aplicable; más bien, pone en operación esas obligaciones, designa

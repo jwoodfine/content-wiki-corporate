@@ -20,7 +20,7 @@ paired_with: four-jurisdiction-framework.es.md
 cites: []
 ---
 
-The **Four-Jurisdiction Framework** describes the deployment architecture of the Woodfine Capital Projects Inc. [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] platform. Woodfine Capital Projects Inc. (WCP) is offering for sale Investment Units in Professional Centres Canada LP, the established Direct-Hold Solution, and plans to establish three further Direct-Hold Solutions in the United States, Spain, and Mexico, each constituted under the laws of its jurisdiction and each using the flow-through investment vehicle that jurisdiction's laws make available.
+Woodfine Capital Projects Inc. (WCP) is offering for sale Investment Units in Professional Centres Canada LP, the established Direct-Hold Solution, and plans to establish three further Direct-Hold Solutions in the United States, Spain, and Mexico — each constituted under the laws of its jurisdiction, each using the flow-through investment vehicle that jurisdiction's laws make available. The **Four-Jurisdiction Framework** describes this deployment architecture of the WCP [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] platform.
 
 **⚠️ Correction (2026-08-02) — NOT resolved, needs operator/counsel decision, not a
 unilateral fix:** this "is offering for sale" / "freely transferable" present-tense

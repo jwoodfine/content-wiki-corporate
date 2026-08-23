@@ -20,7 +20,7 @@ paired_with: regulated-reporting-entity.md
 cites: []
 ---
 
-Una **Entidad Regulada Emisora de Información** es el término puente transfronterizo que Woodfine Capital Projects Inc. (WCP), como promotor, aplica a cada una de sus cuatro [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]]. La designación describe un vehículo de inversión que presenta [[about-disclosure-obligations|divulgación pública continua]] ante su regulador de valores soberano, cumple con requisitos de informes continuos obligatorios y pone su registro de divulgación a disposición del público, independientemente de si sus valores de capital cotizan o se negocian en bolsa.
+Woodfine Capital Projects Inc. (WCP), como promotor, aplica el término puente transfronterizo **Entidad Regulada Emisora de Información** a cada una de sus cuatro [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]]. La designación describe un vehículo de inversión que presenta [[about-disclosure-obligations|divulgación pública continua]] ante su regulador de valores soberano, cumple con requisitos de informes continuos obligatorios y pone su registro de divulgación a disposición del público, independientemente de si sus valores de capital cotizan o se negocian en bolsa.
 
 ## El problema de la Fractura Jurisdiccional
 

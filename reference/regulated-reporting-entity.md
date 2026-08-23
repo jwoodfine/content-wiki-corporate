@@ -20,7 +20,7 @@ paired_with: regulated-reporting-entity.es.md
 cites: []
 ---
 
-A **Regulated Reporting Entity** is the cross-border bridge term Woodfine Capital Projects Inc. (WCP), as promoter, applies to each of its four [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]]. The designation describes an investment vehicle that files [[about-disclosure-obligations|continuous public disclosure]] with its sovereign securities regulator, meets mandatory ongoing reporting requirements, and makes its disclosure record publicly available — irrespective of whether its equity is exchange-listed or exchange-traded.
+Woodfine Capital Projects Inc. (WCP), as promoter, applies the cross-border bridge term **Regulated Reporting Entity** to each of its four [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]]. The designation describes an investment vehicle that files [[about-disclosure-obligations|continuous public disclosure]] with its sovereign securities regulator, meets mandatory ongoing reporting requirements, and makes its disclosure record publicly available — irrespective of whether its equity is exchange-listed or exchange-traded.
 
 ## The Jurisdictional Fracture problem
 

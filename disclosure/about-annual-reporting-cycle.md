@@ -15,13 +15,13 @@ references:
     text: "OSC Staff Notice 51-721 — Financial Reporting Standards. OSC, 2013."
 ---
 
-**[[about-disclosure-obligations|NI 51-102 Continuous Disclosure Obligations]]** is the National Instrument promulgated by
-the Canadian Securities Administrators that establishes the ongoing disclosure requirements
-applicable to [[regulated-reporting-entity|reporting issuers]] in Canada.[^1] The annual reporting cycle under NI 51-102
-requires a reporting issuer to file three primary disclosure documents within 90 days of its
+A reporting issuer must file three primary disclosure documents within 90 days of its
 fiscal year-end: audited annual [[about-financial-reporting|financial statements]] prepared in accordance with IFRS as
 adopted in Canada, an Annual Information Form (AIF, Form 51-102F2), and an annual
-Management's Discussion and Analysis (MD&A).
+Management's Discussion and Analysis (MD&A). This annual reporting cycle is established by
+**[[about-disclosure-obligations|NI 51-102 Continuous Disclosure Obligations]]**, the National Instrument promulgated by
+the Canadian Securities Administrators that establishes the ongoing disclosure requirements
+applicable to [[regulated-reporting-entity|reporting issuers]] in Canada.[^1]
 
 ## Annual financial statements
 

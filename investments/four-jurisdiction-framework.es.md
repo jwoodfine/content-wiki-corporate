@@ -20,7 +20,7 @@ paired_with: four-jurisdiction-framework.md
 cites: []
 ---
 
-El **Marco de Cuatro Jurisdicciones** describe la arquitectura de despliegue de la plataforma de [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] de Woodfine Capital Projects Inc. (WCP). WCP ofrece Unidades de Inversión en Professional Centres Canada LP, la Direct-Hold Solution ya establecida, y tiene previsto establecer tres Direct-Hold Solutions adicionales en Estados Unidos, España y México, cada una constituida bajo las leyes de su jurisdicción y cada una utilizando el vehículo de inversión de flujo directo que las leyes de esa jurisdicción permiten.
+Woodfine Capital Projects Inc. (WCP) ofrece Unidades de Inversión en Professional Centres Canada LP, la Direct-Hold Solution ya establecida, y tiene previsto establecer tres Direct-Hold Solutions adicionales en Estados Unidos, España y México — cada una constituida bajo las leyes de su jurisdicción, cada una utilizando el vehículo de inversión de flujo directo que las leyes de esa jurisdicción permiten. El **Marco de Cuatro Jurisdicciones** describe esta arquitectura de despliegue de la plataforma de [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] de WCP.
 
 **⚠️ Corrección (2026-08-02) — NO resuelta, requiere decisión del operador/asesoría
 legal, no una corrección unilateral:** este lenguaje en tiempo presente «ofrece para

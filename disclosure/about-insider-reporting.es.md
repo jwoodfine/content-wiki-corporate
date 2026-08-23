@@ -16,8 +16,8 @@ editor: woodfine-editorial
 paired_with: about-insider-reporting.md
 ---
 
-El reporte de iniciados es la obligación de los directores, funcionarios y accionistas
-significativos de un [[regulated-reporting-entity|emisor reportante]] de revelar su titularidad de valores y sus transacciones
+Los directores, funcionarios y accionistas
+significativos de un [[regulated-reporting-entity|emisor reportante]] deben revelar su titularidad de valores y sus transacciones
 en dichos valores a los reguladores y al público de manera oportuna. En Canadá, esta obligación
 está regida principalmente por el Instrumento Nacional 55-104 *Requisitos y Exenciones de
 Reporte de Iniciados*, que consolidó y modernizó el régimen de reporte de iniciados que

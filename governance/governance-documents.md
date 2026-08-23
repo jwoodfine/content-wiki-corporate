@@ -16,13 +16,12 @@ references:
     url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/58-101"
 ---
 
-**Corporate governance documents** are the foundational instruments through which Woodfine
-Capital Projects Inc. structures its board of directors, defines the responsibilities of board
-committees, and establishes the policies that govern the relationship between the board,
-management, and shareholders. These documents are published here as public disclosure of
-governance practices, consistent with National Policy 58-201 *Corporate Governance
-Guidelines*[^1] and the related disclosure requirements under National Instrument
-58-101.[^2]
+Woodfine Capital Projects Inc. publishes its **corporate governance documents** here as
+public disclosure of governance practices, consistent with National Policy 58-201
+*Corporate Governance Guidelines*[^1] and the related disclosure requirements under
+National Instrument 58-101.[^2] These foundational instruments structure the board of
+directors, define the responsibilities of board committees, and establish the policies
+that govern the relationship between the board, management, and shareholders.
 
 ## Board mandate
 
