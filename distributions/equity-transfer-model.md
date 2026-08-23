@@ -6,6 +6,7 @@ aliases:
   - topic-equity-transfer-model
 short_description: "Over-the-counter transfer mechanism that allows investors to exit their position directly to eligible counterparties, without requiring a liquidity pool or corporate buyback."
 category: distributions
+index_group: exit-and-transfer
 type: reference
 content_type: topic
 quality: complete

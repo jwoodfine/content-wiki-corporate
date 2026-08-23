@@ -5,6 +5,7 @@ slug: redemption-elimination
 aliases:
   - topic-redemption-elimination
 category: distributions
+index_group: exit-and-transfer
 type: reference
 content_type: topic
 quality: complete

@@ -5,6 +5,7 @@ slug: equity-transfer-model
 aliases:
   - topic-equity-transfer-model
 category: distributions
+index_group: exit-and-transfer
 type: reference
 content_type: topic
 quality: complete

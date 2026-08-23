@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Distribution declaration mechanics"
 slug: distribution-declaration-mechanics
 category: distributions
+index_group: distribution-policy-and-mechanics
 type: topic
 content_type: topic
 quality: complete

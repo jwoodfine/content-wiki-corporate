@@ -5,6 +5,7 @@ slug: perpetual-equity-model
 aliases:
   - topic-perpetual-equity-model
 category: distributions
+index_group: exit-and-transfer
 type: topic
 content_type: topic
 status: active

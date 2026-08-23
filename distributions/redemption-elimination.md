@@ -6,6 +6,7 @@ aliases:
   - topic-redemption-elimination
 short_description: "Structural elimination of investor redemption rights, removing the cash-reserve drag and run-mechanics risk inherent to pooled real estate vehicles."
 category: distributions
+index_group: exit-and-transfer
 type: reference
 content_type: topic
 quality: complete
