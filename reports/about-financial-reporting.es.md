@@ -1,4 +1,5 @@
 ---
+schema: foundry-doc-v1
 title: "Información Financiera"
 slug: about-financial-reporting
 category: reports
@@ -72,7 +73,9 @@ Cada solución de tenencia directa presenta sus propios estados financieros anua
 formulario de información anual y MD&A de forma independiente; no se consolidan en los
 estados financieros de WCP.
 
-WCP aplica el tratamiento contable de entidad de inversión conforme a la NIIF 10.27: su
+WCP aplica el tratamiento contable de entidad de inversión conforme a la excepción de
+consolidación de la NIIF 10.31–33 (la NIIF 10.27 establece los criterios de definición de
+entidad de inversión que califican a una entidad para dicha excepción): su
 participación en cada solución de tenencia directa se mide al valor razonable con cambios en
 resultados, en lugar de consolidarse línea por línea en los estados financieros de WCP. Se
 emiten certificados T5013 a los tenedores de participaciones de sociedad en comandita de
