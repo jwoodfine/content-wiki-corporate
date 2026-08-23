@@ -1,60 +1,51 @@
 ---
+schema: foundry-doc-v1
 title: "Events and presentations"
 slug: events-presentations
 category: reports
 last_edited: 2026-07-11
 editor: woodfine-editorial
 status: stable
-short_description: "Record of shareholder meetings, investor presentations, and industry conference appearances, with archived materials and advance notice of forthcoming events where available."
+short_description: "Planned record of shareholder meetings, investor presentations, and industry conference appearances, with archived materials and advance notice of forthcoming events once this program is in place."
 ---
 
-**Events and presentations** is the record of Woodfine Capital Projects Inc.'s scheduled
-engagement with shareholders, the investor community, and the professional organisations
-active in the company's operating domains. This section archives materials from formal
-shareholder meetings, investor presentations, and conference appearances, and provides advance
-notice of forthcoming events where available.
+**Events and presentations** is intended to be the record of Woodfine Capital Projects Inc.'s
+scheduled engagement with shareholders, the investor community, and the professional
+organisations active in the company's operating domains. This section is designed to archive
+materials from formal shareholder meetings, investor presentations, and conference appearances,
+and to provide advance notice of forthcoming events once each of these practices is in place.
 
 ## Annual general meeting
 
-**Correction (2026-08-02):** this whole article describes AGMs, investor
-presentations, and conference participation in unqualified present tense, as
-established ongoing practice — but its own sibling articles
-([[about-continuous-disclosure]], [[about-regulatory-posture]]) state WCP "intends
-to become subject to the full continuous-disclosure regime upon effectiveness of
-its planned prospectus offering," and [[about-regulatory-posture]] states this
-wiki's own house rule explicitly: materials describing not-yet-in-place activities
-"carry qualifying language: 'planned', 'intended', 'may', 'target', 'expected.'"
-This article violates that stated rule throughout. **Flagged, not resolved.**
+Once Woodfine Capital Projects Inc. is subject to the full continuous-disclosure regime, an
+annual general meeting (AGM) of shareholders is intended to be held each year, typically in the
+second quarter following the fiscal year end. The AGM is designed to give shareholders the
+opportunity to elect the board of directors, appoint the external auditor, and vote on other
+matters requiring shareholder approval, and to give the board and management the opportunity to
+discuss the company's performance during the prior year and present the strategic priorities for
+the period ahead.
 
-The annual general meeting (AGM) of shareholders is held each year, typically in the second
-quarter following the fiscal year end. The AGM provides shareholders with the opportunity to
-elect the board of directors, appoint the external auditor, and vote on other matters requiring
-shareholder approval. The AGM also gives the board and management the opportunity to discuss
-the company's performance during the prior year and present the strategic priorities for the
-period ahead.
-
-Notice of meeting, proxy circular, and any other materials required for the AGM are distributed
-to registered and beneficial shareholders in advance of the meeting and are filed on SEDAR+.
-For shareholders unable to attend in person, remote participation options and proxy voting
-mechanisms are provided in the meeting notice.
+Notice of meeting, proxy circular, and any other materials required for the AGM would be
+distributed to registered and beneficial shareholders in advance of the meeting and filed on
+SEDAR+. Remote participation options and proxy voting mechanisms would be provided in the
+meeting notice for shareholders unable to attend in person.
 
 ## Investor presentations
 
-From time to time, the company publishes investor presentations providing a high-level overview
-of the company's business, strategy, and financial position for the benefit of institutional
-and retail investors. These presentations are developed in accordance with the company's
-continuous disclosure obligations; material non-public information is not included in investor
-presentations.
+The company intends to publish investor presentations from time to time, providing a high-level
+overview of its business, strategy, and financial position for the benefit of institutional and
+retail investors. These presentations would be developed in accordance with the company's
+continuous disclosure obligations; material non-public information would not be included.
 
-Investor presentations are filed on SEDAR+ as required and reproduced here for accessibility.
-All forward-looking statements in presentations carry the standard forward-looking statement
-disclaimer.
+Investor presentations would be filed on SEDAR+ as required and reproduced here for
+accessibility. Any forward-looking statements in presentations would carry the standard
+forward-looking statement disclaimer.
 
 ## Industry conferences
 
-The company participates in industry conferences and forums relevant to its operating domains,
-including real property, urban intelligence, and technology. Presentation materials and,
-where available, recordings from conference appearances are archived here.
+The company intends to participate in industry conferences and forums relevant to its operating
+domains, including real property, urban intelligence, and technology. Presentation materials
+and, where available, recordings from conference appearances would be archived here.
 
 ## Events and presentations archive
 
