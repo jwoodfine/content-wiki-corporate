@@ -30,9 +30,9 @@ declaraciones prospectivas aparecen en todo este wiki dondequiera que una estruc
 proceso descrito aún no se haya establecido, aún no haya ocurrido, o dependa de condiciones que
 aún no se han cumplido —por ejemplo, la constitución de las Soluciones de Tenencia Directa
 planeadas en Estados Unidos, España y México, descritas en [[four-jurisdiction-framework|Marco de Cuatro
-Jurisdicciones]]. Una declaración de hecho presente —que Professional Centres Canada LP existe y
-presenta divulgación continua en SEDAR+, por ejemplo— no es una declaración prospectiva, y este
-aviso no la califica.
+Jurisdicciones]]. Una declaración de hecho presente —que Woodfine Capital Projects Inc. es la empresa matriz de
+la estructura de Soluciones de Tenencia Directa, por ejemplo— no es una declaración prospectiva,
+y este aviso no la califica.
 
 ## Las palabras señal utilizadas en este wiki
 
