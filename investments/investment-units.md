@@ -22,24 +22,13 @@ see_also:
   - topic-property-ledger-technology
 ---
 
-Investment units are the equity units issued by each direct-hold vehicle within MCorp's [[topic-direct-hold-framework|Direct-Hold]] framework. Each investment unit represents a proportional interest in the specific direct-hold vehicle — not a share in a pooled fund or a proportional claim on a portfolio of properties.
+Investment units are the equity units issued by each direct-hold vehicle within Woodfine Capital Projects Inc.'s (WCP) [[topic-direct-hold-framework|Direct-Hold]] framework, as promoter. Each investment unit represents a proportional interest in the specific direct-hold vehicle — not a share in a pooled fund or a proportional claim on a portfolio of properties.
 
-**Correction (2026-08-02, verified against [[corporate-glossary]]; extended
-2026-08-04):** two issues. (1) The Direct-Hold framework belongs to Woodfine Capital
-Projects Inc. (WCP) as promoter, not MCorp — MCorp is "not the general partner,
-administrator, or governing body of any Direct-Hold vehicle." (2) The "Transfer
-rights" section below describes free transferability as a structural design common
-to the framework as a class. Only the Canada vehicle (Woodfine Professional Centres
-Limited Partnership) is currently established; it is currently subject to an active
-BCSC cease-trade order, under which units are not currently freely transferable. Any
-other vehicle's units would be planned, not yet established. **Flagged, not
-resolved.**
-
-Units are registered through the partnership's book-entry system and are transferable to willing counterparties subject to the restrictions set out in the applicable partnership agreement. The [[topic-perpetual-equity-model|Perpetual Equity Model]] governs the holding horizon for these units.
+Units are registered through the partnership's book-entry system and are designed to be transferable to willing counterparties subject to the restrictions set out in the applicable partnership agreement; the established Canada vehicle's units are not currently freely transferable, because the partnership is subject to an active BCSC cease-trade order. The [[topic-perpetual-equity-model|Perpetual Equity Model]] governs the holding horizon for these units.
 
 ## Overview
 
-Investment units are asset-specific instruments. A unit issued in one named property carries no claim on, and confers no exposure to, any other property in the MCorp holding structure. This isolation is structural: it derives from the Direct-Hold framework rather than from contractual representation. An investor holding units in three separate assets holds three separate positions with three separate ledgers, three separate operating statements, and three separate distribution entitlements.
+Investment units are asset-specific instruments. A unit issued in one named property carries no claim on, and confers no exposure to, any other property in the WCP holding structure. This isolation is structural: it derives from the Direct-Hold framework rather than from contractual representation. An investor holding units in three separate assets holds three separate positions with three separate ledgers, three separate operating statements, and three separate distribution entitlements.
 
 ## Denomination and Issuance
 
@@ -53,7 +42,7 @@ Each investment unit in a named asset carries three categories of rights.
 
 **Economic rights.** Unit holders receive a proportional share of distributions declared for the relevant asset. Distributions, when declared, are paid in proportion to outstanding unit counts; no unit within the same asset carries a preferential distribution right over another.
 
-**Transfer rights.** Units are freely transferable to any eligible counterparty. Transfers are recorded in the property ledger in the sequence received by the vehicle's governing body, which is contractually obligated to admit an eligible transferee — declining only on a short, enumerated list of grounds — rather than exercising open-ended approval discretion; other unit holders have no approval role. The transferee acquires the full economic and information rights of the transferor upon ledger settlement.
+**Transfer rights.** Units are designed to be freely transferable to any eligible counterparty (the established Canada vehicle's units are not currently freely transferable, because of the active BCSC cease-trade order noted above). Transfers are recorded in the property ledger in the sequence received by the vehicle's governing body, which is contractually obligated to admit an eligible transferee — declining only on a short, enumerated list of grounds — rather than exercising open-ended approval discretion; other unit holders have no approval role. The transferee acquires the full economic and information rights of the transferor upon ledger settlement.
 
 **Information rights.** Unit holders in a named asset receive periodic operating statements for that asset, including revenue, operating expenses, and the current interest coverage ratio. Information is asset-specific and does not extend to other properties in the corporate holding structure.
 

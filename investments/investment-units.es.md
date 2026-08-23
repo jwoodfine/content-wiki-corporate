@@ -22,25 +22,13 @@ see_also:
   - topic-property-ledger-technology
 ---
 
-Las unidades de inversión son las participaciones emitidas por cada vehículo de tenencia directa dentro del marco de [[topic-direct-hold-framework|Tenencia Directa]] de MCorp. Cada unidad de inversión representa un interés proporcional en el vehículo de tenencia directa específico, no una participación en un fondo mancomunado ni una participación proporcional en una cartera de propiedades.
+Las unidades de inversión son las participaciones emitidas por cada vehículo de tenencia directa dentro del marco de [[topic-direct-hold-framework|Tenencia Directa]] de Woodfine Capital Projects Inc. (WCP), como promotor. Cada unidad de inversión representa un interés proporcional en el vehículo de tenencia directa específico, no una participación en un fondo mancomunado ni una participación proporcional en una cartera de propiedades.
 
-**Corrección (2026-08-02, verificado contra [[corporate-glossary]]; ampliada
-2026-08-04):** dos cuestiones. (1) El marco de Tenencia Directa pertenece a
-Woodfine Capital Projects Inc. (WCP) como promotor, no a MCorp — MCorp «no es el
-socio general, administrador ni órgano de gobierno de ningún vehículo de Tenencia
-Directa». (2) La sección «Derechos de transferencia» más abajo describe la libre
-transmisibilidad como un diseño estructural común al marco como clase. Solo el
-vehículo de Canadá (Woodfine Professional Centres Limited Partnership) está
-actualmente constituido; se encuentra sujeto a una orden de suspensión de
-negociación vigente de la BCSC, bajo la cual las unidades no son actualmente
-libremente transferibles. Las unidades de cualquier otro vehículo estarían
-planificadas, aún no constituidas. **Señalado, no resuelto.**
-
-Las unidades se registran a través del sistema de registro en cuenta del vehículo emisor y son transferibles a contrapartes dispuestas conforme a las restricciones establecidas en el acuerdo rector del vehículo correspondiente. El [[topic-perpetual-equity-model|Modelo de Capital Perpetuo]] rige el horizonte de tenencia de estas unidades.
+Las unidades se registran a través del sistema de registro en cuenta del vehículo emisor y están diseñadas para ser transferibles a contrapartes dispuestas conforme a las restricciones establecidas en el acuerdo rector del vehículo correspondiente; las unidades del vehículo de Canadá ya constituido no son actualmente libremente transferibles, debido a la orden de suspensión de negociación vigente de la BCSC. El [[topic-perpetual-equity-model|Modelo de Capital Perpetuo]] rige el horizonte de tenencia de estas unidades.
 
 ## Resumen
 
-Las unidades de inversión son instrumentos específicos de cada activo. Una unidad emitida en una propiedad nombrada no comporta ningún derecho ni genera exposición a ninguna otra propiedad dentro de la estructura de tenencia de MCorp. Este aislamiento es estructural: deriva del marco de Tenencia Directa, no de representaciones contractuales. Un inversor que mantiene unidades en tres activos distintos tiene tres posiciones separadas con tres libros contables, tres estados operativos y tres derechos de distribución independientes.
+Las unidades de inversión son instrumentos específicos de cada activo. Una unidad emitida en una propiedad nombrada no comporta ningún derecho ni genera exposición a ninguna otra propiedad dentro de la estructura de tenencia de WCP. Este aislamiento es estructural: deriva del marco de Tenencia Directa, no de representaciones contractuales. Un inversor que mantiene unidades en tres activos distintos tiene tres posiciones separadas con tres libros contables, tres estados operativos y tres derechos de distribución independientes.
 
 ## Denominación y emisión
 
