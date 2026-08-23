@@ -46,6 +46,8 @@ The promoter's equity interest in each jurisdiction is held by a separate compan
 
 Woodfine Advisors Inc., a wholly owned subsidiary of WCP, provides procurement, development, and management services to the Canadian partnership.
 
+Legal title to each property is held by a separate WCP Titleco nominee company, beneficially owned by the applicable Direct-Hold vehicle.
+
 ## The vehicle layer
 
 | Direct-Hold Solution | Legal form and jurisdiction | Status | Governing entity | Promoter-equity company |

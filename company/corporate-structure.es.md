@@ -68,6 +68,10 @@ definido.
 Woodfine Advisors Inc., subsidiaria de propiedad total de WCP, presta servicios de
 adquisición, desarrollo y gestión a la sociedad canadiense.
 
+El título legal de cada propiedad lo mantiene una sociedad nominataria WCP Titleco
+separada, cuyo beneficiario efectivo es el vehículo de Tenencia Directa
+correspondiente.
+
 ## La capa de vehículos
 
 | Solución de Tenencia Directa | Forma legal y jurisdicción | Estatus | Entidad de gobierno | Sociedad de participación del promotor |
