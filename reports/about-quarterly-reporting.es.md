@@ -1,4 +1,5 @@
 ---
+schema: foundry-doc-v1
 title: "Presentación de Informes Trimestrales"
 slug: about-quarterly-reporting
 category: reports

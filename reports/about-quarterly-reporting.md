@@ -1,4 +1,5 @@
 ---
+schema: foundry-doc-v1
 title: "Quarterly reporting"
 slug: about-quarterly-reporting
 category: reports
