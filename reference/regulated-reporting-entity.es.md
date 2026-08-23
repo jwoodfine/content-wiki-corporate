@@ -82,3 +82,9 @@ resuelta, escalada a Command.
 ## Equivalencia de estatus de inversor
 
 El estatus de Inversor Calificado presenta variaciones equivalentes entre jurisdicciones. En Canadá y Estados Unidos, la designación relevante es [[accredited-investor-eligibility|Inversor Acreditado]]. En España, el equivalente es Inversor Cualificado. En México, la categoría aplicable es Gran Público Inversionista. El término puente global utilizado en las cuatro jurisdicciones es **Inversor Calificado**, que capta el umbral compartido: un inversor sofisticado que cumple los criterios de elegibilidad de su jurisdicción soberana para participar en vehículos de inversión no minoristas.
+
+## Consulte también
+
+- [[global-investment-terminology]] — el vocabulario puente global completo al que pertenece este término
+- [[about-filing-systems]] — las plataformas de presentación aquí nombradas, en detalle
+- [[accredited-investor-eligibility]] — la designación de Inversor Calificado de Canadá y Estados Unidos

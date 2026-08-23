@@ -146,6 +146,12 @@ public disclosure of the same information. The policy principles established to 
 disclosure standards are consistent with and in most respects more conservative than the
 requirements of Regulation FD.
 
+## See also
+
+- [[governance-documents]] — the governing documents that establish the obligations this policy implements
+- [[forward-looking-statements-advisory]] — the advisory that governs forward-looking language in public communications
+- [[material-contracts]] — where investors can find and request the contracts disclosed under NI 51-102
+
 ---
 
 *references:*

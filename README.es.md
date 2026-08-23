@@ -11,7 +11,7 @@
 
 ---
 
-## Sobre Este Repositorio
+## Sobre este repositorio
 
 Esta es la biblioteca pública de gobernanza y arquitectura financiera del grupo Woodfine. Documenta la lógica estructural del marco de inversión de Tenencia Directa — el modelo financiero que Woodfine utiliza para desarrollar, gestionar y mantener bienes raíces comerciales con certificación ambiental en América del Norte y Europa.
 
@@ -37,7 +37,7 @@ Woodfine no opera fondos de inversión. Opera Soluciones de Tenencia Directa —
 
 ---
 
-## Estructura de Gobernanza
+## Estructura de gobernanza
 
 Woodfine Capital Projects Inc. (WCP) es la matriz, promotora y desarrolladora. Cada Solución de Tenencia Directa está gobernada por el órgano que exige su forma legal: Woodfine Professional Centres Inc. (subsidiaria de WCP) como socio general en Canadá; un socio general de Delaware, un Consejo de Administración español y un Administrador mexicano con Comité Técnico para los tres vehículos planificados. Woodfine Management Corp. (MCorp) es una subsidiaria separada de WCP que contrata consultores externos y realiza tareas delegadas por otras subsidiarias; no es socio general, administrador ni órgano de gobierno de ningún vehículo.
 

@@ -50,3 +50,9 @@ Las tarifas variables de gestión son reemplazadas por una única contribución 
 ## Preservación de tarifas para gestores de activos independientes
 
 La estructura de tarifas de las Direct-Hold Solutions está diseñada para que la única contribución fija a los gastos generales permanezca completamente disponible para compensar a los Gestores de Activos independientes que orquestan los Vehículos de Propósito Especial externos a través de los cuales los inversores internacionales acceden a la plataforma. El término "tarifas preservadas" se refiere a la contribución a los gastos generales que está disponible para los Gestores de Activos independientes después de que se satisface el costo fijo de los gastos generales del desarrollador. Dado que la compensación del desarrollador se toma como capital en lugar de tarifas de efectivo adicionales, la contribución a los gastos generales representa una extracción de tarifas total menor del flujo de ingresos del vehículo que la que representaría una comisión de gestión convencional.
+
+## Consulte también
+
+- [[narrow-bank-financial-model]] — el modelo financiero dentro del cual opera la estructura de tarifas
+- [[investment-units]] — la mecánica de unidades detrás de la base de tarifas sobre el Valor Financiado Bruto
+- [[tripartite-management-structure]] — la estructura de gestión cuya pata de Gestores de Activos independientes compensa el fondo de tarifas preservadas

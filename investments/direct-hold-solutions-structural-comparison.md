@@ -90,3 +90,9 @@ Four features appear only in the Direct-Hold Solutions column:
 | Woodfine Tech Industrial Building | 4 km | 2 stalls per 1,000 sq ft |
 
 No other structure in the comparison set imposes a comparable capital deployment constraint through its governing documents: Legacy Joint Ventures are project-specific, Private Equity funds have investment mandates that are manager-discretion, and Traditional REITs operate under broad asset class definitions.
+
+## See also
+
+- [[direct-hold-framework]] — the framework the comparison set is measured against
+- [[four-jurisdiction-framework]] — where each Direct-Hold Solution is established or planned, by jurisdiction
+- [[limited-partnership-structure]] — the legal form of the Canada and United States vehicles

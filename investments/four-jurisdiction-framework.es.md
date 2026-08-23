@@ -81,3 +81,9 @@ La FIBRA de México es una FIBRA Privada: sus CBFIs no están cotizados y se neg
 Cada una de las cuatro Direct-Hold Solutions cuenta con su propio instrumento rector, específico para la forma jurídica de su jurisdicción: un acuerdo de sociedad en Canadá y Estados Unidos, estatutos sociales en España, y un contrato fiduciario en México. Estos instrumentos son autosimilares en su contenido: la misma disciplina de inversión y la misma mecánica de Unidades de Inversión, entregadas a través de la forma legal que exige cada jurisdicción.
 
 El despliegue de las cuatro jurisdicciones no está previsto que ocurra simultáneamente. La Professional Centres Canada LP es el modelo operativo. Los vehículos de Estados Unidos, España y México son Direct-Hold Solutions planificadas, previstas para constituirse a medida que avanzan los procesos de captación de capital y registro regulatorio en cada jurisdicción.
+
+## Consulte también
+
+- [[professional-centres-canada-lp-structure]] — el vehículo de Canadá ya constituido, en detalle
+- [[direct-hold-solutions-structural-comparison]] — cómo se comparan las Direct-Hold Solutions con joint ventures, fondos de capital privado y REITs
+- [[global-investment-terminology]] — el vocabulario transfronterizo utilizado en las cuatro jurisdicciones

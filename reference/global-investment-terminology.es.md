@@ -90,3 +90,9 @@ Pública No Cotizada como descripción de una SOCIMI podría concluir que el veh
 incumple la ley española, ya que una SOCIMI no puede gozar de exención fiscal a menos que
 sea Cotizada. Los Términos Puente Globales están diseñados para evitar esa clase de mala
 interpretación en el primer punto de contacto.
+
+## Consulte también
+
+- [[regulated-reporting-entity]] — el término puente global para vehículos con obligaciones de divulgación, en detalle
+- [[canadian-securities-terminology]] — el vocabulario específico de Canadá desde el cual se mapean los términos puente
+- [[four-jurisdiction-framework]] — los cuatro vehículos que describe el vocabulario puente

@@ -72,3 +72,9 @@ Seis características aparecen tanto en los REIT Tradicionales como en las Direc
 | Woodfine Tech Industrial Building | 4 km | 2 cajones por 1,000 pies² |
 
 Ninguna otra estructura del conjunto comparativo impone una restricción comparable de despliegue de capital a través de sus documentos de gobernanza.
+
+## Consulte también
+
+- [[direct-hold-framework]] — el marco frente al cual se mide el conjunto comparativo
+- [[four-jurisdiction-framework]] — dónde está constituida o planificada cada Direct-Hold Solution, por jurisdicción
+- [[limited-partnership-structure]] — la forma jurídica de los vehículos de Canadá y Estados Unidos

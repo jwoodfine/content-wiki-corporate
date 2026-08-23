@@ -58,3 +58,9 @@ The fee structure of the Direct-Hold Solutions is designed so that the single fi
 ### Preserved fee pool
 
 The term "preserved fees" refers to the overhead contribution that is available to independent Asset Managers after the developer's fixed overhead cost is satisfied. Because the developer's compensation is taken as equity rather than as additional cash fees, the overhead contribution represents a smaller total fee extraction from the vehicle's income than a conventional management fee would represent. The preserved portion is deliberately retained as a resource for the independent managers who serve the international and institutional investor segments of the capital structure.
+
+## See also
+
+- [[narrow-bank-financial-model]] — the financial model the fee structure operates within
+- [[investment-units]] — the unit mechanics behind the Gross Funded Value fee base
+- [[tripartite-management-structure]] — the management structure whose independent Asset Manager leg the preserved fee pool compensates

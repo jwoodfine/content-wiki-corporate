@@ -82,3 +82,9 @@ unresolved contradiction, escalated to Command.
 ## Investor status equivalence
 
 Qualified Investor status carries equivalent variations across jurisdictions. In Canada and the United States, the relevant designation is [[accredited-investor-eligibility|Accredited Investor]]. In Spain, the equivalent is Inversor Cualificado. In Mexico, the applicable category is Gran Público Inversionista. The global bridge term used across all four jurisdictions is **Qualified Investor**, which captures the shared threshold: a sophisticated investor meeting the eligibility criteria of their sovereign jurisdiction for participation in non-retail investment vehicles.
+
+## See also
+
+- [[global-investment-terminology]] — the full global bridge vocabulary this term belongs to
+- [[about-filing-systems]] — the filing platforms named here, in detail
+- [[accredited-investor-eligibility]] — the Canada and United States Qualified Investor designation

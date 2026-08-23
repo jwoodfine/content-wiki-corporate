@@ -90,3 +90,9 @@ Each of the four Direct-Hold Solutions has its own governing instrument, specifi
 This approach eliminates the need for the investor to develop jurisdiction-specific investment frameworks for each of Canada, the United States, Spain, and Mexico. The governance characteristics of the Professional Centres Canada LP — continuous disclosure, audited financials, freely transferable units, exchange-qualified debt — are intended to be replicated in each of the three planned vehicles, subject only to the adjustments required by local securities law.
 
 The four-jurisdiction deployment is not planned to occur simultaneously. The Professional Centres Canada LP is the operating model. The United States, Spain, and Mexico vehicles are planned Direct-Hold Solutions, intended to be formed as the capital raise and regulatory registration processes in each jurisdiction progress.
+
+## See also
+
+- [[professional-centres-canada-lp-structure]] — the established Canada vehicle in detail
+- [[direct-hold-solutions-structural-comparison]] — how the Direct-Hold Solutions compare with joint ventures, private equity funds, and REITs
+- [[global-investment-terminology]] — the cross-border vocabulary used across the four jurisdictions

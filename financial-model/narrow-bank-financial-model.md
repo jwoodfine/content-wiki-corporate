@@ -58,3 +58,9 @@ The Narrow Bank Financial Model has several structural consequences that disting
 **No corporate debt.** The First Secured Mortgage Debentures are obligations of the investment vehicle, fully secured by the physical buildings. There is no operating company borrowing facility, no revolving credit line, and no unsecured corporate debt. If a debenture goes into default, the underlying real estate asset resolves the obligation. The remaining portfolio continues operating unaffected.
 
 **Capital call prohibition.** The ring-fencing of all debt to the underlying physical assets means that losses on any individual debenture — including in a foreclosure scenario — cannot produce a capital call on investors in the investment vehicle. Investors' exposure is limited to the equity they have contributed; they cannot be required to contribute additional capital to cover debt obligations.
+
+## See also
+
+- [[debt-service-and-financing-structure]] — the debenture terms and coverage mechanics the model governs
+- [[cre-financial-metrics|Interest Coverage Ratio]] — the coverage covenant at the centre of the model
+- [[sensitivity-and-stress-test-methodology]] — how the model's coverage assumptions are stress-tested

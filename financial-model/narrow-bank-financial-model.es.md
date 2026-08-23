@@ -52,3 +52,9 @@ A medida que la cartera entra en su fase de gestión estabilizada, una parte def
 **Sin deuda corporativa.** Las Obligaciones con Primera Hipoteca Garantizada son obligaciones del vehículo de inversión, totalmente garantizadas por los edificios físicos. No hay facilidad de endeudamiento de empresa operativa, línea de crédito revolvente ni deuda corporativa no garantizada.
 
 **Prohibición de llamadas de capital.** La delimitación de toda la deuda a los activos físicos subyacentes significa que las pérdidas en cualquier obligación individual no pueden producir una llamada de capital a los inversores del vehículo de inversión.
+
+## Consulte también
+
+- [[debt-service-and-financing-structure]] — los términos de las obligaciones y la mecánica de cobertura que el modelo rige
+- [[cre-financial-metrics|Ratio de Cobertura de Intereses]] — el covenant de cobertura en el centro del modelo
+- [[sensitivity-and-stress-test-methodology]] — cómo se someten a pruebas de estrés los supuestos de cobertura del modelo

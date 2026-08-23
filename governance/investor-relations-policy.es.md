@@ -133,6 +133,12 @@ amplia de la misma información. Los principios de política establecidos para c
 estándares de divulgación canadienses son coherentes con y en la mayoría de los aspectos más
 conservadores que los requisitos de la Regulation FD.
 
+## Consulte también
+
+- [[governance-documents]] — los documentos rectores que establecen las obligaciones que esta política implementa
+- [[forward-looking-statements-advisory]] — el aviso que rige el lenguaje prospectivo en las comunicaciones públicas
+- [[material-contracts]] — dónde los inversores pueden encontrar y solicitar los contratos divulgados bajo la NI 51-102
+
 ---
 
 *referencias:*

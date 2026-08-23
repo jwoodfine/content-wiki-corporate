@@ -75,3 +75,9 @@ The Global Bridge Term framework is applied consistently across Woodfine's inves
 ### Jurisdictional Fracture as disclosure risk
 
 The objective of the framework is to prevent a description that is legally accurate in one jurisdiction from creating a false or misleading impression in another. Jurisdictional Fracture is a disclosure risk, not merely a translation inconvenience: a Spanish investor who reads Public Non-Listed as a description of a SOCIMI may conclude the vehicle is non-compliant under Spanish law, because a SOCIMI cannot be tax-exempt unless it is Cotizada. The Global Bridge Terms are designed to avoid that class of misreading at the point of first contact.
+
+## See also
+
+- [[regulated-reporting-entity]] — the global bridge term for disclosure-obligated vehicles, in detail
+- [[canadian-securities-terminology]] — the Canada-specific vocabulary the bridge terms map from
+- [[four-jurisdiction-framework]] — the four vehicles the bridge vocabulary describes
