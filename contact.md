@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 content_type: page
 title: "Contact"
 slug: contact
-category: governance
+category: root
 short_description: "Contact information for MCorp editorial and institutional enquiries."
 status: active
 last_edited: 2026-05-17

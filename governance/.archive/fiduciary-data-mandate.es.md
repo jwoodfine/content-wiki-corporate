@@ -9,7 +9,10 @@ index_group: data-custody
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Retirado — indicaba mecánicas específicas no verificables como hechos (infraestructura autoalojada, custodia de claves privadas, consentimiento criptográfico) sin rastro de fuente a ningún documento. Revisión de integridad Track-B, 2026-08-24."
+superseded_by: none
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC

@@ -1,19 +1,23 @@
 ---
 schema: foundry-doc-v1
-title: "Canada reporting overview"
-slug: canada-reporting-overview
-category: reports-canada
+title: "Canada"
+slug: canada-disclosure
+aliases:
+  - canada-reporting-overview
+  - canada-filings
+category: disclosure
+index_group: vehicle-disclosure
 type: topic
 content_type: topic
 quality: complete
-short_description: "Reporting overview for Professional Centres Canada LP: financial statements, filings, valuations, and distribution records published to this shelf."
+short_description: "What Professional Centres Canada LP publishes to this page."
 status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
-paired_with: canada-reporting-overview.es.md
+paired_with: canada-disclosure.es.md
 ---
 
 Professional Centres Canada LP is the established Direct-Hold Solution in the [[four-jurisdiction-framework|Four-Jurisdiction

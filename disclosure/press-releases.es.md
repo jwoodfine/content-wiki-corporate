@@ -2,7 +2,8 @@
 schema: foundry-doc-v1
 title: "Comunicados de prensa e informes de cambios materiales"
 slug: press-releases
-category: reports
+category: disclosure
+index_group: company-communications
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable

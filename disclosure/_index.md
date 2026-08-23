@@ -1,26 +1,67 @@
 ---
 schema: foundry-doc-v1
-title: "Reports — Woodfine Capital Projects"
-slug: reports-index
-category: reports
+title: "How Disclosure Works"
+slug: disclosure-index
+category: disclosure
 type: topic
 content_type: topic
 quality: complete
-short_description: "The parent company's paper trail: annual and quarterly financial statements, management's discussion, filings, press releases, and events — plus a plain guide to how public reporting works."
+short_description: "What disclosure means for Woodfine and each Direct-Hold Solution, explained in plain language — plus a page per entity for whatever it publishes once it exists and begins disclosing."
+index_type: thematic
+index_scope: disclosure
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: _index.es.md
 ---
 
-Reports — Woodfine Capital Projects is the parent company's paper trail: annual and quarterly
-financial statements, management's discussion, regulatory filings, press releases, and investor
-events. The category opens with a plain-language "about" band explaining how public reporting
-works — the annual cycle, quarterly reporting, filing systems, material change and insider
-reporting, and how valuations are performed — before the document indexes themselves.
+How Disclosure Works explains what continuous disclosure means for a reporting issuer, in plain language, and gathers what each entity has published, or will publish once it exists.
 
-Each Direct-Hold Solution keeps its own reports shelf, listed separately, following the same
-layout as this one: financial statements, management's discussion, filings, valuations and
-appraisals, and distribution records.
+<!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card
+     (reuses the existing cluster-card--start-here component). Do not add more than one. -->
+
+**Start here:** [[about-continuous-disclosure|Continuous Disclosure and Wiki Publication]]
+
+<!-- END-START-HERE-HIGHLIGHT -->
+
+## How disclosure works
+
+Plain-language explainers of what continuous disclosure means and how it works.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: how-disclosure-works -->
+- [[about-continuous-disclosure]] — NI 51-102 reporting requirements applicable to Woodfine Capital Projects Inc., including annual information form, MD&A, material change reports, and OSC SN 51-721 electronic filing.
+- [[about-disclosure-obligations]] — The ongoing disclosure obligations of a reporting issuer under NI 51-102: annual financial statements, annual information form, interim statements, MD&A, and material change reports.
+- [[about-regulatory-posture]] — Woodfine Capital Projects Inc.'s disclosure posture ahead of its planned prospectus offering.
+- [[about-annual-reporting-cycle]] — Annual disclosure obligations of a Canadian reporting issuer: audited IFRS financial statements, Annual Information Form, and MD&A due within 90 days of fiscal year-end.
+- [[about-quarterly-reporting]] — Interim reporting under NI 51-102: condensed IAS 34 financial statements and quarterly MD&A due within 45 days of each of the first three fiscal quarter-ends.
+- [[about-financial-reporting]] — Periodic financial disclosures Woodfine Capital Projects Inc. intends to file as a reporting issuer under NI 51-102 upon effectiveness of its planned prospectus offering.
+- [[about-material-change-reporting]] — The mechanics of material change reporting under NI 51-102 Part 7: what constitutes a material change, the two-step press release plus MCR filing process, and the standard for timely disclosure.
+- [[about-insider-reporting]] — The mechanics of insider reporting under National Instrument 55-104: who qualifies as a reporting insider, what transactions trigger a filing obligation, the SEDI electronic filing system, and the ten- and five-day windows within which initial and subsequent reports must be filed.
+- [[about-filing-systems]] — Filing platform operated by the CSA for public dissemination of continuous disclosure documents, covering document categories, XBRL format rules, and NI 52-109 certification.
+<!-- END AUTO-GENERATED -->
+
+## Company communications
+
+Planned channels for real-time and periodic communications, once in place.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: company-communications -->
+- [[press-releases]] — Planned real-time disclosure channel for material changes: immediate press release, Form 51-102F3 filing on SEDAR+ within ten days, and forward-looking statement standards.
+- [[events-presentations]] — Planned record of shareholder meetings, investor presentations, and industry conference appearances, with archived materials and advance notice of forthcoming events once this program is in place.
+<!-- END AUTO-GENERATED -->
+
+## Vehicle disclosure
+
+One page per Direct-Hold Solution, for what it publishes once it exists.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: vehicle-disclosure -->
+- [[canada-disclosure|Canada]] — What Professional Centres Canada LP publishes to this page.
+- [[united-states-disclosure|United States]] — What Professional Centres United States LP will publish to this page, once established.
+- [[spain-disclosure|Spain]] — What Professional Centres Spain SOCIMI will publish to this page, once established.
+- [[mexico-disclosure|Mexico]] — What Professional Centres Mexico FIBRA will publish to this page, once established.
+<!-- END AUTO-GENERATED -->
+
+## See also
+
+- [[four-jurisdiction-framework|Four-Jurisdiction Framework]]

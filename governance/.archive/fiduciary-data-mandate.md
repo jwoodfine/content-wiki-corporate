@@ -10,7 +10,10 @@ index_group: data-custody
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Retracted — stated specific unverifiable mechanics as fact (self-hosted infrastructure, private-key custody, cryptographic consent) with no citation trail to any source document. Track-B integrity review, 2026-08-24."
+superseded_by: none
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC

@@ -10,7 +10,10 @@ index_group: data-custody
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Retirado — indicaba mecánicas específicas no verificables como hechos (división de procesador/controlador de datos bajo el acuerdo de servicios tecnológicos, obligaciones de formato de portabilidad) sin rastro de fuente a ningún documento. Revisión de integridad Track-B, 2026-08-24."
+superseded_by: none
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES

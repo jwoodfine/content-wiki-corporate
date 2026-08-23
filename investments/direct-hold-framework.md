@@ -20,7 +20,7 @@ paired_with: direct-hold-framework.es.md
 cites: []
 ---
 
-The Direct-Hold framework is a legal ownership structure under which each investor holds equity units in a single named direct-hold vehicle rather than a proportional claim on a commingled pool. Each direct-hold structure is constituted as an independent legal and financial unit, so a financial event affecting one cannot propagate to an investor's equity position in another. This article describes the framework's legal structure, the isolation mechanism, [[topic-equity-transfer-model|transfer and liquidity terms]] between investors, the [[topic-fiduciary-data-mandate|fiduciary data obligations]] that protect ledger integrity, and the interest coverage discipline applied per structure.
+The Direct-Hold framework is a legal ownership structure under which each investor holds equity units in a single named direct-hold vehicle rather than a proportional claim on a commingled pool. Each direct-hold structure is constituted as an independent legal and financial unit, so a financial event affecting one cannot propagate to an investor's equity position in another. This article describes the framework's legal structure, the isolation mechanism, [[equity-transfer-model|transfer and liquidity terms]] between investors, and the interest coverage discipline applied per structure.
 
 The framework issues structure-specific equity: each investor holds equity units in a single named direct-hold vehicle, not a share in a commingled fund.
 
@@ -46,21 +46,19 @@ The isolation is a property of the architecture rather than of a contractual pro
 
 ## Transfer and liquidity
 
-Equity transfers in the Direct-Hold model execute between private parties. There is no [[topic-redemption-elimination|redemption queue]], no liquidity window managed by the corporate entity, and no pooled cash reserve held to satisfy redemption requests.
+Equity transfers in the Direct-Hold model execute between private parties. There is no [[redemption-elimination|redemption queue]], no liquidity window managed by the corporate entity, and no pooled cash reserve held to satisfy redemption requests.
 
 An investor who wishes to exit locates a willing counterparty directly; the enterprise does not intermediate the process. The structure carries no pooled redemption obligation, so no asset is sold under pressure to fund another investor's exit.
 
 ## Governance
 
-In each direct-hold vehicle, the general partner holds management authority over the vehicle and its single named property. Investor governance rights — as limited partners or equivalent unit holders — apply at the asset level rather than across a pooled portfolio: decisions pertain to the specific property in the vehicle, not to a collection of assets managed at the fund level. The [[topic-perpetual-equity-model|perpetual equity model]] applies these mechanisms to [[topic-investment-units|investment units]] held without a fixed redemption horizon.
-
-## See also
-
-- [[topic-equity-transfer-model|Equity Transfer Model]] — how ownership interests in Direct-Hold assets change hands
-- [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] — data governance requirements for the property ledger
-- Interest Coverage Ratio — the debt-management constraint applied per asset
-- [[topic-redemption-elimination|Redemption Elimination]] — why no redemption queue exists in this structure
+In each direct-hold vehicle, the general partner holds management authority over the vehicle and its single named property. Investor governance rights — as limited partners or equivalent unit holders — apply at the asset level rather than across a pooled portfolio: decisions pertain to the specific property in the vehicle, not to a collection of assets managed at the fund level. The [[perpetual-equity-model|perpetual equity model]] applies these mechanisms to [[investment-units|investment units]] held without a fixed redemption horizon.
 
 ## The bottom line
 
 The Direct-Hold framework replaces the commingled fund with asset-specific equity: each investor holds units in a vehicle constituted around a single named property, with legal title held by a separate WCP Titleco nominee company, rather than participating in a pooled vehicle. Because every asset is its own legal and financial unit, isolation is a property of the architecture and cross-asset contagion cannot occur, so an investor evaluating one asset's risk need not model the rest of a portfolio. With transfers executing directly between private parties, the structure carries no pooled redemption obligation and no fund-manager discretion over an investor's capital.
+
+## See also
+
+- [[equity-transfer-model|Equity Transfer Model]] — how ownership interests in Direct-Hold assets change hands
+- [[redemption-elimination|Redemption Elimination]] — why no redemption queue exists in this structure

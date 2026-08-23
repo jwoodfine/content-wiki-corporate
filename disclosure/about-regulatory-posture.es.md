@@ -3,7 +3,8 @@ schema: foundry-doc-v1
 title: "Postura Regulatoria"
 slug: about-regulatory-posture
 short_description: "Woodfine Capital Projects Inc. aplica una postura de divulgación continua alineada con el NI 51-102 y el Aviso del Personal de la OSC 51-721 con carácter previo a su oferta pública planificada; todos los materiales públicos se tratan como revisables bajo este régimen."
-category: reports
+category: disclosure
+index_group: how-disclosure-works
 type: reference
 content_type: topic
 quality: complete
@@ -17,7 +18,7 @@ paired_with: about-regulatory-posture.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. y sus subsidiarias — incluidas las entidades descritas en la [[topic-corporate-structure|estructura corporativa]] — aplican una postura de divulgación continua alineada con el marco regulatorio de valores canadiense con carácter previo a sus respectivas ofertas públicas planificadas. Los materiales publicados en corporate.woodfinegroup.com se tratan como divulgación públicamente disponible y son revisables en virtud de las [[about-continuous-disclosure|obligaciones de divulgación continua]] del Instrumento Nacional 51-102 y el Aviso del Personal de la OSC 51-721. El régimen cubre las adquisiciones de activos colocadas bajo el [[topic-direct-hold-framework|Marco de Tenencia Directa]] y los [[topic-fiduciary-data-mandate|datos fiduciarios]] mantenidos por el órgano de gobierno de cada vehículo como custodio.
+Woodfine Capital Projects Inc. y sus subsidiarias — incluidas las entidades descritas en la [[corporate-structure|estructura corporativa]] — aplican una postura de divulgación continua alineada con el marco regulatorio de valores canadiense con carácter previo a sus respectivas ofertas públicas planificadas. Los materiales publicados en corporate.woodfinegroup.com se tratan como divulgación públicamente disponible y son revisables en virtud de las [[about-continuous-disclosure|obligaciones de divulgación continua]] del Instrumento Nacional 51-102 y el Aviso del Personal de la OSC 51-721. El régimen cubre las adquisiciones de activos colocadas bajo el [[direct-hold-framework|Marco de Tenencia Directa]] y los registros mantenidos por el órgano de gobierno de cada vehículo como custodio.
 
 ## Puntos clave
 
@@ -54,5 +55,5 @@ Woodfine Capital Projects Inc. aplica una postura de divulgación continua —tr
 ## Véase también
 
 - [[about-continuous-disclosure|Obligaciones de Divulgación Continua]] — los requisitos específicos de reporte del NI 51-102 y el calendario de presentación
-- [[topic-direct-hold-framework|Marco de Tenencia Directa]] — la estructura de propiedad de activos sujeta a estas obligaciones de divulgación
-- [[topic-corporate-structure|Estructura Corporativa]] — las entidades legales dentro del grupo Woodfine
+- [[direct-hold-framework|Marco de Tenencia Directa]] — la estructura de propiedad de activos sujeta a estas obligaciones de divulgación
+- [[corporate-structure|Estructura Corporativa]] — las entidades legales dentro del grupo Woodfine

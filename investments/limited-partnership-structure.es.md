@@ -31,8 +31,7 @@ obligaciones de todas las partes.
   hacia los socios comanditarios; estos son inversores pasivos con derechos económicos pero
   sin autoridad de gestión.
 - Los ingresos y pérdidas fluyen a través de la sociedad en comandita a los socios en
-  proporción a sus participaciones; los socios reciben formularios T5013 con su participación
-  proporcional en los ingresos y pérdidas de la sociedad para cada año fiscal.
+  proporción a sus participaciones; la sociedad misma no paga impuesto sobre la renta.
 
 ## La forma jurídica de sociedad en comandita
 
@@ -54,18 +53,17 @@ enumerada de motivos por los cuales el socio general puede rechazar una transfer
 específica, y los procedimientos de gobernanza para las decisiones fundamentales.
 
 Las disposiciones de transferencia del acuerdo implementan el
-[[equity-transfer-model|modelo de transferencia de participaciones]]: los socios
-comanditarios pueden transferir sus participaciones a cualquier contraparte elegible,
-sujeto únicamente al cumplimiento de las exenciones aplicables de la legislación de valores
-y a las declaraciones de elegibilidad que haga cada cesionario. El socio general solo puede
-rechazar una transferencia específica cuando el asesor legal opine que violaría la
-legislación de valores u otra legislación aplicable, o cuando el socio general considere que
-esas declaraciones son falsas — de lo contrario, está contractualmente obligado a admitir al
-cesionario y actualiza el registro de participaciones para reflejar la transferencia. Un
-mecanismo separado y más limitado puede exigir que un tenedor se desprenda de sus
+[[equity-transfer-model|modelo de transferencia de participaciones]]: el socio general
+admite a cualquier cesionario como socio comanditario, sujeto a que el cesionario complete
+la documentación de transferencia requerida y las declaraciones establecidas en el acuerdo
+de sociedad. Si el socio general toma conocimiento de que los titulares beneficiarios del
+45% o más de las participaciones en circulación son, o podrían ser, instituciones
+financieras, tiene el derecho de negarse a emitir o registrar una transferencia de
+participaciones a una persona a menos que esa persona confirme que no es una institución
+financiera. Un mecanismo separado puede exigir que un tenedor se desprenda de sus
 participaciones si su estatus generara consecuencias fiscales adversas para la sociedad, y
 una adquisición que supere el 20% de las participaciones en circulación activa un requisito
-de oferta obligatoria en lugar de una transferencia ordinaria.
+de oferta obligatoria de Take Over Bid en lugar de una transferencia ordinaria.
 
 ## Mecanismo de dispensa y modificación de convenios
 
@@ -86,15 +84,15 @@ otra modificación fundamental a los documentos rectores de la sociedad.
 
 Cada socio comanditario mantiene una cuenta de capital dentro de la sociedad. La cuenta
 se ajusta cada año fiscal por la parte proporcional del socio en los ingresos o pérdidas
-de la sociedad y por cualquier distribución recibida. El formulario T5013 emitido a cada
-socio al final del año fiscal incluye la información necesaria para completar el seguimiento
-de la cuenta de capital.
+de la sociedad y por cualquier distribución recibida.
 
 ## Tratamiento fiscal de transferencia
 
 Una sociedad en comandita no es una entidad sujeta a impuestos a efectos del impuesto sobre
 la renta canadiense. Los ingresos y pérdidas de la sociedad se transfieren a los socios y se
-gravan a nivel de los socios en proporción a las participaciones de cada uno.
+gravan a nivel de los socios en proporción a las participaciones de cada uno. El tratamiento
+fiscal de cualquier pérdida de la sociedad depende de las circunstancias particulares de cada
+inversor y es un asunto para el asesor fiscal calificado.
 
 ## Estado de emisor informante
 

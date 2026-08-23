@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 content_type: page
 title: "Acerca de Esta Wiki"
 slug: about
-category: governance
+category: root
 short_description: "Propósito, alcance y estándares editoriales de la wiki de referencia corporativa de Woodfine."
 status: active
 language_protocol: TRANSLATE-ES
@@ -13,9 +13,9 @@ paired_with: about.md
 ---
 
 Esta wiki es la referencia corporativa de las arquitecturas jurídicas, modelos económicos y
-protocolos de cumplimiento fiduciario del grupo Woodfine — incluido el
-[[topic-direct-hold-framework|Marco de Tenencia Directa]], el [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]]
-y la [[topic-corporate-structure|estructura corporativa]] de Woodfine Capital Projects Inc. y sus subsidiarias. Es
+obligaciones de divulgación del grupo Woodfine — incluido el
+[[direct-hold-framework|Marco de Tenencia Directa]]
+y la [[corporate-structure|estructura corporativa]] de Woodfine Capital Projects Inc. y sus subsidiarias. Es
 mantenida por MCorp, que puede contratar consultores externos y proveedores de servicios bajo su supervisión
 para hacerlo, y está destinada a profesionales de finanzas institucionales:
 banqueros de inversión, gestores de activos, directores de cartera y auditores que revisen

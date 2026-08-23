@@ -38,7 +38,7 @@ This encyclopedia is organized around [the parent company itself](/category/comp
 [the investment vehicles](/category/investments), [the financial model
 behind them](/category/financial-model), [distributions and unit transfers](/category/distributions),
 [governance and legal structure](/category/governance), [risk factors](/category/risks),
-[regulatory reports](/category/reports), and reference terminology. The investments
+[how disclosure works](/category/disclosure), and reference terminology. The investments
 section covers the four direct-hold vehicle types, the equity transfer model, and the
 fiduciary mandate in detail.
 

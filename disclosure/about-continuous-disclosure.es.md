@@ -3,7 +3,8 @@ schema: foundry-doc-v1
 title: "Divulgación Continua y Publicación en el Wiki"
 slug: about-continuous-disclosure
 short_description: "Requisitos de reporte del NI 51-102 aplicables a Woodfine Capital Projects Inc., incluyendo el formulario de información anual, el MD&A, los informes de cambios materiales y la presentación electrónica bajo el Aviso del Personal OSC 51-721."
-category: reports
+category: disclosure
+index_group: how-disclosure-works
 type: reference
 content_type: topic
 quality: complete
@@ -17,7 +18,7 @@ paired_with: about-continuous-disclosure.md
 cites: []
 ---
 
-El Instrumento Nacional 51-102 (Obligaciones de Divulgación Continua) establece los requisitos de reporte periódico y basado en eventos para los emisores reportantes en Canadá. Woodfine Capital Projects Inc. tiene previsto quedar sujeta al régimen completo de divulgación continua bajo este instrumento al perfeccionarse su oferta pública planificada, incluyendo depósitos anuales, reportes trimestrales y obligaciones por cambios materiales. Cada sociedad limitada de tenencia directa que ha completado una oferta de prospecto es en sí misma un emisor reportante independiente, con obligaciones propias del NI 51-102 presentadas en SEDAR+. El régimen se aplica por lo tanto a múltiples entidades dentro del grupo Woodfine —cada una presentando de forma independiente— y rige las divulgaciones relativas a los activos de [[topic-direct-hold-framework|Tenencia Directa]] y a los [[topic-fiduciary-data-mandate|datos fiduciarios]] bajo custodia del órgano de gobierno de cada vehículo.
+El Instrumento Nacional 51-102 (Obligaciones de Divulgación Continua) establece los requisitos de reporte periódico y basado en eventos para los emisores reportantes en Canadá. Woodfine Capital Projects Inc. tiene previsto quedar sujeta al régimen completo de divulgación continua bajo este instrumento al perfeccionarse su oferta pública planificada, incluyendo depósitos anuales, reportes trimestrales y obligaciones por cambios materiales. Cada sociedad limitada de tenencia directa que ha completado una oferta de prospecto es en sí misma un emisor reportante independiente, con obligaciones propias del NI 51-102 presentadas en SEDAR+. El régimen se aplica por lo tanto a múltiples entidades dentro del grupo Woodfine —cada una presentando de forma independiente— y rige las divulgaciones relativas a los activos de [[direct-hold-framework|Tenencia Directa]] bajo custodia del órgano de gobierno de cada vehículo.
 
 ## Puntos clave
 

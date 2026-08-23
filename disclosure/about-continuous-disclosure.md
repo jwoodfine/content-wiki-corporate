@@ -3,7 +3,8 @@ schema: foundry-doc-v1
 title: "Continuous disclosure and wiki publication"
 slug: about-continuous-disclosure
 short_description: "NI 51-102 reporting requirements applicable to Woodfine Capital Projects Inc., including annual information form, MD&A, material change reports, and OSC SN 51-721 electronic filing."
-category: reports
+category: disclosure
+index_group: how-disclosure-works
 type: reference
 content_type: topic
 quality: complete
@@ -17,7 +18,7 @@ paired_with: about-continuous-disclosure.es.md
 cites: []
 ---
 
-National Instrument 51-102 (Continuous Disclosure Obligations) establishes the periodic and event-driven reporting requirements for reporting issuers in Canada. Woodfine Capital Projects Inc. intends to become subject to the full continuous-disclosure regime under this instrument upon effectiveness of its planned prospectus offering, including annual filings, quarterly reporting, and material change obligations. Each direct-hold limited partnership that has completed a prospectus offering is itself a separate reporting issuer, with independent NI 51-102 obligations filed on SEDAR+. The regime therefore applies to multiple entities within the Woodfine group — each filing separately — and governs disclosures pertaining to [[topic-direct-hold-framework|Direct-Hold]] assets and the [[topic-fiduciary-data-mandate|fiduciary data]] held under each vehicle's governing-body custody.
+National Instrument 51-102 (Continuous Disclosure Obligations) establishes the periodic and event-driven reporting requirements for reporting issuers in Canada. Woodfine Capital Projects Inc. intends to become subject to the full continuous-disclosure regime under this instrument upon effectiveness of its planned prospectus offering, including annual filings, quarterly reporting, and material change obligations. Each direct-hold limited partnership that has completed a prospectus offering is itself a separate reporting issuer, with independent NI 51-102 obligations filed on SEDAR+. The regime therefore applies to multiple entities within the Woodfine group — each filing separately — and governs disclosures pertaining to [[direct-hold-framework|Direct-Hold]] assets held under each vehicle's governing-body custody.
 
 ## Key takeaways
 

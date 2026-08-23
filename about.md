@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 content_type: page
 title: "About this wiki"
 slug: about
-category: governance
+category: root
 short_description: "Purpose, scope, and editorial standards of the Woodfine Corporate reference wiki."
 status: active
 last_edited: 2026-07-11
@@ -11,8 +11,8 @@ editor: pointsav-engineering
 ---
 
 This wiki is the corporate reference for the Woodfine group's legal architectures,
-economic models, and fiduciary compliance protocols — including the [[topic-direct-hold-framework|Direct-Hold framework]],
-the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]], and the [[topic-corporate-structure|corporate structure]]
+economic models, and disclosure obligations — including the [[direct-hold-framework|Direct-Hold framework]]
+and the [[corporate-structure|corporate structure]]
 of Woodfine Capital Projects Inc. and its subsidiaries. It is maintained by MCorp, which may engage
 third-party contractors and service providers under its oversight to do so, and is intended
 for institutional finance professionals — investment bankers, asset managers, portfolio managers,

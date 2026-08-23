@@ -4,7 +4,8 @@ title: "Informes de Cambios Materiales"
 slug: about-material-change-reporting
 aliases:
   - material-change-press-release-protocol
-category: reports
+category: disclosure
+index_group: how-disclosure-works
 type: topic
 content_type: topic
 quality: complete

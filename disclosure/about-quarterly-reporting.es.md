@@ -2,7 +2,8 @@
 schema: foundry-doc-v1
 title: "Presentación de Informes Trimestrales"
 slug: about-quarterly-reporting
-category: reports
+category: disclosure
+index_group: how-disclosure-works
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable

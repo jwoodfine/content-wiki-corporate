@@ -6,7 +6,7 @@ category: governance
 type: topic
 content_type: topic
 quality: complete
-short_description: "Postura regulatoria, obligaciones de divulgación continua y requisitos fiduciarios que rigen la inversión inmobiliaria de tenencia directa en Canadá, Estados Unidos, España y México."
+short_description: "Postura regulatoria, obligaciones de divulgación continua y requisitos de gobernanza del consejo que rigen la inversión inmobiliaria de tenencia directa en Canadá, Estados Unidos, España y México."
 index_type: thematic
 index_scope: governance
 status: active
@@ -18,7 +18,7 @@ paired_with: governance/_index.md
 ---
 
 Gobernanza abarca los instrumentos del consejo y de la administración, las obligaciones
-de divulgación, los derechos del inversor, y el marco de custodia de datos.
+de divulgación, y los derechos del inversor.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card
      (reuses the existing cluster-card--start-here component). Do not add more than one. -->
@@ -48,15 +48,6 @@ Obligaciones de divulgación y derechos del inversor.
 - [[material-contracts]] — Divulgación de contratos materiales.
 - [[legal-proceedings]] — Divulgación de procedimientos legales.
 - [[experts]] — Divulgación de expertos nombrados.
-<!-- END AUTO-GENERATED -->
-
-## Custodia de datos
-
-El marco de custodia aplicado a los registros que respaldan cada posición.
-
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: data-custody -->
-- [[fiduciary-data-mandate]] — El requisito de custodia del hardware del registro y las claves criptográficas.
-- [[data-governance]] — El marco de custodia de datos de cada vehículo de Tenencia Directa.
 <!-- END AUTO-GENERATED -->
 
 ## Consulte también

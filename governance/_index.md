@@ -6,7 +6,7 @@ category: governance
 type: topic
 content_type: topic
 quality: complete
-short_description: "Regulatory posture, continuous disclosure obligations, and fiduciary requirements governing direct-hold real estate investment in Canada, the United States, Spain, and Mexico."
+short_description: "Regulatory posture, continuous disclosure obligations, and board governance requirements for direct-hold real estate investment in Canada, the United States, Spain, and Mexico."
 index_type: thematic
 index_scope: governance
 status: active
@@ -17,8 +17,8 @@ editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-Governance covers the board and management instruments, disclosure obligations, investor
-rights, and the data custody framework.
+Governance covers the board and management instruments, disclosure obligations, and investor
+rights.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card
      (reuses the existing cluster-card--start-here component). Do not add more than one. -->
@@ -48,15 +48,6 @@ Disclosure obligations and investor rights.
 - [[material-contracts]] — Material contracts disclosure.
 - [[legal-proceedings]] — Legal proceedings disclosure.
 - [[experts]] — Named experts disclosure.
-<!-- END AUTO-GENERATED -->
-
-## Data custody
-
-The custody framework applied to the records behind each position.
-
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: data-custody -->
-- [[fiduciary-data-mandate]] — The custody requirement for ledger hardware and cryptographic keys.
-- [[data-governance]] — Each Direct-Hold vehicle's data custody framework.
 <!-- END AUTO-GENERATED -->
 
 ## See also

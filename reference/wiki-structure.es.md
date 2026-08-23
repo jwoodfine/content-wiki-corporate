@@ -66,25 +66,12 @@ término técnico enlaza con el glosario.
 6. **Riesgos** — qué podría salir mal, expuesto con claridad y reunido
    en un solo lugar.
 
-## El rastro documental
+## Cómo funciona la divulgación
 
-Cada empresa que informa tiene su propia sección de Informes, y cada
-sección sigue el mismo esquema: estados financieros anuales, estados
-financieros trimestrales, análisis de la dirección, presentaciones
-regulatorias, valoraciones y tasaciones, y registros de distribuciones.
-Aprenda una y las habrá aprendido todas.
-
-- **Informes — Woodfine Capital Projects** (la empresa matriz; también
-  incluye comunicados de prensa y eventos para inversores, y una guía
-  sencilla sobre cómo funciona la información pública)
-- **Informes — Direct-Hold Solution Canada**
-- **Informes — Direct-Hold Solution United States**
-- **Informes — Direct-Hold Solution Spain**
-- **Informes — Direct-Hold Solution Mexico**
-
-Cada sección abre con el perfil de la empresa: su forma jurídica, país
-de origen, regulador, sistema de presentación, auditor y cierre de
-ejercicio.
+**Cómo Funciona la Divulgación** explica, en lenguaje claro, qué significa la divulgación
+para un emisor que reporta y cómo se aplica a la empresa matriz, además de una página para
+cada Solución de Tenencia Directa: Canadá, Estados Unidos, España y México. Solo Canadá
+está establecida; las otras tres páginas permanecen vacías hasta que su vehículo exista.
 
 ## El Newsroom
 

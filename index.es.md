@@ -42,7 +42,7 @@ Esta enciclopedia está organizada en torno a [la empresa matriz](/category/comp
 [los vehículos de inversión](/category/investments), [el modelo
 financiero que los sustenta](/category/financial-model), [las distribuciones y transferencias
 de unidades](/category/distributions), [la gobernanza y la estructura legal](/category/governance),
-[los factores de riesgo](/category/risks), [los informes regulatorios](/category/reports) y la
+[los factores de riesgo](/category/risks), [cómo funciona la divulgación](/category/disclosure) y la
 terminología de referencia.
 
 Las declaraciones prospectivas en esta enciclopedia reflejan las intenciones actuales y están

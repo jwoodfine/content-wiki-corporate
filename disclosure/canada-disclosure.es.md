@@ -1,19 +1,23 @@
 ---
 schema: foundry-doc-v1
-title: "Panorama de Reporte de Canadá"
-slug: canada-reporting-overview
-category: reports-canada
+title: "Canadá"
+slug: canada-disclosure
+aliases:
+  - canada-reporting-overview
+  - canada-filings
+category: disclosure
+index_group: vehicle-disclosure
 type: topic
 content_type: topic
 quality: complete
-short_description: "Panorama de reporte de Professional Centres Canada LP: estados financieros, presentaciones, valuaciones y registros de distribución publicados en este espacio."
+short_description: "Lo que Professional Centres Canada LP publica en esta página."
 status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
-paired_with: canada-reporting-overview.md
+paired_with: canada-disclosure.md
 ---
 
 Professional Centres Canada LP es la Solución de Tenencia Directa ya establecida dentro del

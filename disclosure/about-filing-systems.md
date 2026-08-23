@@ -2,7 +2,8 @@
 schema: foundry-doc-v1
 title: "Filing systems"
 slug: about-filing-systems
-category: reports
+category: disclosure
+index_group: how-disclosure-works
 last_edited: 2026-07-11
 editor: woodfine-editorial
 status: stable

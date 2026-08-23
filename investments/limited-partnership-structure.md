@@ -33,9 +33,7 @@ corporate subsidiary structure.
   the limited partners; the limited partners are passive investors with economic rights but
   no management authority.
 - Income and loss flow through the limited partnership to the partners in proportion to their
-  unit holdings; the partnership itself does not pay income tax, and partners receive T5013
-  information slips for their proportional share of partnership income and loss for each
-  fiscal year.
+  unit holdings; the partnership itself does not pay income tax.
 
 ## The limited partnership form
 
@@ -62,15 +60,15 @@ subject to a short, enumerated list of grounds on which the general partner may 
 specific transfer, and the governance procedures for material decisions.
 
 The transfer provisions of the agreement implement the [[equity-transfer-model|equity transfer model]]:
-limited partners may transfer their units to any eligible counterparty, subject only to
-compliance with applicable securities law exemptions and the eligibility representations
-each transferee makes. The general partner may decline a specific transfer only where counsel
-opines it would violate securities or other law, or where the general partner believes those
-representations are untrue — otherwise it is contractually obligated to admit the transferee,
-and it updates the unit register to record the transfer. A separate, narrower mechanism can
-require a holder to divest if their status would create adverse tax consequences for the
-partnership, and an acquisition crossing 20% of outstanding units triggers a mandatory-offer
-requirement rather than an ordinary transfer.
+the general partner admits any transferee as a limited partner, subject to the transferee
+completing the required transfer documentation and the representations set out in the
+partnership agreement. If the general partner becomes aware that beneficial owners of 45%
+or more of the outstanding units are, or may be, financial institutions, it has the right
+to refuse to issue or register a transfer of units to a person unless that person confirms
+it is not a financial institution. A separate mechanism can require a holder to divest if
+their status would create adverse tax consequences for the partnership, and an acquisition
+crossing 20% of outstanding units triggers a Take Over Bid mandatory-offer requirement
+rather than an ordinary transfer.
 
 ## Covenant waiver and amendment mechanics
 
@@ -93,24 +91,12 @@ account is adjusted each fiscal year for the partner's proportional share of par
 income or loss (per the allocation provisions of the partnership agreement) and for any
 distributions received.
 
-The capital account rollforward — tracking changes from opening to closing — is the primary
-tool for computing each partner's adjusted cost base for income tax purposes. The T5013 slip
-issued to each partner at the end of the fiscal year includes the information required to
-complete the capital account rollforward in the partner's personal or corporate tax return.
-
 ## Pass-through income treatment
 
 A limited partnership is not a taxable entity for Canadian income tax purposes. The income
 and loss of the partnership pass through to the partners and are taxed at the partner level
-in proportion to each partner's unit holdings. This treatment avoids the corporate-level
-tax on operating income that applies in a corporate subsidiary structure, and allows
-investors to use their proportional share of partnership losses (if any) against other
-income to the extent permitted by applicable tax legislation.
-
-Passive losses from a limited partnership — in excess of passive income allocated from the
-same partnership — are generally restricted under the Income Tax Act's at-risk rules; the
-specific application depends on each investor's circumstances and is a matter for qualified
-tax counsel.
+in proportion to each partner's unit holdings. The tax treatment of any partnership loss
+depends on each investor's own circumstances and is a matter for qualified tax counsel.
 
 ## Reporting issuer status
 

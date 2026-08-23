@@ -79,50 +79,14 @@ categories:
     audience: "Everyone; lawyer, diligence team"
     order: 6
 
-  - id: reports
-    name: "Reports — Woodfine Capital Projects"
+  - id: disclosure
+    name: "How Disclosure Works"
     scope: >-
-      The parent company's paper trail: annual and quarterly financial
-      statements, management's discussion, filings, press releases, and
-      events — plus a plain guide to how public reporting works.
+      What disclosure means for Woodfine and each Direct-Hold Solution,
+      explained in plain language — plus a page per entity for whatever
+      it publishes once it exists and begins disclosing.
     audience: "All readers — entity-specific"
     order: 7
-
-  - id: reports-canada
-    name: "Reports — Direct-Hold Solution Canada"
-    scope: >-
-      Every report the Canadian partnership publishes: financial
-      statements, management's discussion, filings, valuations and
-      appraisals, and distribution records.
-    audience: "All readers — entity-specific"
-    order: 8
-
-  - id: reports-united-states
-    name: "Reports — Direct-Hold Solution United States"
-    scope: >-
-      Every report the United States partnership publishes: financial
-      statements, management reporting, filings, valuations and
-      appraisals, and distribution records.
-    audience: "All readers — entity-specific"
-    order: 9
-
-  - id: reports-spain
-    name: "Reports — Direct-Hold Solution Spain"
-    scope: >-
-      Every report the Spanish company publishes: financial statements,
-      management reporting, filings, valuations and appraisals, and
-      distribution records.
-    audience: "All readers — entity-specific"
-    order: 10
-
-  - id: reports-mexico
-    name: "Reports — Direct-Hold Solution Mexico"
-    scope: >-
-      Every report the Mexican trust publishes: financial statements,
-      management-report equivalents, filings, valuations and appraisals,
-      and distribution records.
-    audience: "All readers — entity-specific"
-    order: 11
 
   - id: reference
     name: "Glossary and Reader's Guide"
@@ -130,4 +94,4 @@ categories:
       Every defined term in plain words, plus the forward-looking-
       statements advisory and the non-IFRS measures explained.
     audience: "All readers — consulted, not browsed"
-    order: 12
+    order: 8

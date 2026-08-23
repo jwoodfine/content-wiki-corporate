@@ -20,7 +20,7 @@ short_description: "Estructura legal que emite participaciones en un único veh�
 cites: []
 ---
 
-El Marco de Tenencia Directa es una estructura jurídica de propiedad bajo la cual cada inversor posee participaciones en un único vehículo de tenencia directa nombrado, y no una reclamación proporcional sobre un fondo mancomunado. Cada estructura de tenencia directa se constituye como una unidad jurídica y financiera independiente, de modo que un evento financiero que afecta a una estructura no puede propagarse a la posición del inversor en otra. Este artículo describe la estructura jurídica del marco, el mecanismo de aislamiento, las [[topic-equity-transfer-model|condiciones de transferencia y liquidez]] entre inversores, las [[topic-fiduciary-data-mandate|obligaciones fiduciarias de datos]] que protegen la integridad del registro, y la disciplina de cobertura de intereses aplicada por estructura.
+El Marco de Tenencia Directa es una estructura jurídica de propiedad bajo la cual cada inversor posee participaciones en un único vehículo de tenencia directa nombrado, y no una reclamación proporcional sobre un fondo mancomunado. Cada estructura de tenencia directa se constituye como una unidad jurídica y financiera independiente, de modo que un evento financiero que afecta a una estructura no puede propagarse a la posición del inversor en otra. Este artículo describe la estructura jurídica del marco, el mecanismo de aislamiento, las [[equity-transfer-model|condiciones de transferencia y liquidez]] entre inversores, y la disciplina de cobertura de intereses aplicada por estructura.
 
 El marco emite capital específico por estructura: cada inversor posee participaciones en un único vehículo de tenencia directa nombrado, no una participación en un fondo mancomunado.
 
@@ -46,21 +46,19 @@ El aislamiento es una propiedad de la arquitectura y no de una promesa contractu
 
 ## Transferencias y liquidez
 
-Las transferencias de capital en el modelo de Tenencia Directa se ejecutan entre partes privadas. No existe [[topic-redemption-elimination|cola de redención]], ni ventana de liquidez gestionada por la entidad corporativa, ni reserva de efectivo mancomunada para satisfacer solicitudes de redención.
+Las transferencias de capital en el modelo de Tenencia Directa se ejecutan entre partes privadas. No existe [[redemption-elimination|cola de redención]], ni ventana de liquidez gestionada por la entidad corporativa, ni reserva de efectivo mancomunada para satisfacer solicitudes de redención.
 
 Un inversor que desee salir localiza una contraparte dispuesta directamente; la empresa no intermedia el proceso. La estructura no carga ninguna obligación de redención mancomunada, de modo que ningún activo se vende bajo presión para financiar la salida de otro inversor.
 
 ## Gobernanza
 
-En cada vehículo de tenencia directa, el socio general ostenta la autoridad de gestión sobre el vehículo y su propiedad única nombrada. Los derechos de gobierno de los inversores — como socios comanditarios o titulares de unidades equivalentes — operan a nivel del activo y no a nivel de cartera agregada: las decisiones se refieren a la propiedad específica del vehículo y no a un conjunto de activos gestionados a nivel de fondo. El [[topic-perpetual-equity-model|modelo de capital perpetuo]] aplica estos mecanismos a [[topic-investment-units|unidades de inversión]] mantenidas sin un horizonte de redención fijo.
-
-## Véase también
-
-- [[topic-equity-transfer-model|Modelo de Transferencia de Capital]] — cómo cambian de manos los intereses de propiedad en activos de Tenencia Directa
-- [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] — requisitos de gobernanza de datos para el libro contable de propiedad
-- Ratio de Cobertura de Intereses — la restricción de deuda aplicada por activo
-- [[topic-redemption-elimination|Eliminación de Redención]] — por qué no existe cola de reembolso en esta estructura
+En cada vehículo de tenencia directa, el socio general ostenta la autoridad de gestión sobre el vehículo y su propiedad única nombrada. Los derechos de gobierno de los inversores — como socios comanditarios o titulares de unidades equivalentes — operan a nivel del activo y no a nivel de cartera agregada: las decisiones se refieren a la propiedad específica del vehículo y no a un conjunto de activos gestionados a nivel de fondo. El [[perpetual-equity-model|modelo de capital perpetuo]] aplica estos mecanismos a [[investment-units|unidades de inversión]] mantenidas sin un horizonte de redención fijo.
 
 ## La conclusión
 
 El Marco de Tenencia Directa sustituye el fondo mancomunado por capital específico de cada activo: cada inversor posee participaciones en un vehículo constituido en torno a una propiedad única nombrada, con el título legal en manos de una sociedad nominada WCP Titleco independiente, en lugar de participar en un vehículo mancomunado. Dado que cada activo es su propia unidad jurídica y financiera, el aislamiento es una propiedad de la arquitectura y el contagio entre activos no puede producirse, de modo que un inversor que evalúa el riesgo de un activo no necesita modelar el resto de una cartera. Al ejecutarse las transferencias directamente entre partes privadas, la estructura no carga ninguna obligación de redención mancomunada ni discrecionalidad del gestor del fondo sobre el capital del inversor.
+
+## Véase también
+
+- [[equity-transfer-model|Modelo de Transferencia de Capital]] — cómo cambian de manos los intereses de propiedad en activos de Tenencia Directa
+- [[redemption-elimination|Eliminación de Redención]] — por qué no existe cola de reembolso en esta estructura

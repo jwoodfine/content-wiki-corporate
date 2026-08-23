@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 content_type: topic
 title: "Avisos Legales"
 slug: disclaimers
-category: governance
+category: root
 short_description: "Avisos de divulgación, responsabilidad y declaraciones prospectivas de la wiki corporativa de Woodfine."
 status: active
 language_protocol: TRANSLATE-ES

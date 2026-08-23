@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 content_type: page
 title: "Contacto"
 slug: contact
-category: governance
+category: root
 short_description: "Información de contacto para consultas editoriales e institucionales de MCorp"
 status: active
 language_protocol: TRANSLATE-ES

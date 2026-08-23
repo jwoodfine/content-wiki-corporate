@@ -2,7 +2,8 @@
 schema: foundry-doc-v1
 title: "Insider reporting"
 slug: about-insider-reporting
-category: reports
+category: disclosure
+index_group: how-disclosure-works
 type: topic
 content_type: topic
 quality: complete

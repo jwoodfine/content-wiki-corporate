@@ -58,24 +58,12 @@ written in plain language, and every technical term links to the glossary.
    investors' statutory rights.
 6. **Risks** — what could go wrong, stated plainly and kept in one place.
 
-## The paper trail
+## How disclosure works
 
-Each reporting company has its own Reports section, and every section
-follows the same layout: annual financial statements, quarterly financial
-statements, management's discussion, regulatory filings, valuations and
-appraisals, and distribution records. Learn one and you have learned
-them all.
-
-- **Reports — Woodfine Capital Projects** (the parent company; also
-  carries press releases and investor events, and a plain guide to how
-  public reporting works)
-- **Reports — Direct-Hold Solution Canada**
-- **Reports — Direct-Hold Solution United States**
-- **Reports — Direct-Hold Solution Spain**
-- **Reports — Direct-Hold Solution Mexico**
-
-Each section opens with the company's profile: its legal form, home
-country, regulator, filing system, auditor, and year end.
+**How Disclosure Works** explains, in plain language, what disclosure means for a
+reporting issuer and how it applies to the parent company, plus a page for each
+Direct-Hold Solution: Canada, United States, Spain, and Mexico. Only Canada is
+established; the other three pages are empty until their vehicle exists.
 
 ## The newsroom
 
