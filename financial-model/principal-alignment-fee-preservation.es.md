@@ -39,9 +39,13 @@ La consecuencia de esta estructura es una alineación 1:1 entre el desarrollador
 
 La posición de capital del desarrollador, una vez ganada a través del período de tenencia y el retorno del capital del inversor, se convierte en Capital Retenido en el balance del vehículo. El Capital Retenido actúa como una reserva estructural: es capital permanente que no requiere distribución, reduciendo la necesidad futura del vehículo de obtener capital externo para nuevas fases de construcción.
 
+## Reembolso Inicial de Costos de Oferta
+
+Aparte de la contribución continua a los gastos generales, WCP paga todos los costos y gastos de cada oferta de participaciones. A cambio, la sociedad reembolsa a WCP el 1% de los ingresos brutos de la venta de participaciones en esa oferta, como pago parcial de dichos costos. Se trata de un reembolso único ligado a una oferta específica, no de una comisión de gestión recurrente.
+
 ## La Contribución Fija Anual a Gastos Generales
 
-Las tarifas variables de gestión son reemplazadas por una única contribución fija anual a los gastos generales calculada sobre el Valor Financiado Bruto de cada Direct-Hold Solution. Esta estructura elimina varias características de la comisión de gestión convencional que crean desalineación: la tarifa no crece con la apreciación de los activos, es predecible en el momento de la inversión, y no está sujeta a manipulación a través de la valoración de activos, ya que se calcula sobre el Valor Financiado Bruto en lugar de un valor neto de activos marcado al mercado.
+Las tarifas variables de gestión son reemplazadas por una única contribución fija anual a los gastos generales calculada sobre el Valor Financiado Bruto de cada Direct-Hold Solution. Esta estructura elimina varias características de la comisión de gestión convencional que crean desalineación: la tarifa no crece con la apreciación de los activos, es predecible en el momento de la inversión, y no está sujeta a manipulación a través de la valoración de activos, ya que se calcula sobre el Valor Financiado Bruto en lugar de un valor neto de activos marcado al mercado. El acuerdo de sociedad prohíbe pagar a cualquier persona una tarifa calculada por referencia al valor neto de los activos.
 
 ## Preservación de Tarifas para Gestores de Activos Independientes
 

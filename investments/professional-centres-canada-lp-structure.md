@@ -20,16 +20,17 @@ paired_with: professional-centres-canada-lp-structure.es.md
 cites: []
 ---
 
-**Professional Centres Canada LP** is the Canadian limited partnership, formed under the British Columbia *Partnership Act*, that issues Investment Units in the operating Direct-Hold Solution vehicle described in the [[four-jurisdiction-framework|Four-Jurisdiction Framework]]. Woodfine Professional Centres Inc. — a wholly owned subsidiary of Woodfine Capital Projects Inc. (WCP) — serves as general partner, bound by a Unanimous Shareholder Agreement that requires a majority of its board to be arm's-length, independent directors. WCP itself acts as Developer and Promoter of the structure; its origination and development role expressly excludes management of third-party capital, funds, or financial assets on the partnership's behalf. This article covers the entities, agreements, and mechanics specific to this vehicle at the partnership level — the advisory relationship, the promoter's equity-based compensation, the partnership's regulatory standing, and its settlement arrangements — rather than the corporate-parent structure or the multi-jurisdiction deployment architecture covered elsewhere.
+**Professional Centres Canada LP** is the Canadian limited partnership, formed under the British Columbia *Partnership Act*, that issues Investment Units in the operating Direct-Hold Solution vehicle described in the [[four-jurisdiction-framework|Four-Jurisdiction Framework]]. Woodfine Professional Centres Inc. — a wholly owned subsidiary of Woodfine Capital Projects Inc. (WCP) — serves as general partner, bound by a Unanimous Shareholder Agreement that requires a majority of its board to be arm's-length, independent directors. WCP itself acts as Developer and Promoter of the structure; its origination and development role expressly excludes management of third-party capital, funds, or financial assets on the partnership's behalf. This article covers the entities, agreements, and mechanics specific to this vehicle at the partnership level — the advisory relationship, the promoter's equity-based compensation, change-of-control mechanics, the partnership's regulatory standing, and its settlement arrangements — rather than the corporate-parent structure or the multi-jurisdiction deployment architecture covered elsewhere.
 
 ## Key takeaways
 
 - Woodfine Advisors Inc., a wholly owned subsidiary of WCP, provides procurement, development, and management services to the partnership.
 - The promoter's minority equity interest is held through Benetti Holdings Inc. and issued as escrowed equity-based compensation; the units remain in escrow, with voting rights retained, until limited partners recover 100% of contributed capital or a defined liquidity event occurs.
+- An acquisition crossing 20% of outstanding units triggers a mandatory all-holders offer; an acquisition crossing 75% triggers separate buyout and takeout rights.
 
 ## Advisory and management
 
-The general partner retains Woodfine Advisors Inc., a wholly owned subsidiary of WCP, to provide procurement, development, and management services to the limited partnership.
+The general partner retains Woodfine Advisors Inc., a wholly owned subsidiary of WCP, to provide procurement, development, and management services to the limited partnership. Each Titleco requires the Advisor to retain a third-party property manager for its buildings; the manager's fee is capped at 6% of the gross income those buildings generate.
 
 ## Equity-based compensation
 
@@ -44,6 +45,14 @@ and this same article's own "Investment Units are freely transferable in Canada"
 language a few sections below, both of which describe active offering/transfer
 activity in the ordinary course. See [[four-jurisdiction-framework]]'s Correction
 callout for full detail. Escalated to Command by mailbox, 2026-08-02.
+
+## Change of control — Take Over Bids
+
+An offer to acquire units that, together with the offeror's existing holdings, would constitute 20% or more of outstanding units is a Take Over Bid. The general partner rejects any transfer under such an offer unless the offeror makes an irrevocable offer to purchase all outstanding units, at the same price and on the same terms, remaining open for at least 35 days. If a Take Over Bid is accepted by holders of units that, together with the offeror's own holdings, reach 90% of outstanding units, the offeror may acquire the remaining units at the same price offered under the bid.
+
+## Buyout and takeout rights
+
+A limited partner (or its related group) that crosses 75% ownership of outstanding units triggers a buyout right: the option to acquire all remaining units at appraised value, within a defined election window. If that right is not exercised, the other limited partners hold a corresponding takeout right, requiring the majority partner to buy out their units instead.
 
 ## Settlement and depositary arrangements
 

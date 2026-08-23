@@ -20,16 +20,17 @@ paired_with: professional-centres-canada-lp-structure.md
 cites: []
 ---
 
-**Professional Centres Canada LP** es la sociedad en comandita canadiense, constituida bajo la *Partnership Act* de Columbia Británica, que emite Unidades de Inversión en el vehículo operativo de la Direct-Hold Solution descrito en el [[four-jurisdiction-framework|Marco de Cuatro Jurisdicciones]]. Woodfine Professional Centres Inc. — subsidiaria de propiedad total de Woodfine Capital Projects Inc. (WCP) — actúa como socio general, sujeta a un Acuerdo Unánime de Accionistas que exige que la mayoría de su directorio esté compuesta por directores independientes, sin vínculos con el promotor. La propia WCP actúa como Desarrollador y Promotor de la estructura; su rol de originación y desarrollo excluye expresamente la gestión de capital, fondos o activos financieros de terceros por cuenta de la sociedad. Este artículo trata las entidades, los acuerdos y la mecánica propios de este vehículo a nivel de la sociedad en comandita — la relación de asesoría, la compensación del promotor basada en participaciones, la situación regulatoria de la sociedad y sus arreglos de liquidación — y no la estructura de la matriz corporativa ni la arquitectura de despliegue multijurisdiccional que se cubren en otros artículos.
+**Professional Centres Canada LP** es la sociedad en comandita canadiense, constituida bajo la *Partnership Act* de Columbia Británica, que emite Unidades de Inversión en el vehículo operativo de la Direct-Hold Solution descrito en el [[four-jurisdiction-framework|Marco de Cuatro Jurisdicciones]]. Woodfine Professional Centres Inc. — subsidiaria de propiedad total de Woodfine Capital Projects Inc. (WCP) — actúa como socio general, sujeta a un Acuerdo Unánime de Accionistas que exige que la mayoría de su directorio esté compuesta por directores independientes, sin vínculos con el promotor. La propia WCP actúa como Desarrollador y Promotor de la estructura; su rol de originación y desarrollo excluye expresamente la gestión de capital, fondos o activos financieros de terceros por cuenta de la sociedad. Este artículo trata las entidades, los acuerdos y la mecánica propios de este vehículo a nivel de la sociedad en comandita — la relación de asesoría, la compensación del promotor basada en participaciones, la mecánica de cambio de control, la situación regulatoria de la sociedad y sus arreglos de liquidación — y no la estructura de la matriz corporativa ni la arquitectura de despliegue multijurisdiccional que se cubren en otros artículos.
 
 ## Puntos clave
 
 - Woodfine Advisors Inc., subsidiaria de propiedad total de WCP, presta servicios de adquisición, desarrollo y gestión a la sociedad en comandita.
 - La participación minoritaria del promotor se mantiene a través de Benetti Holdings Inc. y se emitió como compensación basada en participaciones sujeta a fideicomiso de garantía; las participaciones permanecen en dicho fideicomiso, con los derechos de voto conservados, hasta que los socios comanditarios recuperen el 100% del capital aportado o se produzca un evento de liquidez definido.
+- Una adquisición que cruce el 20% de las participaciones en circulación activa una oferta obligatoria a todos los tenedores; una que cruce el 75% activa derechos separados de compra y venta forzosa.
 
 ## Asesoría y gestión
 
-El socio general contrata a Woodfine Advisors Inc., subsidiaria de propiedad total de WCP, para prestar servicios de adquisición, desarrollo y gestión a la sociedad en comandita.
+El socio general contrata a Woodfine Advisors Inc., subsidiaria de propiedad total de WCP, para prestar servicios de adquisición, desarrollo y gestión a la sociedad en comandita. Cada Titleco exige que el Asesor contrate a un administrador de propiedades externo para sus edificios; la tarifa del administrador está limitada al 6% del ingreso bruto que generan esos edificios.
 
 ## Compensación basada en participaciones
 
@@ -38,6 +39,14 @@ La participación minoritaria del promotor en la sociedad se mantiene a través 
 ## Situación regulatoria
 
 Professional Centres Canada LP está actualmente sujeta a una orden de suspensión de negociación (cease-trade order) emitida por la British Columbia Securities Commission (BCSC), originada en la presentación tardía de informes de divulgación continua y no en ningún hallazgo de fraude o conducta indebida. La sociedad no tiene actualmente socios comanditarios para quienes esta orden constituya una condición vigente de la operación. La sociedad debe regularizar sus obligaciones de presentación de informes pendientes y obtener la revocación de la BCSC antes de que pueda cerrarse cualquier oferta futura de participaciones.
+
+## Cambio de control — Ofertas de Toma de Control
+
+Una oferta de adquisición de participaciones que, sumada a las tenencias existentes del oferente, constituya el 20% o más de las participaciones en circulación es una Oferta de Toma de Control (Take Over Bid). El socio general rechaza cualquier transferencia bajo dicha oferta a menos que el oferente realice una oferta irrevocable de compra de todas las participaciones en circulación, al mismo precio y en los mismos términos, vigente durante al menos 35 días. Si una Oferta de Toma de Control es aceptada por tenedores de participaciones que, sumadas a las tenencias propias del oferente, alcancen el 90% de las participaciones en circulación, el oferente puede adquirir las participaciones restantes al mismo precio ofrecido en la oferta.
+
+## Derechos de compra y venta forzosa
+
+Un socio comanditario (o su grupo relacionado) que cruce el 75% de propiedad de las participaciones en circulación activa un derecho de compra forzosa (buyout right): la opción de adquirir todas las participaciones restantes a valor de tasación, dentro de un plazo de elección definido. Si ese derecho no se ejerce, los demás socios comanditarios mantienen un derecho de venta forzosa correspondiente (takeout right), que obliga al socio mayoritario a comprar sus participaciones en su lugar.
 
 ## Liquidación y arreglos de depósito
 

@@ -39,13 +39,17 @@ The consequence of this structure is a 1:1 alignment between the developer and t
 
 The developer's equity position, once earned through the holding period and investor capital return, becomes Retained Equity on the vehicle's balance sheet. Retained Equity functions as a structural reserve: it is permanent capital that does not require distribution, reducing the vehicle's future need to raise external equity for new construction phases. The compounding of Retained Equity over the vehicle's holding period is the mechanism by which the [[narrow-bank-financial-model|Narrow Bank Financial Model]] produces a materially larger total asset base on the same initial equity capital than legacy alternatives.
 
+## Initial Offering Cost Reimbursement
+
+Separate from the ongoing overhead contribution, WCP pays all costs and expenses of each offering of units. In exchange, the partnership reimburses WCP 1% of the gross proceeds from the sale of units in that offering, as partial payment of those offering costs. This is a one-time reimbursement tied to a specific offering, not a recurring management fee.
+
 ## The Fixed Annual Overhead Contribution
 
 Variable management fees — acquisition fees, asset management fees, disposition fees, financing fees — are replaced by a single fixed annual overhead contribution calculated on the Gross Funded Value of each Direct-Hold Solution. The overhead contribution is a contribution to the operating costs of MCorp, calculated as a fixed percentage of the stated gross funded value of the vehicle rather than as a mark-to-market percentage of net asset value.
 
 ### Fee predictability and valuation independence
 
-This structure eliminates several characteristics of the conventional management fee that create misalignment between manager incentives and investor interests. First, the fee does not grow as the vehicle's assets appreciate — a vehicle whose net asset value doubles does not produce double the management fee. Second, the fee is predictable at the time of investment: the investor can calculate the total management overhead cost for the full holding period at inception. Third, the fee is not subject to manipulation through asset valuation — since the fee is calculated on the Gross Funded Value rather than a marked net asset value, there is no incentive to inflate reported valuations to increase fee income.
+This structure eliminates several characteristics of the conventional management fee that create misalignment between manager incentives and investor interests. First, the fee does not grow as the vehicle's assets appreciate — a vehicle whose net asset value doubles does not produce double the management fee. Second, the fee is predictable at the time of investment: the investor can calculate the total management overhead cost for the full holding period at inception. Third, the fee is not subject to manipulation through asset valuation — since the fee is calculated on the Gross Funded Value rather than a marked net asset value, there is no incentive to inflate reported valuations to increase fee income. The partnership agreement prohibits paying any person a fee calculated by reference to net asset value.
 
 ## Fee Preservation for Independent Asset Managers
 
