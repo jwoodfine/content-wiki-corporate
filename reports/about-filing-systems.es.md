@@ -1,4 +1,5 @@
 ---
+schema: foundry-doc-v1
 title: "Sistemas de Presentación"
 slug: about-filing-systems
 category: reports
