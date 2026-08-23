@@ -19,12 +19,7 @@ paired_with: global-investment-terminology.es.md
 cites: []
 ---
 
-The [[four-jurisdiction-framework|four jurisdictions]] in which MCorp intends to deploy Direct-Hold Solutions — Canada, the United States, Spain, and Mexico — each maintain distinct legal vocabularies for describing investment vehicles, their compliance obligations, and their tradability characteristics. Terms that carry precise legal meaning in one jurisdiction are frequently ambiguous, legally inaccurate, or actively misleading when read in the context of another legal system. Woodfine addresses this divergence through a set of **Global Bridge Terms**: a parallel vocabulary designed to translate accurately across all four jurisdictions without importing the legal assumptions of any single one.
-
-**Correction (2026-08-02):** the lead sentence should name Woodfine Capital
-Projects Inc. (WCP), not MCorp — WCP is the promoter of the Direct-Hold Solutions
-per [[corporate-glossary]] and [[four-jurisdiction-framework]]. **Flagged, not
-resolved.**
+The [[four-jurisdiction-framework|four jurisdictions]] in which Woodfine Capital Projects Inc. (WCP), as promoter, intends to deploy Direct-Hold Solutions — Canada, the United States, Spain, and Mexico — each maintain distinct legal vocabularies for describing investment vehicles, their compliance obligations, and their tradability characteristics. Terms that carry precise legal meaning in one jurisdiction are frequently ambiguous, legally inaccurate, or actively misleading when read in the context of another legal system. Woodfine addresses this divergence through a set of **Global Bridge Terms**: a parallel vocabulary designed to translate accurately across all four jurisdictions without importing the legal assumptions of any single one.
 
 ## The Jurisdictional Fracture Problem
 
@@ -68,16 +63,7 @@ The following table sets out the jurisdiction-specific terms and their Global Br
 
 ### Transferability and security identifiers
 
-**Freely Transferable.** All four Direct-Hold Solutions are structured so that Investment Units are freely transferable to any eligible counterparty, without a general partner approval decision in the ordinary case. In Canada and the planned United States vehicle, the general partner is contractually obligated to admit an eligible transferee, declining only on a short, enumerated list of grounds (a securities-law opinion, false eligibility representations, or a non-conforming acquisition crossing the 20% take-over-bid threshold); a separate, narrower mechanism can require a holder to divest if their status creates adverse tax consequences for the partnership.
-
-**Correction (2026-08-02, verified against [[four-jurisdiction-framework]] and
-[[limited-partnership-structure]]):** this lists the 20% take-over-bid threshold as
-a third GP-decline ground. Both sibling articles describe it instead as a
-**separate mandatory-offer trigger**, distinct from an ordinary transfer decline —
-[[four-jurisdiction-framework]]: "declining only on two narrow grounds... an
-acquisition crossing 20% of outstanding units triggers a separate mandatory-offer
-requirement." Two decline grounds vs. three is a real investor-rights discrepancy.
-**Flagged, not resolved.** In Spain and Mexico, eligibility is enforced directly at the depository/register (Libre Transmisión under the applicable SOCIMI and FIBRA regulations), with no general partner approval step at all. This is distinct in every jurisdiction from a right of first refusal or open-ended transfer-approval discretion, neither of which exists in this structure. In Canada, the initial four-month statutory hold period applies after initial distribution. Freely Transferable status is a direct consequence of Regulated Reporting Entity compliance: the [[about-disclosure-obligations|continuous disclosure obligation]] removes the information asymmetry that private equity lock-ups are designed to manage.
+**Freely Transferable.** All four Direct-Hold Solutions are designed so that Investment Units are freely transferable to any eligible counterparty, without a general partner approval decision in the ordinary case (the established Canada vehicle's units are not currently freely transferable, because of an active BCSC cease-trade order). In Canada and the planned United States vehicle, the general partner is contractually obligated to admit an eligible transferee, declining only on two narrow grounds — a securities-law opinion, or false eligibility representations; a non-conforming acquisition crossing the 20% threshold triggers a separate mandatory-offer requirement, distinct from an ordinary transfer decline. A separate, narrower mechanism can require a holder to divest if their status creates adverse tax consequences for the partnership. In Spain and Mexico, eligibility is enforced directly at the depository/register (Libre Transmisión under the applicable SOCIMI and FIBRA regulations), with no general partner approval step at all. This is distinct in every jurisdiction from a right of first refusal or open-ended transfer-approval discretion, neither of which exists in this structure. In Canada, the initial four-month statutory hold period applies after initial distribution. Freely Transferable status is a direct consequence of Regulated Reporting Entity compliance: the [[about-disclosure-obligations|continuous disclosure obligation]] removes the information asymmetry that private equity lock-ups are designed to manage.
 
 **Global Security Identifier.** In Canada and the United States, securities are identified primarily by CUSIP number, with ISIN derived from the CUSIP base. In Spain and Mexico, the primary identifier is ISIN. The Global Bridge Term Global Security Identifier refers to the ISIN as the cross-border common reference, applicable in all four jurisdictions.
 

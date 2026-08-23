@@ -19,12 +19,7 @@ paired_with: global-investment-terminology.md
 cites: []
 ---
 
-Las [[four-jurisdiction-framework|cuatro jurisdicciones]] en las que MCorp tiene previsto desplegar Direct-Hold Solutions — Canadá, Estados Unidos, España y México — mantienen vocabularios legales distintos para describir vehículos de inversión, sus obligaciones de cumplimiento y sus características de transmisibilidad. Woodfine aborda esta divergencia a través de un conjunto de **Términos Puente Globales**: un vocabulario paralelo diseñado para traducirse con precisión en las cuatro jurisdicciones sin importar los supuestos legales de ninguna de ellas individualmente.
-
-**Corrección (2026-08-02):** la oración inicial debería nombrar a Woodfine Capital
-Projects Inc. (WCP), no a MCorp — WCP es el promotor de las Direct-Hold Solutions
-según [[corporate-glossary]] y [[four-jurisdiction-framework]]. **Señalado, no
-resuelto.**
+Las [[four-jurisdiction-framework|cuatro jurisdicciones]] en las que Woodfine Capital Projects Inc. (WCP), como promotor, tiene previsto desplegar Direct-Hold Solutions — Canadá, Estados Unidos, España y México — mantienen vocabularios legales distintos para describir vehículos de inversión, sus obligaciones de cumplimiento y sus características de transmisibilidad. Woodfine aborda esta divergencia a través de un conjunto de **Términos Puente Globales**: un vocabulario paralelo diseñado para traducirse con precisión en las cuatro jurisdicciones sin importar los supuestos legales de ninguna de ellas individualmente.
 
 ## El Problema de la Fractura Jurisdiccional
 
@@ -73,17 +68,7 @@ de la deuda no se extiende a la negociación en bolsa de las unidades de capital
 
 ### Transmisibilidad y períodos de bloqueo
 
-**Libre Transmisión.** Las cuatro Direct-Hold Solutions están estructuradas de modo que las Unidades de Inversión son libremente transmisibles a cualquier contraparte elegible, sin una decisión de aprobación del socio general en el caso ordinario. En Canadá y en el vehículo planificado de Estados Unidos, el socio general está obligado contractualmente a admitir a un cesionario elegible, negándose únicamente por una lista breve y enumerada de motivos (una opinión de derecho de valores, declaraciones de elegibilidad falsas, o una adquisición no conforme que cruce el umbral del 20% de oferta pública de adquisición); un mecanismo separado y más limitado puede exigir que un titular se desprenda de sus unidades si su estatus genera consecuencias fiscales adversas para la sociedad. En España y México, la elegibilidad se aplica directamente en el depositario/registro (Libre Transmisión bajo las regulaciones SOCIMI y FIBRA aplicables), sin ningún paso de aprobación del socio general. Esto es distinto en cada jurisdicción de un derecho de primera opción o discrecionalidad abierta de aprobación de transferencias, ninguno de los cuales existe en esta estructura. En Canadá, aplica el período inicial de cuatro meses tras la distribución inicial.
-
-**Corrección (2026-08-02, verificado contra [[four-jurisdiction-framework]] y
-[[limited-partnership-structure]]):** este texto enumera el umbral del 20% de oferta
-pública de adquisición como un tercer motivo de negativa del socio general. Ambos
-artículos relacionados lo describen en cambio como un **detonante separado de oferta
-obligatoria**, distinto de una negativa de transferencia ordinaria —
-[[four-jurisdiction-framework]]: «negándose solo por dos motivos limitados... una
-adquisición que cruce el 20% de las unidades en circulación activa un requisito
-separado de oferta obligatoria». Dos motivos de negativa frente a tres es una
-discrepancia real en los derechos del inversor. **Señalado, no resuelto.**
+**Libre Transmisión.** Las cuatro Direct-Hold Solutions están diseñadas de modo que las Unidades de Inversión sean libremente transmisibles a cualquier contraparte elegible, sin una decisión de aprobación del socio general en el caso ordinario (las unidades del vehículo de Canadá ya constituido no son actualmente libremente transferibles, debido a una orden de suspensión de negociación vigente de la BCSC). En Canadá y en el vehículo planificado de Estados Unidos, el socio general está obligado contractualmente a admitir a un cesionario elegible, negándose únicamente por dos motivos limitados — una opinión de derecho de valores, o declaraciones de elegibilidad falsas; una adquisición no conforme que cruce el umbral del 20% activa un requisito separado de oferta obligatoria, distinto de una negativa de transferencia ordinaria. Un mecanismo separado y más limitado puede exigir que un titular se desprenda de sus unidades si su estatus genera consecuencias fiscales adversas para la sociedad. En España y México, la elegibilidad se aplica directamente en el depositario/registro (Libre Transmisión bajo las regulaciones SOCIMI y FIBRA aplicables), sin ningún paso de aprobación del socio general.
 
 **Identificador Global de Valor.** En Canadá y Estados Unidos, los valores se identifican
 principalmente mediante el número CUSIP, del cual se deriva el ISIN. En España y México,
