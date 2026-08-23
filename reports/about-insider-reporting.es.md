@@ -6,7 +6,7 @@ category: reports
 type: topic
 content_type: topic
 quality: complete
-short_description: "La mecánica del reporte de iniciados conforme al Instrumento Nacional 55-104: quién califica como iniciado reportante, qué transacciones generan una obligación de presentación, el sistema electrónico de presentación SEDI, y el plazo de cinco días calendario dentro del cual deben presentarse los informes iniciales y subsiguientes."
+short_description: "La mecánica del reporte de iniciados conforme al Instrumento Nacional 55-104: quién califica como iniciado reportante, qué transacciones generan una obligación de presentación, el sistema electrónico de presentación SEDI, y los plazos de diez y cinco días calendario dentro de los cuales deben presentarse los informes iniciales y subsiguientes."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
@@ -45,14 +45,16 @@ que rige la relación así lo establece.
 ## Transacciones que desencadenan un informe
 
 Un iniciado reportante debe presentar un informe de iniciado ante dos eventos desencadenantes
-distintos. Primero, el informe inicial: dentro de los cinco días calendario de convertirse en
+distintos. Primero, el informe inicial: dentro de los diez días calendario de convertirse en
 iniciado reportante, el individuo debe presentar un informe inicial de iniciado en el Formulario
 55-102F2 revelando sus tenencias actuales de valores del emisor, incluyendo todas las clases
 de capital, opciones, deuda convertible y cualquier otro valor convertible en capital. Segundo,
 los informes subsiguientes: dentro de los cinco días calendario de cualquier transacción en los
 valores del emisor — incluyendo adquisiciones, disposiciones, otorgamientos de opciones o
 unidades restringidas, ejercicios de opciones y conversiones de valores convertibles — el
-iniciado reportante debe presentar un informe subsiguiente de iniciado en el Formulario 55-102F6.
+iniciado reportante debe presentar un informe subsiguiente en el mismo Formulario 55-102F2
+utilizado para el informe inicial; también está disponible una alternativa de presentación en
+papel a la presentación electrónica estándar por SEDI.
 
 ### Plazo de cinco días y fecha de transacción
 

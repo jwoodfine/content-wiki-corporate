@@ -6,7 +6,7 @@ category: reports
 type: topic
 content_type: topic
 quality: complete
-short_description: "The mechanics of insider reporting under National Instrument 55-104: who qualifies as a reporting insider, what transactions trigger a filing obligation, the SEDI electronic filing system, and the five-day window within which initial and subsequent reports must be filed."
+short_description: "The mechanics of insider reporting under National Instrument 55-104: who qualifies as a reporting insider, what transactions trigger a filing obligation, the SEDI electronic filing system, and the ten- and five-day windows within which initial and subsequent reports must be filed."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
@@ -49,23 +49,15 @@ falls within the definition, but individual facts drive the determination.
 ## Transactions that trigger a report
 
 A reporting insider must file an insider report upon two distinct triggering events. First, the
-initial report: within five calendar days of becoming a reporting insider, the individual must
+initial report: within ten calendar days of becoming a reporting insider, the individual must
 file an initial insider report on Form 55-102F2 disclosing their current holdings of securities
 of the issuer, including all classes of equity, options, convertible debt, and any other
 securities convertible into equity. Second, subsequent reports: within five calendar days of
 any transaction in the issuer's securities — including acquisitions, dispositions, grants of
 options or restricted units, exercises of options, and conversions of convertible securities —
-the reporting insider must file a subsequent insider report on Form 55-102F6.
-
-**Correction (2026-08-02):** two real defects. (1) The initial insider report
-deadline under NI 55-104 is **10 calendar days** from becoming a reporting insider,
-not 5 — the 5-day window applies only to subsequent transaction reports. (2) The
-"Form 55-102F6" subsequent-report distinction is invented — Form 55-102F2 ("Insider
-Report") is the single electronic SEDI form used for both initial and change
-reports; 55-102F6 is the paper-filing *alternative* to 55-102F2, not a separate
-subsequent-report form. This is investor/insider-facing legal-deadline guidance —
-an insider relying on the stated 5-day initial deadline would file late relative to
-the real 10-day rule. **Flagged, not resolved.**
+the reporting insider must file a subsequent insider report, on the same Form 55-102F2 used for
+the initial report; a paper-filing alternative to the standard electronic SEDI submission is
+also available.
 
 ### Five-day window and transaction date
 
