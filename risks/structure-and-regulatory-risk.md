@@ -26,32 +26,19 @@ structure would not carry.
 
 Each Direct-Hold Solution is a separate legal entity, constituted under the law of its own
 jurisdiction: a limited partnership in Canada and the United States, a Sociedad Cotizada de
-Inversión en el Mercado Inmobiliario in Spain, and a Fideicomiso de Infraestructura en Bienes
-Raíces in Mexico.
-
-**Correction (2026-08-02):** the standard legally-established Mexican term (LISR
-Articles 187–188) is "Fideicomiso de Infraestructura **y** Bienes Raíces" ("and,"
-not "in") — repeated with the same wording error in
-[[reports-mexico/mexico-reporting-overview|mexico-reporting-overview]]. **Flagged,
-not resolved.** These are not the same legal instrument replicated four times — each is
-subject to the corporate, tax, and securities law of its own jurisdiction, and the rights,
-protections, and obligations attached to an investment unit in one jurisdiction are not
-necessarily identical to those attached to an investment unit in another. An investor should
-not assume that a legal characteristic confirmed for one jurisdiction's vehicle — a tax
-treatment, a transfer mechanic, a governance right — applies automatically to a vehicle in a
-different jurisdiction.
+Inversión en el Mercado Inmobiliario in Spain, and a Fideicomiso de Infraestructura y Bienes
+Raíces in Mexico, the term established under LISR Articles 187–188. These are not the same
+legal instrument replicated four times — each is subject to the corporate, tax, and securities
+law of its own jurisdiction, and the rights, protections, and obligations attached to an
+investment unit in one jurisdiction are not necessarily identical to those attached to an
+investment unit in another. An investor should not assume that a legal characteristic
+confirmed for one jurisdiction's vehicle — a tax treatment, a transfer mechanic, a governance
+right — applies automatically to a vehicle in a different jurisdiction.
 
 The [[regulated-reporting-entity|Regulated Reporting Entity]] bridge term used throughout this wiki is a
 plain-language convenience for describing a shared compliance status across jurisdictions; it
 does not eliminate the underlying legal differences between a Canadian reporting issuer, a
-United States reporting company, a Spanish Entidad Pública, and a Mexican Emisora.
-
-**Correction (2026-08-02):** "Entidad Pública" means "public-sector/government
-entity" in Spanish administrative/legal usage — it does not describe a listed
-private company. The correct term for a Spanish issuer under CNMV supervision is
-"entidad emisora" or "sociedad cotizada." Calling the planned Spain SOCIMI vehicle
-an "Entidad Pública" mischaracterizes it as a government entity. **Flagged, not
-resolved.**
+United States reporting company, a Spanish entidad emisora, and a Mexican Emisora.
 
 ## Regulatory change risk
 

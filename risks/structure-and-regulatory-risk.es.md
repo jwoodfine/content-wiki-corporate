@@ -27,7 +27,8 @@ estructura de una sola jurisdicción no tendría.
 Cada Solución de Tenencia Directa es una entidad legal separada, constituida bajo la ley de su
 propia jurisdicción: una sociedad en comandita en Canadá y Estados Unidos, una Sociedad
 Cotizada de Inversión en el Mercado Inmobiliario en España, y un Fideicomiso de Infraestructura
-en Bienes Raíces en México. No se trata del mismo instrumento legal replicado cuatro veces
+y Bienes Raíces en México, el término establecido conforme a los Artículos 187–188 de la LISR.
+No se trata del mismo instrumento legal replicado cuatro veces
 —cada una está sujeta al derecho corporativo, fiscal y de valores de su propia jurisdicción, y
 los derechos, protecciones y obligaciones vinculados a una unidad de inversión en una
 jurisdicción no son necesariamente idénticos a los vinculados a una unidad de inversión en
@@ -38,7 +39,7 @@ gobernanza— aplica automáticamente a un vehículo en una jurisdicción difere
 El término puente [[regulated-reporting-entity|Entidad Reguladora Informante]] utilizado en todo este wiki es una
 conveniencia en lenguaje llano para describir un estatus de cumplimiento compartido entre
 jurisdicciones; no elimina las diferencias legales subyacentes entre un emisor informante
-canadiense, una compañía informante estadounidense, una Entidad Pública española y una Emisora
+canadiense, una compañía informante estadounidense, una entidad emisora española y una Emisora
 mexicana.
 
 ## Riesgo de cambio regulatorio
