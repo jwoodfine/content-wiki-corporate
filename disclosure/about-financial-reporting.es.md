@@ -17,10 +17,10 @@ references:
     url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/51-721"
 ---
 
-La **información financiera anual e intermedia** comprende las divulgaciones financieras
-periódicas obligatorias que Woodfine Capital Projects Inc. tiene previsto presentar, al
-perfeccionarse su oferta pública planificada, como [[regulated-reporting-entity|emisor informante]] en virtud del National
-Instrument 51-102 *[[about-disclosure-obligations|Continuous Disclosure Obligations]]*.[^1] Estos registros
+Woodfine Capital Projects Inc. tiene previsto presentar las divulgaciones financieras anuales
+e intermedias obligatorias como [[regulated-reporting-entity|emisor informante]] en virtud del National
+Instrument 51-102 *[[about-disclosure-obligations|Continuous Disclosure Obligations]]*, al
+perfeccionarse su oferta pública planificada.[^1] Estos registros
 proporcionan a inversores y reguladores los estados financieros auditados y revisados, el
 análisis de la dirección sobre resultados y perspectivas, y el formulario de información anual
 que describe la estructura empresarial, los factores de riesgo y la gobernanza de la compañía.

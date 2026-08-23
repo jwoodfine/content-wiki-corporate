@@ -17,13 +17,12 @@ references:
     url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/51-721"
 ---
 
-**Annual and interim financial reporting** comprises the mandatory periodic financial
-disclosures that Woodfine Capital Projects Inc. intends to file, upon effectiveness of its
-planned prospectus offering, as a [[regulated-reporting-entity|reporting issuer]] under National Instrument 51-102
-*[[about-disclosure-obligations|Continuous Disclosure Obligations]]*.[^1] These filings provide investors and
-regulators with audited and reviewed financial statements, management's analysis of results and
-outlook, and the annual information form that describes the company's business, risk factors,
-and governance structure.
+Woodfine Capital Projects Inc. intends to file mandatory annual and interim financial
+disclosures as a [[regulated-reporting-entity|reporting issuer]] under National Instrument 51-102
+*[[about-disclosure-obligations|Continuous Disclosure Obligations]]*, upon effectiveness of its planned
+prospectus offering.[^1] These filings give investors and regulators audited and reviewed
+financial statements, management's analysis of results and outlook, and the annual information
+form that describes the company's business, risk factors, and governance structure.
 
 ## Annual reporting cycle
 

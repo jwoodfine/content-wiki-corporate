@@ -10,12 +10,11 @@ status: stable
 short_description: "Registro previsto de juntas de accionistas, presentaciones a inversores y participaciones en conferencias del sector, con materiales archivados y aviso previo de próximos eventos una vez implementado este programa."
 ---
 
-**Eventos y presentaciones** está concebido como el registro del relacionamiento programado de
-Woodfine Capital Projects Inc. con los accionistas, la comunidad inversora y las organizaciones
-profesionales activas en los dominios operativos de la compañía. Esta sección está diseñada
-para archivar los materiales de juntas formales de accionistas, presentaciones para inversores
-y participaciones en conferencias, y para proporcionar información previa sobre eventos
-próximos una vez que cada una de estas prácticas esté implementada.
+Woodfine Capital Projects Inc. tiene previsto informar a los accionistas con antelación de cada
+junta formal, presentación para inversores y participación en conferencias, y archivar aquí los
+materiales. Esta sección está diseñada para registrar ese relacionamiento programado con los
+accionistas, la comunidad inversora y las organizaciones profesionales activas en los dominios
+operativos de la compañía, una vez que cada una de estas prácticas esté implementada.
 
 ## Junta general anual de accionistas
 

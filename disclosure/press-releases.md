@@ -14,10 +14,9 @@ references:
     url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/51-102"
 ---
 
-**Press releases and material change reports** are intended to be the real-time disclosure
-channel through which Woodfine Capital Projects Inc. communicates developments that would
-constitute [[about-material-change-reporting|material changes]] under Canadian securities
-law. A material change is any change in the business, operations, or capital of the company
+Woodfine Capital Projects Inc. intends to disclose developments that would constitute
+[[about-material-change-reporting|material changes]] under Canadian securities law in real
+time, through press releases and material change reports. A material change is any change in the business, operations, or capital of the company
 that an investor would reasonably expect to have a significant effect on the market price or
 value of the company's securities.[^1]
 

@@ -16,9 +16,10 @@ editor: woodfine-editorial
 paired_with: about-disclosure-obligations.md
 ---
 
-El Instrumento Nacional 51-102 Obligaciones de Divulgación Continua establece los requisitos
-de presentación pública permanentes para los [[regulated-reporting-entity|emisores que cotizan]] en Canadá. Un emisor que
-cotiza es una entidad que ha distribuido valores al público y está registrada en [[about-filing-systems|SEDAR+]],
+Un [[regulated-reporting-entity|emisor que cotiza]] en Canadá debe entregar a los inversores información financiera
+y de negocio oportuna, exacta y completa de forma permanente. El Instrumento Nacional 51-102
+Obligaciones de Divulgación Continua establece esos requisitos de presentación pública. Un emisor
+que cotiza es una entidad que ha distribuido valores al público y está registrada en [[about-filing-systems|SEDAR+]],
 el Sistema de Análisis y Recuperación de Documentos Electrónicos mantenido por los
 Administradores de Valores Canadienses.
 

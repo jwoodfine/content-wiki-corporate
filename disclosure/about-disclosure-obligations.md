@@ -16,13 +16,12 @@ editor: woodfine-editorial
 paired_with: about-disclosure-obligations.es.md
 ---
 
-National Instrument 51-102 Continuous Disclosure Obligations establishes the ongoing public
-filing requirements for [[regulated-reporting-entity|reporting issuers]] in Canada. A reporting issuer is an entity that
-has distributed securities to the public and is registered on [[about-filing-systems|SEDAR+]], the System for
-Electronic Document Analysis and Retrieval maintained by the Canadian Securities
-Administrators. The continuous disclosure regime ensures that investors and potential
-investors have access to timely, accurate, and complete financial and business information
-on an ongoing basis.
+A Canadian [[regulated-reporting-entity|reporting issuer]] must give investors timely, accurate, and complete
+financial and business information on an ongoing basis. National Instrument 51-102 Continuous
+Disclosure Obligations sets those ongoing public filing requirements. A reporting issuer is an
+entity that has distributed securities to the public and is registered on [[about-filing-systems|SEDAR+]], the System
+for Electronic Document Analysis and Retrieval maintained by the Canadian Securities
+Administrators.
 
 ## Annual disclosure package
 

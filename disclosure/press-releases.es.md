@@ -14,9 +14,9 @@ references:
     url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/51-102"
 ---
 
-Los **comunicados de prensa e informes de cambios materiales** están concebidos como el canal
-de divulgación en tiempo real a través del cual Woodfine Capital Projects Inc. comunicaría los
-desarrollos que constituyan [[about-material-change-reporting|cambios materiales]] en virtud del derecho canadiense de valores.
+Woodfine Capital Projects Inc. tiene previsto divulgar en tiempo real los desarrollos que
+constituyan [[about-material-change-reporting|cambios materiales]] en virtud del derecho canadiense de valores,
+mediante comunicados de prensa e informes de cambios materiales.
 Un cambio material es cualquier cambio en los negocios, operaciones o capital de la compañía
 que un inversor razonablemente esperaría que tenga un efecto significativo sobre el precio de
 mercado o el valor de los valores de la compañía.[^1]

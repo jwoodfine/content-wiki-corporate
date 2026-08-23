@@ -10,11 +10,11 @@ status: stable
 short_description: "Planned record of shareholder meetings, investor presentations, and industry conference appearances, with archived materials and advance notice of forthcoming events once this program is in place."
 ---
 
-**Events and presentations** is intended to be the record of Woodfine Capital Projects Inc.'s
-scheduled engagement with shareholders, the investor community, and the professional
-organisations active in the company's operating domains. This section is designed to archive
-materials from formal shareholder meetings, investor presentations, and conference appearances,
-and to provide advance notice of forthcoming events once each of these practices is in place.
+Woodfine Capital Projects Inc. intends to give shareholders advance notice of each formal
+meeting, investor presentation, and conference appearance, and to archive the materials here.
+This section is designed to record that scheduled engagement with shareholders, the investor
+community, and the professional organisations active in the company's operating domains, once
+each of these practices is in place.
 
 ## Annual general meeting
 
