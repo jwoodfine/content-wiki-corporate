@@ -4,7 +4,7 @@ title: "Professional Centres Canada LP — Direct-Hold Solution Structure"
 slug: professional-centres-canada-lp-structure
 aliases:
   - pclp-direct-hold-structure
-short_description: "The legal and operating structure of Professional Centres Canada LP at the limited-partnership level — the advisory agreement, escrowed promoter equity, unit history, regulatory standing, and settlement mechanics — distinct from the corporate-parent and four-jurisdiction overview articles."
+short_description: "The legal and operating structure of Professional Centres Canada LP at the limited-partnership level — the advisory agreement, escrowed promoter equity, regulatory standing, and settlement mechanics — distinct from the corporate-parent and four-jurisdiction overview articles."
 category: investments
 index_group: legal-form-and-jurisdiction
 type: reference
@@ -20,24 +20,20 @@ paired_with: professional-centres-canada-lp-structure.es.md
 cites: []
 ---
 
-**Professional Centres Canada LP** is the Canadian limited partnership, formed under the British Columbia *Partnership Act*, that issues Investment Units in the operating Direct-Hold Solution vehicle described in the [[four-jurisdiction-framework|Four-Jurisdiction Framework]]. Woodfine Professional Centres Inc. — a wholly owned subsidiary of Woodfine Capital Projects Inc. (WCP) — serves as general partner, bound by a Unanimous Shareholder Agreement that requires a majority of its board to be arm's-length, independent directors. WCP itself acts as Developer and Promoter of the structure; its origination and development role expressly excludes management of third-party capital, funds, or financial assets on the partnership's behalf. This article covers the entities, agreements, and mechanics specific to this vehicle at the partnership level — the advisory relationship, the promoter's equity-based compensation, a historical unit surrender, the partnership's regulatory standing, and its settlement arrangements — rather than the corporate-parent structure or the multi-jurisdiction deployment architecture covered elsewhere.
+**Professional Centres Canada LP** is the Canadian limited partnership, formed under the British Columbia *Partnership Act*, that issues Investment Units in the operating Direct-Hold Solution vehicle described in the [[four-jurisdiction-framework|Four-Jurisdiction Framework]]. Woodfine Professional Centres Inc. — a wholly owned subsidiary of Woodfine Capital Projects Inc. (WCP) — serves as general partner, bound by a Unanimous Shareholder Agreement that requires a majority of its board to be arm's-length, independent directors. WCP itself acts as Developer and Promoter of the structure; its origination and development role expressly excludes management of third-party capital, funds, or financial assets on the partnership's behalf. This article covers the entities, agreements, and mechanics specific to this vehicle at the partnership level — the advisory relationship, the promoter's equity-based compensation, the partnership's regulatory standing, and its settlement arrangements — rather than the corporate-parent structure or the multi-jurisdiction deployment architecture covered elsewhere.
 
 ## Key takeaways
 
-- Woodfine Advisors Inc., a wholly owned subsidiary of WCP, provides procurement, development, and management services to the partnership under an advisory services agreement that is functionally separate from the general partner's governance role.
+- Woodfine Advisors Inc., a wholly owned subsidiary of WCP, provides procurement, development, and management services to the partnership.
 - The promoter's minority equity interest is held through Benetti Holdings Inc. and issued as escrowed equity-based compensation; the units remain in escrow, with voting rights retained, until limited partners recover 100% of contributed capital or a defined liquidity event occurs.
 
 ## Advisory and management
 
-The general partner retains Woodfine Advisors Inc., a wholly owned subsidiary of WCP, to provide procurement, development, and management services to the limited partnership under an advisory services agreement. This advisory relationship is functionally separate from the general partner's governance role: Woodfine Professional Centres Inc. holds management authority and fiduciary responsibility for the partnership's business, while Woodfine Advisors Inc. performs the operational work of sourcing sites, overseeing construction, and managing completed buildings under that authority. Fees paid to the advisor under this agreement are a related-party transaction and are disclosed as such in the partnership's continuous disclosure record.
+The general partner retains Woodfine Advisors Inc., a wholly owned subsidiary of WCP, to provide procurement, development, and management services to the limited partnership.
 
 ## Equity-based compensation
 
 The promoter's minority equity interest in the partnership is held through Benetti Holdings Inc., a special-purpose wholly owned subsidiary of WCP created for this purpose. Benetti Holdings Inc.'s units were issued as equity-based compensation for services rather than as a cash subscription at the price paid by limited partners, and they are held in escrow: the promoter retains voting rights on the escrowed units throughout, but the units do not become freely disposable until limited partners have recovered 100% of their contributed capital, or another defined liquidity event occurs. This escrow condition ties the promoter's realized economic return directly to the capital-recovery position already achieved by the partnership's limited partners, rather than releasing it on a fixed schedule unrelated to investor outcomes.
-
-## Unit history — the Woodfine Properties Inc. surrender
-
-Woodfine Properties Inc. was formerly a limited partner of Professional Centres Canada LP. It has since surrendered all of its Investment Units to the partnership for nil consideration, and those units were cancelled rather than redeemed. Because no consideration passed to Woodfine Properties Inc. in exchange for the surrender, the transaction is not a return of capital to that partner, and it does not affect the capital accounts or entitlements of the partnership's other limited partners.
 
 ## Regulatory standing
 
