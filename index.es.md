@@ -38,11 +38,11 @@ mantenida a través de una subsidiaria de WCP de propósito especial y retenida 
 hasta que los socios limitados recuperen el 100% del capital aportado o se produzca un
 evento de liquidez definido.
 
-Esta enciclopedia está organizada en torno a [[company/_index|la empresa matriz]],
-[[investments/_index|los vehículos de inversión]], [[financial-model/_index|el modelo
-financiero que los sustenta]], [[distributions/_index|las distribuciones y transferencias
-de unidades]], [[governance/_index|la gobernanza y la estructura legal]],
-[[risks/_index|los factores de riesgo]], [[reports/_index|los informes regulatorios]] y la
+Esta enciclopedia está organizada en torno a [la empresa matriz](/category/company),
+[los vehículos de inversión](/category/investments), [el modelo
+financiero que los sustenta](/category/financial-model), [las distribuciones y transferencias
+de unidades](/category/distributions), [la gobernanza y la estructura legal](/category/governance),
+[los factores de riesgo](/category/risks), [los informes regulatorios](/category/reports) y la
 terminología de referencia.
 
 Las declaraciones prospectivas en esta enciclopedia reflejan las intenciones actuales y están

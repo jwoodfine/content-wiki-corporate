@@ -34,11 +34,11 @@ escrowed promoter equity — held through a special-purpose WCP subsidiary and r
 in escrow until limited partners recover 100% of contributed capital or a defined
 liquidity event occurs.
 
-This encyclopedia is organized around [[company/_index|the parent company itself]],
-[[investments/_index|the investment vehicles]], [[financial-model/_index|the financial model
-behind them]], [[distributions/_index|distributions and unit transfers]],
-[[governance/_index|governance and legal structure]], [[risks/_index|risk factors]],
-[[reports/_index|regulatory reports]], and reference terminology. The investments
+This encyclopedia is organized around [the parent company itself](/category/company),
+[the investment vehicles](/category/investments), [the financial model
+behind them](/category/financial-model), [distributions and unit transfers](/category/distributions),
+[governance and legal structure](/category/governance), [risk factors](/category/risks),
+[regulatory reports](/category/reports), and reference terminology. The investments
 section covers the four direct-hold vehicle types, the equity transfer model, and the
 fiduciary mandate in detail.
 
