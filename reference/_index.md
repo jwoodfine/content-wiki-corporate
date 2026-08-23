@@ -38,7 +38,7 @@ this wiki uses in place of jurisdiction-specific designations.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: defined-terms-and-glossaries -->
 - [[corporate-glossary]] — Curated glossary of the core terms used across the corporate knowledge base: the Direct-Hold Solution structure, the four-jurisdiction framework, financial and securities reporting, and the corporate structure governing them.
-- [[canadian-securities-terminology]] — Definitions of the primary Canadian securities regulatory terms used throughout the corporate knowledge base: reporting issuer, SEDAR+, AIF, MD&A, MCR, BCSC, OSC, CSA, NI 45-106, and related instruments.
+- [[canadian-securities-terminology]] — Definitions of the primary Canadian securities regulatory terms used throughout the corporate knowledge base.
 - [[global-investment-terminology]] — Cross-border vocabulary of Global Bridge Terms mapping jurisdiction-specific legal terminology in Canada, the United States, Spain, and Mexico to one accurate shared lexicon.
 - [[cre-financial-metrics]] — Definitions of the primary financial metrics used in commercial real estate investment analysis: NOI, DSCR, LTV, ICR, FFO, AFFO, NAV, IRR, CAGR, and MOIC.
 - [[regulated-reporting-entity]] — The cross-border bridge term Woodfine uses in place of jurisdiction-specific designations such as Reporting Issuer, Entidad Pública, or Emisora.

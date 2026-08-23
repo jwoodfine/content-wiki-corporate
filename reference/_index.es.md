@@ -40,7 +40,7 @@ designaciones específicas de cada jurisdicción.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: defined-terms-and-glossaries -->
 - [[corporate-glossary]] — Glosario curado de los términos centrales utilizados en toda la base de conocimiento corporativa: la estructura de la Solución de Tenencia Directa, el marco de cuatro jurisdicciones, la información financiera y de valores, y la estructura corporativa que los rige.
-- [[canadian-securities-terminology]] — Definiciones de los principales términos regulatorios de valores canadienses utilizados en toda la base de conocimiento corporativa: emisor informante, SEDAR+, AIF, MD&A, MCR, BCSC, OSC, CSA, NI 45-106 e instrumentos relacionados.
+- [[canadian-securities-terminology]] — Definiciones de los principales términos regulatorios de valores canadienses utilizados en toda la base de conocimiento corporativa.
 - [[global-investment-terminology]] — Vocabulario transfronterizo de Términos Puente Globales que mapea la terminología legal específica de cada jurisdicción en Canadá, Estados Unidos, España y México a un léxico común preciso.
 - [[cre-financial-metrics]] — Definiciones de las principales métricas financieras utilizadas en el análisis de inversión en bienes raíces comerciales: NOI, DSCR, LTV, ICR, FFO, AFFO, NAV, IRR, CAGR y MOIC.
 - [[regulated-reporting-entity]] — El término puente transfronterizo que Woodfine utiliza en lugar de designaciones específicas de cada jurisdicción como Reporting Issuer, Entidad Pública o Emisora.
