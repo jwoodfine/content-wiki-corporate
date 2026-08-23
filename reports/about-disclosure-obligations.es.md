@@ -56,8 +56,9 @@ operaciones o asuntos. Al determinar que ha ocurrido un cambio material, el emis
 
 1. Emitir un [[about-material-change-reporting|comunicado de prensa]] divulgando la naturaleza y el contenido del cambio
    inmediatamente después de su determinación.
-2. Presentar un informe de cambio material (Formulario 51-102F3) dentro de los 10 días
-   posteriores al comunicado.
+2. Presentar un informe de cambio material (Formulario 51-102F3) tan pronto como sea posible
+   y, en todo caso, dentro de los 10 días posteriores a la fecha en que ocurrió el cambio
+   material.
 
 El requisito de dos pasos — primero el comunicado de prensa, luego el informe formal —
 está diseñado para garantizar que los participantes del mercado reciban aviso oportuno sin

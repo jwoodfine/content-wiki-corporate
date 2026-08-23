@@ -72,12 +72,6 @@ Upon determination that a material change has occurred, the issuer must:
 2. File a material change report (Form 51-102F3) as soon as practicable, and in any event
    within 10 days of the date on which the material change occurred.
 
-**Correction (2026-08-04):** point 2 previously said "within 10 days of the press release" —
-incorrect. NI 51-102 s.7.1(1), verified against the current in-force text (OSC's unofficial
-consolidation and BCSC's currently-published version, Sept 19, 2025): the 10-day MCR clock
-runs from the date the material change occurred, not the date the press release was issued.
-**Flagged, not silently rewritten.**
-
 The dual-step requirement — press release first, then formal report — is designed to ensure
 that market participants receive timely notice without delay for document preparation.
 
