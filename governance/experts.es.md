@@ -17,12 +17,11 @@ editor: pointsav-engineering
 paired_with: experts.md
 ---
 
-Cuando un documento de oferta o una presentación de divulgación continua incluye o hace
-referencia a un informe, dictamen o valuación preparado por un profesional externo, la ley de
-valores aplicable exige que el emisor identifique a ese experto, describa el interés que el
-experto tenga en el emisor, si lo hubiera, y confirme que el experto ha consentido el uso de su
-informe. Este es el elemento estándar de divulgación de expertos que aparece en un formulario de
-información anual o en un prospecto.
+La ley de valores exige que el emisor identifique a todo experto externo en cuyo informe,
+dictamen o valuación se apoye un documento de oferta o una presentación de divulgación
+continua. El emisor también debe describir cualquier interés que el experto tenga en el emisor
+y confirmar que el experto ha consentido el uso de su informe. Este elemento estándar de
+divulgación de expertos aparece en un formulario de información anual o en un prospecto.
 
 ## Categorías de expertos utilizadas
 

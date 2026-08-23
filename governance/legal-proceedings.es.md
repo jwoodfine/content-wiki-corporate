@@ -17,11 +17,11 @@ editor: pointsav-engineering
 paired_with: legal-proceedings.md
 ---
 
-La divulgación de procedimientos legales es un elemento estándar y recurrente del formulario de
-información anual y las presentaciones de divulgación continua relacionadas de un
-[[regulated-reporting-entity|emisor informante]]. Informa si el emisor, o una subsidiaria, es parte de algún
-procedimiento legal material para su negocio y, cuando corresponda, describe la naturaleza y el
-estatus de ese procedimiento. Este artículo es la versión en lenguaje llano de ese elemento de
+Un [[regulated-reporting-entity|emisor informante]] debe divulgar si él, o una subsidiaria, es parte de algún
+procedimiento legal material para su negocio, y describir la naturaleza y el estatus de
+cualquier procedimiento de ese tipo. Este elemento de divulgación estándar y recurrente
+aparece en el formulario de información anual y las presentaciones de divulgación continua
+relacionadas. Este artículo es la versión en lenguaje llano de ese elemento de
 divulgación en este wiki; la declaración autorizada para un período de reporte específico es la
 presentación aplicable en SEDAR+ o el registro equivalente en la jurisdicción aplicable.
 

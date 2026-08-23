@@ -17,12 +17,11 @@ editor: pointsav-engineering
 paired_with: auditors-transfer-agent-registrar.md
 ---
 
-Un formulario de información anual divulga el auditor, el agente de transferencia y el
-registrador aplicables a un [[regulated-reporting-entity|emisor informante]] —tres funciones que existen para dar
-confianza a los inversores y contrapartes sobre la exactitud de los estados financieros del
-emisor y la exactitud de su registro de quién posee qué. Este artículo describe qué hace cada
-función y por qué existe, independientemente de la firma específica que la desempeñe en un
-momento dado.
+Tres funciones dan a los inversores y contrapartes confianza en que los estados financieros de
+un [[regulated-reporting-entity|emisor informante]], y su registro de quién posee qué, son exactos: el auditor,
+el agente de transferencia y el registrador. Un formulario de información anual divulga quién
+desempeña cada función. Este artículo describe qué hace cada función y por qué existe,
+independientemente de la firma específica que la desempeñe en un momento dado.
 
 ## El auditor
 

@@ -16,10 +16,11 @@ editor: woodfine-editorial
 paired_with: audit-committee-mandate.md
 ---
 
-El Instrumento Nacional 52-110 Comités de Auditoría establece los requisitos obligatorios
-para los comités de auditoría de los [[regulated-reporting-entity|emisores que cotizan]]. El comité de auditoría es un
-comité permanente del consejo de administración responsable de supervisar la integridad de
-la [[about-financial-reporting|información financiera]], la independencia del auditor externo y la adecuación de los
+El comité de auditoría da a los inversores una supervisión independiente de la información
+financiera preparada por la dirección, bajo los requisitos obligatorios que el Instrumento
+Nacional 52-110 Comités de Auditoría establece para los [[regulated-reporting-entity|emisores que cotizan]]. Este
+comité permanente del consejo de administración supervisa la integridad de la
+[[about-financial-reporting|información financiera]], la independencia del auditor externo y la adecuación de los
 controles internos.
 
 ## Composición e independencia

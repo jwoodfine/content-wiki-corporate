@@ -17,10 +17,10 @@ editor: pointsav-engineering
 paired_with: legal-proceedings.es.md
 ---
 
-Legal proceedings disclosure is a standard, recurring item in the annual information form and
-related continuous disclosure filings of a [[regulated-reporting-entity|reporting issuer]]. It reports whether the
-issuer, or a subsidiary, is party to any legal proceeding material to its business, and, where
-applicable, describes the nature and status of that proceeding. This article is the wiki's
+A [[regulated-reporting-entity|reporting issuer]] must disclose whether it, or a subsidiary, is party to any
+legal proceeding material to its business, and describe the nature and status of any such
+proceeding. This standard, recurring disclosure item appears in the annual information form
+and related continuous disclosure filings. This article is the wiki's
 plain-language rendering of that disclosure item; the authoritative statement for a specific
 reporting period is the applicable filing on SEDAR+ or the equivalent registry in the
 applicable jurisdiction.

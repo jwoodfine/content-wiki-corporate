@@ -17,11 +17,11 @@ editor: pointsav-engineering
 paired_with: auditors-transfer-agent-registrar.es.md
 ---
 
-An annual information form discloses the auditor, transfer agent, and registrar applicable to a
-[[regulated-reporting-entity|reporting issuer]] — three roles that exist to give investors and counterparties
-confidence in the accuracy of the issuer's financial statements and the accuracy of its record
-of who owns what. This article describes what each role does and why it exists, independent of
-any specific firm currently holding the role.
+Three roles give investors and counterparties confidence that a [[regulated-reporting-entity|reporting issuer]]'s
+financial statements, and its record of who owns what, are accurate: the auditor, the transfer
+agent, and the registrar. An annual information form discloses who holds each role. This
+article describes what each role does and why it exists, independent of any specific firm
+currently holding the role.
 
 ## The auditor
 

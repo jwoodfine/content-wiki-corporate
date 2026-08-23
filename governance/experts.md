@@ -17,11 +17,11 @@ editor: pointsav-engineering
 paired_with: experts.es.md
 ---
 
-Where an offering document or continuous disclosure filing includes or refers to a report,
-opinion, or valuation prepared by a third-party professional, applicable securities law
-requires the issuer to identify that expert, describe the interest the expert holds in the
-issuer, if any, and confirm that the expert has consented to the use of their report. This is
-the standard experts disclosure item that appears in an annual information form or prospectus.
+Securities law requires the issuer to identify every third-party expert whose report, opinion,
+or valuation an offering document or continuous disclosure filing relies on. The issuer must
+also describe any interest the expert holds in the issuer and confirm that the expert has
+consented to the use of their report. This standard experts disclosure item appears in an
+annual information form or prospectus.
 
 ## Categories of expert relied upon
 

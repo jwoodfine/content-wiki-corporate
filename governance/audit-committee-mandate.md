@@ -16,11 +16,11 @@ editor: woodfine-editorial
 paired_with: audit-committee-mandate.es.md
 ---
 
-National Instrument 52-110 Audit Committees establishes mandatory requirements for the audit
-committees of [[regulated-reporting-entity|reporting issuers]]. The audit committee is a standing committee of the board
-of directors responsible for oversight of [[about-financial-reporting|financial reporting]] integrity, external auditor
-independence, and internal control adequacy. Its mandate is to provide independent
-oversight of management's financial reporting responsibilities on behalf of investors.
+The audit committee gives investors independent oversight of management's financial reporting,
+under mandatory requirements that National Instrument 52-110 Audit Committees sets for
+[[regulated-reporting-entity|reporting issuers]]. This standing committee of the board of directors oversees the
+integrity of [[about-financial-reporting|financial reporting]], the independence of the external auditor, and the
+adequacy of internal controls.
 
 ## Composition and independence
 
