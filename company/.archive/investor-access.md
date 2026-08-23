@@ -10,11 +10,14 @@ index_group: technology-and-investor-services
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Retracted — the 'MCorp-operated investor portal' concept does not trace to any of the ~32 real ingest source files. Every 'portal' reference found in the real source material describes a government regulatory filing portal (SEDAR+, CNMV, CNBV STIV-2), the opposite concept. Track-B integrity review, 2026-08-24."
+superseded_by: none
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: investor-access.es.md
 cites: []

@@ -56,4 +56,3 @@ The articles published at corporate.woodfinegroup.com are publicly available and
 ## See also
 
 - [[about-regulatory-posture|Regulatory Posture]] — the broader OSC disclosure framework applicable to the Woodfine group
-- [[topic-investor-access|Investor Access]] — how investors receive financial reports for their positions

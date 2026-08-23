@@ -10,11 +10,14 @@ index_group: technology-and-investor-services
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Retirado — el concepto de 'portal de inversores operado por MCorp' no se remonta a ninguno de los ~32 archivos fuente reales. Cada referencia a 'portal' encontrada en el material fuente real describe un portal gubernamental de presentación regulatoria (SEDAR+, CNMV, STIV-2 de la CNBV), el concepto opuesto. Revisión de integridad Track-B, 2026-08-24."
+superseded_by: none
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: investor-access.md
 cites: []

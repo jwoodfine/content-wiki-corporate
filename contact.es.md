@@ -13,9 +13,8 @@ paired_with: contact.md
 ---
 
 Para consultas relacionadas con esta wiki o con asuntos corporativos de Woodfine Management
-Corp. — incluidas preguntas sobre el [[topic-direct-hold-framework|Marco de Tenencia Directa]] o el
-[[topic-investor-access|acceso al portal de inversores]] — contacte a MCorp a través
-de los canales institucionales oficiales.
+Corp. — incluidas preguntas sobre el [[topic-direct-hold-framework|Marco de Tenencia Directa]] —
+contacte a MCorp a través de los canales institucionales oficiales.
 
 Para correcciones o actualizaciones del contenido de la wiki, indique el artículo específico
 y el fundamento factual de la corrección. Las decisiones editoriales son tomadas por el equipo

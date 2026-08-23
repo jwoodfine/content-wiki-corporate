@@ -223,3 +223,9 @@ redirects:
 
   - from: /interest-coverage-ratio
     to: /category/financial-model
+
+  # Track-B integrity retraction, 2026-08-24 (2nd batch) — the "MCorp-operated investor
+  # portal" concept does not trace to any real ingest source file. Indexed in the live
+  # sitemap; redirected to the parent category rather than 404'd.
+  - from: /investor-access
+    to: /category/company

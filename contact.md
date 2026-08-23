@@ -11,9 +11,8 @@ editor: pointsav-engineering
 ---
 
 For enquiries related to this wiki or to MCorp corporate matters —
-including questions about the [[topic-direct-hold-framework|Direct-Hold framework]] or
-[[topic-investor-access|investor portal access]] — contact MCorp
-through official institutional channels.
+including questions about the [[topic-direct-hold-framework|Direct-Hold framework]] —
+contact MCorp through official institutional channels.
 
 For corrections or updates to wiki content, flag the specific article and the factual
 basis for the correction. Editorial decisions are made by MCorp staff

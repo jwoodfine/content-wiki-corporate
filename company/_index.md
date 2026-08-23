@@ -17,12 +17,8 @@ editor: woodfine-editorial
 paired_with: _index.es.md
 ---
 
-Woodfine Capital Projects Inc. is a British Columbia holding company that develops and
-promotes commercial buildings. It is a Developer and Promoter, not an asset manager: it
-builds and sponsors the buildings and contracts the platform that administers them. The
-Company covers the corporate entity and its subsidiaries, the separation between the
-technology vendor and each vehicle's governing body, and how an investor reaches their
-own position data.
+Woodfine Capital Projects Inc. is a holding company. The Company covers the corporate
+entity, its subsidiaries, and each Direct-Hold vehicle's governing entity.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card
      (reuses the existing cluster-card--start-here component). Do not add more than one. -->
@@ -44,21 +40,14 @@ vehicle sits in the chain.
 
 ## Technology and investor services
 
-How the platform reaches the investor: the contracted technology vendor, the services
-agreement it holds with each vehicle's governing body, and the portal through which a unit
-holder reads position and ledger records.
+The technology vendor and the services relationship it holds with each vehicle's
+governing entity.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: technology-and-investor-services -->
 - [[vendor-customer-model]] — Structural separation between PointSav Digital Systems as technology vendor and each Direct-Hold vehicle's governing body as data custodian and technology customer, with MCorp handling delegated day-to-day platform administration.
 - [[technology-services]] — Structure of the services agreement under which PointSav Digital Systems provides platform infrastructure to each Direct-Hold vehicle's governing body as a contracted technology vendor.
-- [[investor-access]] — How investors in Direct-Hold assets access position data, financial reports, and ledger records through the MCorp-operated investor portal.
 <!-- END AUTO-GENERATED -->
-
-Structures that issue units to investors are described in the investment vehicle articles,
-not here; this category covers the corporate entity that sponsors them.
 
 ## See also
 
-- [[direct-hold-framework|Direct-hold framework]] — the vehicles this company develops and promotes
-- [[tripartite-management-structure|Tripartite management structure]] — how development, compliance, and capital functions are kept apart
-- [[fiduciary-data-mandate|Fiduciary data mandate]] — the custody obligation the vendor-customer split exists to satisfy
+- [[direct-hold-framework|Direct-Hold Framework]]
