@@ -1,4 +1,5 @@
 ---
+schema: foundry-doc-v1
 title: "Annual reporting cycle"
 slug: about-annual-reporting-cycle
 category: reports

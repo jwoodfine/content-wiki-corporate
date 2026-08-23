@@ -1,4 +1,5 @@
 ---
+schema: foundry-doc-v1
 title: "Ciclo de Presentación de Informes Anuales"
 slug: about-annual-reporting-cycle
 category: reports
