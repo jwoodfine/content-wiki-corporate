@@ -22,7 +22,7 @@ see_also:
   - direct-hold-framework
 ---
 
-Las unidades de inversión son las participaciones emitidas por cada vehículo de tenencia directa dentro del marco de [[direct-hold-framework|Tenencia Directa]] de Woodfine Capital Projects Inc. (WCP), como promotor. Cada unidad de inversión representa un interés proporcional en el vehículo de tenencia directa específico, no una participación en un fondo mancomunado ni una participación proporcional en una cartera de propiedades.
+Cada vehículo de tenencia directa dentro del marco de [[direct-hold-framework|Tenencia Directa]] de Woodfine Capital Projects Inc. (WCP), con WCP como promotor, emite sus propias unidades de inversión. Cada unidad representa un interés proporcional en ese vehículo específico, no una participación en un fondo mancomunado ni una participación proporcional en una cartera de propiedades.
 
 Las unidades se registran a través del sistema de registro en cuenta del vehículo emisor y están diseñadas para ser transferibles a contrapartes dispuestas conforme a las restricciones establecidas en el acuerdo rector del vehículo correspondiente; las unidades del vehículo de Canadá ya constituido no son actualmente libremente transferibles, debido a la orden de suspensión de negociación vigente de la BCSC. El [[perpetual-equity-model|Modelo de Capital Perpetuo]] rige el horizonte de tenencia de estas unidades.
 

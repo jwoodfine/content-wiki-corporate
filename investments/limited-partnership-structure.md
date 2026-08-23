@@ -16,15 +16,15 @@ editor: woodfine-editorial
 paired_with: limited-partnership-structure.es.md
 ---
 
-The limited partnership (LP) is the legal vehicle through which the Canada and United States
-Direct-Hold Solutions are structured; the established Canada vehicle is governed by
-provincial partnership legislation and a limited partnership agreement that defines the
-rights and obligations of all parties, and the planned United States vehicle is intended to
-follow an equivalent structure once established. The Spain SOCIMI and Mexico FIBRA are not
-limited partnerships and are not covered by this article. The LP form achieves the structural
-goals of the direct-hold framework — legal isolation of each asset, direct beneficial ownership
-by unitholders, pass-through income treatment — without the governance overhead of a
-corporate subsidiary structure.
+The limited partnership (LP) form achieves the structural goals of the direct-hold
+framework — legal isolation of each asset, direct beneficial ownership by unitholders,
+pass-through income treatment — without the governance overhead of a corporate subsidiary
+structure. The Canada and United States Direct-Hold Solutions are structured through this
+vehicle. The established Canada vehicle is governed by provincial partnership legislation
+and a limited partnership agreement that defines the rights and obligations of all parties;
+the planned United States vehicle is intended to follow an equivalent structure once
+established. The Spain SOCIMI and Mexico FIBRA are not limited partnerships and are not
+covered by this article.
 
 ## Key takeaways
 

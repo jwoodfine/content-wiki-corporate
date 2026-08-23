@@ -19,7 +19,7 @@ paired_with: narrow-bank-financial-model.es.md
 cites: []
 ---
 
-The **Narrow Bank Financial Model** is the financing discipline that governs how the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] deploy capital and issue debt. The model operates in two sequential phases: an initial equity-funded construction phase that requires no pre-leasing and no external construction loans, followed by a debt issuance phase in which the stabilized investment vehicle issues its own [[debt-service-and-financing-structure|First Secured Mortgage Debentures]] collateralized directly by the completed physical buildings. Only one Direct-Hold Solution is currently established — the Canada limited partnership, Professional Centres Canada LP; the United States, Spain, and Mexico vehicles described below are planned, not yet established.
+The **Narrow Bank Financial Model** governs capital deployment and debt issuance across the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]]. The model operates in two sequential phases: an initial equity-funded construction phase that requires no pre-leasing and no external construction loans, followed by a debt issuance phase in which the stabilized investment vehicle issues its own [[debt-service-and-financing-structure|First Secured Mortgage Debentures]] collateralized directly by the completed physical buildings. Only one Direct-Hold Solution is currently established — the Canada limited partnership, Professional Centres Canada LP; the United States, Spain, and Mexico vehicles described below are planned, not yet established.
 
 ## Ring-fenced liabilities
 

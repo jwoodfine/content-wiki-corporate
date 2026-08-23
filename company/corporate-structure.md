@@ -20,7 +20,7 @@ paired_with: corporate-structure.es.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. (WCP) is a holding company. Through its subsidiaries, it focuses on the origination of Direct-Hold Solutions for the procurement, development, and management of real property. WCP acts as Developer and Promoter of the Direct-Hold Solutions. Its origination and development activities exclude the management of capital, funds, or financial assets on behalf of third parties.
+Woodfine Capital Projects Inc. (WCP), a holding company, originates Direct-Hold Solutions through its subsidiaries for the procurement, development, and management of real property. WCP acts as Developer and Promoter of the Direct-Hold Solutions. Its origination and development activities exclude the management of capital, funds, or financial assets on behalf of third parties.
 
 ## Key takeaways
 

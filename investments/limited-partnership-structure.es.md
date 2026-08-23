@@ -16,13 +16,12 @@ editor: woodfine-editorial
 paired_with: limited-partnership-structure.md
 ---
 
-La sociedad en comandita (SC) es el vehículo legal mediante el cual se estructuran las
-Soluciones de Tenencia Directa de Canadá y Estados Unidos; el vehículo de Canadá ya
-constituido se rige por la legislación provincial sobre sociedades y por un acuerdo de
-sociedad en comandita que define los derechos y obligaciones de todas las partes, y el
-vehículo planificado de Estados Unidos tiene previsto seguir una estructura equivalente una
-vez constituido. La SOCIMI de España y la FIBRA de México no son sociedades en comandita y
-no están cubiertas por este artículo.
+Las Soluciones de Tenencia Directa de Canadá y Estados Unidos se estructuran mediante la
+sociedad en comandita (SC). El vehículo de Canadá ya constituido se rige por la legislación
+provincial sobre sociedades y por un acuerdo de sociedad en comandita que define los
+derechos y obligaciones de todas las partes; el vehículo planificado de Estados Unidos
+tiene previsto seguir una estructura equivalente una vez constituido. La SOCIMI de España
+y la FIBRA de México no son sociedades en comandita y no están cubiertas por este artículo.
 
 ## Puntos clave
 

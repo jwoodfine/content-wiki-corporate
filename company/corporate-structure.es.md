@@ -20,9 +20,9 @@ paired_with: corporate-structure.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. (WCP) es una empresa matriz (holding company). A través de
-sus subsidiarias, se enfoca en la originación de Soluciones de Tenencia Directa para la
-procuración, el desarrollo y la gestión de bienes inmuebles. WCP actúa como Desarrollador
+Woodfine Capital Projects Inc. (WCP), una empresa matriz (holding company), origina
+Soluciones de Tenencia Directa a través de sus subsidiarias para la procuración, el
+desarrollo y la gestión de bienes inmuebles. WCP actúa como Desarrollador
 y Promotor de las Soluciones de Tenencia Directa. Sus actividades de originación y
 desarrollo excluyen la gestión de capital, fondos o activos financieros por cuenta de
 terceros.
