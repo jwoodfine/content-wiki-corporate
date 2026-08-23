@@ -21,7 +21,7 @@ cites: []
 
 Las Direct-Hold Solutions, según diseño, difieren de las tres estructuras de inversión inmobiliaria alternativa más comunes — Joint Ventures Heredados, Fondos de Capital Privado inmobiliarios y Fondos de Inversión Inmobiliaria Tradicionales (REIT) — en doce dimensiones de gobernanza y económicas. Solo una Direct-Hold Solution está actualmente constituida — la sociedad en comandita de Canadá, Professional Centres Canada LP — y sus unidades no son actualmente libremente transferibles, y el reporte regulado integral no está ocurriendo actualmente, porque la sociedad está sujeta a una orden de suspensión de negociación vigente de la British Columbia Securities Commission; los vehículos de Estados Unidos, España y México están planificados, aún no constituidos. Cuatro dimensiones son exclusivas del diseño de las Direct-Hold Solutions: no aparecen en ninguna otra estructura de inversión del conjunto comparativo.
 
-## Matriz de Comparación Estructural
+## Matriz de comparación estructural
 
 | Característica | Joint Venture Heredado | Capital Privado | REIT Tradicional | Direct-Hold Solutions (según diseño) |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ Las Direct-Hold Solutions, según diseño, difieren de las tres estructuras de i
 | Derecho de Preferencia en Deuda | No | No | No | Sí |
 | Inversión Calificada (Ancla Minorista) | No | No | No | Sí |
 
-## Características Donde las Direct-Hold Solutions Eliminan Desventajas Heredadas
+## Características donde las Direct-Hold Solutions eliminan desventajas heredadas
 
 **Sin venta de activos para salida.** Los Joint Ventures Heredados y los Fondos de Capital Privado requieren ventas de activos para devolver capital a los inversores. El evento de salida es iniciado por el gestor. Las Direct-Hold Solutions resuelven este problema a través de titularidad de Libre Transmisión: los inversores pueden salir individualmente a través de una transacción secundaria sin requerir un evento de venta a nivel de cartera.
 
@@ -46,13 +46,13 @@ Las Direct-Hold Solutions, según diseño, difieren de las tres estructuras de i
 
 **Sin intereses capitalizados.** El contrato rector propio de cada Direct-Hold Solution prohíbe explícitamente los intereses capitalizados. Todos los intereses se reconocen como gasto en el período en que se incurren, eliminando la práctica que puede ocultar el costo real del financiamiento de construcción.
 
-## Características Donde las Direct-Hold Solutions Igualan a los REIT Cotizados
+## Características donde las Direct-Hold Solutions igualan a los REIT cotizados
 
 Seis características aparecen tanto en los REIT Tradicionales como en las Direct-Hold Solutions pero están ausentes de los Joint Ventures Heredados y los Fondos de Capital Privado: Diversificación de Cartera, Activo Principal en Balance, Libre Transmisión de Titularidad, Elegibilidad como Garantía, Acceso a Registros Públicos y Reporte Regulado Integral.
 
 **Libre Transmisión de Titularidad.** Como [[regulated-reporting-entity|Entidades Reguladas Emisoras de Información]], las Direct-Hold Solutions emiten Unidades de Inversión que son libremente transferibles a cualquier contraparte elegible sin una decisión de aprobación del gestor en el caso ordinario, en paralelo a las acciones negociables en bolsa de un REIT cotizado — el rol del órgano de gobierno se limita a una lista breve y enumerada de motivos de elegibilidad, no a una discrecionalidad abierta.
 
-## Características Exclusivas de Direct-Hold Solutions
+## Características exclusivas de Direct-Hold Solutions
 
 **Compensación del Desarrollador en Capital.** Woodfine no extrae el beneficio del desarrollador como compensación en efectivo. La compensación se toma como Compensación Basada en Capital — Unidades de Inversión en el vehículo — mantenidas en fideicomiso hasta que el capital inicial de los inversores sea devuelto íntegramente. El interés económico del desarrollador es una alineación directa con los rendimientos del inversor, no una tarifa extraída del vehículo independientemente del rendimiento.
 

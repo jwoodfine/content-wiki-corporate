@@ -20,9 +20,9 @@ short_description: "Estructura legal que emite participaciones en un único veh�
 cites: []
 ---
 
-El Marco de Tenencia Directa es una estructura jurídica de propiedad bajo la cual cada inversor posee participaciones en un único vehículo de tenencia directa nombrado, y no una reclamación proporcional sobre un fondo mancomunado. Cada estructura de tenencia directa se constituye como una unidad jurídica y financiera independiente, de modo que un evento financiero que afecta a una estructura no puede propagarse a la posición del inversor en otra. Este artículo describe la estructura jurídica del marco, el mecanismo de aislamiento, las [[equity-transfer-model|condiciones de transferencia y liquidez]] entre inversores, y la disciplina de cobertura de intereses aplicada por estructura.
+El Marco de Tenencia Directa emite capital específico por estructura: cada inversor posee participaciones en un único vehículo de tenencia directa nombrado, no una participación en un fondo mancomunado.
 
-El marco emite capital específico por estructura: cada inversor posee participaciones en un único vehículo de tenencia directa nombrado, no una participación en un fondo mancomunado.
+Cada estructura de tenencia directa se constituye como una unidad jurídica y financiera independiente, de modo que un evento financiero que afecta a una estructura no puede propagarse a la posición del inversor en otra. Este artículo describe la estructura jurídica del marco, el mecanismo de aislamiento, las [[equity-transfer-model|condiciones de transferencia y liquidez]] entre inversores, y la disciplina de cobertura de intereses aplicada por estructura.
 
 Cada activo es su propia unidad jurídica y financiera, aislada como un vehículo independiente. Un evento financiero que afecta a un activo no puede propagarse al capital del inversor en otro; el aislamiento es una propiedad de la arquitectura, no una promesa contractual.
 

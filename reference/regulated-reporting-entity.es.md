@@ -22,7 +22,7 @@ cites: []
 
 Una **Entidad Regulada Emisora de Información** es el término puente transfronterizo que Woodfine Capital Projects Inc. (WCP), como promotor, aplica a cada una de sus cuatro [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]]. La designación describe un vehículo de inversión que presenta [[about-disclosure-obligations|divulgación pública continua]] ante su regulador de valores soberano, cumple con requisitos de informes continuos obligatorios y pone su registro de divulgación a disposición del público, independientemente de si sus valores de capital cotizan o se negocian en bolsa.
 
-## El Problema de la Fractura Jurisdiccional
+## El problema de la Fractura Jurisdiccional
 
 Cada una de las [[four-jurisdiction-framework|cuatro jurisdicciones]] en las que Woodfine tiene previsto operar utiliza un vocabulario legal distinto para describir el mismo estado de cumplimiento. Los términos no son intercambiables: un término que tiene un significado legal preciso en Canadá puede ser ambiguo, engañoso o legalmente inexacto cuando lo lee un inversor en España o México. Esta divergencia — denominada internamente Fractura Jurisdiccional — crea el riesgo de que inversores institucionales, proveedores de servicios y contrapartes regulatorias en una jurisdicción malinterpreten el estado de un vehículo correctamente constituido bajo las leyes de otra jurisdicción.
 
@@ -30,7 +30,7 @@ En Canadá, el término de control es **Reporting Issuer** conforme a la Ley Can
 
 El término puente **Entidad Regulada Emisora de Información** resuelve esta fractura. La palabra *regulada* se traduce de manera consistente entre sistemas legales: en español, implica específicamente la presentación de documentos ante una autoridad gubernamental — la CNMV, la CNBV, la SEC o la Comisión de Valores de Columbia Británica. Es preciso en los cuatro países.
 
-## Equivalentes Soberanos
+## Equivalentes soberanos
 
 | Dimensión | Canadá | Estados Unidos | España | México |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ El término puente **Entidad Regulada Emisora de Información** resuelve esta fr
 | Portal de presentación | SEDAR+ | EDGAR | Sede Electrónica / CNMV | STIV-2 / CNBV |
 | Término puente global | Entidad Regulada Emisora de Información | Entidad Regulada Emisora de Información | Entidad Regulada Emisora de Información | Entidad Regulada Emisora de Información |
 
-## Supervisión Pública y Divulgación Obligatoria
+## Supervisión pública y divulgación obligatoria
 
 La consecuencia práctica del estado de Entidad Regulada Emisora de Información es la eliminación del período tradicional de bloqueo de capital privado. Dado que cada Direct-Hold Solution está sujeta a Supervisión Pública continua y Requisitos de Informes Continuos obligatorios, las Unidades de Inversión son de Libre Transmisión. Los inversores no están restringidos por períodos de bloqueo estatutarios ni colas de reembolso. Las unidades pueden transferirse mediante transacciones privadas, transferencias institucionales o arreglos de planificación patrimonial a cualquier contraparte elegible. En Canadá y en el vehículo planificado de Estados Unidos, el socio general registra cada transferencia y está contractualmente obligado a admitir a un cesionario elegible — negándose solo por una lista breve y enumerada de motivos — en lugar de ejercer una discrecionalidad de aprobación abierta; los demás tenedores de unidades no tienen ningún rol de aprobación en una transferencia ordinaria.
 
@@ -54,13 +54,13 @@ un tercer aviso disperso. **Señalado, no reescrito silenciosamente.**
 
 Esta característica distingue las Direct-Hold Solutions de los fondos cerrados convencionales, en los que la salida del inversor depende de eventos de liquidez iniciados por el gestor. La estructura de Entidad Regulada Emisora de Información reemplaza esa dependencia por una obligación de divulgación continua, que proporciona la base legal para la libre transmisibilidad.
 
-## Distinción del Estado de Cotización en Bolsa
+## Distinción del estado de cotización en bolsa
 
 Las Direct-Hold Solutions son vehículos Públicos No Negociados. Cumplen todos los requisitos de información de valores de su jurisdicción soberana, pero sus Unidades de Inversión no están admitidas a negociación en una bolsa. Los instrumentos de deuda — Obligaciones con Primera Hipoteca Garantizada — están previstos para ser aptos para bolsa (Exchange-Qualified), proporcionando un precio de referencia disponible públicamente sin que las unidades de capital en sí deban cotizar en bolsa.
 
 El vehículo SOCIMI de España tiene un requisito de cotización estatutaria que no aplica en Canadá, Estados Unidos o México: para mantener el estado de exención fiscal del SOCIMI, el vehículo debe estar admitido a negociación en un mercado regulado. En contextos de lengua española, esta distinción se comunica mediante referencia al Estado Regulatorio del vehículo y el Mecanismo de Liquidez, en lugar de cualquier referencia al estado de cotización.
 
-## Obligaciones de Presentación por Jurisdicción
+## Obligaciones de presentación por jurisdicción
 
 Cada Direct-Hold Solution, como Entidad Regulada Emisora de Información en su jurisdicción soberana, está sujeta a las obligaciones de presentación de la legislación de valores de esa jurisdicción:
 
@@ -79,6 +79,6 @@ resuelta, escalada a Command.
 
 **México — STIV-2 / CNBV.** La planificada Professional Centres Mexico FIBRA tiene previsto presentar a través del sistema STIV-2 de la CNBV. La estructura FIBRA opera como un fideicomiso privado (Fideicomiso de Infraestructura en Bienes Raíces) con Certificados de Participación Inmobiliaria (CBFIs) no cotizados depositados en Indeval.
 
-## Equivalencia de Estatus de Inversor
+## Equivalencia de estatus de inversor
 
 El estatus de Inversor Calificado presenta variaciones equivalentes entre jurisdicciones. En Canadá y Estados Unidos, la designación relevante es [[accredited-investor-eligibility|Inversor Acreditado]]. En España, el equivalente es Inversor Cualificado. En México, la categoría aplicable es Gran Público Inversionista. El término puente global utilizado en las cuatro jurisdicciones es **Inversor Calificado**, que capta el umbral compartido: un inversor sofisticado que cumple los criterios de elegibilidad de su jurisdicción soberana para participar en vehículos de inversión no minoristas.

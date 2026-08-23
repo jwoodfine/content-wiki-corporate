@@ -22,7 +22,7 @@ cites: []
 
 Las [[four-jurisdiction-framework|cuatro jurisdicciones]] en las que Woodfine Capital Projects Inc. (WCP), como promotor, tiene previsto desplegar Direct-Hold Solutions — Canadá, Estados Unidos, España y México — mantienen vocabularios legales distintos para describir vehículos de inversión, sus obligaciones de cumplimiento y sus características de transmisibilidad. Woodfine aborda esta divergencia a través de un conjunto de **Términos Puente Globales**: un vocabulario paralelo diseñado para traducirse con precisión en las cuatro jurisdicciones sin importar los supuestos legales de ninguna de ellas individualmente.
 
-## El Problema de la Fractura Jurisdiccional
+## El problema de la Fractura Jurisdiccional
 
 Tres categorías de terminología conllevan un riesgo particular de mala interpretación entre jurisdicciones.
 
@@ -38,7 +38,7 @@ Tres categorías de terminología conllevan un riesgo particular de mala interpr
 
 **Registrada.** En inglés, Registered significa que el vehículo ha presentado documentación ante la SEC o una comisión de valores canadiense. En español, *Registrada* puede significar simplemente incorporada en el registro mercantil. El estándar más alto — inscripción en el registro nacional de valores — se expresa en español como *Inscrita*. El Término Puente Global **Inscrita en Valores** fuerza al traductor a aplicar el contexto de la ley de valores.
 
-## Tabla de Términos Puente Globales
+## Tabla de términos puente globales
 
 | Dimensión | Canadá | Estados Unidos | España | México | Término Puente Global |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@ Tres categorías de terminología conllevan un riesgo particular de mala interpr
 | Mercado de deuda | Negociada en bolsa | Negociada en bolsa | Negociada en Bolsa | Negociada en Bolsa | Negociada en Bolsa |
 | Estado del inversor | Inversor Acreditado | Inversor Acreditado | Inversor Cualificado | Gran Público Inversionista | Inversor Cualificado |
 
-## Aplicación del Marco
+## Aplicación del marco
 
 **Portal de Presentación Regulatoria.** Cada Direct-Hold Solution presenta su divulgación obligatoria a través del portal de su jurisdicción soberana: [[about-filing-systems|SEDAR+]] en Canadá, EDGAR en Estados Unidos, la Sede Electrónica de la CNMV en España y el STIV-2 administrado por la CNBV en México.
 

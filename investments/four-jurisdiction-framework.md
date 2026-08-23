@@ -38,7 +38,7 @@ Professional Centres Canada LP is a [[regulated-reporting-entity|Regulated Repor
 
 The Professional Centres Canada LP is a formed, existing legal entity — unlike the United States, Spain, and Mexico vehicles, which have not yet been established. Its C$250 million gross funded value target, like each of the other three jurisdictions' targets, remains a prospective figure that has not yet been achieved.
 
-## Structure Overview
+## Structure overview
 
 The established and planned Direct-Hold Solutions are structured as follows (target gross funded values for the three planned vehicles; Canada's figure is the established vehicle's target):
 
@@ -83,7 +83,7 @@ The Mexico FIBRA is a Private FIBRA: its CBFIs are unlisted and trade over the c
 
 The target gross funded value is MN$5,000 million pesos. The Administrator is planned to be a wholly owned subsidiary of WCP constituted under Mexican law. The vehicle's Exchange-Traded First Secured Mortgage Debentures are intended to trade on the Bolsa Mexicana de Valores (BMV) or the Bolsa Institucional de Valores (BIVA), Mexico's two authorized securities exchanges, distinct from the CBFIs, which remain unlisted.
 
-## Self-Similar Governance
+## Self-similar governance
 
 Each of the four Direct-Hold Solutions has its own governing instrument, specific to its jurisdiction's legal form: a partnership agreement in Canada and the United States, corporate bylaws in Spain, and a trust agreement in Mexico. These instruments are self-similar in substance: the same investment discipline and the same Investment Unit mechanics, delivered through the legal form that each jurisdiction mandates.
 

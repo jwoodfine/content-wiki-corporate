@@ -41,7 +41,7 @@ Professional Centres Canada LP es una [[regulated-reporting-entity|Entidad Regul
 
 Professional Centres Canada LP es una entidad legal ya constituida y existente — a diferencia de los vehículos de Estados Unidos, España y México, que aún no se han establecido. Su objetivo de valor bruto financiado de C$250 millones, al igual que el de cada una de las otras tres jurisdicciones, sigue siendo una cifra prospectiva que aún no se ha alcanzado.
 
-## Resumen Estructural
+## Resumen estructural
 
 Los vehículos establecido y planificados se estructuran de la siguiente manera (valores objetivo de financiamiento bruto para los tres vehículos planificados; la cifra de Canadá es el objetivo del vehículo ya establecido):
 
@@ -76,7 +76,7 @@ La Professional Centres Mexico FIBRA está prevista para constituirse en el Esta
 
 La FIBRA de México es una FIBRA Privada: sus CBFIs no están cotizados y se negocian en OTC a un valor de referencia, depositados en Indeval, el depositario central de valores de México. Este método de valor de referencia está autorizado para FIBRAs no listadas bajo el Artículo 188 de la LISR y la Regla 3.21.3.2 de la Resolución Miscelánea Fiscal, en lugar de un precio de mercado público. La divulgación continua se presenta ante la CNBV a través de la plataforma STIV-2. Los CBFIs están además inscritos en el Registro Nacional de Valores (RNV) de México, que administra la CNBV, pese al carácter no listado de la FIBRA Privada. Las Obligaciones con Primera Hipoteca Garantizada Negociadas en Bolsa del vehículo están previstas para negociarse en la Bolsa Mexicana de Valores (BMV) o la Bolsa Institucional de Valores (BIVA), las dos bolsas de valores autorizadas de México, distintas de los CBFIs, que permanecen no listados. El valor financiado bruto objetivo es MN$5.000 millones de pesos.
 
-## Gobernanza Autosimilar
+## Gobernanza autosimilar
 
 Cada una de las cuatro Direct-Hold Solutions cuenta con su propio instrumento rector, específico para la forma jurídica de su jurisdicción: un acuerdo de sociedad en Canadá y Estados Unidos, estatutos sociales en España, y un contrato fiduciario en México. Estos instrumentos son autosimilares en su contenido: la misma disciplina de inversión y la misma mecánica de Unidades de Inversión, entregadas a través de la forma legal que exige cada jurisdicción.
 

@@ -22,7 +22,7 @@ cites: []
 
 The [[four-jurisdiction-framework|four jurisdictions]] in which Woodfine Capital Projects Inc. (WCP), as promoter, intends to deploy Direct-Hold Solutions — Canada, the United States, Spain, and Mexico — each maintain distinct legal vocabularies for describing investment vehicles, their compliance obligations, and their tradability characteristics. Terms that carry precise legal meaning in one jurisdiction are frequently ambiguous, legally inaccurate, or actively misleading when read in the context of another legal system. Woodfine addresses this divergence through a set of **Global Bridge Terms**: a parallel vocabulary designed to translate accurately across all four jurisdictions without importing the legal assumptions of any single one.
 
-## The Jurisdictional Fracture Problem
+## The Jurisdictional Fracture problem
 
 Three categories of terminology carry particular risk of misreading across jurisdictions.
 
@@ -38,7 +38,7 @@ Three categories of terminology carry particular risk of misreading across juris
 
 **Registered.** In English-speaking jurisdictions, Registered means the vehicle has filed with the SEC or a Canadian securities commission. In Spanish, *Registrada* frequently means incorporated in the commercial registry — a far lower threshold. The higher standard, inscription in the national securities registry, is expressed in Spanish as *Inscrita*. The Global Bridge Term **Securities-Registered** forces the translator to apply the securities-law context (*Inscrita en el Registro de Valores*) rather than the commercial-registry reading.
 
-## Global Bridge Term Table
+## Global bridge term table
 
 The following table sets out the jurisdiction-specific terms and their Global Bridge Term equivalents across the nine principal dimensions of the Direct-Hold Solution investment vocabulary:
 
@@ -54,7 +54,7 @@ The following table sets out the jurisdiction-specific terms and their Global Br
 | Debt market | Exchange-Traded | Exchange-Traded | Negociada en Bolsa | Negociada en Bolsa | Exchange-Traded |
 | Investor status | Accredited Investor | Accredited Investor | Inversor Cualificado | Gran Público Inversionista | Qualified Investor |
 
-## How Each Dimension Is Applied
+## How each dimension is applied
 
 **Regulatory Filing Portal.** Each Direct-Hold Solution files its mandatory disclosure through the portal of its sovereign jurisdiction: [[about-filing-systems|SEDAR+]] in Canada, EDGAR in the United States, the CNMV's Sede Electrónica in Spain, and STIV-2 administered by the CNBV in Mexico. The Global Bridge Term Regulatory Filing Portal refers to any of these systems interchangeably when describing the disclosure obligation at a cross-border level.
 
@@ -68,7 +68,7 @@ The following table sets out the jurisdiction-specific terms and their Global Br
 
 **Global Security Identifier.** In Canada and the United States, securities are identified primarily by CUSIP number, with ISIN derived from the CUSIP base. In Spain and Mexico, the primary identifier is ISIN. The Global Bridge Term Global Security Identifier refers to the ISIN as the cross-border common reference, applicable in all four jurisdictions.
 
-## Practical Application
+## Practical application
 
 The Global Bridge Term framework is applied consistently across Woodfine's investor relations, legal documentation, and public disclosure. When communicating with Canadian or United States investors, jurisdiction-specific terms such as Reporting Issuer and [[accredited-investor-eligibility|Accredited Investor]] are used where legally required, with the Global Bridge Term appearing parenthetically for cross-border clarity. When communicating with Spanish or Mexican investors or service providers, the Global Bridge Terms are used as the primary reference, with the sovereign-specific designation — Entidad Pública, Inscrita, Emisora — provided as the jurisdictional translation.
 

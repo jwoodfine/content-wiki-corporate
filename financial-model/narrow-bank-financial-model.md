@@ -25,7 +25,7 @@ The **Narrow Bank Financial Model** is the financing discipline that governs how
 
 The consequence of this structure is that the Direct-Hold Solutions carry no abstract corporate debt. All liabilities are strictly ring-fenced to the real estate that backs them. In the event of a foreclosure on any debenture, the transfer of the underlying physical asset extinguishes the associated debt in its entirety. Investors in the vehicle are never subject to capital calls to cover borrowing liabilities.
 
-## The Equity Phase: Perpetual Capital and Unlevered Construction
+## The equity phase: perpetual capital and unlevered construction
 
 In the initial phase, equity capital raised through the Direct-Hold Solution funds the construction of the first Woodfine Buildings outright. No pre-leasing is required before construction begins. No external construction loans are drawn. The buildings are constructed on an unlevered basis, producing what the model terms unlevered square feet — completed, rentable building area that carries no debt and therefore places no debt-service obligation on the vehicle during the pre-lease-up period.
 
@@ -33,7 +33,7 @@ In the initial phase, equity capital raised through the Direct-Hold Solution fun
 
 This construction approach is a direct function of the perpetual equity structure of the Direct-Hold Solutions. Investment Units are designed to be Freely Transferable — not subject to manager-initiated exit mechanics or redemption queues (the established Canada vehicle's units are not currently freely transferable, because of the active BCSC cease-trade order noted above) — so the vehicle does not face the liquidity demands that typically require a real estate fund to deploy capital only into income-producing assets or pre-leased buildings. Capital can be deployed into construction without the constraint that it must generate a return within a specific fund window, because the vehicle itself has no terminal date.
 
-## The Debt Phase: First Secured Mortgage Debentures
+## The debt phase: first secured mortgage debentures
 
 Once cash flow from completed and leased buildings has stabilized, the Direct-Hold Solution issues First Secured Mortgage Debentures for the financing of subsequent construction phases. These debentures are issued by the vehicle itself — not by an external borrowing entity — and are 100% collateralized by the physical Woodfine Buildings. The debentures are intended to be Exchange-Qualified, meaning they are structured to meet the listing standards of the applicable exchange in the vehicle's jurisdiction without the equity units of the vehicle being listed for trading.
 
@@ -43,13 +43,13 @@ The debt issuance is subject to a coverage covenant: debentures may not be issue
 
 The maximum debt load under the model is 100% of development costs for new construction — debentures fund the construction of additional buildings, not the refinancing of buildings already on the balance sheet. During the active construction phase, the debt-to-asset value of the portfolio is expected to reach no more than approximately 63%.
 
-## The Management Phase: Organic Deleveraging
+## The management phase: organic deleveraging
 
 As the portfolio enters its stabilized management phase — buildings constructed, leased, and generating consistent net operating income — a defined portion of distributable income is applied to systematic debt redemption. Ten percent of distributable income is directed to debenture redemption, producing continuous reduction of the loan-to-value ratio over time through organic cash generation rather than external refinancing activity.
 
 This deleveraging dynamic is driven by portfolio operations rather than by capital market conditions. The vehicle does not rely on favourable refinancing conditions, asset sales, or new equity raises to reduce its debt burden. The 10% distributable income allocation compounds the deleveraging effect across the full hold period.
 
-## Structural Consequences
+## Structural consequences
 
 The Narrow Bank Financial Model has several structural consequences that distinguish it from conventional commercial real estate financing.
 

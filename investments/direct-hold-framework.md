@@ -20,9 +20,9 @@ paired_with: direct-hold-framework.es.md
 cites: []
 ---
 
-The Direct-Hold framework is a legal ownership structure under which each investor holds equity units in a single named direct-hold vehicle rather than a proportional claim on a commingled pool. Each direct-hold structure is constituted as an independent legal and financial unit, so a financial event affecting one cannot propagate to an investor's equity position in another. This article describes the framework's legal structure, the isolation mechanism, [[equity-transfer-model|transfer and liquidity terms]] between investors, and the interest coverage discipline applied per structure.
+The Direct-Hold framework issues structure-specific equity: each investor holds equity units in a single named direct-hold vehicle, not a share in a commingled fund.
 
-The framework issues structure-specific equity: each investor holds equity units in a single named direct-hold vehicle, not a share in a commingled fund.
+Each direct-hold structure is constituted as an independent legal and financial unit, so a financial event affecting one cannot propagate to an investor's equity position in another. This article describes the framework's legal structure, the isolation mechanism, [[equity-transfer-model|transfer and liquidity terms]] between investors, and the interest coverage discipline applied per structure.
 
 Each asset is its own legal and financial unit, isolated as an independent vehicle. A financial event affecting one asset cannot propagate to an investor's equity in another; the isolation is a property of the architecture, not a contractual promise.
 

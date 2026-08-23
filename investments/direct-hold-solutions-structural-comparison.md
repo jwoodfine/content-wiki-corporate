@@ -21,7 +21,7 @@ cites: []
 
 The Direct-Hold Solutions, as designed, differ from the three most common alternative real estate investment structures — Legacy Joint Ventures, Private Equity real estate funds, and Traditional Real Estate Investment Trusts — across twelve governance and economic dimensions. Only one Direct-Hold Solution is currently established — the Canada limited partnership, Professional Centres Canada LP — and its units are not currently freely transferable, and comprehensive regulated reporting is not currently occurring, because the partnership is subject to an active British Columbia Securities Commission cease-trade order; the United States, Spain, and Mexico vehicles are planned, not yet established. Some dimensions distinguish the Direct-Hold Solutions' design from all three legacy structures simultaneously; others represent parity with listed REITs at features that private structures systematically lack. Four dimensions are exclusive to the Direct-Hold Solutions' design: they appear in no other investment structure in the comparison set.
 
-## Structural Comparison Matrix
+## Structural comparison matrix
 
 | Feature | Legacy Joint Venture | Private Equity | Traditional REIT | Direct-Hold Solutions (as designed) |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ The Direct-Hold Solutions, as designed, differ from the three most common altern
 | Debt Right of First Refusal | No | No | No | Yes |
 | Qualified Investment (Major Retailer Anchor) | No | No | No | Yes |
 
-## Features Where Direct-Hold Solutions Eliminate Legacy Disadvantages
+## Features where Direct-Hold Solutions eliminate legacy disadvantages
 
 **No asset sale required for exit.** Legacy Joint Ventures and Private Equity real estate funds require asset sales — or portfolio liquidation — to return capital to investors. The exit event is manager-initiated and occurs when market conditions and the fund's internal timeline converge. Investors have no independent exit mechanism. Traditional REITs and the Direct-Hold Solutions both solve this problem through Freely Transferable ownership: investors can exit individually through a secondary transaction without requiring a portfolio-level sale event.
 
@@ -46,7 +46,7 @@ The Direct-Hold Solutions, as designed, differ from the three most common altern
 
 **No capitalized interest.** Legacy Joint Ventures and Private Equity structures commonly permit interest costs to be capitalized — added to loan principal rather than recognized as a current-period expense. This practice can obscure the actual cost of construction financing and inflate the apparent book value of partially completed buildings. Each Direct-Hold Solution's own governing agreement explicitly prohibits capitalized interest. All interest is expensed as incurred. Traditional REITs typically exclude capitalized interest through their operating REIT structure; the Direct-Hold Solutions impose the same constraint through covenant rather than through the REIT operating framework.
 
-## Features Where Direct-Hold Solutions Match Listed REITs
+## Features where Direct-Hold Solutions match listed REITs
 
 Six features appear in both Traditional REITs and Direct-Hold Solutions but are absent from Legacy Joint Ventures and Private Equity funds:
 
@@ -66,7 +66,7 @@ Six features appear in both Traditional REITs and Direct-Hold Solutions but are 
 
 **Comprehensive Regulated Reporting.** The disclosure standard for both Traditional REITs and the Direct-Hold Solutions is the full continuous disclosure regime of the applicable securities regulator, including audited annual financials, [[about-material-change-reporting|material change reports]], and [[about-quarterly-reporting|management discussion and analysis]]. Private structures may provide periodic reporting but are not subject to regulatory enforcement of that standard.
 
-## Features Exclusive to Direct-Hold Solutions
+## Features exclusive to Direct-Hold Solutions
 
 Four features appear only in the Direct-Hold Solutions column:
 

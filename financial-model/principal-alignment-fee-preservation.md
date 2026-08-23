@@ -21,7 +21,7 @@ cites: []
 
 The **Principal Alignment and Fee Preservation** model describes how compensation in the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] is structured to enforce a direct alignment between the developer's economic interest and the investment returns of the investors it serves. The conventional alternative investment fee model — the 2/20 structure of a 2% annual management fee and 20% carried interest — is restructured in two ways: developer profit is taken as equity rather than cash, and the variable management fee is replaced by a fixed annual overhead contribution that does not grow with the passage of time or the execution of transactions.
 
-## The Problem with the Conventional 2/20 Model
+## The problem with the conventional 2/20 model
 
 In the conventional 2/20 real estate fund structure, the manager receives two streams of compensation that are structurally decoupled from investor outcomes. The annual management fee — typically 1% to 2% of assets under management — is earned regardless of investment performance. The carried interest — typically 15% to 20% of profits above a hurdle rate — is earned only on profitable outcomes, but is cash-settled as profit distributions are made, meaning the manager extracts cash from the vehicle as returns are generated.
 
@@ -29,7 +29,7 @@ In the conventional 2/20 real estate fund structure, the manager receives two st
 
 The result is a fee structure in which the manager's income is partially independent of investor returns (the management fee component) and partially correlated with them (the carried interest component), but in which the developer's own capital is not at risk in the vehicle in the same way that investor capital is. The manager can receive management fees from a fund that ultimately underperforms its hurdle rate.
 
-## Equity-Based Compensation
+## Equity-based compensation
 
 In the Direct-Hold Solutions, Woodfine does not receive cash management fees based on assets under management. Developer compensation is taken as Equity-Based Compensation: Investment Units in the vehicle, received in lieu of cash carried interest. These units are held in trust until investors' initial capital has been fully returned.
 
@@ -39,11 +39,11 @@ The consequence of this structure is a 1:1 alignment between the developer and t
 
 The developer's equity position, once earned through the holding period and investor capital return, becomes Retained Equity on the vehicle's balance sheet. Retained Equity functions as a structural reserve: it is permanent capital that does not require distribution, reducing the vehicle's future need to raise external equity for new construction phases. The compounding of Retained Equity over the vehicle's holding period is the mechanism by which the [[narrow-bank-financial-model|Narrow Bank Financial Model]] produces a materially larger total asset base on the same initial equity capital than legacy alternatives.
 
-## Initial Offering Cost Reimbursement
+## Initial offering cost reimbursement
 
 Separate from the ongoing overhead contribution, WCP pays all costs and expenses of each offering of units. In the established Canada vehicle, the partnership reimburses WCP 1% of the gross proceeds from the sale of units in that offering, as partial payment of those offering costs, per its governing agreement. This is a one-time reimbursement tied to a specific offering, not a recurring management fee.
 
-## The Fixed Annual Overhead Contribution
+## The fixed annual overhead contribution
 
 Variable management fees — acquisition fees, asset management fees, disposition fees, financing fees — are replaced by a single fixed annual overhead contribution calculated on the Gross Funded Value of each Direct-Hold Solution. The overhead contribution is a contribution to the operating costs of MCorp, calculated as a fixed percentage of the stated gross funded value of the vehicle rather than as a mark-to-market percentage of net asset value.
 
@@ -51,7 +51,7 @@ Variable management fees — acquisition fees, asset management fees, dispositio
 
 This structure eliminates several characteristics of the conventional management fee that create misalignment between manager incentives and investor interests. First, the fee does not grow as the vehicle's assets appreciate — a vehicle whose net asset value doubles does not produce double the management fee. Second, the fee is predictable at the time of investment: the investor can calculate the total management overhead cost for the full holding period at inception. Third, the fee is not subject to manipulation through asset valuation — since the fee is calculated on the Gross Funded Value rather than a marked net asset value, there is no incentive to inflate reported valuations to increase fee income. In the established Canada vehicle, its governing agreement prohibits paying any person a fee calculated by reference to net asset value.
 
-## Fee Preservation for Independent Asset Managers
+## Fee preservation for independent asset managers
 
 The fee structure of the Direct-Hold Solutions is designed so that the single fixed overhead contribution remains fully available to compensate the independent Asset Managers who orchestrate the external Special Purpose Vehicles through which international investors access the platform. Independent Asset Managers — fiduciaries engaged by international investors to manage their SPV participation — require compensation from the fee pool generated by the underlying assets. In a conventional 2/20 structure, the manager captures the majority of the fee income, leaving a reduced pool for Asset Managers acting on behalf of specific investor categories.
 
