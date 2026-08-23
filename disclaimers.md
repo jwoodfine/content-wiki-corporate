@@ -27,7 +27,7 @@ advisors, before investing.
 ## No investment advice
 
 Articles describe the structural and legal characteristics of MCorp's frameworks — including
-the [[topic-direct-hold-framework|Direct-Hold framework]] and related governance models —
+the [[direct-hold-framework|Direct-Hold framework]] and related governance models —
 as reference material for institutional professionals, and are qualified in their entirety
 by the applicable Private Placement Memorandum and the governing documents of the relevant
 issuer.

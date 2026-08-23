@@ -22,7 +22,7 @@ Mexico FIBRA are governed by their own jurisdictions' distribution regimes, not 
 partnership agreement, and are not covered by the mechanics described here.
 
 In the established Canada vehicle, distributions are declared by the general partner when
-the asset's operating performance satisfies the interest coverage ratio (ICR) floor. No
+the asset's operating performance satisfies the [[cre-financial-metrics|interest coverage ratio]] (ICR) floor. No
 distribution is declared from an asset whose ICR is below 1.2×. When distributions are
 declared, they are allocated to all outstanding units of the relevant asset in equal
 proportion — no unit carries a preferential distribution right over another. The planned

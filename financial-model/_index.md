@@ -17,7 +17,7 @@ editor: woodfine-editorial
 paired_with: _index.es.md
 ---
 
-The Financial Model covers the group's financing discipline, compensation structure, and
+This category covers the group's financing discipline, compensation structure, and
 valuation and forecasting methodology.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card

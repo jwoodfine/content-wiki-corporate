@@ -20,7 +20,7 @@ short_description: "Eliminación estructural del derecho de reembolso de los inv
 cites: []
 ---
 
-Los activos de [[direct-hold-framework|Tenencia Directa]] de Woodfine no tienen cola de reembolso — el capital de cada inversor corresponde a una propiedad específica, y la liquidez depende del mercado privado para ese activo, no de las reservas de efectivo de la entidad corporativa. Dado que no existe un fondo mancomunado, la condición que hace necesarios los mecanismos de reembolso está ausente por diseño. La liquidez se ejecuta a través del [[equity-transfer-model|Modelo de Transferencia de Capital]], y la deuda a nivel de activo está limitada por el Ratio de Cobertura de Intereses de modo que no se requieren reservas de efectivo para atender las obligaciones.
+Los activos de [[direct-hold-framework|Tenencia Directa]] de Woodfine no tienen cola de reembolso — el capital de cada inversor corresponde a una propiedad específica, y la liquidez depende del mercado privado para ese activo, no de las reservas de efectivo de la entidad corporativa. Dado que no existe un fondo mancomunado, la condición que hace necesarios los mecanismos de reembolso está ausente por diseño. La liquidez se ejecuta a través del [[equity-transfer-model|Modelo de Transferencia de Capital]], y la deuda a nivel de activo está limitada por el [[cre-financial-metrics|Ratio de Cobertura de Intereses]] de modo que no se requieren reservas de efectivo para atender las obligaciones.
 
 ## Puntos clave
 

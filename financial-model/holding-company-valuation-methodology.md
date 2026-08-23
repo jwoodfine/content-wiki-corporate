@@ -44,13 +44,13 @@ The earnings figure that feeds all three valuation methods is itself produced by
 
 Against that revenue, the model nets operating expenses, including multi-jurisdiction general-and-administrative costs and an affiliated promoter/consultant compensation arrangement. This article does not further specify or quantify that arrangement. A flat statutory tax rate — 27% in this model — is then applied to the resulting pre-tax figure to arrive at modeled net earnings, which in turn drives the per-share metrics used in each of the three valuation methods above.
 
+## The bottom line
+
+Holding-company valuation at WCP is modeled through three independent methods — price/earnings, earnings-yield, and book value with its beneficial-ownership NAV build — averaged into a single fair-value composite across a ten-year horizon. All three methods draw on the same underlying earnings figure, itself built from a modeled advisory-fee revenue line across the affiliated vehicle portfolio, netted against operating expenses and a flat statutory tax rate. Every input — the 10.72x multiple, the 4.5% yield, the 10% beneficial-ownership interest, and the 27% tax rate — is a modeled, illustrative parameter, not a disclosed metric or a forecast of actual results.
+
 ## See also
 
 - [[narrow-bank-financial-model|Narrow Bank Financial Model]] — the financing discipline governing the affiliated Direct-Hold vehicles whose NAV feeds the book-value method
 - [[cre-financial-metrics|Commercial Real Estate Financial Metrics]] — the asset- and vehicle-level valuation metrics (NAV, capitalization rate) this holding-company methodology builds on but does not replace
 - [[non-ifrs-measures-explained|Non-IFRS Measures Explained]] — the disclosure treatment applicable to supplementary, non-IFRS financial measures
 - [[direct-hold-framework|Direct-Hold Framework]] — the vehicle-level ownership structure whose beneficial-ownership interest is aggregated into the book-value method
-
-## The bottom line
-
-Holding-company valuation at WCP is modeled through three independent methods — price/earnings, earnings-yield, and book value with its beneficial-ownership NAV build — averaged into a single fair-value composite across a ten-year horizon. All three methods draw on the same underlying earnings figure, itself built from a modeled advisory-fee revenue line across the affiliated vehicle portfolio, netted against operating expenses and a flat statutory tax rate. Every input — the 10.72x multiple, the 4.5% yield, the 10% beneficial-ownership interest, and the 27% tax rate — is a modeled, illustrative parameter, not a disclosed metric or a forecast of actual results.

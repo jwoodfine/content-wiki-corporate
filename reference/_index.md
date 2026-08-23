@@ -66,5 +66,5 @@ real estate are positioned within a broader portfolio.
 
 ## See also
 
-- [[corporate-structure|The Company]] — the entity these terms describe
-- [[direct-hold-framework|The Investment Vehicles]] — the structures the defined terms in this category refer to
+- [[corporate-structure|Corporate Structure]] — the entity these terms describe
+- [[direct-hold-framework|Direct-Hold Framework]] — the structures the defined terms in this category refer to

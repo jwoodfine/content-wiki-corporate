@@ -17,7 +17,7 @@ editor: woodfine-editorial
 paired_with: _index.es.md
 ---
 
-Woodfine Capital Projects Inc. is a holding company. The Company covers the corporate
+Woodfine Capital Projects Inc. is a holding company. This category covers the corporate
 entity, its subsidiaries, and each Direct-Hold vehicle's governing entity.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card

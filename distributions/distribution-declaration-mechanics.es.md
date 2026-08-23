@@ -24,7 +24,7 @@ descrita aquí.
 
 En el vehículo de Canadá ya constituido, las distribuciones son declaradas por el socio
 gestor cuando el desempeño operativo del activo satisface el piso de la razón de cobertura
-de intereses (RCI). No se declara ninguna distribución de un activo cuya RCI sea inferior a
+de [[cre-financial-metrics|intereses]] (RCI). No se declara ninguna distribución de un activo cuya RCI sea inferior a
 1.2×. El vehículo planificado de Estados Unidos tiene previsto aplicar una compuerta de RCI,
 un cálculo proporcional y un protocolo de suspensión equivalentes una vez constituido.
 

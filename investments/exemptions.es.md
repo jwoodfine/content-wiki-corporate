@@ -83,4 +83,4 @@ estatutarias distintas. Véase [[statutory-rights|Derechos Estatutarios]] para e
 
 - [[accredited-investor-eligibility|Elegibilidad de Inversionista Acreditado]] — la exención utilizada para la oferta canadiense
 - [[statutory-rights|Derechos Estatutarios]] — cómo difieren los derechos según la exención y el canal de distribución
-- [[four-jurisdiction-framework|Marco de Cuatro Jurisdicciones]] — la arquitectura de despliegue soberano referida arriba
+- [[four-jurisdiction-framework|Marco de Cuatro Jurisdicciones]] — la arquitectura de despliegue referida arriba

@@ -17,7 +17,7 @@ editor: woodfine-editorial
 paired_with: _index.md
 ---
 
-Los Vehículos de Inversión abarca la estructura de las Soluciones de Tenencia Directa, su
+Esta categoría abarca la estructura de las Soluciones de Tenencia Directa, su
 forma jurídica en cada jurisdicción, y las exenciones bajo las cuales se distribuyen las
 participaciones.
 

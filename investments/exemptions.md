@@ -79,4 +79,4 @@ while having received different disclosure and carrying different statutory prot
 
 - [[accredited-investor-eligibility|Accredited Investor Eligibility]] — the exemption used for the Canadian offering
 - [[statutory-rights|Statutory Rights]] — how rights differ by exemption and distribution channel
-- [[four-jurisdiction-framework|Four-Jurisdiction Framework]] — the sovereign deployment architecture referenced above
+- [[four-jurisdiction-framework|Four-Jurisdiction Framework]] — the deployment architecture referenced above

@@ -11,7 +11,7 @@ editor: pointsav-engineering
 ---
 
 For enquiries related to this wiki or to MCorp corporate matters —
-including questions about the [[topic-direct-hold-framework|Direct-Hold framework]] —
+including questions about the [[direct-hold-framework|Direct-Hold framework]] —
 contact MCorp through official institutional channels.
 
 For corrections or updates to wiki content, flag the specific article and the factual

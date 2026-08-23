@@ -13,7 +13,7 @@ paired_with: contact.md
 ---
 
 Para consultas relacionadas con esta wiki o con asuntos corporativos de Woodfine Management
-Corp. — incluidas preguntas sobre el [[topic-direct-hold-framework|Marco de Tenencia Directa]] —
+Corp. — incluidas preguntas sobre el [[direct-hold-framework|Marco de Tenencia Directa]] —
 contacte a MCorp a través de los canales institucionales oficiales.
 
 Para correcciones o actualizaciones del contenido de la wiki, indique el artículo específico

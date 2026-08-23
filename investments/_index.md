@@ -17,7 +17,7 @@ editor: woodfine-editorial
 paired_with: _index.es.md
 ---
 
-The Investment Vehicles covers the Direct-Hold Solution structure, its legal form in each
+This category covers the Direct-Hold Solution structure, its legal form in each
 jurisdiction, and the exemptions under which units are distributed.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card

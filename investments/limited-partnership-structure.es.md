@@ -69,7 +69,7 @@ de oferta obligatoria de Take Over Bid en lugar de una transferencia ordinaria.
 
 ## Mecanismo de dispensa y modificación de convenios
 
-El convenio de razón de cobertura de intereses, junto con los demás convenios de disciplina
+El convenio de [[cre-financial-metrics|razón de cobertura de intereses]], junto con los demás convenios de disciplina
 crediticia de la sociedad, no es absoluto: una Resolución Especial permite a los socios
 comanditarios dispensar los convenios de endeudamiento — incluido el umbral de
 razón de cobertura de intereses que condiciona la emisión de nueva

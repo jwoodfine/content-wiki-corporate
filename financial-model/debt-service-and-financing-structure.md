@@ -18,8 +18,8 @@ paired_with: debt-service-and-financing-structure.es.md
 
 Commercial real estate acquisitions are routinely financed with a combination of equity and
 mortgage debt. The financing structure in each direct-hold [[limited-partnership-structure|limited partnership]] is designed
-around two constraints: the loan-to-value limit set by the lender, and the 1.2× Interest
-Coverage Ratio (ICR) floor established as a covenant in the partnership's governing
+around two constraints: the loan-to-value limit set by the lender, and the 1.2× [[cre-financial-metrics|Interest
+Coverage Ratio]] (ICR) floor established as a covenant in the partnership's governing
 agreement. These two constraints determine the maximum mortgage quantum for a given asset,
 the interest obligation that the ICR distribution gate must clear, and the interest rate
 risk profile of the investment.

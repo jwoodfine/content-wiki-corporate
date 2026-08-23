@@ -44,13 +44,13 @@ La cifra de utilidades que alimenta los tres métodos de valoración es, a su ve
 
 Frente a esos ingresos, el modelo compensa los gastos operativos, incluidos los costos generales y administrativos multijurisdiccionales y un acuerdo de compensación para un promotor o consultor afiliado. Este artículo no especifica ni cuantifica dicho acuerdo. Luego se aplica una tasa impositiva estatutaria fija — 27% en este modelo — a la cifra resultante antes de impuestos para llegar a las utilidades netas modeladas, que a su vez determinan las métricas por acción utilizadas en cada uno de los tres métodos de valoración anteriores.
 
+## En resumen
+
+La valoración de la empresa matriz en WCP se modela a través de tres métodos independientes — precio/utilidad, rendimiento de utilidades y valor en libros con su construcción de VAN de beneficio económico — promediados en un solo compuesto de valor razonable a lo largo de un horizonte de diez años. Los tres métodos se basan en la misma cifra de utilidades subyacente, construida a su vez a partir de una línea de ingresos por honorarios de asesoría modelada en toda la cartera de vehículos afiliados, neta de gastos operativos y de una tasa impositiva estatutaria fija. Cada insumo — el múltiplo de 10,72x, el rendimiento del 4,5%, la participación de beneficio económico del 10% y la tasa impositiva del 27% — es un parámetro modelado e ilustrativo, no una métrica divulgada ni una proyección de resultados reales.
+
 ## Véase también
 
 - [[narrow-bank-financial-model|Modelo Financiero Narrow Bank]] — la disciplina de financiamiento que rige los vehículos afiliados de Tenencia Directa cuyo VAN alimenta el método de valor en libros
 - [[cre-financial-metrics|Métricas Financieras de Bienes Raíces Comerciales]] — las métricas de valoración a nivel de activo y de vehículo (VAN, tasa de capitalización) sobre las que se construye esta metodología a nivel de empresa matriz, sin reemplazarlas
 - [[non-ifrs-measures-explained|Medidas No-NIIF Explicadas]] — el tratamiento de divulgación aplicable a las medidas financieras complementarias no-NIIF
 - [[direct-hold-framework|Marco de Tenencia Directa]] — la estructura de propiedad a nivel de vehículo cuya participación de beneficio económico se agrega en el método de valor en libros
-
-## En resumen
-
-La valoración de la empresa matriz en WCP se modela a través de tres métodos independientes — precio/utilidad, rendimiento de utilidades y valor en libros con su construcción de VAN de beneficio económico — promediados en un solo compuesto de valor razonable a lo largo de un horizonte de diez años. Los tres métodos se basan en la misma cifra de utilidades subyacente, construida a su vez a partir de una línea de ingresos por honorarios de asesoría modelada en toda la cartera de vehículos afiliados, neta de gastos operativos y de una tasa impositiva estatutaria fija. Cada insumo — el múltiplo de 10,72x, el rendimiento del 4,5%, la participación de beneficio económico del 10% y la tasa impositiva del 27% — es un parámetro modelado e ilustrativo, no una métrica divulgada ni una proyección de resultados reales.

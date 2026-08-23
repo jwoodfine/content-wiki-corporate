@@ -17,7 +17,7 @@ editor: woodfine-editorial
 paired_with: _index.md
 ---
 
-Woodfine Capital Projects Inc. es una sociedad de cartera. La Empresa abarca la entidad
+Woodfine Capital Projects Inc. es una sociedad de cartera. Esta categoría abarca la entidad
 corporativa, sus subsidiarias, y el órgano de gobierno de cada vehículo de Tenencia
 Directa.
 

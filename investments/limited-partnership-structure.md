@@ -74,7 +74,7 @@ rather than an ordinary transfer.
 
 ## Covenant waiver and amendment mechanics
 
-The interest coverage ratio covenant, along with the partnership's other borrowing-discipline
+The [[cre-financial-metrics|interest coverage ratio]] covenant, along with the partnership's other borrowing-discipline
 covenants, is not absolute: a Special Resolution allows limited partners to waive the borrowing
 covenants — including the interest coverage ratio floor that gates
 new debt issuance — increase the fund-raising cap, or approve other fundamental changes to the

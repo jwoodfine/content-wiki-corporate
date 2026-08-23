@@ -42,7 +42,7 @@ Each investment unit in a named asset carries three categories of rights.
 
 **Transfer rights.** Units are designed to be freely transferable to any eligible counterparty (the established Canada vehicle's units are not currently freely transferable, because of the active BCSC cease-trade order noted above). Transfers are recorded in the property ledger in the sequence received by the vehicle's governing body, which admits any transferee who completes the required transfer documentation, subject to a narrow exception where beneficial owners of 45% or more of the outstanding units are, or may be, financial institutions; other unit holders have no approval role. The transferee acquires the full economic and information rights of the transferor upon ledger settlement.
 
-**Information rights.** Unit holders in a named asset receive periodic operating statements for that asset, including revenue, operating expenses, and the current interest coverage ratio. Information is asset-specific and does not extend to other properties in the corporate holding structure.
+**Information rights.** Unit holders in a named asset receive periodic operating statements for that asset, including revenue, operating expenses, and the current [[cre-financial-metrics|interest coverage ratio]]. Information is asset-specific and does not extend to other properties in the corporate holding structure.
 
 ## Interest Coverage Ratio
 

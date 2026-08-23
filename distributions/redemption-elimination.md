@@ -20,7 +20,7 @@ paired_with: redemption-elimination.es.md
 cites: []
 ---
 
-Woodfine [[direct-hold-framework|Direct-Hold]] assets carry no redemption queue — each investor's equity corresponds to a specific property, and liquidity depends on the private market for that asset, not on the corporate entity's cash reserves. Because no commingled pool exists, the condition that makes redemption mechanisms necessary is absent by design. Liquidity executes through the [[equity-transfer-model|Equity Transfer Model]], and asset-level debt is constrained by the Interest Coverage Ratio so that cash reserves are not required to service obligations.
+Woodfine [[direct-hold-framework|Direct-Hold]] assets carry no redemption queue — each investor's equity corresponds to a specific property, and liquidity depends on the private market for that asset, not on the corporate entity's cash reserves. Because no commingled pool exists, the condition that makes redemption mechanisms necessary is absent by design. Liquidity executes through the [[equity-transfer-model|Equity Transfer Model]], and asset-level debt is constrained by the [[cre-financial-metrics|Interest Coverage Ratio]] so that cash reserves are not required to service obligations.
 
 ## Key takeaways
 

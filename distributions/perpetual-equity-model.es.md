@@ -41,7 +41,7 @@ La mecánica de la transferencia es directa: el vendedor identifica una contrapa
 
 ## Política de distribuciones
 
-Las distribuciones se declaran por activo, no a nivel de cartera. La entidad emisora declara distribuciones con cargo a los ingresos operativos cuando el ratio de cobertura de intereses (RCI) del activo es igual o superior a 1,2×. No se declara ninguna distribución de un activo cuyo RCI sea inferior al suelo del 1,2×; este suelo es un convenio establecido en el acuerdo rector del vehículo de tenencia directa aplicable que regula la capacidad de endeudamiento, coherente con el rango del 1,2×–1,4× típico de los préstamos inmobiliarios comerciales.
+Las distribuciones se declaran por activo, no a nivel de cartera. La entidad emisora declara distribuciones con cargo a los ingresos operativos cuando el [[cre-financial-metrics|ratio de cobertura de intereses]] (RCI) del activo es igual o superior a 1,2×. No se declara ninguna distribución de un activo cuyo RCI sea inferior al suelo del 1,2×; este suelo es un convenio establecido en el acuerdo rector del vehículo de tenencia directa aplicable que regula la capacidad de endeudamiento, coherente con el rango del 1,2×–1,4× típico de los préstamos inmobiliarios comerciales.
 
 Cuando se declaran distribuciones, se pagan proporcionalmente entre todas las unidades en circulación del activo correspondiente. Ninguna unidad del mismo activo goza de un derecho de distribución preferente sobre otra.
 

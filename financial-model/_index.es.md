@@ -17,7 +17,7 @@ editor: woodfine-editorial
 paired_with: _index.md
 ---
 
-El Modelo Financiero abarca la disciplina de financiamiento del grupo, la estructura de
+Esta categoría abarca la disciplina de financiamiento del grupo, la estructura de
 compensación y la metodología de valoración y proyección.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card

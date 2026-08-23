@@ -30,7 +30,7 @@ asesores profesionales, antes de invertir.
 ## Sin asesoramiento de inversión
 
 Los artículos describen las características estructurales y jurídicas de los marcos de
-MCorp — incluido el [[topic-direct-hold-framework|Marco de Tenencia Directa]] y
+MCorp — incluido el [[direct-hold-framework|Marco de Tenencia Directa]] y
 los modelos de gobernanza relacionados — como material de referencia para profesionales
 institucionales, y quedan calificados en su totalidad por el Memorando de Colocación Privada
 aplicable y por los documentos constitutivos del emisor correspondiente.
