@@ -42,7 +42,9 @@ Woodfine Management Corp. ("MCorp") holds the role of Manager within the group.
 
 PointSav Digital Systems is a separate, wholly-owned technology subsidiary of WCP under the [[vendor-customer-model|vendor-customer model]].
 
-The promoter's equity interest in each jurisdiction is held by a separate company: Benetti Holdings Inc. in Canada, Benetti Holdings 2 Inc. in the United States, Benetti Holdings 3 S.L. in Spain, and Benetti Holdings 4 S.R.L. in Mexico.
+The promoter's equity interest in each jurisdiction is held by a separate company: Benetti Holdings Inc. in Canada, Benetti Holdings 2 Inc. in the United States, Benetti Holdings 3 S.L. in Spain, and Benetti Holdings 4 S.R.L. in Mexico. These units are held in escrow until limited partners recover 100% of contributed capital or a defined liquidity event occurs.
+
+Woodfine Advisors Inc., a wholly owned subsidiary of WCP, provides procurement, development, and management services to the Canadian partnership.
 
 ## The vehicle layer
 

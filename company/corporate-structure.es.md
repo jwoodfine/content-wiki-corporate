@@ -60,7 +60,13 @@ de WCP, bajo el [[vendor-customer-model|modelo proveedor-cliente]].
 
 La participación accionaria del promotor en cada jurisdicción la mantiene una sociedad
 separada: Benetti Holdings Inc. en Canadá, Benetti Holdings 2 Inc. en Estados Unidos,
-Benetti Holdings 3 S.L. en España, y Benetti Holdings 4 S.R.L. en México.
+Benetti Holdings 3 S.L. en España, y Benetti Holdings 4 S.R.L. en México. Estas
+participaciones se mantienen en fideicomiso de garantía hasta que los socios
+comanditarios recuperen el 100% del capital aportado o se produzca un evento de liquidez
+definido.
+
+Woodfine Advisors Inc., subsidiaria de propiedad total de WCP, presta servicios de
+adquisición, desarrollo y gestión a la sociedad canadiense.
 
 ## La capa de vehículos
 
