@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Market and property risk"
 slug: market-and-property-risk
 category: risks
+index_group: asset-and-development-risk
 type: topic
 content_type: topic
 quality: complete

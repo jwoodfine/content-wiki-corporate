@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Financing and interest rate risk"
 slug: financing-and-interest-rate-risk
 category: risks
+index_group: financing-structural-and-offering-risk
 type: topic
 content_type: topic
 quality: complete

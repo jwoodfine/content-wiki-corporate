@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Sobre los Riesgos"
 slug: about-risks
 category: risks
+index_group: how-risk-is-disclosed
 type: topic
 content_type: topic
 quality: complete

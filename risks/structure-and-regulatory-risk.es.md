@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Riesgo Estructural y Regulatorio"
 slug: structure-and-regulatory-risk
 category: risks
+index_group: financing-structural-and-offering-risk
 type: topic
 content_type: topic
 quality: complete

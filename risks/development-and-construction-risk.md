@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Development and construction risk"
 slug: development-and-construction-risk
 category: risks
+index_group: asset-and-development-risk
 type: topic
 content_type: topic
 quality: complete
