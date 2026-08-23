@@ -64,4 +64,4 @@ Investment units are asset-specific, fixed-supply instruments with no cross-expo
 
 - [[topic-perpetual-equity-model|Perpetual Equity Model]]
 - [[topic-direct-hold-framework|Direct-Hold Framework]]
-- [[topic-property-ledger-technology|Property Ledger Technology]]
+- Property Ledger Technology

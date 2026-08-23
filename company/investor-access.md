@@ -19,7 +19,7 @@ paired_with: investor-access.es.md
 cites: []
 ---
 
-An investor in a [[direct-hold-framework|Direct-Hold]] asset holds a position in a specific named property. Access to position data, financial reports, and transaction records is provided through the investor portal operated by MCorp. The portal reflects the investor's [[property-ledger-technology|ledger]] position — equity percentage, financial event history, and transfer records — for each asset in which they hold a position, with the ledger itself maintained under the authority of the vehicle's own governing body (in Canada, the General Partner, Woodfine Professional Centres Inc.). The position is structured as [[investment-units|investment units]] in the named asset.
+An investor in a [[direct-hold-framework|Direct-Hold]] asset holds a position in a specific named property. Access to position data, financial reports, and transaction records is provided through the investor portal operated by MCorp. The portal reflects the investor's ledger position — equity percentage, financial event history, and transfer records — for each asset in which they hold a position, with the ledger itself maintained under the authority of the vehicle's own governing body (in Canada, the General Partner, Woodfine Professional Centres Inc.). The position is structured as [[investment-units|investment units]] in the named asset.
 
 ## Key takeaways
 
@@ -61,7 +61,7 @@ The investor portal provides a ledger-accurate view of each investor's position 
 
 - [[equity-transfer-model|Equity Transfer Model]] — the mechanics of peer-to-peer equity transfers in Direct-Hold assets
 - [[about-continuous-disclosure|Continuous Disclosure Obligations]] — the OSC reporting requirements that govern financial disclosures made through the portal
-- [[property-ledger-technology|Property Ledger Technology]] — the technical infrastructure that maintains position data and financial event history
+- Property Ledger Technology — the technical infrastructure that maintains position data and financial event history
 
 ---
 

@@ -19,7 +19,7 @@ paired_with: fiduciary-data-mandate.es.md
 cites: []
 ---
 
-The Fiduciary Data Mandate is the operating requirement that each Direct-Hold vehicle's governing body — in Canada, the General Partner, Woodfine Professional Centres Inc. — holds direct physical and cryptographic control of all records defining investor equity positions, asset valuations, and chain of title. The mandate treats reliance on third-party cloud infrastructure for investor [[topic-property-ledger-technology|ledger data]] as a fiduciary failure, not a vendor relationship: a governing body that cannot access its own ledger records without a third party's cooperation cannot independently discharge its obligations to investors. The mandate underpins the [[topic-direct-hold-framework|Direct-Hold framework]], enables the [[topic-equity-transfer-model|Equity Transfer Model]], and is applied alongside the [[topic-interest-coverage-ratio|Interest Coverage Ratio]] discipline at the asset level.
+The Fiduciary Data Mandate is the operating requirement that each Direct-Hold vehicle's governing body — in Canada, the General Partner, Woodfine Professional Centres Inc. — holds direct physical and cryptographic control of all records defining investor equity positions, asset valuations, and chain of title. The mandate treats reliance on third-party cloud infrastructure for investor ledger data as a fiduciary failure, not a vendor relationship: a governing body that cannot access its own ledger records without a third party's cooperation cannot independently discharge its obligations to investors. The mandate underpins the [[topic-direct-hold-framework|Direct-Hold framework]], enables the [[topic-equity-transfer-model|Equity Transfer Model]], and is applied alongside the Interest Coverage Ratio discipline at the asset level.
 
 ## Key takeaways
 
@@ -55,7 +55,7 @@ The Fiduciary Data Mandate is a sovereignty principle applied to digital records
 
 - [[topic-direct-hold-framework]] — the ownership structure that the fiduciary mandate protects
 - [[topic-equity-transfer-model]] — how ledger integrity supports free equity transfer
-- [[topic-interest-coverage-ratio]] — the financial discipline applied alongside the data mandate
+- Interest Coverage Ratio — the financial discipline applied alongside the data mandate
 
 ---
 

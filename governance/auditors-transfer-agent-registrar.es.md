@@ -40,7 +40,7 @@ de la administración.
 El registrador mantiene el registro definitivo de quién posee actualmente cada valor en
 circulación —el registro de tenedores de unidades o acciones. Para las
 [[direct-hold-solutions-structural-comparison|Soluciones de Tenencia Directa]], esta función se desempeña a través del
-[[property-ledger-technology|libro mayor de propiedad]]: el socio gestor de cada sociedad en comandita actualiza el libro
+libro mayor de propiedad: el socio gestor de cada sociedad en comandita actualiza el libro
 mayor cuando recibe una transferencia completada, y el registro en el libro mayor —no un
 registro en papel separado— es el registro autorizado de propiedad para ese activo, según se
 describe en [[accredited-investor-eligibility|Elegibilidad de Inversionista Acreditado]]. La función de registrador existe
@@ -70,12 +70,12 @@ propiedad (el registrador) y el procesamiento de transferencias (el agente de tr
 la función de administrar el activo subyacente es una práctica de gobernanza estándar: significa
 que ninguna parte única origina una transacción y a la vez la verifica o registra de manera
 independiente. Esta separación respalda los mecanismos de integridad descritos en
-[[property-ledger-technology|Tecnología del Libro Mayor de Propiedad]], incluida la estructura de solo-anexado del libro
+Tecnología del Libro Mayor de Propiedad, incluida la estructura de solo-anexado del libro
 mayor y el requisito de una acción explícita del operador para modificar un registro de
 transferencia.
 
 ## Consulte también
 
 - [[audit-committee-mandate|Mandato del Comité de Auditoría]] — supervisión del consejo sobre la designación e independencia del auditor
-- [[property-ledger-technology|Tecnología del Libro Mayor de Propiedad]] — la tecnología que desempeña la función de registrador descrita arriba
+- Tecnología del Libro Mayor de Propiedad — la tecnología que desempeña la función de registrador descrita arriba
 - [[experts|Expertos]] — divulgación del auditor y otros expertos nombrados en documentos de oferta

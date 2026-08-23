@@ -19,7 +19,7 @@ paired_with: vendor-customer-model.md
 cites: []
 ---
 
-PointSav Digital Systems ocupa el rol de proveedor dentro de la [[topic-corporate-structure|estructura corporativa de Woodfine]]. PointSav suministra servicios de plataforma tecnológica —infraestructura del [[topic-property-ledger-technology|registro de propiedades]], portal de inversores, mantenimiento de software— a cada vehículo de Tenencia Directa. El propio órgano de gobierno de cada vehículo — en Canadá, el socio general, Woodfine Professional Centres Inc. — ostenta la custodia de los datos en virtud del [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] y es el único responsable de las decisiones de inversión y fiduciarias que afectan a los activos de [[topic-direct-hold-framework|Tenencia Directa]]; MCorp administra los requisitos cotidianos de la plataforma y las comunicaciones con inversores como tarea delegada por el órgano de gobierno.
+PointSav Digital Systems ocupa el rol de proveedor dentro de la [[topic-corporate-structure|estructura corporativa de Woodfine]]. PointSav suministra servicios de plataforma tecnológica —infraestructura del registro de propiedades, portal de inversores, mantenimiento de software— a cada vehículo de Tenencia Directa. El propio órgano de gobierno de cada vehículo — en Canadá, el socio general, Woodfine Professional Centres Inc. — ostenta la custodia de los datos en virtud del [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] y es el único responsable de las decisiones de inversión y fiduciarias que afectan a los activos de [[topic-direct-hold-framework|Tenencia Directa]]; MCorp administra los requisitos cotidianos de la plataforma y las comunicaciones con inversores como tarea delegada por el órgano de gobierno.
 
 ## Puntos clave
 

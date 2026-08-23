@@ -71,7 +71,7 @@ de oferta obligatoria en lugar de una transferencia ordinaria.
 El convenio de razón de cobertura de intereses, junto con los demás convenios de disciplina
 crediticia de la sociedad, no es absoluto: una Resolución Especial permite a los socios
 comanditarios dispensar los convenios de endeudamiento — incluido el umbral de
-[[interest-coverage-ratio|razón de cobertura de intereses]] que condiciona la emisión de nueva
+razón de cobertura de intereses que condiciona la emisión de nueva
 deuda —, aumentar el límite de captación de capital, o aprobar otras modificaciones
 fundamentales a los documentos rectores de la sociedad. Una Resolución Especial requiere una
 mayoría calificada definida de los votos emitidos, o una resolución escrita equivalente; el

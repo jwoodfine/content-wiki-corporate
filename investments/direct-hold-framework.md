@@ -19,7 +19,7 @@ paired_with: direct-hold-framework.es.md
 cites: []
 ---
 
-The Direct-Hold framework is a legal ownership structure under which each investor holds equity units in a single named direct-hold vehicle rather than a proportional claim on a commingled pool. Each direct-hold structure is constituted as an independent legal and financial unit, so a financial event affecting one cannot propagate to an investor's equity position in another. This article describes the framework's legal structure, the isolation mechanism, [[topic-equity-transfer-model|transfer and liquidity terms]] between investors, the [[topic-fiduciary-data-mandate|fiduciary data obligations]] that protect ledger integrity, and the [[topic-interest-coverage-ratio|interest coverage discipline]] applied per structure.
+The Direct-Hold framework is a legal ownership structure under which each investor holds equity units in a single named direct-hold vehicle rather than a proportional claim on a commingled pool. Each direct-hold structure is constituted as an independent legal and financial unit, so a financial event affecting one cannot propagate to an investor's equity position in another. This article describes the framework's legal structure, the isolation mechanism, [[topic-equity-transfer-model|transfer and liquidity terms]] between investors, the [[topic-fiduciary-data-mandate|fiduciary data obligations]] that protect ledger integrity, and the interest coverage discipline applied per structure.
 
 The framework issues structure-specific equity: each investor holds equity units in a single named direct-hold vehicle, not a share in a commingled fund.
 
@@ -57,7 +57,7 @@ In each direct-hold vehicle, the general partner holds management authority over
 
 - [[topic-equity-transfer-model|Equity Transfer Model]] — how ownership interests in Direct-Hold assets change hands
 - [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] — data governance requirements for the property ledger
-- [[topic-interest-coverage-ratio|Interest Coverage Ratio]] — the debt-management constraint applied per asset
+- Interest Coverage Ratio — the debt-management constraint applied per asset
 - [[topic-redemption-elimination|Redemption Elimination]] — why no redemption queue exists in this structure
 
 ## The bottom line

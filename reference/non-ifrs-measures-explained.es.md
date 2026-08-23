@@ -58,7 +58,7 @@ propiedad. La tasa de capitalización es una herramienta de valuación derivada 
 de mercado observadas, no una medida contable definida bajo NIIF.
 
 **Índice de cobertura de intereses (ICR).** El índice utilizado como
-[[interest-coverage-ratio|convenio de compuerta de distribución]] en toda la estructura de las
+convenio de compuerta de distribución en toda la estructura de las
 [[direct-hold-solutions-structural-comparison|Soluciones de Tenencia Directa]] —el ingreso operativo neto dividido entre las
 obligaciones de interés— es un convenio y una métrica operativa, no una medida definida bajo
 NIIF, aunque se calcula a partir de cifras que se remontan a los estados financieros auditados.

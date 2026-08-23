@@ -79,7 +79,7 @@ It is a curated core set of roughly fifty terms, selected from an internal extra
 
 ## I
 
-**Interest Coverage Ratio (ICR)** — Net operating income divided by annual interest obligations; the covenant gating distributions, requiring coverage of at least 1.2×. See [[interest-coverage-ratio|Interest coverage ratio]].
+**Interest Coverage Ratio (ICR)** — Net operating income divided by annual interest obligations; the covenant gating distributions, requiring coverage of at least 1.2×. See Interest coverage ratio.
 
 **Internal Rate of Return (IRR)** — The discount rate at which the net present value of an investment's cash flows equals zero; the standard total-return measure for a time-limited holding. See [[cre-financial-metrics|Commercial real estate financial metrics]].
 

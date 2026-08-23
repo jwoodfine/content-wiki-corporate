@@ -34,7 +34,7 @@ dependen de condiciones locales de mercado fuera del control de la compañía. U
 vacancia creciente o rentas de solicitud a la baja puede reducir el [[cre-financial-metrics|ingreso operativo
 neto]] de una propiedad incluso cuando esta se encuentre bien mantenida y bien administrada.
 
-Debido a que el [[interest-coverage-ratio|Índice de Cobertura de Intereses]] de cada vehículo de tenencia directa se
+Debido a que el Índice de Cobertura de Intereses de cada vehículo de tenencia directa se
 calcula por activo, una caída sostenida en el ingreso operativo neto de una propiedad
 específica puede llevar su índice por debajo del piso de 1.2×, suspendiendo las distribuciones
 de ese activo en particular. Esto es una consecuencia del riesgo de vacancia y renta que se

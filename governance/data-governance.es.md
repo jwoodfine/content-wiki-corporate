@@ -19,7 +19,7 @@ paired_with: data-governance.md
 cites: []
 ---
 
-El propio órgano de gobierno de cada vehículo de Tenencia Directa — en Canadá, el socio general, Woodfine Professional Centres Inc. — es el custodio legal de todos los datos del [[topic-property-ledger-technology|registro de propiedades]], los registros de inversores y los datos operativos generados en relación con sus activos gestionados. PointSav Digital Systems procesa los datos como proveedor de servicios tecnológicos contratado en virtud del [[topic-technology-services|acuerdo de servicios tecnológicos]]; PointSav no ostenta derechos independientes sobre esos datos. El acuerdo de custodia implementa el [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] dentro del [[topic-vendor-customer-model|modelo proveedor-cliente]] más amplio.
+El propio órgano de gobierno de cada vehículo de Tenencia Directa — en Canadá, el socio general, Woodfine Professional Centres Inc. — es el custodio legal de todos los datos del registro de propiedades, los registros de inversores y los datos operativos generados en relación con sus activos gestionados. PointSav Digital Systems procesa los datos como proveedor de servicios tecnológicos contratado en virtud del [[topic-technology-services|acuerdo de servicios tecnológicos]]; PointSav no ostenta derechos independientes sobre esos datos. El acuerdo de custodia implementa el [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] dentro del [[topic-vendor-customer-model|modelo proveedor-cliente]] más amplio.
 
 ## Puntos clave
 
@@ -60,7 +60,7 @@ El marco de gobernanza de datos de cada vehículo de Tenencia Directa asigna cla
 ## Véase también
 
 - [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] — las obligaciones de gobernanza que cada órgano de gobierno ostenta como custodio del registro de propiedades
-- [[topic-property-ledger-technology|Tecnología del Registro de Propiedades]] — la infraestructura técnica en la que se almacenan y mantienen los datos del registro
+- Tecnología del Registro de Propiedades — la infraestructura técnica en la que se almacenan y mantienen los datos del registro
 - [[topic-vendor-customer-model|Modelo Proveedor-Cliente]] — la relación de servicios que rige el rol de PointSav como procesador de datos
 
 ---

@@ -33,7 +33,7 @@ Woodfine Capital Projects Inc. is incorporated under the Canada Business Corpora
 
 ## Technology vendor
 
-PointSav Digital Systems is a wholly-owned subsidiary of Woodfine Capital Projects Inc. PointSav develops and maintains the [[topic-property-ledger-technology|property ledger]] platform, investor portal, and data infrastructure used to manage Direct-Hold assets, under the [[topic-technology-services|technology services agreement]].
+PointSav Digital Systems is a wholly-owned subsidiary of Woodfine Capital Projects Inc. PointSav develops and maintains the property ledger platform, investor portal, and data infrastructure used to manage Direct-Hold assets, under the [[topic-technology-services|technology services agreement]].
 
 PointSav does not hold equity in any managed property. PointSav does not make investment decisions and does not manage investor relations. Its mandate is confined to technology: platform development, ledger integrity, security posture, and system availability. Investment and capital decisions belong to each vehicle's own governing body.
 

@@ -19,7 +19,7 @@ short_description: "Estructura legal que emite participaciones en un único veh�
 cites: []
 ---
 
-El Marco de Tenencia Directa es una estructura jurídica de propiedad bajo la cual cada inversor posee participaciones en un único vehículo de tenencia directa nombrado, y no una reclamación proporcional sobre un fondo mancomunado. Cada estructura de tenencia directa se constituye como una unidad jurídica y financiera independiente, de modo que un evento financiero que afecta a una estructura no puede propagarse a la posición del inversor en otra. Este artículo describe la estructura jurídica del marco, el mecanismo de aislamiento, las [[topic-equity-transfer-model|condiciones de transferencia y liquidez]] entre inversores, las [[topic-fiduciary-data-mandate|obligaciones fiduciarias de datos]] que protegen la integridad del registro, y la [[topic-interest-coverage-ratio|disciplina de cobertura de intereses]] aplicada por estructura.
+El Marco de Tenencia Directa es una estructura jurídica de propiedad bajo la cual cada inversor posee participaciones en un único vehículo de tenencia directa nombrado, y no una reclamación proporcional sobre un fondo mancomunado. Cada estructura de tenencia directa se constituye como una unidad jurídica y financiera independiente, de modo que un evento financiero que afecta a una estructura no puede propagarse a la posición del inversor en otra. Este artículo describe la estructura jurídica del marco, el mecanismo de aislamiento, las [[topic-equity-transfer-model|condiciones de transferencia y liquidez]] entre inversores, las [[topic-fiduciary-data-mandate|obligaciones fiduciarias de datos]] que protegen la integridad del registro, y la disciplina de cobertura de intereses aplicada por estructura.
 
 El marco emite capital específico por estructura: cada inversor posee participaciones en un único vehículo de tenencia directa nombrado, no una participación en un fondo mancomunado.
 
@@ -57,7 +57,7 @@ En cada vehículo de tenencia directa, el socio general ostenta la autoridad de 
 
 - [[topic-equity-transfer-model|Modelo de Transferencia de Capital]] — cómo cambian de manos los intereses de propiedad en activos de Tenencia Directa
 - [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] — requisitos de gobernanza de datos para el libro contable de propiedad
-- [[topic-interest-coverage-ratio|Ratio de Cobertura de Intereses]] — la restricción de deuda aplicada por activo
+- Ratio de Cobertura de Intereses — la restricción de deuda aplicada por activo
 - [[topic-redemption-elimination|Eliminación de Redención]] — por qué no existe cola de reembolso en esta estructura
 
 ## La conclusión

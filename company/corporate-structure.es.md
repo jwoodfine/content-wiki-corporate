@@ -40,7 +40,7 @@ Woodfine Capital Projects Inc. está constituida conforme a la Ley Canadiense de
 
 ## Proveedor de tecnología
 
-PointSav Digital Systems es una subsidiaria de propiedad absoluta de Woodfine Capital Projects Inc. PointSav desarrolla y mantiene la plataforma de [[topic-property-ledger-technology|registro de propiedades]], el portal de inversores y la infraestructura de datos utilizada para gestionar activos de Tenencia Directa, en virtud del [[topic-technology-services|acuerdo de servicios tecnológicos]]. PointSav no toma decisiones de inversión; estas corresponden al órgano de gobierno de cada vehículo.
+PointSav Digital Systems es una subsidiaria de propiedad absoluta de Woodfine Capital Projects Inc. PointSav desarrolla y mantiene la plataforma de registro de propiedades, el portal de inversores y la infraestructura de datos utilizada para gestionar activos de Tenencia Directa, en virtud del [[topic-technology-services|acuerdo de servicios tecnológicos]]. PointSav no toma decisiones de inversión; estas corresponden al órgano de gobierno de cada vehículo.
 
 ## Subsidiaria de servicios delegados
 

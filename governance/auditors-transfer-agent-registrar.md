@@ -37,7 +37,7 @@ board, not of management.
 
 The registrar maintains the definitive record of who currently holds each outstanding security
 — the register of unit holders or shareholders. For the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]], this
-function is performed through the [[property-ledger-technology|property ledger]]: the general partner of each
+function is performed through the property ledger: the general partner of each
 limited partnership updates the ledger when a completed transfer is received, and the ledger
 entry — not a separate paper register — is the authoritative record of ownership for that
 asset, as described in [[accredited-investor-eligibility|Accredited Investor Eligibility]]. The registrar function exists
@@ -64,12 +64,12 @@ Separating financial statement verification (the auditor), ownership record main
 registrar), and transfer processing (the transfer agent) from the function of managing the
 underlying asset is a standard governance practice: it means that no single party both
 originates a transaction and independently verifies or records it. This separation supports the
-integrity mechanisms described in [[property-ledger-technology|Property Ledger Technology]], including the append-only
+integrity mechanisms described in Property Ledger Technology, including the append-only
 structure of the ledger and the requirement for an explicit operator action to modify a
 transfer record.
 
 ## See also
 
 - [[audit-committee-mandate|Audit Committee Mandate]] — board oversight of auditor appointment and independence
-- [[property-ledger-technology|Property Ledger Technology]] — the technology that performs the registrar function described above
+- Property Ledger Technology — the technology that performs the registrar function described above
 - [[experts|Experts]] — disclosure of the auditor and other named experts in offering documents

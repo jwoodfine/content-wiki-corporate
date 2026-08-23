@@ -65,7 +65,7 @@ a separate holding rather than a share in a diversified fund.
 
 ## No guarantee of return or capital preservation
 
-Nothing in the structure of an investment unit — including the [[interest-coverage-ratio|Interest Coverage Ratio]]
+Nothing in the structure of an investment unit — including the Interest Coverage Ratio
 distribution gate, the [[narrow-bank-financial-model|Narrow Banking Model]]'s financing discipline, or the
 ring-fencing of asset-level debt — guarantees that distributions will be declared, that a unit
 will retain or increase its value, or that an investor will recover the capital invested.

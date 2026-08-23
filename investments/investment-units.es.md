@@ -64,4 +64,4 @@ Las unidades de inversión son instrumentos de oferta fija y específicos de cad
 
 - [[topic-perpetual-equity-model|Modelo de Capital Perpetuo]]
 - [[topic-direct-hold-framework|Marco de Tenencia Directa]]
-- [[topic-property-ledger-technology|Tecnología del Libro Contable de Propiedad]]
+- Tecnología del Libro Contable de Propiedad

@@ -22,7 +22,7 @@ Cada Solución de Tenencia Directa se modela frente a una unidad de referencia d
 
 ## Antes de leer esto
 
-Este artículo asume familiaridad con el propio convenio de cobertura de intereses — véase [[interest-coverage-ratio|Ratio de Cobertura de Intereses]] para entender qué es el piso de 1.20x y por qué se establece en ese nivel; este artículo no vuelve a explicar el convenio, sino que recorre cómo se somete a pruebas de estrés. También asume familiaridad con el valor neto de los activos (NAV) y las demás medidas no-NIIF frente a las cuales reporta esta metodología — véase [[non-ifrs-measures-explained|Medidas No-NIIF Explicadas]]. Más allá de esto no se requiere nada: ningún software de modelado ni acceso a cuenta alguna — este artículo describe una metodología, no una herramienta.
+Este artículo asume familiaridad con el propio convenio de cobertura de intereses — véase Ratio de Cobertura de Intereses para entender qué es el piso de 1.20x y por qué se establece en ese nivel; este artículo no vuelve a explicar el convenio, sino que recorre cómo se somete a pruebas de estrés. También asume familiaridad con el valor neto de los activos (NAV) y las demás medidas no-NIIF frente a las cuales reporta esta metodología — véase [[non-ifrs-measures-explained|Medidas No-NIIF Explicadas]]. Más allá de esto no se requiere nada: ningún software de modelado ni acceso a cuenta alguna — este artículo describe una metodología, no una herramienta.
 
 ## Cómo se construyen los escenarios
 
@@ -50,7 +50,7 @@ Todos los escenarios de estrés y de choque de esta metodología son modelados e
 
 ## Próximos pasos
 
-Consulte [[interest-coverage-ratio|Ratio de Cobertura de Intereses]] para conocer el convenio que esta metodología somete a pruebas de estrés, y [[non-ifrs-measures-explained|Medidas No-NIIF Explicadas]] para saber cómo se definen el NAV y las demás medidas complementarias utilizadas en toda esta metodología, y cómo se concilian con las NIIF. Véase también [[forward-looking-statements-advisory|el Aviso sobre Declaraciones Prospectivas]] para el lenguaje de advertencia que rige cada escenario ilustrativo de este artículo.
+Consulte Ratio de Cobertura de Intereses para conocer el convenio que esta metodología somete a pruebas de estrés, y [[non-ifrs-measures-explained|Medidas No-NIIF Explicadas]] para saber cómo se definen el NAV y las demás medidas complementarias utilizadas en toda esta metodología, y cómo se concilian con las NIIF. Véase también [[forward-looking-statements-advisory|el Aviso sobre Declaraciones Prospectivas]] para el lenguaje de advertencia que rige cada escenario ilustrativo de este artículo.
 
 ---
 

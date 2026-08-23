@@ -79,7 +79,7 @@ Es un conjunto curado de aproximadamente cincuenta términos, seleccionados de u
 
 ## I
 
-**Razón de Cobertura de Intereses (RCI)** — Ingreso operativo neto dividido entre las obligaciones anuales de intereses; el convenio que condiciona las distribuciones, exigiendo una cobertura mínima de 1.2×. Ver [[interest-coverage-ratio|Ratio de cobertura de intereses]].
+**Razón de Cobertura de Intereses (RCI)** — Ingreso operativo neto dividido entre las obligaciones anuales de intereses; el convenio que condiciona las distribuciones, exigiendo una cobertura mínima de 1.2×. Ver Ratio de cobertura de intereses.
 
 **Tasa Interna de Retorno (TIR)** — La tasa de descuento a la cual el valor presente neto de los flujos de efectivo de una inversión es igual a cero; la medida estándar de retorno total para una inversión de plazo determinado. Ver [[cre-financial-metrics|Métricas financieras de bienes raíces comerciales]].
 

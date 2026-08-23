@@ -78,5 +78,5 @@ exposición subyacente de cualquier propiedad endeudada al movimiento de las tas
 
 - [[about-risks]] — cómo se organizan las categorías de riesgo en este wiki
 - [[narrow-bank-financial-model|Modelo de Financiamiento de Banca Estrecha]] — la disciplina de financiamiento en dos fases referida arriba
-- [[interest-coverage-ratio|Índice de Cobertura de Intereses]] — el convenio que condiciona la emisión de deuda y las distribuciones
+- Índice de Cobertura de Intereses — el convenio que condiciona la emisión de deuda y las distribuciones
 - [[market-and-property-risk]] — cómo las condiciones de mercado afectan el ingreso que sostiene el servicio de la deuda

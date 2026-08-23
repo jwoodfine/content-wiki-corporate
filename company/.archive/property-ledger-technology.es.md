@@ -9,11 +9,14 @@ category: company
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Retirado — afirmaba mecánicas específicas no verificables como hecho (modelo de custodia de llaves privadas, 'protocolo de confirmación F12' aplicado al negocio) sin rastro de cita a ningún documento fuente. Revisión de integridad Track-B, 2026-08-24."
+superseded_by: none
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: property-ledger-technology.md
 cites: []

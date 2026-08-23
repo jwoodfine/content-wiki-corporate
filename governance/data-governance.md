@@ -19,7 +19,7 @@ paired_with: data-governance.es.md
 cites: []
 ---
 
-Each Direct-Hold vehicle's own governing body — in Canada, the General Partner, Woodfine Professional Centres Inc. — is the legal custodian of all [[topic-property-ledger-technology|property ledger]] data, investor records, and operational data generated in connection with its managed assets. PointSav Digital Systems processes data as a contracted technology services provider under the [[topic-technology-services|technology services agreement]]; PointSav does not hold independent data rights over any of that custodied data. The custody arrangement implements the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] within the broader [[topic-vendor-customer-model|vendor-customer model]].
+Each Direct-Hold vehicle's own governing body — in Canada, the General Partner, Woodfine Professional Centres Inc. — is the legal custodian of all property ledger data, investor records, and operational data generated in connection with its managed assets. PointSav Digital Systems processes data as a contracted technology services provider under the [[topic-technology-services|technology services agreement]]; PointSav does not hold independent data rights over any of that custodied data. The custody arrangement implements the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] within the broader [[topic-vendor-customer-model|vendor-customer model]].
 
 ## Key takeaways
 
@@ -60,7 +60,7 @@ Each Direct-Hold vehicle's data governance framework allocates custodian respons
 ## See also
 
 - [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] — the governance obligations each vehicle's governing body holds as custodian of the property ledger
-- [[topic-property-ledger-technology|Property Ledger Technology]] — the technical infrastructure on which ledger data is stored and maintained
+- Property Ledger Technology — the technical infrastructure on which ledger data is stored and maintained
 - [[topic-vendor-customer-model|Vendor-Customer Model]] — the services relationship that governs PointSav's role as data processor
 
 ---

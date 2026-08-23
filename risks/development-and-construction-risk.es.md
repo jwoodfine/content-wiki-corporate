@@ -78,7 +78,7 @@ inicial están sujetos al [[market-and-property-risk|riesgo de mercado y de prop
 específica. Un edificio que tarda más de lo previsto en arrendarse, o que se arrienda a rentas
 inferiores a los supuestos de suscripción, genera menos ingresos durante el período de
 arrendamiento inicial de lo proyectado originalmente, lo que a su vez afecta la rapidez con que
-el [[interest-coverage-ratio|Índice de Cobertura de Intereses]] de la propiedad alcanza el nivel requerido para iniciar
+el Índice de Cobertura de Intereses de la propiedad alcanza el nivel requerido para iniciar
 la fase de deuda.
 
 ## Consulte también

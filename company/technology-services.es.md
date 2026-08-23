@@ -37,7 +37,7 @@ PointSav no posee participaciones en ninguna propiedad gestionada en virtud del 
 
 El acuerdo abarca:
 
-- Desarrollo de plataforma y mantenimiento de software para la infraestructura del [[topic-property-ledger-technology|registro de propiedades]] y el portal de inversores
+- Desarrollo de plataforma y mantenimiento de software para la infraestructura del registro de propiedades y el portal de inversores
 - Infraestructura de servidores y gestión de claves privadas para las operaciones del registro
 - Servicios de exportación de datos y portabilidad a solicitud del órgano de gobierno
 - Monitoreo de seguridad y funciones de integridad del sistema
@@ -75,7 +75,7 @@ El acuerdo de servicios tecnológicos mantiene el rol de PointSav estrictamente 
 
 - [[topic-vendor-customer-model|Modelo Proveedor-Cliente]] — la separación estructural entre PointSav y el órgano de gobierno de cada vehículo que refleja el acuerdo de servicios
 - [[topic-data-governance|Gobernanza de Datos]] — el marco de custodia de datos de cada órgano de gobierno que rige las obligaciones de PointSav en virtud del acuerdo
-- [[topic-property-ledger-technology|Tecnología del Registro de Propiedades]] — la infraestructura técnica que PointSav mantiene en virtud del acuerdo
+- Tecnología del Registro de Propiedades — la infraestructura técnica que PointSav mantiene en virtud del acuerdo
 
 ---
 

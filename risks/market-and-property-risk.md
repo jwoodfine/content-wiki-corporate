@@ -32,7 +32,7 @@ new lease, depend on local market conditions that are outside the company's cont
 with rising vacancy or falling asking rents can reduce a property's [[cre-financial-metrics|net operating income]]
 even where the property itself is well maintained and well managed.
 
-Because each direct-hold vehicle's [[interest-coverage-ratio|Interest Coverage Ratio]] is calculated per asset, a
+Because each direct-hold vehicle's Interest Coverage Ratio is calculated per asset, a
 sustained decline in a specific property's net operating income can bring that property's ICR
 below the 1.2× floor, suspending distributions from that asset specifically. This is a
 consequence of vacancy and rent risk working through to the distribution mechanism, not a

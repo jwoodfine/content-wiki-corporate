@@ -19,7 +19,7 @@ paired_with: redemption-elimination.es.md
 cites: []
 ---
 
-Woodfine [[topic-direct-hold-framework|Direct-Hold]] assets carry no redemption queue — each investor's equity corresponds to a specific property, and liquidity depends on the private market for that asset, not on the corporate entity's cash reserves. Because no commingled pool exists, the condition that makes redemption mechanisms necessary is absent by design. Liquidity executes through the [[topic-equity-transfer-model|Equity Transfer Model]], and asset-level debt is constrained by the [[topic-interest-coverage-ratio|Interest Coverage Ratio]] so that cash reserves are not required to service obligations.
+Woodfine [[topic-direct-hold-framework|Direct-Hold]] assets carry no redemption queue — each investor's equity corresponds to a specific property, and liquidity depends on the private market for that asset, not on the corporate entity's cash reserves. Because no commingled pool exists, the condition that makes redemption mechanisms necessary is absent by design. Liquidity executes through the [[topic-equity-transfer-model|Equity Transfer Model]], and asset-level debt is constrained by the Interest Coverage Ratio so that cash reserves are not required to service obligations.
 
 ## Key takeaways
 
@@ -37,7 +37,7 @@ The cash reserve is a structural liability. It earns less than the underlying as
 
 The Direct-Hold architecture removes the condition that requires a cash reserve. There is no pooled capital. Each investor's equity corresponds to a specific property, not to a share in a pool. The corporate entity does not promise to return capital on demand — because there is no pool to draw from.
 
-An investor who wants to exit locates a willing buyer in the private market. The investor receives the proceeds of that private sale. The corporate entity updates the [[topic-property-ledger-technology|ledger]]. No cash reserve is tapped. No other investor's position is affected.
+An investor who wants to exit locates a willing buyer in the private market. The investor receives the proceeds of that private sale. The corporate entity updates the ledger. No cash reserve is tapped. No other investor's position is affected.
 
 ## Artificial bank runs
 
@@ -59,7 +59,7 @@ The Direct-Hold architecture structurally eliminates the need for a redemption f
 
 - [[topic-direct-hold-framework]] — the ownership structure that makes redemption mechanisms unnecessary
 - [[topic-equity-transfer-model]] — how investors exit their positions in practice
-- [[topic-interest-coverage-ratio]] — the debt-service discipline that removes the need for cash reserves
+- Interest Coverage Ratio — the debt-service discipline that removes the need for cash reserves
 
 ---
 

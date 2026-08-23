@@ -19,7 +19,7 @@ short_description: "Requisito de custodia y soberanía que exige que el órgano 
 cites: []
 ---
 
-El Mandato de Datos Fiduciarios es el requisito operativo por el cual el órgano de gobierno de cada vehículo de Tenencia Directa — en Canadá, el socio general, Woodfine Professional Centres Inc. — mantiene el control físico y criptográfico directo de todos los registros que definen las posiciones de capital de los inversores, las valoraciones de activos y la cadena de titularidad. El mandato trata la dependencia de infraestructura en la nube de terceros para los [[topic-property-ledger-technology|datos del libro contable]] de inversores como un incumplimiento fiduciario, no como una decisión de proveedor: un órgano de gobierno que no puede acceder a sus propios registros del libro contable sin la cooperación de un tercero no puede cumplir de forma independiente sus obligaciones con los inversores. El mandato sustenta el [[topic-direct-hold-framework|Marco de Tenencia Directa]], habilita el [[topic-equity-transfer-model|Modelo de Transferencia de Capital]] y se aplica junto con la disciplina del [[topic-interest-coverage-ratio|Ratio de Cobertura de Intereses]] a nivel de activo.
+El Mandato de Datos Fiduciarios es el requisito operativo por el cual el órgano de gobierno de cada vehículo de Tenencia Directa — en Canadá, el socio general, Woodfine Professional Centres Inc. — mantiene el control físico y criptográfico directo de todos los registros que definen las posiciones de capital de los inversores, las valoraciones de activos y la cadena de titularidad. El mandato trata la dependencia de infraestructura en la nube de terceros para los datos del libro contable de inversores como un incumplimiento fiduciario, no como una decisión de proveedor: un órgano de gobierno que no puede acceder a sus propios registros del libro contable sin la cooperación de un tercero no puede cumplir de forma independiente sus obligaciones con los inversores. El mandato sustenta el [[topic-direct-hold-framework|Marco de Tenencia Directa]], habilita el [[topic-equity-transfer-model|Modelo de Transferencia de Capital]] y se aplica junto con la disciplina del Ratio de Cobertura de Intereses a nivel de activo.
 
 ## Puntos clave
 
@@ -55,7 +55,7 @@ El Mandato de Datos Fiduciarios es un principio de soberanía aplicado a los reg
 
 - [[topic-direct-hold-framework]] — la estructura de propiedad que el mandato fiduciario protege
 - [[topic-equity-transfer-model]] — cómo la integridad del libro contable sustenta la libre transferencia de capital
-- [[topic-interest-coverage-ratio]] — la disciplina financiera aplicada en paralelo al mandato de datos
+- Ratio de Cobertura de Intereses — la disciplina financiera aplicada en paralelo al mandato de datos
 
 ---
 

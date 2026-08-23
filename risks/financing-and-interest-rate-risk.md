@@ -75,5 +75,5 @@ rate movement.
 
 - [[about-risks]] — how risk categories are organized across this wiki
 - [[narrow-bank-financial-model|Narrow Banking Model]] — the two-phase financing discipline referenced above
-- [[interest-coverage-ratio|Interest Coverage Ratio]] — the covenant that gates debt issuance and distributions
+- Interest Coverage Ratio — the covenant that gates debt issuance and distributions
 - [[market-and-property-risk]] — how market conditions affect the income that supports debt service

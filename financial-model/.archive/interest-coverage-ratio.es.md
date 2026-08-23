@@ -8,11 +8,14 @@ category: financial-model
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Retirado — afirmaba un umbral de convenio de 1,2x específico como término establecido del contrato de sociedad limitada sin rastro de cita a ningún documento fuente. Revisión de integridad Track-B, 2026-08-24."
+superseded_by: none
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: interest-coverage-ratio.md
 short_description: "Indicador de servicio de deuda que exige que los ingresos operativos cubran los gastos financieros al menos 1,2 veces, equilibrando la capacidad de endeudamiento con el cumplimiento de los compromisos."

@@ -9,11 +9,14 @@ category: company
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Retracted — stated specific unverifiable mechanics as fact (private-key custody model, 'F12 commit protocol' applied to the business) with no citation trail to any source document. Track-B integrity review, 2026-08-24."
+superseded_by: none
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: property-ledger-technology.es.md
 cites: []

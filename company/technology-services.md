@@ -37,7 +37,7 @@ PointSav does not hold equity in any managed property under the agreement. Point
 
 The agreement covers:
 
-- Platform development and software maintenance for the [[topic-property-ledger-technology|property ledger]] infrastructure and investor portal
+- Platform development and software maintenance for the property ledger infrastructure and investor portal
 - Server infrastructure and private key management for ledger operations
 - Data export and portability services on the governing body's request
 - Security monitoring and system integrity functions
@@ -75,7 +75,7 @@ The technology services agreement keeps PointSav's role strictly operational and
 
 - [[topic-vendor-customer-model|Vendor-Customer Model]] — the structural separation between PointSav and each vehicle's governing body that the services agreement reflects
 - [[topic-data-governance|Data Governance]] — each governing body's data custody framework that governs PointSav's obligations under the agreement
-- [[topic-property-ledger-technology|Property Ledger Technology]] — the technical infrastructure PointSav maintains under the agreement
+- Property Ledger Technology — the technical infrastructure PointSav maintains under the agreement
 
 ---
 

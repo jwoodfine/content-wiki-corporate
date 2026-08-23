@@ -208,3 +208,18 @@ redirects:
   # article now lives at media-knowledge-projects/buildings/centralized-buying-program.
   - from: /financial-model/centralized-buying-program
     to: https://projects.woodfinegroup.com/buildings/centralized-buying-program
+
+  # Track-B integrity retraction, 2026-08-24 — both articles stated specific
+  # unverifiable mechanics as fact with no source citation (see .archive/ frontmatter
+  # for the finding). No replacement article exists; redirected to the parent category
+  # rather than left to 404 since both URLs are indexed in the live sitemap.
+  # NOTE: `from` must be the bare slug, not category-prefixed — serve_article() in
+  # app-mediakit-knowledge/src/app.rs looks up redirects.yaml by `/{slug}` only. Several
+  # earlier entries in this file use a category-prefixed `from` and are dead (confirmed
+  # via live curl, 2026-08-24) — a pre-existing bug flagged for a future audit pass, not
+  # fixed here as it's outside this retraction's scope.
+  - from: /property-ledger-technology
+    to: /category/company
+
+  - from: /interest-coverage-ratio
+    to: /category/financial-model

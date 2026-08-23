@@ -19,7 +19,7 @@ short_description: "Eliminación estructural del derecho de reembolso de los inv
 cites: []
 ---
 
-Los activos de [[topic-direct-hold-framework|Tenencia Directa]] de Woodfine no tienen cola de reembolso — el capital de cada inversor corresponde a una propiedad específica, y la liquidez depende del mercado privado para ese activo, no de las reservas de efectivo de la entidad corporativa. Dado que no existe un fondo mancomunado, la condición que hace necesarios los mecanismos de reembolso está ausente por diseño. La liquidez se ejecuta a través del [[topic-equity-transfer-model|Modelo de Transferencia de Capital]], y la deuda a nivel de activo está limitada por el [[topic-interest-coverage-ratio|Ratio de Cobertura de Intereses]] de modo que no se requieren reservas de efectivo para atender las obligaciones.
+Los activos de [[topic-direct-hold-framework|Tenencia Directa]] de Woodfine no tienen cola de reembolso — el capital de cada inversor corresponde a una propiedad específica, y la liquidez depende del mercado privado para ese activo, no de las reservas de efectivo de la entidad corporativa. Dado que no existe un fondo mancomunado, la condición que hace necesarios los mecanismos de reembolso está ausente por diseño. La liquidez se ejecuta a través del [[topic-equity-transfer-model|Modelo de Transferencia de Capital]], y la deuda a nivel de activo está limitada por el Ratio de Cobertura de Intereses de modo que no se requieren reservas de efectivo para atender las obligaciones.
 
 ## Puntos clave
 
@@ -37,7 +37,7 @@ La reserva de efectivo es un pasivo estructural. Rinde menos que los activos sub
 
 La arquitectura de Tenencia Directa elimina la condición que requiere una reserva de efectivo. No hay capital mancomunado. El capital de cada inversor corresponde a una propiedad específica, no a una participación en un fondo. La entidad corporativa no promete devolver capital a demanda — porque no hay fondo del que extraer.
 
-Un inversor que quiera salir localiza un comprador dispuesto en el mercado privado. La entidad corporativa actualiza el [[topic-property-ledger-technology|libro contable]]. No se accede a ninguna reserva de efectivo. La posición de ningún otro inversor se ve afectada.
+Un inversor que quiera salir localiza un comprador dispuesto en el mercado privado. La entidad corporativa actualiza el libro contable. No se accede a ninguna reserva de efectivo. La posición de ningún otro inversor se ve afectada.
 
 ## "Corridas bancarias" artificiales
 
@@ -57,7 +57,7 @@ La arquitectura de Tenencia Directa elimina estructuralmente la necesidad de un 
 
 - [[topic-direct-hold-framework]] — la estructura de propiedad que hace innecesarios los mecanismos de reembolso
 - [[topic-equity-transfer-model]] — cómo salen en la práctica los inversores de sus posiciones
-- [[topic-interest-coverage-ratio]] — la disciplina de servicio de deuda que elimina la necesidad de reservas de efectivo
+- Ratio de Cobertura de Intereses — la disciplina de servicio de deuda que elimina la necesidad de reservas de efectivo
 
 ---
 

@@ -9,11 +9,14 @@ category: financial-model
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Retracted — stated a specific 1.2x covenant threshold as an established limited-partnership-agreement term with no citation trail to any source document. Track-B integrity review, 2026-08-24."
+superseded_by: none
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: interest-coverage-ratio.es.md
 cites: []

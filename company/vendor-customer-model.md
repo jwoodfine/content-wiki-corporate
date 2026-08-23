@@ -19,7 +19,7 @@ paired_with: vendor-customer-model.es.md
 cites: []
 ---
 
-PointSav Digital Systems occupies the vendor role within the [[topic-corporate-structure|Woodfine corporate structure]]. PointSav delivers technology platform services — [[topic-property-ledger-technology|property ledger]] infrastructure, investor portal, software maintenance — to each Direct-Hold vehicle. Each vehicle's own governing body — in Canada, the General Partner, Woodfine Professional Centres Inc. — holds data custody under the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] and is solely accountable for investment and fiduciary decisions affecting [[topic-direct-hold-framework|Direct-Hold]] assets; MCorp administers day-to-day platform requirements and investor communications as a task delegated to it by the governing body.
+PointSav Digital Systems occupies the vendor role within the [[topic-corporate-structure|Woodfine corporate structure]]. PointSav delivers technology platform services — property ledger infrastructure, investor portal, software maintenance — to each Direct-Hold vehicle. Each vehicle's own governing body — in Canada, the General Partner, Woodfine Professional Centres Inc. — holds data custody under the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] and is solely accountable for investment and fiduciary decisions affecting [[topic-direct-hold-framework|Direct-Hold]] assets; MCorp administers day-to-day platform requirements and investor communications as a task delegated to it by the governing body.
 
 ## Key takeaways
 

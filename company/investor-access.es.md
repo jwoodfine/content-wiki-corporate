@@ -19,7 +19,7 @@ paired_with: investor-access.md
 cites: []
 ---
 
-Un inversor en un activo de [[direct-hold-framework|Tenencia Directa]] posee una posición en una propiedad específica y nombrada. El acceso a los datos de posición, informes financieros y registros de transacciones se proporciona a través del portal de inversores operado por MCorp. El portal refleja la posición del inversor en el [[property-ledger-technology|registro]] —porcentaje de capital, historial de eventos financieros y registros de transferencias— para cada activo en el que mantiene una posición, con el propio registro mantenido bajo la autoridad del órgano de gobierno del vehículo (en Canadá, el socio general, Woodfine Professional Centres Inc.). La posición se estructura en [[investment-units|unidades de inversión]] en el activo nombrado.
+Un inversor en un activo de [[direct-hold-framework|Tenencia Directa]] posee una posición en una propiedad específica y nombrada. El acceso a los datos de posición, informes financieros y registros de transacciones se proporciona a través del portal de inversores operado por MCorp. El portal refleja la posición del inversor en el registro —porcentaje de capital, historial de eventos financieros y registros de transferencias— para cada activo en el que mantiene una posición, con el propio registro mantenido bajo la autoridad del órgano de gobierno del vehículo (en Canadá, el socio general, Woodfine Professional Centres Inc.). La posición se estructura en [[investment-units|unidades de inversión]] en el activo nombrado.
 
 ## Puntos clave
 
@@ -57,7 +57,7 @@ El acceso al portal se realiza mediante credenciales. MCorp es responsable de la
 
 - [[equity-transfer-model|Modelo de Transferencia de Capital]] — la mecánica de las transferencias de capital entre pares en activos de Tenencia Directa
 - [[about-continuous-disclosure|Obligaciones de Divulgación Continua]] — los requisitos de reporte ante la OSC que rigen las divulgaciones financieras realizadas a través del portal
-- [[property-ledger-technology|Tecnología del Registro de Propiedades]] — la infraestructura técnica que mantiene los datos de posición y el historial de eventos financieros
+- Tecnología del Registro de Propiedades — la infraestructura técnica que mantiene los datos de posición y el historial de eventos financieros
 
 ---
 
