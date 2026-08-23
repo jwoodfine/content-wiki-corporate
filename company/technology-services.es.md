@@ -6,6 +6,7 @@ aliases:
   - topic-technology-services
 short_description: "Estructura del acuerdo de servicios bajo el cual PointSav Digital Systems proporciona infraestructura de plataforma al órgano de gobierno de cada vehículo de Tenencia Directa como proveedor de tecnología contratado."
 category: company
+index_group: technology-and-investor-services
 type: reference
 content_type: topic
 quality: complete

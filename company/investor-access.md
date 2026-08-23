@@ -6,6 +6,7 @@ aliases:
   - topic-investor-access
 short_description: "How investors in Direct-Hold assets access position data, financial reports, and ledger records through the MCorp-operated investor portal."
 category: company
+index_group: technology-and-investor-services
 type: reference
 content_type: topic
 quality: complete

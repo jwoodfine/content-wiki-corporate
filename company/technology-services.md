@@ -6,6 +6,7 @@ aliases:
   - topic-technology-services
 short_description: "Structure of the services agreement under which PointSav Digital Systems provides platform infrastructure to each Direct-Hold vehicle's governing body as a contracted technology vendor."
 category: company
+index_group: technology-and-investor-services
 type: reference
 content_type: topic
 quality: complete

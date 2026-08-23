@@ -6,6 +6,7 @@ aliases:
   - topic-corporate-structure
 short_description: "Corporate structure under Woodfine Capital Projects Inc.: the parent, its technology and delegated-services subsidiaries, and the vehicle-level subsidiaries that govern the Direct-Hold programme."
 category: company
+index_group: corporate-structure-and-ownership
 type: reference
 content_type: topic
 quality: complete

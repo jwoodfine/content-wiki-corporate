@@ -6,6 +6,7 @@ aliases:
   - topic-corporate-structure
 short_description: "Estructura corporativa bajo Woodfine Capital Projects Inc.: la matriz, sus subsidiarias de tecnología y servicios delegados, y las subsidiarias a nivel de vehículo que rigen el programa de Tenencia Directa."
 category: company
+index_group: corporate-structure-and-ownership
 type: reference
 content_type: topic
 quality: complete

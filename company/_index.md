@@ -7,19 +7,58 @@ type: topic
 content_type: topic
 quality: complete
 short_description: "Who Woodfine is: a British Columbia holding company that develops and promotes commercial buildings — a Developer and Promoter, not an asset manager — its history, its people, its subsidiaries, and how the business operates."
+index_type: thematic
+index_scope: company
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: _index.es.md
 ---
 
-The Company covers who Woodfine is: a British Columbia holding company that develops and
-promotes commercial buildings. It is a Developer and Promoter, not an asset manager. Articles
-in this category describe the corporate structure, the vendor-customer relationship between
-the technology and operating subsidiaries, and how the business is organised and run.
+Woodfine Capital Projects Inc. is a British Columbia holding company that develops and
+promotes commercial buildings. It is a Developer and Promoter, not an asset manager: it
+builds and sponsors the buildings and contracts the platform that administers them. The
+Company covers the corporate entity and its subsidiaries, the separation between the
+technology vendor and each vehicle's governing body, and how an investor reaches their
+own position data.
 
-Content here answers the question a first-time reader asks before anything else — who is this
-company — in plain language, before any discussion of investment vehicles, financing, or
-distributions.
+<!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card
+     (reuses the existing cluster-card--start-here component). Do not add more than one. -->
+
+**Start here:** [[corporate-structure|Corporate structure]] — which entity sits where, and
+who holds what, before any other article in this category makes sense.
+
+<!-- END-START-HERE-HIGHLIGHT -->
+
+## Corporate structure and ownership
+
+The parent company and the subsidiaries beneath it: which entity holds the promoter's
+stake, which provides delegated services, and where the governing body of each Direct-Hold
+vehicle sits in the chain.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: corporate-structure-and-ownership -->
+- [[corporate-structure]] — Corporate structure under Woodfine Capital Projects Inc.: the parent, its technology and delegated-services subsidiaries, and the vehicle-level subsidiaries that govern the Direct-Hold programme.
+<!-- END AUTO-GENERATED -->
+
+## Technology and investor services
+
+How the platform reaches the investor: the contracted technology vendor, the services
+agreement it holds with each vehicle's governing body, and the portal through which a unit
+holder reads position and ledger records.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: technology-and-investor-services -->
+- [[vendor-customer-model]] — Structural separation between PointSav Digital Systems as technology vendor and each Direct-Hold vehicle's governing body as data custodian and technology customer, with MCorp handling delegated day-to-day platform administration.
+- [[technology-services]] — Structure of the services agreement under which PointSav Digital Systems provides platform infrastructure to each Direct-Hold vehicle's governing body as a contracted technology vendor.
+- [[investor-access]] — How investors in Direct-Hold assets access position data, financial reports, and ledger records through the MCorp-operated investor portal.
+<!-- END AUTO-GENERATED -->
+
+Structures that issue units to investors are described in the investment vehicle articles,
+not here; this category covers the corporate entity that sponsors them.
+
+## See also
+
+- [[direct-hold-framework|Direct-hold framework]] — the vehicles this company develops and promotes
+- [[tripartite-management-structure|Tripartite management structure]] — how development, compliance, and capital functions are kept apart
+- [[fiduciary-data-mandate|Fiduciary data mandate]] — the custody obligation the vendor-customer split exists to satisfy

@@ -6,6 +6,7 @@ aliases:
   - topic-vendor-customer-model
 short_description: "Structural separation between PointSav Digital Systems as technology vendor and each Direct-Hold vehicle's governing body as data custodian and technology customer, with MCorp handling delegated day-to-day platform administration."
 category: company
+index_group: technology-and-investor-services
 type: reference
 content_type: topic
 quality: complete

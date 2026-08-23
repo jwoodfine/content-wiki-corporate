@@ -6,6 +6,7 @@ aliases:
   - topic-vendor-customer-model
 short_description: "Separación estructural entre PointSav Digital Systems como proveedor de tecnología y el órgano de gobierno de cada vehículo de Tenencia Directa como custodio de datos y cliente tecnológico, con MCorp gestionando la administración delegada del día a día."
 category: company
+index_group: technology-and-investor-services
 type: reference
 content_type: topic
 quality: complete

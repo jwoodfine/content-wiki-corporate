@@ -6,6 +6,7 @@ aliases:
   - topic-investor-access
 short_description: "Cómo los inversores en activos de Tenencia Directa acceden a los datos de posición, informes financieros y registros del libro a través del portal de inversores operado por MCorp."
 category: company
+index_group: technology-and-investor-services
 type: reference
 content_type: topic
 quality: complete
