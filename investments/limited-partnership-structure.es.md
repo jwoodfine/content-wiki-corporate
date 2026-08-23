@@ -17,16 +17,18 @@ paired_with: limited-partnership-structure.md
 ---
 
 La sociedad en comandita (SC) es el vehículo legal mediante el cual se estructuran las
-inversiones de tenencia directa en Canadá. Cada solución de tenencia directa nombrada se
-constituye como una sociedad en comandita regida por la legislación provincial aplicable
-sobre sociedades y por un acuerdo de sociedad en comandita que define los derechos y
-obligaciones de todas las partes.
+Soluciones de Tenencia Directa de Canadá y Estados Unidos; el vehículo de Canadá ya
+constituido se rige por la legislación provincial sobre sociedades y por un acuerdo de
+sociedad en comandita que define los derechos y obligaciones de todas las partes, y el
+vehículo planificado de Estados Unidos tiene previsto seguir una estructura equivalente una
+vez constituido. La SOCIMI de España y la FIBRA de México no son sociedades en comandita y
+no están cubiertas por este artículo.
 
 ## Puntos clave
 
-- Cada solución de tenencia directa es una sociedad en comandita separada; los tenedores
-  de participaciones participan como socios comanditarios y su responsabilidad se limita al
-  capital aportado.
+- Cada solución de tenencia directa constituida como SC es una sociedad en comandita
+  separada; los tenedores de participaciones participan como socios comanditarios y su
+  responsabilidad se limita al capital aportado.
 - El socio general administra el negocio de la sociedad y tiene obligaciones fiduciarias
   hacia los socios comanditarios; estos son inversores pasivos con derechos económicos pero
   sin autoridad de gestión.
@@ -44,7 +46,7 @@ su capital invertido.
 
 ## El acuerdo de sociedad en comandita
 
-El acuerdo de sociedad es el instrumento rector de cada solución de tenencia directa.
+El acuerdo de sociedad es el instrumento rector de cada solución de tenencia directa constituida como SC.
 Especifica los derechos y obligaciones de todos los socios: la estructura de cuentas de
 capital, la asignación de ingresos y pérdidas entre los socios, las condiciones para las
 distribuciones, las disposiciones de transferencia que permiten a los socios comanditarios
@@ -75,7 +77,7 @@ deuda —, aumentar el límite de captación de capital, o aprobar otras modific
 fundamentales a los documentos rectores de la sociedad. Una Resolución Especial requiere una
 mayoría calificada definida de los votos emitidos, o una resolución escrita equivalente; el
 umbral de voto específico se establece en el acuerdo de sociedad en comandita de cada solución
-de tenencia directa. Debido a que esa mayoría calificada corresponde a los socios comanditarios
+de tenencia directa constituida como SC. Debido a que esa mayoría calificada corresponde a los socios comanditarios
 y no al socio gestor, el convenio no puede relajarse unilateralmente por la administración —
 toda dispensa está sujeta al mismo estándar de consentimiento de los inversores que cualquier
 otra modificación fundamental a los documentos rectores de la sociedad.

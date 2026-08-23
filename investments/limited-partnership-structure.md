@@ -16,19 +16,21 @@ editor: woodfine-editorial
 paired_with: limited-partnership-structure.es.md
 ---
 
-The limited partnership (LP) is the legal vehicle through which direct-hold investments are
-structured in Canada. Each named direct-hold solution is constituted as a limited partnership
-governed by the applicable provincial partnership legislation and a limited partnership agreement
-that defines the rights and obligations of all parties. The LP form achieves the structural
+The limited partnership (LP) is the legal vehicle through which the Canada and United States
+Direct-Hold Solutions are structured; the established Canada vehicle is governed by
+provincial partnership legislation and a limited partnership agreement that defines the
+rights and obligations of all parties, and the planned United States vehicle is intended to
+follow an equivalent structure once established. The Spain SOCIMI and Mexico FIBRA are not
+limited partnerships and are not covered by this article. The LP form achieves the structural
 goals of the direct-hold framework — legal isolation of each asset, direct beneficial ownership
 by unitholders, pass-through income treatment — without the governance overhead of a
 corporate subsidiary structure.
 
 ## Key takeaways
 
-- Each direct-hold solution is a separate limited partnership; unitholders participate as
-  limited partners and their liability is limited to the capital contributed — they do not
-  bear personal liability for the debts and obligations of the partnership.
+- Each LP-form direct-hold solution is a separate limited partnership; unitholders
+  participate as limited partners and their liability is limited to the capital contributed
+  — they do not bear personal liability for the debts and obligations of the partnership.
 - The general partner manages the business of the partnership and owes fiduciary duties to
   the limited partners; the limited partners are passive investors with economic rights but
   no management authority.
@@ -52,7 +54,7 @@ capped liability protects them from loss beyond their investment.
 
 ## The limited partnership agreement
 
-The partnership agreement is the governing instrument of each direct-hold solution. It
+The partnership agreement is the governing instrument of each LP-form direct-hold solution. It
 specifies the rights and obligations of all partners: the capital account structure, the
 allocation of income and loss among partners, the conditions for distributions, the transfer
 provisions that allow limited partners to transfer their units to any eligible counterparty
@@ -78,7 +80,7 @@ covenants — including the interest coverage ratio floor that gates
 new debt issuance — increase the fund-raising cap, or approve other fundamental changes to the
 partnership's governing documents. A Special Resolution requires a defined supermajority of
 votes cast, or an equivalent written resolution; the specific vote threshold is set out in each
-direct-hold solution's partnership agreement. Because that supermajority sits with the limited
+LP-form direct-hold solution's partnership agreement. Because that supermajority sits with the limited
 partners rather than the general partner, the covenant floor cannot be relaxed unilaterally by
 management — any waiver carries the same investor-consent standard as any other fundamental
 amendment to the partnership's governing documents.
