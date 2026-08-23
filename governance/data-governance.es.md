@@ -20,7 +20,7 @@ paired_with: data-governance.md
 cites: []
 ---
 
-El propio órgano de gobierno de cada vehículo de Tenencia Directa — en Canadá, el socio general, Woodfine Professional Centres Inc. — es el custodio legal de todos los datos del registro de propiedades, los registros de inversores y los datos operativos generados en relación con sus activos gestionados. PointSav Digital Systems procesa los datos como proveedor de servicios tecnológicos contratado en virtud del [[topic-technology-services|acuerdo de servicios tecnológicos]]; PointSav no ostenta derechos independientes sobre esos datos. El acuerdo de custodia implementa el [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] dentro del [[topic-vendor-customer-model|modelo proveedor-cliente]] más amplio.
+El propio órgano de gobierno de cada vehículo de Tenencia Directa — en Canadá, el socio general, Woodfine Professional Centres Inc. — es el custodio legal de todos los datos del registro de propiedades, los registros de inversores y los datos operativos generados en relación con sus activos gestionados. PointSav Digital Systems procesa los datos como proveedor de servicios tecnológicos contratado en virtud del acuerdo de servicios tecnológicos; PointSav no ostenta derechos independientes sobre esos datos. El acuerdo de custodia implementa el [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] dentro del [[topic-vendor-customer-model|modelo proveedor-cliente]] más amplio.
 
 ## Puntos clave
 

@@ -40,7 +40,7 @@ The Fiduciary Data Mandate closes this vulnerability by treating digital soverei
 
 ## PointSav platform
 
-Each vehicle's governing body's compliance with the mandate is supported by the PointSav platform under the [[topic-technology-services|technology services agreement]]. PointSav provides the operating infrastructure for investor ledger management: a self-hosted system where the governing body holds the private keys, the physical hardware, and operational control of the software stack. No third-party intermediary has access to ledger data without the governing body's cryptographic consent. The arrangement is governed by the [[topic-vendor-customer-model|vendor-customer model]] that separates platform operation from fiduciary responsibility.
+Each vehicle's governing body's compliance with the mandate is supported by the PointSav platform under the technology services agreement. PointSav provides the operating infrastructure for investor ledger management: a self-hosted system where the governing body holds the private keys, the physical hardware, and operational control of the software stack. No third-party intermediary has access to ledger data without the governing body's cryptographic consent. The arrangement is governed by the [[topic-vendor-customer-model|vendor-customer model]] that separates platform operation from fiduciary responsibility.
 
 ## Scope and limits
 

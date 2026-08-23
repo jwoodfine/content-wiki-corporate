@@ -34,7 +34,7 @@ it creates a dependency that investors would need to understand. Within the [[di
 Solutions]] structure, the categories of contract most likely to meet the materiality threshold
 are:
 
-**Management and services agreements.** The [[technology-services|technology services agreement]] between the
+**Management and services agreements.** The technology services agreement between the
 technology vendor and the commercial operator, and any general partner or administrator
 agreement governing how a Direct-Hold Solution is managed, describe the compensation
 arrangement and the scope of authority delegated to the manager. These agreements are material

@@ -44,8 +44,7 @@ The technology vendor and the services relationship it holds with each vehicle's
 governing entity.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: technology-and-investor-services -->
-- [[vendor-customer-model]] — Structural separation between PointSav Digital Systems as technology vendor and each Direct-Hold vehicle's governing body as data custodian and technology customer, with MCorp handling delegated day-to-day platform administration.
-- [[technology-services]] — Structure of the services agreement under which PointSav Digital Systems provides platform infrastructure to each Direct-Hold vehicle's governing body as a contracted technology vendor.
+- [[vendor-customer-model]] — Structural separation between PointSav Digital Systems as technology vendor and each Direct-Hold vehicle's governing body.
 <!-- END AUTO-GENERATED -->
 
 ## See also

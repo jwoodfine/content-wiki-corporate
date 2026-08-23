@@ -40,7 +40,7 @@ El Mandato de Datos Fiduciarios cierra esta vulnerabilidad al tratar la soberan�
 
 ## Plataforma PointSav
 
-El cumplimiento del mandato por parte del órgano de gobierno de cada vehículo está respaldado por la plataforma de PointSav en virtud del [[topic-technology-services|acuerdo de servicios tecnológicos]]. PointSav proporciona la infraestructura operativa para la gestión del libro contable de inversores: un sistema autoalojado donde el órgano de gobierno posee las claves privadas, el hardware físico y el control operativo de la pila de software. Ningún intermediario de terceros tiene acceso a los datos del libro contable sin el consentimiento criptográfico del órgano de gobierno. El arreglo se rige por el [[topic-vendor-customer-model|modelo proveedor-cliente]] que separa la operación de la plataforma de la responsabilidad fiduciaria.
+El cumplimiento del mandato por parte del órgano de gobierno de cada vehículo está respaldado por la plataforma de PointSav en virtud del acuerdo de servicios tecnológicos. PointSav proporciona la infraestructura operativa para la gestión del libro contable de inversores: un sistema autoalojado donde el órgano de gobierno posee las claves privadas, el hardware físico y el control operativo de la pila de software. Ningún intermediario de terceros tiene acceso a los datos del libro contable sin el consentimiento criptográfico del órgano de gobierno. El arreglo se rige por el [[topic-vendor-customer-model|modelo proveedor-cliente]] que separa la operación de la plataforma de la responsabilidad fiduciaria.
 
 ## Alcance y límites
 

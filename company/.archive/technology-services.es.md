@@ -10,11 +10,14 @@ index_group: technology-and-investor-services
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Retirado — las mecánicas específicas del acuerdo de servicios (obligaciones de destrucción de datos, lista de exclusiones, alcance del servicio) no se remontan a ninguno de los ~32 archivos fuente reales. Consolidado en vendor-customer-model.md, que declara únicamente el hecho confirmado de que PointSav es una subsidiaria tecnológica separada. Revisión de integridad Track-B, 2026-08-24."
+superseded_by: vendor-customer-model
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: technology-services.md
 cites: []

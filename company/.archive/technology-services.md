@@ -10,11 +10,14 @@ index_group: technology-and-investor-services
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Retracted — the specific service-agreement mechanics (data destruction obligations, exclusions list, service scope) do not trace to any of the ~32 real ingest source files. Consolidated into vendor-customer-model.md, which states only the confirmed fact that PointSav is a separate technology subsidiary. Track-B integrity review, 2026-08-24."
+superseded_by: vendor-customer-model
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: technology-services.es.md
 cites: []

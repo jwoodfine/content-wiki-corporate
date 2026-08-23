@@ -46,8 +46,7 @@ El proveedor de tecnología y el acuerdo de servicios que mantiene con el órgan
 gobierno de cada vehículo.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: technology-and-investor-services -->
-- [[vendor-customer-model]] — Separación estructural entre PointSav Digital Systems como proveedor de tecnología y el órgano de gobierno de cada vehículo de Tenencia Directa como custodio de datos y cliente tecnológico, con MCorp gestionando la administración delegada del día a día.
-- [[technology-services]] — Estructura del acuerdo de servicios bajo el cual PointSav Digital Systems proporciona infraestructura de plataforma al órgano de gobierno de cada vehículo de Tenencia Directa como proveedor de tecnología contratado.
+- [[vendor-customer-model]] — Separación estructural entre PointSav Digital Systems como proveedor de tecnología y el órgano de gobierno de cada vehículo de Tenencia Directa.
 <!-- END AUTO-GENERATED -->
 
 ## Consulte también

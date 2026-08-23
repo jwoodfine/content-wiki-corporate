@@ -229,3 +229,10 @@ redirects:
   # sitemap; redirected to the parent category rather than 404'd.
   - from: /investor-access
     to: /category/company
+
+  # Track-B integrity retraction, 2026-08-24 (3rd batch) — technology-services.md's
+  # specific service-agreement mechanics do not trace to any real ingest source file.
+  # Genuine merge, not a bare retraction — the one confirmed fact (PointSav is a separate
+  # technology subsidiary) now lives in vendor-customer-model.md.
+  - from: /technology-services
+    to: /vendor-customer-model

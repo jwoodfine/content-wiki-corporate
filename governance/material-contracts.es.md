@@ -34,7 +34,7 @@ significativa respecto al negocio general del emisor, o cree una dependencia que
 necesiten comprender. Dentro de la estructura de las [[direct-hold-solutions-structural-comparison|Soluciones de Tenencia
 Directa]], las categorías de contrato más propensas a cumplir el umbral de materialidad son:
 
-**Convenios de administración y servicios.** El [[technology-services|convenio de servicios tecnológicos]] entre el
+**Convenios de administración y servicios.** El convenio de servicios tecnológicos entre el
 proveedor de tecnología y el operador comercial, y cualquier convenio de socio gestor o
 administrador que rija cómo se administra una Solución de Tenencia Directa, describen el
 esquema de compensación y el alcance de autoridad delegada al gestor. Estos convenios son
