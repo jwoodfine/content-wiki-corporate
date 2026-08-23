@@ -20,7 +20,7 @@ paired_with: data-governance.es.md
 cites: []
 ---
 
-Each Direct-Hold vehicle's own governing body — in Canada, the General Partner, Woodfine Professional Centres Inc. — is the legal custodian of all property ledger data, investor records, and operational data generated in connection with its managed assets. PointSav Digital Systems processes data as a contracted technology services provider under the technology services agreement; PointSav does not hold independent data rights over any of that custodied data. The custody arrangement implements the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] within the broader [[topic-vendor-customer-model|vendor-customer model]].
+Each Direct-Hold vehicle's own governing body — in Canada, the General Partner, Woodfine Professional Centres Inc. — is the legal custodian of all property ledger data, investor records, and operational data generated in connection with its managed assets. The technology vendor does not hold independent data rights over any of that custodied data. The custody arrangement implements the [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] within the broader [[topic-vendor-customer-model|vendor-customer model]].
 
 ## Key takeaways
 
