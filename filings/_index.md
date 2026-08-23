@@ -31,10 +31,10 @@ Direct-Hold Solution Filings covers what each vehicle has published, or will pub
 One shelf per Direct-Hold Solution.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: vehicle-filings -->
-- [[canada-filings]] — Filings for Professional Centres Canada LP, the established vehicle.
-- [[united-states-filings]] — Filings for the planned Professional Centres United States LP.
-- [[spain-filings]] — Filings for the planned Professional Centres Spain SOCIMI.
-- [[mexico-filings]] — Filings for the planned Professional Centres Mexico FIBRA.
+- [[canada-filings|Canada Filings]] — Filings for Professional Centres Canada LP, the established vehicle.
+- [[united-states-filings|United States Filings]] — Filings for the planned Professional Centres United States LP.
+- [[spain-filings|Spain Filings]] — Filings for the planned Professional Centres Spain SOCIMI.
+- [[mexico-filings|Mexico Filings]] — Filings for the planned Professional Centres Mexico FIBRA.
 <!-- END AUTO-GENERATED -->
 
 ## See also

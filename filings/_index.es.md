@@ -32,10 +32,10 @@ publicado, o publicará una vez constituido.
 Un espacio por Solución de Tenencia Directa.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: vehicle-filings -->
-- [[canada-filings]] — Presentaciones de Professional Centres Canada LP, el vehículo establecido.
-- [[united-states-filings]] — Presentaciones de la planeada Professional Centres United States LP.
-- [[spain-filings]] — Presentaciones de la planeada Professional Centres Spain SOCIMI.
-- [[mexico-filings]] — Presentaciones de la planeada Professional Centres Mexico FIBRA.
+- [[canada-filings|Presentaciones de Canadá]] — Presentaciones de Professional Centres Canada LP, el vehículo establecido.
+- [[united-states-filings|Presentaciones de Estados Unidos]] — Presentaciones de la planeada Professional Centres United States LP.
+- [[spain-filings|Presentaciones de España]] — Presentaciones de la planeada Professional Centres Spain SOCIMI.
+- [[mexico-filings|Presentaciones de México]] — Presentaciones de la planeada Professional Centres Mexico FIBRA.
 <!-- END AUTO-GENERATED -->
 
 ## Consulte también
