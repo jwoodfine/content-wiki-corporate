@@ -19,19 +19,12 @@ short_description: "Mecanismo de transferencia extrabursátil que permite a los 
 cites: []
 ---
 
-Las Unidades de Inversión de cada vehículo de Tenencia Directa se transfieren de forma extrabursátil entre partes privadas; el propio órgano de gobierno del vehículo registra la transferencia completada. Dos principios estructurales rigen el modelo: capital libremente transferible dentro de un conjunto breve y enumerado de condiciones, y ejecución entre partes privadas — sin mercado secundario formal, sin creador de mercado, sin facilidad de recompra corporativa. El modelo se apoya en el [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] para la integridad del libro contable y opera junto con la disciplina del [[topic-interest-coverage-ratio|Ratio de Cobertura de Intereses]] aplicada a nivel de activo.
-
-**Corrección (2026-08-04):** este artículo describe el diseño estructural de las
-Direct-Hold Solutions como clase. Solo el vehículo de Canadá (Woodfine Professional
-Centres Limited Partnership) está actualmente constituido; se encuentra sujeto a una
-orden de suspensión de negociación (cease-trade order) vigente de la BCSC, bajo la
-cual las unidades no son actualmente libremente transferibles. Los vehículos de
-Estados Unidos, España y México están planificados, aún no constituidos.
-**Señalado, no reescrito silenciosamente.**
+Cada vehículo de Tenencia Directa está diseñado para que sus Unidades de Inversión se transfieran de forma extrabursátil entre partes privadas, con el propio órgano de gobierno del vehículo registrando la transferencia completada. Solo un vehículo está actualmente constituido — la sociedad en comandita de Canadá, Woodfine Professional Centres Limited Partnership — y sus unidades no son actualmente libremente transferibles, porque la sociedad está sujeta a una orden de suspensión de negociación (cease-trade order) vigente de la British Columbia Securities Commission. Los vehículos de Estados Unidos, España y México descritos más abajo están planificados, aún no constituidos. Una vez que aplique la transferibilidad, dos principios estructurales rigen el diseño: capital libremente transferible dentro de un conjunto breve y enumerado de condiciones, y ejecución entre partes privadas — sin mercado secundario formal, sin creador de mercado, sin facilidad de recompra corporativa. El modelo se apoya en el [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] para la integridad del libro contable y opera junto con la disciplina del [[topic-interest-coverage-ratio|Ratio de Cobertura de Intereses]] aplicada a nivel de activo.
 
 ## Puntos clave
 
-- El capital de Tenencia Directa es libremente transferible a cualquier contraparte elegible sin que medie, en el caso ordinario, una decisión de aprobación del socio general — lo que distingue el modelo de las estructuras de capital restringido en las que el emisor retiene un derecho de primera opción o ejerce discrecionalidad abierta de aprobación de transferencias. En Canadá, el socio general está obligado contractualmente a admitir a un cesionario elegible, y solo puede negarse por una lista breve y enumerada de motivos.
+- Las unidades del vehículo de Canadá no son actualmente libremente transferibles debido a la orden de suspensión de negociación vigente de la BCSC descrita arriba; el diseño descrito a continuación aplica una vez que dicha orden se levante, y estructuralmente a los vehículos planificados una vez constituidos.
+- Por diseño, el capital de Tenencia Directa es libremente transferible a cualquier contraparte elegible sin que medie, en el caso ordinario, una decisión de aprobación del socio general — lo que distingue el modelo de las estructuras de capital restringido en las que el emisor retiene un derecho de primera opción o ejerce discrecionalidad abierta de aprobación de transferencias. En Canadá, el socio general está obligado contractualmente a admitir a un cesionario elegible, y solo puede negarse por una lista breve y enumerada de motivos.
 - Ningún vehículo de Tenencia Directa mantiene un mercado secundario formal, un libro de órdenes emparejadas ni una facilidad de recompra; la liquidez la determina el mercado de compradores elegibles dispuestos a comprar, no la política corporativa.
 - Cada transferencia se registra en el libro contable del activo con una cadena completa de titularidad, de modo que la propiedad de un interés fraccional siempre queda evidenciada por un asiento contable, no por un certificado en papel.
 

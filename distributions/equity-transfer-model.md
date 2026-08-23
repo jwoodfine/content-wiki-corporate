@@ -19,18 +19,12 @@ paired_with: equity-transfer-model.es.md
 cites: []
 ---
 
-Each Direct-Hold vehicle's Investment Units transfer over-the-counter between private parties; the vehicle's own governing body records the completed transfer. Two structural principles govern the model: freely transferable equity within a short, enumerated set of conditions, and peer-to-peer execution — no formal secondary market, no market maker, no corporate buyback facility. The model relies on the [[topic-fiduciary-data-mandate|fiduciary data mandate]] for ledger integrity and operates alongside the [[topic-interest-coverage-ratio|interest coverage ratio]] discipline applied at the asset level.
-
-**Correction (2026-08-04):** this article describes the Direct-Hold Solutions'
-structural design as a class. Only the Canada vehicle (Woodfine Professional Centres
-Limited Partnership) is currently established; it is currently subject to an active
-BCSC cease-trade order, under which units are not currently freely transferable. The
-United States, Spain, and Mexico vehicles are planned, not yet established. **Flagged,
-not silently rewritten.**
+Each Direct-Hold vehicle is designed so its Investment Units transfer over-the-counter between private parties, with the vehicle's own governing body recording the completed transfer. Only one vehicle is currently established — the Canada limited partnership, Woodfine Professional Centres Limited Partnership — and its units are not currently freely transferable, because the partnership is subject to an active British Columbia Securities Commission cease-trade order. The United States, Spain, and Mexico vehicles described below are planned, not yet established. Once transferability applies, two structural principles govern the design: freely transferable equity within a short, enumerated set of conditions, and peer-to-peer execution — no formal secondary market, no market maker, no corporate buyback facility. The model relies on the [[topic-fiduciary-data-mandate|fiduciary data mandate]] for ledger integrity and operates alongside the [[topic-interest-coverage-ratio|interest coverage ratio]] discipline applied at the asset level.
 
 ## Key takeaways
 
-- Direct-Hold equity is freely transferable to any eligible counterparty without a general partner approval decision in the ordinary case — distinguishing the model from restricted-equity structures where the issuer holds a right of first refusal or exercises open-ended transfer-approval discretion. In Canada, the General Partner is contractually obligated to admit an eligible transferee, declining only on a short, enumerated list of grounds.
+- The Canada vehicle's units are not currently freely transferable because of the active BCSC cease-trade order described above; the design intent below applies once that order lifts, and structurally to the planned vehicles once each is established.
+- By design, Direct-Hold equity is freely transferable to any eligible counterparty without a general partner approval decision in the ordinary case — distinguishing the model from restricted-equity structures where the issuer holds a right of first refusal or exercises open-ended transfer-approval discretion. In Canada, the General Partner is contractually obligated to admit an eligible transferee, declining only on a short, enumerated list of grounds.
 - No Direct-Hold vehicle maintains a formal secondary market, matched-order book, or buyback facility; liquidity is determined by the market of willing, eligible buyers, not by corporate policy.
 - Each transfer is recorded on the asset ledger with a full chain of title, so ownership of a fractional interest is always evidenced by a ledger entry rather than a paper certificate.
 
