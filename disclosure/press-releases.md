@@ -56,8 +56,8 @@ expected ranges typically do not.
 Any press release that contains forward-looking information would include a forward-looking
 statement disclaimer identifying the material assumptions underlying the statements and the
 known risk factors that could cause actual results to differ materially from those projected.
-In accordance with the company's continuous disclosure posture, forward-looking statements
-would be clearly distinguished from statements of current fact.
+In accordance with its continuous disclosure posture, the company would clearly distinguish
+forward-looking statements from statements of current fact.
 
 ## Press releases and material change reports
 

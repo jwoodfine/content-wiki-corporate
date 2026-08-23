@@ -20,33 +20,32 @@ each of these practices is in place.
 
 Once Woodfine Capital Projects Inc. is subject to the full continuous-disclosure regime, an
 annual general meeting (AGM) of shareholders is intended to be held each year, typically in the
-second quarter following the fiscal year end. The AGM is designed to give shareholders the
-opportunity to elect the board of directors, appoint the external auditor, and vote on other
-matters requiring shareholder approval, and to give the board and management the opportunity to
-discuss the company's performance during the prior year and present the strategic priorities for
-the period ahead.
+second quarter following the fiscal year end. At the AGM, shareholders would elect the board of
+directors, appoint the external auditor, and vote on other matters requiring shareholder
+approval. The meeting is also designed to let the board and management discuss the company's
+performance during the prior year and present the strategic priorities for the period ahead.
 
-Notice of meeting, proxy circular, and any other materials required for the AGM would be
-distributed to registered and beneficial shareholders in advance of the meeting and filed on
-SEDAR+. Remote participation options and proxy voting mechanisms would be provided in the
-meeting notice for shareholders unable to attend in person.
+The company would distribute the notice of meeting, proxy circular, and any other materials
+required for the AGM to registered and beneficial shareholders in advance, and file them on
+SEDAR+. The meeting notice would set out remote participation options and proxy voting
+mechanisms for shareholders unable to attend in person.
 
 ## Investor presentations
 
 The company intends to publish investor presentations from time to time, providing a high-level
 overview of its business, strategy, and financial position for the benefit of institutional and
-retail investors. These presentations would be developed in accordance with the company's
-continuous disclosure obligations; material non-public information would not be included.
+retail investors. The company would develop these presentations in accordance with its
+continuous disclosure obligations, and would exclude material non-public information.
 
-Investor presentations would be filed on SEDAR+ as required and reproduced here for
+The company would file investor presentations on SEDAR+ as required and reproduce them here for
 accessibility. Any forward-looking statements in presentations would carry the standard
 forward-looking statement disclaimer.
 
 ## Industry conferences
 
 The company intends to participate in industry conferences and forums relevant to its operating
-domains, including real property, urban intelligence, and technology. Presentation materials
-and, where available, recordings from conference appearances would be archived here.
+domains, including real property, urban intelligence, and technology. It would archive
+presentation materials here and, where available, recordings from conference appearances.
 
 ## Events and presentations archive
 
