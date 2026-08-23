@@ -54,16 +54,16 @@ La Inversión Activista, en cambio, toma una participación minoritaria en una e
 
 Inversiones Alternativas es la etiqueta de categoría aplicada al Capital Privado, los Fondos de Cobertura, los Bienes Raíces y estrategias similares una vez que se incorporan a una cartera tradicional de acciones y bonos. La categoría existe en la teoría de cartera por una razón: en la medida en que los rendimientos de estas estrategias estén menos correlacionados con las acciones y bonos cotizados de lo que estas dos clases de activos lo están entre sí, incorporarlas puede desplazar la posición de una cartera sobre la frontera eficiente, mejorando la relación riesgo/rendimiento disponible para el inversor. La solidez de ese argumento en un período determinado depende de cuán no correlacionados resulten realmente los rendimientos de la categoría incorporada — una condición que varía según la estrategia y el ciclo de mercado, no una propiedad fija de la categoría.
 
+## En síntesis
+
+La teoría moderna de cartera sostiene que la asignación diversificada a través de un pequeño número de fondos, en lugar de valores individuales, produce mejores resultados ajustados por riesgo — el argumento central del Teorema de Fondos Mutuos, al que la frontera eficiente da forma práctica mediante su límite de riesgo/rendimiento. La cartera clásica 60/40 es la aplicación más conocida de la teoría, y su extensión para incluir materias primas y, posteriormente, Inversiones Alternativas como Capital Privado, Fondos de Cobertura y Bienes Raíces sigue la misma lógica: una categoría se gana su lugar en la cartera en la medida en que sus rendimientos se muevan de forma independiente respecto de las acciones y bonos ya mantenidos. El Capital Privado y la Inversión Activista ilustran dos vías distintas para influir en la gestión de una empresa — una mediante propiedad total e ilíquida valorada por flujo de caja, la otra mediante una participación minoritaria líquida y valorada a precio de mercado — cada una con implicaciones distintas sobre cómo un inversor evalúa el riesgo, el rendimiento y el horizonte temporal dentro de este marco.
+
 ## Véase también
 
 - [[principal-alignment-fee-preservation|Alineación de Principal y Preservación de Comisiones]] — cómo se estructura la compensación del gestor en las Direct-Hold Solutions, una alternativa al modelo convencional de comisiones de inversión alternativa
 - [[narrow-bank-financial-model|Modelo Financiero de Banca Estrecha]] — el motor financiero que aplican las Direct-Hold Solutions
 - [[direct-hold-framework|Marco de Tenencia Directa]] — la estructura jurídica de propiedad evaluada frente a estos conceptos de teoría de cartera
 - [[global-investment-terminology|Terminología Global de Inversión]] — glosario interjurisdiccional de términos de inversión
-
-## En síntesis
-
-La teoría moderna de cartera sostiene que la asignación diversificada a través de un pequeño número de fondos, en lugar de valores individuales, produce mejores resultados ajustados por riesgo — el argumento central del Teorema de Fondos Mutuos, al que la frontera eficiente da forma práctica mediante su límite de riesgo/rendimiento. La cartera clásica 60/40 es la aplicación más conocida de la teoría, y su extensión para incluir materias primas y, posteriormente, Inversiones Alternativas como Capital Privado, Fondos de Cobertura y Bienes Raíces sigue la misma lógica: una categoría se gana su lugar en la cartera en la medida en que sus rendimientos se muevan de forma independiente respecto de las acciones y bonos ya mantenidos. El Capital Privado y la Inversión Activista ilustran dos vías distintas para influir en la gestión de una empresa — una mediante propiedad total e ilíquida valorada por flujo de caja, la otra mediante una participación minoritaria líquida y valorada a precio de mercado — cada una con implicaciones distintas sobre cómo un inversor evalúa el riesgo, el rendimiento y el horizonte temporal dentro de este marco.
 
 ---
 

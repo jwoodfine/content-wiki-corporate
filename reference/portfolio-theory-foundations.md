@@ -54,16 +54,16 @@ Activist Investing instead takes a minority stake in a company whose shares are 
 
 Alternative Investments is the category label applied to Private Equity, Hedge Funds, Real Estate, and similar strategies once they are added to a traditional equities-and-bonds portfolio. The category exists in portfolio theory for one reason: to the extent these strategies' returns are less correlated with listed equities and bonds than those two asset classes are with each other, adding them can shift a portfolio's position on the efficient frontier, improving the risk/return trade-off available to the investor. The strength of that case in any given period depends on how uncorrelated the added category's returns actually prove to be — a condition that varies by strategy and by market cycle, not a fixed property of the category.
 
+## The bottom line
+
+Modern portfolio theory holds that diversified allocation across a small number of funds, rather than individual securities, produces better risk-adjusted outcomes — the Mutual Fund Theorem's core claim, given practical shape by the efficient frontier's risk/return boundary. The classical 60/40 portfolio is the theory's best-known application, and its extension to include commodities and, later, Alternative Investments such as Private Equity, Hedge Funds, and Real Estate follows the same logic: a category earns its place in the portfolio to the extent its returns move independently of the equities and bonds already held. Private Equity and Activist Investing illustrate two distinct routes to influencing a business's management — one through outright, illiquid ownership valued on cash flow, the other through a liquid, mark-to-market minority stake — each carrying different implications for how an investor evaluates risk, return, and time horizon within this framework.
+
 ## See also
 
 - [[principal-alignment-fee-preservation|Principal Alignment and Fee Preservation]] — how manager compensation is structured in the Direct-Hold Solutions, an alternative to the conventional alternative-investment fee model
 - [[narrow-bank-financial-model|Narrow Bank Financial Model]] — the financial engine the Direct-Hold Solutions apply
 - [[direct-hold-framework|Direct-Hold Framework]] — the legal ownership structure evaluated against these portfolio-theory concepts
 - [[global-investment-terminology|Global Investment Terminology]] — cross-jurisdiction glossary of investment terms
-
-## The bottom line
-
-Modern portfolio theory holds that diversified allocation across a small number of funds, rather than individual securities, produces better risk-adjusted outcomes — the Mutual Fund Theorem's core claim, given practical shape by the efficient frontier's risk/return boundary. The classical 60/40 portfolio is the theory's best-known application, and its extension to include commodities and, later, Alternative Investments such as Private Equity, Hedge Funds, and Real Estate follows the same logic: a category earns its place in the portfolio to the extent its returns move independently of the equities and bonds already held. Private Equity and Activist Investing illustrate two distinct routes to influencing a business's management — one through outright, illiquid ownership valued on cash flow, the other through a liquid, mark-to-market minority stake — each carrying different implications for how an investor evaluates risk, return, and time horizon within this framework.
 
 ---
 
