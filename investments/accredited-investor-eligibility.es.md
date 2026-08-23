@@ -7,7 +7,7 @@ index_group: eligibility-and-distribution-channels
 type: topic
 content_type: topic
 quality: complete
-short_description: "La exención de inversionista acreditado bajo la NI 45-106 como canal de distribución para participaciones en sociedades en comandita de tenencia directa, junto con la oferta pública mediante prospecto: quién califica, qué permite la exención y la documentación de divulgación requerida en el momento de la suscripción."
+short_description: "La exención de inversionista acreditado bajo la NI 45-106 como canal de distribución para participaciones en las sociedades en comandita de tenencia directa de Canadá y Estados Unidos, junto con la oferta pública mediante prospecto: quién califica, qué permite la exención y la documentación de divulgación requerida en el momento de la suscripción."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
@@ -16,7 +16,13 @@ editor: woodfine-editorial
 paired_with: accredited-investor-eligibility.md
 ---
 
-Las participaciones de sociedades en comandita en una solución de tenencia directa se
+Este artículo describe una exención de la legislación de valores canadiense; se aplica a las
+soluciones de tenencia directa de Canadá y Estados Unidos, constituidas como sociedades en
+comandita. La SOCIMI de España y la FIBRA de México distribuyen sus valores bajo los
+regímenes de exención propios de sus jurisdicciones, descritos en [[exemptions|Exenciones]], no bajo el
+Instrumento Nacional 45-106.
+
+Las participaciones de sociedades en comandita en una solución de tenencia directa constituida como SC se
 distribuyen a través de dos canales: una oferta pública mediante prospecto durante el
 período de comercialización del prospecto, que califica a cada SC como [[regulated-reporting-entity|emisor informante]]
 conforme a la legislación canadiense de valores aplicable; y la exención de inversionista

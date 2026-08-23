@@ -37,7 +37,7 @@ Equity positions are denominated in [[investment-units|investment units]] record
 
 Investors who require liquidity identify eligible counterparties independently. The corporate entity does not intermediate the exit, maintain a buyback facility, or commit to any form of put right. The over-the-counter market for investment units in a given asset is thin by design — a consequence of the asset-specific, fixed-supply structure rather than a deficiency to be corrected.
 
-Transfer mechanics are straightforward: the seller identifies a counterparty, agrees a price bilaterally, and the property ledger is updated to reflect the new unit holder. No general partner approval decision is required for an ordinary transfer; an acquisition crossing 20% of outstanding units triggers a separate Take Over Bid mandatory-offer requirement rather than an ordinary transfer.
+Transfer mechanics are straightforward: the seller identifies a counterparty, agrees a price bilaterally, and the property ledger is updated to reflect the new unit holder. In the established Canada vehicle, no general partner approval decision is required for an ordinary transfer; an acquisition crossing 20% of outstanding units triggers a separate Take Over Bid mandatory-offer requirement rather than an ordinary transfer.
 
 ## Distribution Policy
 

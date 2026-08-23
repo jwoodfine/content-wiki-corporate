@@ -25,7 +25,7 @@ Woodfine prepares an IFRS-styled, engine-generated 10-year financial forecast fo
 
 - The forecast follows the IFRS 18 operating/investing/financing categorization and the two mandatory subtotals that apply once IFRS 18 takes effect for periods beginning on or after 1 January 2027; net operating income is retained only as a voluntary legacy subtotal.
 - Investment property is carried at cost under IAS 40 in the primary statements; fair value is measured through an income-capitalization technique and disclosed separately as a Level 3 measurement under IFRS 13, together with the sensitivity analysis IFRS 13 requires for unobservable inputs.
-- Interest coverage and loan-to-value are recalculated for every forecast year against the debenture covenant described in Interest Coverage Ratio and [[debt-service-and-financing-structure|Debt Service and Financing Structure]].
+- Interest coverage and loan-to-value are recalculated for every forecast year against the debenture covenant described in [[cre-financial-metrics|Interest Coverage Ratio]] and [[debt-service-and-financing-structure|Debt Service and Financing Structure]].
 - Every significant assumption behind the forecast is disclosed, and the forecast states plainly that it is not an offering memorandum — consistent with the [[forward-looking-statements-advisory|Forward-Looking Statements Advisory]] that governs this wiki.
 
 ## Categorizing the forecast under IFRS 18
@@ -52,6 +52,6 @@ None of this is disclosed informally. A forecast of this kind is prepared under 
 
 - [[non-ifrs-measures-explained|Non-IFRS Measures Explained]] — how NAV, FFO, and interest coverage relate to the IFRS figures a forecast produces
 - [[forward-looking-statements-advisory|Forward-Looking Statements Advisory]] — the wiki's canonical treatment of forward-looking and forecast language
-- Interest Coverage Ratio — the covenant tracked against debenture financing in a forecast
+- [[cre-financial-metrics|Interest Coverage Ratio]] — the covenant tracked against debenture financing in a forecast
 - [[debt-service-and-financing-structure|Debt Service and Financing Structure]] — how the debenture financing a forecast models is structured
 - [[principal-alignment-fee-preservation|Principal Alignment and Fee Preservation]] — the fee structure disclosed as a related-party transaction in a forecast's notes

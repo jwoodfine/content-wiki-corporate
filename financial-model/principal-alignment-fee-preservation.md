@@ -41,7 +41,7 @@ The developer's equity position, once earned through the holding period and inve
 
 ## Initial Offering Cost Reimbursement
 
-Separate from the ongoing overhead contribution, WCP pays all costs and expenses of each offering of units. In exchange, the partnership reimburses WCP 1% of the gross proceeds from the sale of units in that offering, as partial payment of those offering costs. This is a one-time reimbursement tied to a specific offering, not a recurring management fee.
+Separate from the ongoing overhead contribution, WCP pays all costs and expenses of each offering of units. In the established Canada vehicle, the partnership reimburses WCP 1% of the gross proceeds from the sale of units in that offering, as partial payment of those offering costs, per its governing agreement. This is a one-time reimbursement tied to a specific offering, not a recurring management fee.
 
 ## The Fixed Annual Overhead Contribution
 
@@ -49,7 +49,7 @@ Variable management fees — acquisition fees, asset management fees, dispositio
 
 ### Fee predictability and valuation independence
 
-This structure eliminates several characteristics of the conventional management fee that create misalignment between manager incentives and investor interests. First, the fee does not grow as the vehicle's assets appreciate — a vehicle whose net asset value doubles does not produce double the management fee. Second, the fee is predictable at the time of investment: the investor can calculate the total management overhead cost for the full holding period at inception. Third, the fee is not subject to manipulation through asset valuation — since the fee is calculated on the Gross Funded Value rather than a marked net asset value, there is no incentive to inflate reported valuations to increase fee income. The partnership agreement prohibits paying any person a fee calculated by reference to net asset value.
+This structure eliminates several characteristics of the conventional management fee that create misalignment between manager incentives and investor interests. First, the fee does not grow as the vehicle's assets appreciate — a vehicle whose net asset value doubles does not produce double the management fee. Second, the fee is predictable at the time of investment: the investor can calculate the total management overhead cost for the full holding period at inception. Third, the fee is not subject to manipulation through asset valuation — since the fee is calculated on the Gross Funded Value rather than a marked net asset value, there is no incentive to inflate reported valuations to increase fee income. In the established Canada vehicle, its governing agreement prohibits paying any person a fee calculated by reference to net asset value.
 
 ## Fee Preservation for Independent Asset Managers
 

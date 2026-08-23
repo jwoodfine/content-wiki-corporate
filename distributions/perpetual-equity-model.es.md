@@ -37,7 +37,7 @@ Las posiciones de capital se denominan en [[investment-units|unidades de inversi
 
 Los inversores que requieren liquidez identifican contrapartes elegibles de forma independiente. La entidad corporativa no intermedia la salida, no mantiene una facilidad de recompra ni asume ningún derecho de venta. El mercado extrabursátil de unidades de inversión en un activo determinado es intencionalmente reducido — consecuencia de la estructura de oferta fija y específica del activo, no una deficiencia a corregir.
 
-La mecánica de la transferencia es directa: el vendedor identifica una contraparte, acuerda un precio bilateralmente y el libro contable de la propiedad se actualiza para reflejar al nuevo tenedor de unidades. No se requiere una decisión de aprobación del socio general para una transferencia ordinaria; una adquisición que supere el 20% de las unidades en circulación activa un requisito separado de oferta obligatoria (Take Over Bid) en lugar de una transferencia ordinaria.
+La mecánica de la transferencia es directa: el vendedor identifica una contraparte, acuerda un precio bilateralmente y el libro contable de la propiedad se actualiza para reflejar al nuevo tenedor de unidades. En el vehículo de Canadá ya constituido, no se requiere una decisión de aprobación del socio general para una transferencia ordinaria; una adquisición que supere el 20% de las unidades en circulación activa un requisito separado de oferta obligatoria (Take Over Bid) en lugar de una transferencia ordinaria.
 
 ## Política de distribuciones
 

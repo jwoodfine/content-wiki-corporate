@@ -7,7 +7,7 @@ index_group: eligibility-and-distribution-channels
 type: topic
 content_type: topic
 quality: complete
-short_description: "The accredited investor exemption under NI 45-106 as a distribution channel for direct-hold limited partnership units alongside the prospectus offering: who qualifies, what the exemption permits, and the disclosure documentation required at the time of subscription."
+short_description: "The accredited investor exemption under NI 45-106 as a distribution channel for units in the Canada and United States direct-hold limited partnerships alongside the prospectus offering: who qualifies, what the exemption permits, and the disclosure documentation required at the time of subscription."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
@@ -16,9 +16,14 @@ editor: woodfine-editorial
 paired_with: accredited-investor-eligibility.es.md
 ---
 
-Limited partnership units in a direct-hold solution are distributed through two channels:
-a prospectus offering during the prospectus marketing period, which qualifies each LP as
-a [[regulated-reporting-entity|reporting issuer]] under applicable Canadian securities legislation; and the accredited
+This article describes a Canadian securities-law exemption; it applies to the Canada and
+United States direct-hold solutions, which are structured as limited partnerships. The Spain
+SOCIMI and Mexico FIBRA distribute their securities under their own jurisdictions' exemption
+regimes, described in [[exemptions|Exemptions]], not National Instrument 45-106.
+
+Limited partnership units in an LP-form direct-hold solution are distributed through two
+channels: a prospectus offering during the prospectus marketing period, which qualifies each
+LP as a [[regulated-reporting-entity|reporting issuer]] under applicable Canadian securities legislation; and the accredited
 investor exemption under National Instrument 45-106 *Prospectus Exemptions*, available to
 institutional and high-net-worth investors. The accredited investor exemption permits the
 sale of LP units to qualifying investors outside the prospectus marketing period, without

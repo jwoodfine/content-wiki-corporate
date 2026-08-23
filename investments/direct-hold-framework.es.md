@@ -52,7 +52,7 @@ Un inversor que desee salir localiza una contraparte dispuesta directamente; la 
 
 ## Gobernanza
 
-En cada vehículo de tenencia directa, el socio general ostenta la autoridad de gestión sobre el vehículo y su propiedad única nombrada. Los derechos de gobierno de los inversores — como socios comanditarios o titulares de unidades equivalentes — operan a nivel del activo y no a nivel de cartera agregada: las decisiones se refieren a la propiedad específica del vehículo y no a un conjunto de activos gestionados a nivel de fondo. El [[perpetual-equity-model|modelo de capital perpetuo]] aplica estos mecanismos a [[investment-units|unidades de inversión]] mantenidas sin un horizonte de redención fijo.
+En cada vehículo de tenencia directa, la entidad de gobierno — el socio general en Canadá y Estados Unidos, el Administrador en España y México — ostenta la autoridad de gestión sobre el vehículo y su propiedad única nombrada. Los derechos de gobierno de los inversores — como socios comanditarios o titulares de unidades equivalentes — operan a nivel del activo y no a nivel de cartera agregada: las decisiones se refieren a la propiedad específica del vehículo y no a un conjunto de activos gestionados a nivel de fondo. El [[perpetual-equity-model|modelo de capital perpetuo]] aplica estos mecanismos a [[investment-units|unidades de inversión]] mantenidas sin un horizonte de redención fijo.
 
 ## La conclusión
 

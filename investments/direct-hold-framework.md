@@ -52,7 +52,7 @@ An investor who wishes to exit locates a willing counterparty directly; the ente
 
 ## Governance
 
-In each direct-hold vehicle, the general partner holds management authority over the vehicle and its single named property. Investor governance rights — as limited partners or equivalent unit holders — apply at the asset level rather than across a pooled portfolio: decisions pertain to the specific property in the vehicle, not to a collection of assets managed at the fund level. The [[perpetual-equity-model|perpetual equity model]] applies these mechanisms to [[investment-units|investment units]] held without a fixed redemption horizon.
+In each direct-hold vehicle, the governing entity — a general partner in Canada and the United States, an Administrator in Spain and Mexico — holds management authority over the vehicle and its single named property. Investor governance rights — as limited partners or equivalent unit holders — apply at the asset level rather than across a pooled portfolio: decisions pertain to the specific property in the vehicle, not to a collection of assets managed at the fund level. The [[perpetual-equity-model|perpetual equity model]] applies these mechanisms to [[investment-units|investment units]] held without a fixed redemption horizon.
 
 ## The bottom line
 

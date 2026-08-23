@@ -23,7 +23,7 @@ Every Direct-Hold Solution is modeled against a $100.00 capital-preservation ref
 
 ## Before you read this
 
-This article assumes familiarity with the interest-coverage covenant itself — see Interest Coverage Ratio for what the 1.20x floor is and why it is set where it is; this article does not re-explain the covenant, it walks through how the covenant is stress-tested. It also assumes familiarity with net asset value (NAV) and the other non-IFRS measures this methodology reports against — see [[non-ifrs-measures-explained]]. No modeling software or account access is required beyond that: this article describes a methodology, not a tool.
+This article assumes familiarity with the interest-coverage covenant itself — see [[cre-financial-metrics|Interest Coverage Ratio]] for what the 1.20x floor is and why it is set where it is; this article does not re-explain the covenant, it walks through how the covenant is stress-tested. It also assumes familiarity with net asset value (NAV) and the other non-IFRS measures this methodology reports against — see [[non-ifrs-measures-explained]]. No modeling software or account access is required beyond that: this article describes a methodology, not a tool.
 
 ## How the scenarios are constructed
 
@@ -51,4 +51,4 @@ Every stress and shock scenario in this methodology is modeled and illustrative.
 
 ## Next steps
 
-Read Interest Coverage Ratio for the covenant this methodology stress-tests, and [[non-ifrs-measures-explained]] for how NAV and the other supplementary measures used throughout this methodology are defined and reconciled to IFRS. See also [[forward-looking-statements-advisory|the Forward-Looking Statements Advisory]] for the caution language that governs every illustrative scenario in this article.
+Read [[cre-financial-metrics|Interest Coverage Ratio]] for the covenant this methodology stress-tests, and [[non-ifrs-measures-explained]] for how NAV and the other supplementary measures used throughout this methodology are defined and reconciled to IFRS. See also [[forward-looking-statements-advisory|the Forward-Looking Statements Advisory]] for the caution language that governs every illustrative scenario in this article.
