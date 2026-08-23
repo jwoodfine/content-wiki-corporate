@@ -66,11 +66,11 @@ los cambios materiales en general.
 
 ## Alcance entre jurisdicciones
 
-Debido a que las [[direct-hold-solutions-structural-comparison|Soluciones de Tenencia Directa]] operan en Canadá, Estados
-Unidos, España y México, la divulgación de procedimientos legales cubre procedimientos que
-surjan en cualquiera de las cuatro jurisdicciones donde opera la compañía o una Solución de
-Tenencia Directa, no únicamente los procedimientos presentados en la jurisdicción de
-incorporación de la compañía.
+Debido a que las [[direct-hold-solutions-structural-comparison|Soluciones de Tenencia Directa]] están diseñadas para operar en Canadá, Estados
+Unidos, España y México a medida que cada vehículo se constituye, la divulgación de
+procedimientos legales cubre procedimientos que surjan en cualquier jurisdicción donde opera
+la compañía o una Solución de Tenencia Directa ya constituida, no únicamente los
+procedimientos presentados en la jurisdicción de incorporación de la compañía.
 
 ## Consulte también
 

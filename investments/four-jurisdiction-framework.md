@@ -85,7 +85,7 @@ The target gross funded value is MN$5,000 million pesos. The Administrator is pl
 
 ## Self-Similar Governance
 
-Each of the four Direct-Hold Solutions has its own governing partnership or trust agreement, specific to its jurisdiction's legal form. These agreements are self-similar in substance: the same investment discipline and the same Investment Unit mechanics, delivered through the legal form that each jurisdiction mandates.
+Each of the four Direct-Hold Solutions has its own governing instrument, specific to its jurisdiction's legal form: a partnership agreement in Canada and the United States, corporate bylaws in Spain, and a trust agreement in Mexico. These instruments are self-similar in substance: the same investment discipline and the same Investment Unit mechanics, delivered through the legal form that each jurisdiction mandates.
 
 This approach eliminates the need for the investor to develop jurisdiction-specific investment frameworks for each of Canada, the United States, Spain, and Mexico. The governance characteristics of the Professional Centres Canada LP — continuous disclosure, audited financials, freely transferable units, exchange-qualified debt — are intended to be replicated in each of the three planned vehicles, subject only to the adjustments required by local securities law.
 

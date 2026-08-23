@@ -62,10 +62,11 @@ report]], through the immediate disclosure process that applies to material chan
 
 ## Scope across jurisdictions
 
-Because the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] operate across Canada, the United States,
-Spain, and Mexico, legal proceedings disclosure covers proceedings arising in any of the four
-jurisdictions in which the company or a Direct-Hold Solution operates, not solely proceedings
-filed in the company's jurisdiction of incorporation.
+Because the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] are designed to operate across Canada, the United States,
+Spain, and Mexico as each vehicle is established, legal proceedings disclosure covers
+proceedings arising in any jurisdiction in which the company or an established Direct-Hold
+Solution operates, not solely proceedings filed in the company's jurisdiction of
+incorporation.
 
 ## See also
 

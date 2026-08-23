@@ -66,10 +66,12 @@ Commercial real estate demand is sensitive to broader economic conditions: emplo
 business formation and closure rates, consumer spending patterns, and the general health of
 the economy in each market where a property is located. A regional or national economic
 downturn can reduce demand for commercial space across a market generally, independent of the
-condition of any specific property. Because the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] operate across
-four jurisdictions, exposure to general economic conditions is distributed across multiple
-national economies, but this distribution reduces correlation risk — it does not eliminate the
-underlying exposure to economic cycles in each market.
+condition of any specific property. As the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] are established across
+their planned four jurisdictions, exposure to general economic conditions is intended to be
+distributed across multiple national economies; today, only the established Canada vehicle
+exists, so this diversification benefit does not yet apply. Once realized, this distribution
+reduces correlation risk — it does not eliminate the underlying exposure to economic cycles
+in each market.
 
 ## See also
 

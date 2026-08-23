@@ -70,10 +70,12 @@ La demanda de bienes raíces comerciales es sensible a las condiciones económic
 niveles de empleo, formación y cierre de negocios, patrones de gasto de los consumidores y la
 salud general de la economía en cada mercado donde se ubica una propiedad. Una desaceleración
 económica regional o nacional puede reducir la demanda de espacio comercial en todo un mercado,
-independientemente de la condición de cualquier propiedad específica. Debido a que las
-Soluciones de Tenencia Directa operan en cuatro jurisdicciones, la exposición a las condiciones
-económicas generales se distribuye entre múltiples economías nacionales, pero esta
-distribución reduce el riesgo de correlación —no elimina la exposición subyacente a los ciclos
+independientemente de la condición de cualquier propiedad específica. A medida que las
+Soluciones de Tenencia Directa se constituyan en sus cuatro jurisdicciones planificadas, la
+exposición a las condiciones económicas generales está prevista para distribuirse entre
+múltiples economías nacionales; hoy, solo existe el vehículo de Canadá ya constituido, por lo
+que este beneficio de diversificación aún no aplica. Una vez realizada, esta distribución
+reduce el riesgo de correlación —no elimina la exposición subyacente a los ciclos
 económicos de cada mercado—.
 
 ## Consulte también
