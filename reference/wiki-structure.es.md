@@ -28,8 +28,9 @@ término técnico enlaza con el glosario.
 
 ## La historia
 
-1. **La empresa** — quién es Woodfine: una sociedad holding de la
-   Columbia Británica que desarrolla y promueve edificios comerciales.
+1. **La empresa** — quién es Woodfine: una sociedad holding constituida
+   federalmente, registrada extraprovincialmente en la Columbia
+   Británica, que desarrolla y promueve edificios comerciales.
    Es una promotora, no una gestora de activos. Su historia, sus
    personas y cómo funciona el negocio.
 2. **Los vehículos de inversión** — los vehículos, presentes y

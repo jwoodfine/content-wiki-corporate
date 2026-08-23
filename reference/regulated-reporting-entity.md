@@ -19,13 +19,7 @@ paired_with: regulated-reporting-entity.es.md
 cites: []
 ---
 
-A **Regulated Reporting Entity** is the cross-border bridge term MCorp applies to each of its four [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]].
-
-**Correction (2026-08-02, verified against [[corporate-glossary]]):** this casts
-MCorp as sponsor/owner of the four vehicles. Per the corrected governance model,
-MCorp is "not the general partner, administrator, or governing body of any
-Direct-Hold vehicle" — the promoter of all four is Woodfine Capital Projects Inc.
-(WCP), per [[four-jurisdiction-framework]]. **Flagged, not resolved.** The designation describes an investment vehicle that files [[about-disclosure-obligations|continuous public disclosure]] with its sovereign securities regulator, meets mandatory ongoing reporting requirements, and makes its disclosure record publicly available — irrespective of whether its equity is exchange-listed or exchange-traded.
+A **Regulated Reporting Entity** is the cross-border bridge term Woodfine Capital Projects Inc. (WCP), as promoter, applies to each of its four [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]]. The designation describes an investment vehicle that files [[about-disclosure-obligations|continuous public disclosure]] with its sovereign securities regulator, meets mandatory ongoing reporting requirements, and makes its disclosure record publicly available — irrespective of whether its equity is exchange-listed or exchange-traded.
 
 ## The Jurisdictional Fracture Problem
 

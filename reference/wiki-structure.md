@@ -26,8 +26,9 @@ written in plain language, and every technical term links to the glossary.
 
 ## The story
 
-1. **The Company** — who Woodfine is: a British Columbia holding company
-   that develops and promotes commercial buildings. It is a developer,
+1. **The Company** — who Woodfine is: a federally incorporated holding
+   company, extra-provincially registered in British Columbia, that
+   develops and promotes commercial buildings. It is a developer,
    not an asset manager. Its history, its people, and how the business
    operates.
 2. **The Investment Vehicles** — the vehicles, present and planned: the
