@@ -18,7 +18,8 @@ paired_with: mexico-reporting-overview.md
 
 Professional Centres Mexico FIBRA es una Solución de Tenencia Directa planeada dentro del
 [[four-jurisdiction-framework|Marco de Cuatro Jurisdicciones]], cuya constitución se prevé en el Estado de México
-como un Fideicomiso de Infraestructura en Bienes Raíces. Aún no está constituida, y este espacio
+como un Fideicomiso de Infraestructura y Bienes Raíces, el término legalmente establecido
+conforme a los Artículos 187–188 de la LISR. Aún no está constituida, y este espacio
 todavía no contiene informes.
 
 ## Qué se prevé que contenga este espacio

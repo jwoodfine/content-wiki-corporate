@@ -18,12 +18,9 @@ paired_with: mexico-reporting-overview.es.md
 
 Professional Centres Mexico FIBRA is a planned Direct-Hold Solution within the
 [[four-jurisdiction-framework|Four-Jurisdiction Framework]], intended to be formed in the State of Mexico as a
-Fideicomiso de Infraestructura en Bienes Raíces. It is not yet established, and this shelf does
+Fideicomiso de Infraestructura y Bienes Raíces, the legally-established term under LISR
+Articles 187–188. It is not yet established, and this shelf does
 not yet carry any reports.
-
-**Correction (2026-08-02):** the standard legally-established term (LISR Articles
-187–188) is "Fideicomiso de Infraestructura **y** Bienes Raíces" ("and," not "in").
-**Flagged, not resolved.**
 
 ## What this shelf is intended to hold
 
