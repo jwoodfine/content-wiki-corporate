@@ -1,22 +1,24 @@
 ---
+schema: foundry-doc-v1
 title: "Press releases and material change reports"
 slug: press-releases
 category: reports
 last_edited: 2026-07-11
 editor: woodfine-editorial
 status: stable
-short_description: "Real-time disclosure channel for material changes: immediate press release, Form 51-102F3 filing on SEDAR+ within ten days, and forward-looking statement standards."
+short_description: "Planned real-time disclosure channel for material changes: immediate press release, Form 51-102F3 filing on SEDAR+ within ten days, and forward-looking statement standards."
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations, Part 7 — Material Change Reporting. Canadian Securities Administrators."
     url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/51-102"
 ---
 
-**Press releases and material change reports** constitute the real-time disclosure channel
-through which Woodfine Capital Projects Inc. communicates developments that constitute
-[[about-material-change-reporting|material changes]] under Canadian securities law. A material change is any change in the
-business, operations, or capital of the company that an investor would reasonably expect to
-have a significant effect on the market price or value of the company's securities.[^1]
+**Press releases and material change reports** are intended to be the real-time disclosure
+channel through which Woodfine Capital Projects Inc. communicates developments that would
+constitute [[about-material-change-reporting|material changes]] under Canadian securities
+law. A material change is any change in the business, operations, or capital of the company
+that an investor would reasonably expect to have a significant effect on the market price or
+value of the company's securities.[^1]
 
 ## Material change disclosure protocol
 
@@ -51,11 +53,11 @@ expected ranges typically do not.
 
 ## Forward-looking statements
 
-All press releases that contain forward-looking information include a forward-looking statement
-disclaimer identifying the material assumptions underlying the statements and the known risk
-factors that could cause actual results to differ materially from those projected. In
-accordance with the company's continuous disclosure posture, forward-looking statements are
-clearly distinguished from statements of current fact.
+Any press release that contains forward-looking information would include a forward-looking
+statement disclaimer identifying the material assumptions underlying the statements and the
+known risk factors that could cause actual results to differ materially from those projected.
+In accordance with the company's continuous disclosure posture, forward-looking statements
+would be clearly distinguished from statements of current fact.
 
 ## Press releases and material change reports
 

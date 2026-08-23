@@ -1,20 +1,21 @@
 ---
+schema: foundry-doc-v1
 title: "Comunicados de prensa e informes de cambios materiales"
 slug: press-releases
 category: reports
 last_edited: 2026-06-29
 editor: woodfine-editorial
 status: stable
-short_description: "Canal de divulgación en tiempo real de cambios materiales: comunicado inmediato, Formulario 51-102F3 en SEDAR+ en diez días y estándares de declaraciones prospectivas."
+short_description: "Canal previsto de divulgación en tiempo real de cambios materiales: comunicado inmediato, Formulario 51-102F3 en SEDAR+ en diez días y estándares de declaraciones prospectivas."
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations, Part 7 — Material Change Reporting. Canadian Securities Administrators."
     url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/51-102"
 ---
 
-Los **comunicados de prensa e informes de cambios materiales** constituyen el canal de
-divulgación en tiempo real a través del cual Woodfine Capital Projects Inc. comunica los
-desarrollos que constituyen [[about-material-change-reporting|cambios materiales]] en virtud del derecho canadiense de valores.
+Los **comunicados de prensa e informes de cambios materiales** están concebidos como el canal
+de divulgación en tiempo real a través del cual Woodfine Capital Projects Inc. comunicaría los
+desarrollos que constituyan [[about-material-change-reporting|cambios materiales]] en virtud del derecho canadiense de valores.
 Un cambio material es cualquier cambio en los negocios, operaciones o capital de la compañía
 que un inversor razonablemente esperaría que tenga un efecto significativo sobre el precio de
 mercado o el valor de los valores de la compañía.[^1]
@@ -48,8 +49,8 @@ el plan de negocio o la situación financiera de la compañía.
 
 ## Declaraciones prospectivas
 
-Todos los comunicados de prensa que contienen información prospectiva incluyen una advertencia
-sobre declaraciones prospectivas que identifica los supuestos materiales subyacentes a las
+Cualquier comunicado de prensa que contenga información prospectiva incluiría una advertencia
+sobre declaraciones prospectivas que identifique los supuestos materiales subyacentes a las
 declaraciones y los factores de riesgo conocidos que podrían hacer que los resultados reales
 difieran materialmente de los proyectados.
 
