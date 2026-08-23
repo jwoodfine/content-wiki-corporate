@@ -6,6 +6,7 @@ aliases:
   - topic-portfolio-theory-foundations
 short_description: "The Mutual Fund Theorem, the efficient frontier, and the 60/40 portfolio model, and how Private Equity, Activist Investing, and other Alternative Investments extend the framework."
 category: reference
+index_group: investment-theory-context
 type: reference
 content_type: topic
 quality: complete

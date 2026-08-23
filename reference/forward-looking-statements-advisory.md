@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Forward-looking statements advisory"
 slug: forward-looking-statements-advisory
 category: reference
+index_group: reading-this-wiki
 type: topic
 content_type: topic
 quality: complete

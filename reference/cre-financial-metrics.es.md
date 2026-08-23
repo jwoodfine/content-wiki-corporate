@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Métricas Financieras de Bienes Raíces Comerciales"
 slug: cre-financial-metrics
 category: reference
+index_group: defined-terms-and-glossaries
 type: topic
 content_type: topic
 quality: complete

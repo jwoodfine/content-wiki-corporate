@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Regulated reporting entity"
 slug: regulated-reporting-entity
 category: reference
+index_group: defined-terms-and-glossaries
 type: topic
 content_type: topic
 quality: complete

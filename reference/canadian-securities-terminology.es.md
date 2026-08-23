@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Terminología Regulatoria de Valores Canadienses"
 slug: canadian-securities-terminology
 category: reference
+index_group: defined-terms-and-glossaries
 type: topic
 content_type: topic
 quality: complete

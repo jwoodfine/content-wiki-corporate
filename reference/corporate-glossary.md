@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Corporate Glossary"
 slug: corporate-glossary
 category: reference
+index_group: defined-terms-and-glossaries
 type: reference
 content_type: topic
 quality: complete
