@@ -50,7 +50,7 @@ given unit.
 A transfer agent is a party — often a trust company or a specialized transfer agency —
 engaged to process the mechanics of a security transfer: cancelling the transferring holder's
 position and issuing the new holder's position on the register, in accordance with instructions
-and supporting documentation. Where a Direct-Hold Solution's securities are deposited with a
+and supporting documentation. Computershare Inc., based in Calgary, Alberta, serves as transfer agent. Where a Direct-Hold Solution's securities are deposited with a
 central securities depositary — CDS in Canada, DTC in the United States, Iberclear in Spain, or
 Indeval in Mexico, as described in [[four-jurisdiction-framework|Four-Jurisdiction Framework]] — settlement and
 transfer mechanics for depositary-eligible positions are performed in coordination with that

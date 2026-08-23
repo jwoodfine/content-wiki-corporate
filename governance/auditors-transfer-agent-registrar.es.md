@@ -53,7 +53,8 @@ el propietario de una unidad determinada.
 Un agente de transferencia es una parte —a menudo una compañía fiduciaria o una agencia de
 transferencia especializada— contratada para procesar la mecánica de una transferencia de
 valores: cancelar la posición del tenedor que transfiere y emitir la posición del nuevo tenedor
-en el registro, conforme a instrucciones y documentación de respaldo. Cuando los valores de una
+en el registro, conforme a instrucciones y documentación de respaldo. Computershare Inc., con
+sede en Calgary, Alberta, actúa como agente de transferencia. Cuando los valores de una
 Solución de Tenencia Directa se depositan en un depositario central de valores —CDS en Canadá,
 DTC en Estados Unidos, Iberclear en España, o Indeval en México, según se describe en
 [[four-jurisdiction-framework|Marco de Cuatro Jurisdicciones]]— la liquidación y la mecánica de transferencia para
