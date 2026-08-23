@@ -80,4 +80,13 @@ Four features appear only in the Direct-Hold Solutions column:
 
 **Debt Right of First Refusal.** The Direct-Hold Solutions provide investors with a right of first refusal on the First Secured Mortgage Debentures issued by the vehicle for new construction financing. This right allows existing equity investors to participate in the vehicle's debt issuance before it is offered to external purchasers, preserving the ability to maintain exposure across both the equity and debt capital structure of the same underlying assets.
 
-**Qualified Investment Discipline.** Each Direct-Hold Solution's own governing agreement mandates that capital is deployed strictly into development sites meeting the Direct-Hold Solutions' development discipline. No other structure in the comparison set imposes a comparable capital deployment constraint through its governing documents: Legacy Joint Ventures are project-specific, Private Equity funds have investment mandates that are manager-discretion, and Traditional REITs operate under broad asset class definitions.
+**Qualified Investment Discipline.** Each Direct-Hold Solution's own governing agreement mandates that capital is deployed strictly into a Qualified Investment — a site proposed for one of four defined Woodfine Building types, each subject to a minimum proximity to an existing Power Centre and a minimum parking-stall ratio:
+
+| Building type | Minimum proximity to a Power Centre | Minimum parking ratio |
+|---|---|---|
+| Woodfine Professional Centre | 1 km | 3 stalls per 1,000 sq ft |
+| Woodfine Retail Select Building | 1 km | 4 stalls per 1,000 sq ft |
+| Woodfine Suburban Office | 2 km | 3 stalls per 1,000 sq ft |
+| Woodfine Tech Industrial Building | 4 km | 2 stalls per 1,000 sq ft |
+
+No other structure in the comparison set imposes a comparable capital deployment constraint through its governing documents: Legacy Joint Ventures are project-specific, Private Equity funds have investment mandates that are manager-discretion, and Traditional REITs operate under broad asset class definitions.

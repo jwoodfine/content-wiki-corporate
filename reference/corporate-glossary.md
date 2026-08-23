@@ -122,7 +122,7 @@ It is a curated core set of roughly fifty terms, selected from an internal extra
 
 ## Q
 
-**Qualified Investment** — A development site meeting the criteria each Direct-Hold Solution's own governing agreement requires for capital deployment. See [[direct-hold-solutions-structural-comparison|Direct-hold solutions structural comparison]].
+**Qualified Investment** — A development site proposed for one of four defined Woodfine Building types, each subject to a minimum proximity to an existing Power Centre and a minimum parking-stall ratio. See [[direct-hold-solutions-structural-comparison|Direct-hold solutions structural comparison]].
 
 ## R
 

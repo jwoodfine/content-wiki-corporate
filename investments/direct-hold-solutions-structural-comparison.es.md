@@ -62,4 +62,13 @@ Seis características aparecen tanto en los REIT Tradicionales como en las Direc
 
 **Derecho de Preferencia en Deuda.** Las Direct-Hold Solutions otorgan a los inversores un derecho de preferencia sobre las Obligaciones con Primera Hipoteca Garantizada emitidas por el vehículo para el financiamiento de nueva construcción, permitiendo a los inversores de capital existentes participar en la emisión de deuda del vehículo antes de que se ofrezca a compradores externos.
 
-**Disciplina de Inversión Calificada.** El contrato rector propio de cada Direct-Hold Solution exige que el capital se despliegue exclusivamente en sitios de desarrollo que cumplen la disciplina de desarrollo de las Direct-Hold Solutions. Ninguna otra estructura del conjunto comparativo impone una restricción comparable de despliegue de capital a través de sus documentos de gobernanza.
+**Disciplina de Inversión Calificada.** El contrato rector propio de cada Direct-Hold Solution exige que el capital se despliegue exclusivamente en una Inversión Calificada — un sitio propuesto para uno de los cuatro tipos definidos de Edificio Woodfine, cada uno sujeto a una proximidad mínima a un Power Centre existente y una proporción mínima de estacionamientos:
+
+| Tipo de edificio | Proximidad mínima a un Power Centre | Proporción mínima de estacionamientos |
+|---|---|---|
+| Woodfine Professional Centre | 1 km | 3 cajones por 1,000 pies² |
+| Woodfine Retail Select Building | 1 km | 4 cajones por 1,000 pies² |
+| Woodfine Suburban Office | 2 km | 3 cajones por 1,000 pies² |
+| Woodfine Tech Industrial Building | 4 km | 2 cajones por 1,000 pies² |
+
+Ninguna otra estructura del conjunto comparativo impone una restricción comparable de despliegue de capital a través de sus documentos de gobernanza.

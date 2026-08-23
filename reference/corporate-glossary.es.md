@@ -122,7 +122,7 @@ Es un conjunto curado de aproximadamente cincuenta términos, seleccionados de u
 
 ## Q
 
-**Inversión Calificada** — Un sitio de desarrollo que cumple los criterios que el contrato rector propio de cada Direct-Hold Solution exige para el despliegue de capital. Ver [[direct-hold-solutions-structural-comparison|Comparación estructural de Direct-Hold Solutions]].
+**Inversión Calificada** — Un sitio de desarrollo propuesto para uno de los cuatro tipos definidos de Edificio Woodfine, cada uno sujeto a una proximidad mínima a un Power Centre existente y una proporción mínima de estacionamientos. Ver [[direct-hold-solutions-structural-comparison|Comparación estructural de Direct-Hold Solutions]].
 
 ## R
 
