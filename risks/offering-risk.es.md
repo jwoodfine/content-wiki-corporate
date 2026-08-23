@@ -17,10 +17,9 @@ editor: pointsav-engineering
 paired_with: offering-risk.md
 ---
 
-Los riesgos descritos en el resto de esta categoría aplican al inmueble subyacente. El riesgo
-de la oferta es distinto: concierne a la mecánica de la [[investment-units|unidad de inversión]] misma —cómo
+El riesgo de la oferta concierne a la mecánica de la [[investment-units|unidad de inversión]] misma —cómo
 puede mantenerse, transferirse y liquidarse— con independencia del desempeño del inmueble
-subyacente. Un inmueble con buen desempeño puede aun así dejar a un tenedor de unidades frente
+subyacente. Los riesgos descritos en el resto de esta categoría aplican al inmueble subyacente. Un inmueble con buen desempeño puede aun así dejar a un tenedor de unidades frente
 a los riesgos descritos a continuación, porque estos riesgos surgen de la estructura de la
 oferta, no de la condición del activo.
 

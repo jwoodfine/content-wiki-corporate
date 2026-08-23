@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: about-risks.es.md
 ---
 
-Risk disclosure is organized in this wiki around five categories, each held in a dedicated
+This wiki organizes risk disclosure into five categories, each held in a dedicated
 article: market and property risk, financing and interest rate risk, development and
 construction risk, structure and regulatory risk, and risk specific to the offering mechanism
 itself. The organizing principle is that a risk factor belongs with the part of the business

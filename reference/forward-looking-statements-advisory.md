@@ -17,8 +17,8 @@ editor: pointsav-engineering
 paired_with: forward-looking-statements-advisory.es.md
 ---
 
-This article is the canonical definition of how forward-looking language is used across the
-corporate wiki. Individual articles that contain forward-looking statements refer back to this
+Forward-looking language across the corporate wiki follows the single canonical advisory set
+out here. Individual articles that contain forward-looking statements refer back to this
 article rather than repeating the full advisory each time. It is written consistent with the
 guidance under National Instrument 51-102 *Continuous Disclosure Obligations* and OSC Staff
 Notice 51-721 *Forward-Looking Information Disclosure*.

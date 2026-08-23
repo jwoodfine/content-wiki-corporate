@@ -17,8 +17,8 @@ editor: pointsav-engineering
 paired_with: exemptions.md
 ---
 
-Los valores distribuidos por cada una de las [[direct-hold-solutions-structural-comparison|Soluciones de Tenencia Directa]] se
-ofrecen mediante uno de dos canales: una oferta pública mediante prospecto, calificada y
+Cada una de las [[direct-hold-solutions-structural-comparison|Soluciones de Tenencia Directa]] ofrece sus valores
+mediante uno de dos canales: una oferta pública mediante prospecto, calificada y
 revisada por el regulador de valores aplicable, o una exención de prospecto disponible bajo la
 ley de valores de esa jurisdicción. Este artículo declara, de manera factual, en qué exenciones
 se apoyan las Soluciones de Tenencia Directa.

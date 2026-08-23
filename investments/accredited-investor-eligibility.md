@@ -16,7 +16,10 @@ editor: woodfine-editorial
 paired_with: accredited-investor-eligibility.es.md
 ---
 
-This article describes a Canadian securities-law exemption; it applies to the Canada and
+The accredited investor exemption under National Instrument 45-106 permits the sale of LP
+units to qualifying investors outside the prospectus marketing period, without the public
+disclosure requirements of a prospectus filing. The exemption is Canadian securities law;
+it applies to the Canada and
 United States direct-hold solutions, which are structured as limited partnerships. The Spain
 SOCIMI and Mexico FIBRA distribute their securities under their own jurisdictions' exemption
 regimes, described in [[exemptions|Exemptions]], not National Instrument 45-106.
@@ -25,9 +28,7 @@ Limited partnership units in an LP-form direct-hold solution are distributed thr
 channels: a prospectus offering during the prospectus marketing period, which qualifies each
 LP as a [[regulated-reporting-entity|reporting issuer]] under applicable Canadian securities legislation; and the accredited
 investor exemption under National Instrument 45-106 *Prospectus Exemptions*, available to
-institutional and high-net-worth investors. The accredited investor exemption permits the
-sale of LP units to qualifying investors outside the prospectus marketing period, without
-the public disclosure requirements of a prospectus filing.
+institutional and high-net-worth investors.
 
 ## Key takeaways
 

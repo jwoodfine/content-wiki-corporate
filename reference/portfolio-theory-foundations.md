@@ -20,7 +20,7 @@ paired_with: portfolio-theory-foundations.es.md
 cites: []
 ---
 
-**Portfolio Theory Foundations for Alternative Investments** sets out the academic framework institutional investors use to justify diversified asset allocation across funds rather than individual securities, and how that framework has been extended over time to incorporate Private Equity, Activist Investing, and the other categories grouped under Alternative Investments. The concepts described here — the Mutual Fund (Separation) Theorem, the efficient frontier, and the 60/40 portfolio — are general finance theory, not a description of any specific investor's capital structure or asset allocation.
+Institutional investors justify diversified asset allocation across funds rather than individual securities through an academic framework extended over time to incorporate Private Equity, Activist Investing, and the other categories grouped under Alternative Investments. The concepts described here — the Mutual Fund (Separation) Theorem, the efficient frontier, and the 60/40 portfolio — are general finance theory, not a description of any specific investor's capital structure or asset allocation.
 
 ## Key takeaways
 

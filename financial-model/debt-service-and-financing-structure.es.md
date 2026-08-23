@@ -16,11 +16,12 @@ editor: woodfine-editorial
 paired_with: debt-service-and-financing-structure.md
 ---
 
-Las adquisiciones de bienes raíces comerciales se financian habitualmente con una combinación
-de capital y deuda hipotecaria. La estructura de financiamiento en cada [[limited-partnership-structure|sociedad en comandita]]
-de tenencia directa se diseña en torno a dos restricciones: el límite de relación préstamo-
+Dos restricciones rigen la estructura de financiamiento en cada [[limited-partnership-structure|sociedad en comandita]]
+de tenencia directa: el límite de relación préstamo-
 valor establecido por el prestamista, y el piso de la [[cre-financial-metrics|Razón de Cobertura de Intereses]] (RCI)
-de 1.2×, establecido como convenio en el acuerdo rector de la sociedad.
+de 1.2×, establecido como convenio en el acuerdo rector de la sociedad. Las adquisiciones de
+bienes raíces comerciales se financian habitualmente con una combinación de capital y deuda
+hipotecaria.
 
 ## Puntos clave
 

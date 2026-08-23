@@ -20,7 +20,7 @@ paired_with: portfolio-theory-foundations.md
 cites: []
 ---
 
-**Fundamentos de Teoría de Cartera para Inversiones Alternativas** expone el marco académico que los inversores institucionales utilizan para justificar la asignación diversificada de activos a través de fondos en lugar de valores individuales, y cómo ese marco se ha ampliado con el tiempo para incorporar el Capital Privado, la Inversión Activista y las demás categorías agrupadas bajo Inversiones Alternativas. Los conceptos aquí descritos — el Teorema de Separación de Fondos Mutuos, la frontera eficiente y la cartera 60/40 — corresponden a teoría financiera general, no a una descripción de la estructura de capital ni la asignación de activos de ningún inversor específico.
+Los inversores institucionales justifican la asignación diversificada de activos a través de fondos, en lugar de valores individuales, mediante un marco académico ampliado con el tiempo para incorporar el Capital Privado, la Inversión Activista y las demás categorías agrupadas bajo Inversiones Alternativas. Los conceptos aquí descritos — el Teorema de Separación de Fondos Mutuos, la frontera eficiente y la cartera 60/40 — corresponden a teoría financiera general, no a una descripción de la estructura de capital ni la asignación de activos de ningún inversor específico.
 
 ## Puntos clave
 

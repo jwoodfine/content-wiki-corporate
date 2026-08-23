@@ -20,7 +20,7 @@ paired_with: tripartite-management-structure.es.md
 cites: []
 ---
 
-**Tripartite Management Structure** describes the operating discipline under which the management of each Direct-Hold Solution is organized into three functionally independent components — referred to internally as a "three-legged stool": development and construction execution, Regulated Reporting Entity compliance administration, and an independent Asset Manager banking syndicate that serves as the entry point for Qualified Private Capital. No single function holds authority over more than one leg, and the third leg is deliberately positioned outside the group's direct control.
+Each Direct-Hold Solution organizes its management into three functionally independent components — referred to internally as a "three-legged stool": development and construction execution, Regulated Reporting Entity compliance administration, and an independent Asset Manager banking syndicate that serves as the entry point for Qualified Private Capital. No single function holds authority over more than one leg, and the third leg is deliberately positioned outside the group's direct control. This operating discipline is the **Tripartite Management Structure**.
 
 ## Key takeaways
 

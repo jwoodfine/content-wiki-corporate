@@ -16,7 +16,10 @@ editor: woodfine-editorial
 paired_with: accredited-investor-eligibility.md
 ---
 
-Este artículo describe una exención de la legislación de valores canadiense; se aplica a las
+La exención de inversionista acreditado bajo el Instrumento Nacional 45-106 permite la venta
+de participaciones de SC a inversores calificados fuera del período de comercialización del
+prospecto, sin los requisitos de divulgación pública de un prospecto. La exención es
+legislación de valores canadiense; se aplica a las
 soluciones de tenencia directa de Canadá y Estados Unidos, constituidas como sociedades en
 comandita. La SOCIMI de España y la FIBRA de México distribuyen sus valores bajo los
 regímenes de exención propios de sus jurisdicciones, descritos en [[exemptions|Exenciones]], no bajo el
@@ -27,9 +30,7 @@ distribuyen a través de dos canales: una oferta pública mediante prospecto dur
 período de comercialización del prospecto, que califica a cada SC como [[regulated-reporting-entity|emisor informante]]
 conforme a la legislación canadiense de valores aplicable; y la exención de inversionista
 acreditado bajo el Instrumento Nacional 45-106 *Exenciones de Prospecto*, disponible para
-inversores institucionales y de alto patrimonio neto. La exención de inversionista acreditado
-permite la venta de participaciones de SC a inversores calificados fuera del período de
-comercialización del prospecto, sin los requisitos de divulgación pública de un prospecto.
+inversores institucionales y de alto patrimonio neto.
 
 ## Puntos clave
 

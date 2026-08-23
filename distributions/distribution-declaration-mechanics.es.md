@@ -16,17 +16,17 @@ editor: woodfine-editorial
 paired_with: distribution-declaration-mechanics.md
 ---
 
-Este artículo describe la mecánica de distribución tal como se aplica a las Soluciones de
+En el vehículo de Canadá ya constituido, el socio gestor declara las distribuciones
+cuando el desempeño operativo del activo satisface el piso de la razón de cobertura
+de [[cre-financial-metrics|intereses]] (RCI). No se declara ninguna distribución de un activo cuya RCI sea inferior a
+1.2×. El vehículo planificado de Estados Unidos tiene previsto aplicar una compuerta de RCI,
+un cálculo proporcional y un protocolo de suspensión equivalentes una vez constituido.
+
+Esta mecánica se aplica a las Soluciones de
 Tenencia Directa de Canadá y Estados Unidos, constituidas como sociedades en comandita. La
 SOCIMI de España y la FIBRA de México se rigen por sus propios regímenes de distribución de
 sus jurisdicciones, no por un acuerdo de sociedad, y no están cubiertas por la mecánica
 descrita aquí.
-
-En el vehículo de Canadá ya constituido, las distribuciones son declaradas por el socio
-gestor cuando el desempeño operativo del activo satisface el piso de la razón de cobertura
-de [[cre-financial-metrics|intereses]] (RCI). No se declara ninguna distribución de un activo cuya RCI sea inferior a
-1.2×. El vehículo planificado de Estados Unidos tiene previsto aplicar una compuerta de RCI,
-un cálculo proporcional y un protocolo de suspensión equivalentes una vez constituido.
 
 ## Puntos clave
 

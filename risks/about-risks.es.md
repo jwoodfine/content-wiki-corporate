@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: about-risks.md
 ---
 
-La divulgación de riesgos en este wiki se organiza en cinco categorías, cada una con su propio
+Este wiki organiza la divulgación de riesgos en cinco categorías, cada una con su propio
 artículo: riesgo de mercado y de propiedad, riesgo de financiamiento y de tasa de interés,
 riesgo de desarrollo y construcción, riesgo estructural y regulatorio, y riesgo propio del
 mecanismo de la oferta. El principio organizador es que un factor de riesgo corresponde a la

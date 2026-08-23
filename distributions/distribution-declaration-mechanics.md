@@ -16,18 +16,18 @@ editor: woodfine-editorial
 paired_with: distribution-declaration-mechanics.es.md
 ---
 
-This article describes distribution mechanics as they apply to the Canada and United States
-Direct-Hold Solutions, which are structured as limited partnerships. The Spain SOCIMI and
-Mexico FIBRA are governed by their own jurisdictions' distribution regimes, not by a
-partnership agreement, and are not covered by the mechanics described here.
-
-In the established Canada vehicle, distributions are declared by the general partner when
+In the established Canada vehicle, the general partner declares distributions when
 the asset's operating performance satisfies the [[cre-financial-metrics|interest coverage ratio]] (ICR) floor. No
 distribution is declared from an asset whose ICR is below 1.2×. When distributions are
 declared, they are allocated to all outstanding units of the relevant asset in equal
 proportion — no unit carries a preferential distribution right over another. The planned
 United States vehicle is intended to apply an equivalent ICR gate, proportional calculation,
 and suspension protocol once established.
+
+These mechanics apply to the Canada and United States
+Direct-Hold Solutions, which are structured as limited partnerships. The Spain SOCIMI and
+Mexico FIBRA are governed by their own jurisdictions' distribution regimes, not by a
+partnership agreement, and are not covered by the mechanics described here.
 
 ## Key takeaways
 

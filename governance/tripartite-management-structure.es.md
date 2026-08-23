@@ -20,7 +20,7 @@ paired_with: tripartite-management-structure.md
 cites: []
 ---
 
-La **Estructura de Gestión Tripartita** describe la disciplina operativa bajo la cual la gestión de cada Solución de Tenencia Directa se organiza en tres componentes funcionalmente independientes — denominados internamente un "taburete de tres patas": la ejecución del desarrollo y la construcción, la administración del cumplimiento como Entidad de Reporte Regulada, y un sindicato bancario independiente de Gestores de Activos que funciona como punto de entrada del Capital Privado Calificado. Ninguna función individual ostenta autoridad sobre más de una de estas patas, y la tercera se sitúa deliberadamente fuera del control directo del grupo.
+Cada Solución de Tenencia Directa organiza su gestión en tres componentes funcionalmente independientes — denominados internamente un "taburete de tres patas": la ejecución del desarrollo y la construcción, la administración del cumplimiento como Entidad de Reporte Regulada, y un sindicato bancario independiente de Gestores de Activos que funciona como punto de entrada del Capital Privado Calificado. Ninguna función individual ostenta autoridad sobre más de una de estas patas, y la tercera se sitúa deliberadamente fuera del control directo del grupo. Esta disciplina operativa es la **Estructura de Gestión Tripartita**.
 
 ## Puntos clave
 

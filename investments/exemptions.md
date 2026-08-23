@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: exemptions.es.md
 ---
 
-Securities distributed by each of the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] are offered through
+Each of the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] offers its securities through
 one of two channels: a prospectus offering, qualified with and reviewed by the applicable
 securities regulator, or a prospectus exemption available under that jurisdiction's securities
 law. This article states, factually, which exemptions the Direct-Hold Solutions rely upon.

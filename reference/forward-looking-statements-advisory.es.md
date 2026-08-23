@@ -17,8 +17,8 @@ editor: pointsav-engineering
 paired_with: forward-looking-statements-advisory.md
 ---
 
-Este artículo es la definición canónica de cómo se utiliza el lenguaje prospectivo en todo el
-wiki corporativo. Los artículos individuales que contienen declaraciones prospectivas remiten a
+El lenguaje prospectivo en todo el wiki corporativo sigue el único aviso canónico establecido
+aquí. Los artículos individuales que contienen declaraciones prospectivas remiten a
 este artículo en lugar de repetir el aviso completo cada vez. Está redactado conforme a la guía
 del Instrumento Nacional 51-102 *Obligaciones de Divulgación Continua* y el Aviso del Personal
 de la OSC 51-721 *Divulgación de Información Prospectiva*.

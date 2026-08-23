@@ -17,9 +17,9 @@ editor: pointsav-engineering
 paired_with: offering-risk.es.md
 ---
 
-The risks described elsewhere in this category apply to the underlying real estate. Offering
-risk is different: it concerns the mechanics of the [[investment-units|investment unit]] itself — how it can
-be held, transferred, and exited — independent of how well the underlying property performs. A
+Offering risk concerns the mechanics of the [[investment-units|investment unit]] itself — how it can
+be held, transferred, and exited — independent of how well the underlying property performs.
+The risks described elsewhere in this category apply to the underlying real estate. A
 well-performing property can still leave a unit holder facing the risks described below, because
 these risks arise from the structure of the offering, not from the condition of the asset.
 
