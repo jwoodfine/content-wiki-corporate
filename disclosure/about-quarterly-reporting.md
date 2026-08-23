@@ -15,10 +15,11 @@ references:
     text: "IAS 34 Interim Financial Reporting. IASB."
 ---
 
-Canadian [[regulated-reporting-entity|reporting issuers]] subject to [[about-disclosure-obligations|NI 51-102]] are required to file interim financial
-statements and a quarterly Management's Discussion and Analysis (MD&A) for each of the first
-three fiscal quarters. The quarterly reporting cycle is distinct from the annual cycle in
-both the financial statement standard applied and the deadline applicable to the filing.
+Investors in Canadian [[regulated-reporting-entity|reporting issuers]] receive interim financial
+statements and a quarterly Management's Discussion and Analysis (MD&A) after each of the first
+three fiscal quarters — a filing [[about-disclosure-obligations|NI 51-102]] requires. The quarterly
+cycle differs from the annual cycle in both the financial statement standard applied and the
+deadline applicable to the filing.
 
 ## Interim financial statements
 

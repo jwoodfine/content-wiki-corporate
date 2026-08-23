@@ -17,12 +17,14 @@ editor: pointsav-engineering
 paired_with: material-contracts.md
 ---
 
-Un contrato material es aquel que un [[regulated-reporting-entity|emisor informante]] considera lo suficientemente
-significativo para su negocio, operaciones o condición financiera como para que los inversores
-razonablemente necesiten conocer su existencia y sus términos materiales a fin de tomar una
-decisión de inversión informada. El Instrumento Nacional 51-102 exige que un emisor informante
-enumere los contratos materiales en su formulario de información anual y, salvo excepciones
-específicas, presente los propios contratos en [[about-filing-systems|SEDAR+]].
+Los inversores pueden leer los contratos que dan forma al negocio de un
+[[regulated-reporting-entity|emisor informante]]: el Instrumento Nacional 51-102 exige que un
+emisor informante enumere los contratos materiales en su formulario de información anual y,
+salvo excepciones específicas, presente los propios contratos en [[about-filing-systems|SEDAR+]].
+Un contrato material es aquel que el emisor considera lo suficientemente significativo para su
+negocio, operaciones o condición financiera como para que los inversores razonablemente
+necesiten conocer su existencia y sus términos materiales a fin de tomar una decisión de
+inversión informada.
 
 ## Qué constituye un contrato material
 

@@ -17,12 +17,13 @@ editor: pointsav-engineering
 paired_with: material-contracts.es.md
 ---
 
-A material contract is a contract that a [[regulated-reporting-entity|reporting issuer]] considers significant
-enough to its business, operations, or financial condition that investors would reasonably
-need to know of its existence and its material terms in order to make an informed investment
-decision. National Instrument 51-102 requires a reporting issuer to list material contracts in
+Investors can read the contracts that shape a [[regulated-reporting-entity|reporting issuer's]]
+business: National Instrument 51-102 requires a reporting issuer to list material contracts in
 its annual information form and, subject to specified exceptions, to file the contracts
-themselves on [[about-filing-systems|SEDAR+]].
+themselves on [[about-filing-systems|SEDAR+]]. A material contract is one the issuer considers
+significant enough to its business, operations, or financial condition that investors would
+reasonably need to know of its existence and its material terms in order to make an informed
+investment decision.
 
 ## What counts as a material contract
 

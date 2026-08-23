@@ -15,11 +15,12 @@ references:
     text: "NIC 34 Información Financiera Intermedia. IASB."
 ---
 
-Los [[regulated-reporting-entity|emisores canadienses que presentan informes]] sujetos a la [[about-disclosure-obligations|NI 51-102]] están obligados a
-depositar estados financieros intermedios y un Análisis y Discusión de la Administración
-(MD&A) trimestral para cada uno de los tres primeros trimestres fiscales. El ciclo de
-informes trimestrales se distingue del ciclo anual tanto por la norma de estados financieros
-aplicada como por el plazo aplicable al depósito.
+Los inversores en [[regulated-reporting-entity|emisores canadienses que presentan informes]] reciben
+estados financieros intermedios y un Análisis y Discusión de la Administración (MD&A)
+trimestral tras cada uno de los tres primeros trimestres fiscales — un depósito que la
+[[about-disclosure-obligations|NI 51-102]] exige. El ciclo de informes trimestrales se distingue
+del ciclo anual tanto por la norma de estados financieros aplicada como por el plazo aplicable
+al depósito.
 
 ## Estados financieros intermedios
 
