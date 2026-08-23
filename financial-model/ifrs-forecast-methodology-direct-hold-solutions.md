@@ -55,7 +55,3 @@ None of this is disclosed informally. A forecast of this kind is prepared under 
 - Interest Coverage Ratio — the covenant tracked against debenture financing in a forecast
 - [[debt-service-and-financing-structure|Debt Service and Financing Structure]] — how the debenture financing a forecast models is structured
 - [[principal-alignment-fee-preservation|Principal Alignment and Fee Preservation]] — the fee structure disclosed as a related-party transaction in a forecast's notes
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

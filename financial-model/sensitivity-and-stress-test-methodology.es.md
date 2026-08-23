@@ -52,7 +52,3 @@ Todos los escenarios de estrés y de choque de esta metodología son modelados e
 ## Próximos pasos
 
 Consulte Ratio de Cobertura de Intereses para conocer el convenio que esta metodología somete a pruebas de estrés, y [[non-ifrs-measures-explained|Medidas No-NIIF Explicadas]] para saber cómo se definen el NAV y las demás medidas complementarias utilizadas en toda esta metodología, y cómo se concilian con las NIIF. Véase también [[forward-looking-statements-advisory|el Aviso sobre Declaraciones Prospectivas]] para el lenguaje de advertencia que rige cada escenario ilustrativo de este artículo.
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

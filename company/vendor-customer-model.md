@@ -59,7 +59,3 @@ The vendor-customer model assigns PointSav the role of technology builder and ea
 - [[topic-corporate-structure|Corporate Structure]] — the ownership relationship among all these entities
 - [[topic-technology-services|Technology Services Agreement]] — structure of the services contract between PointSav and each vehicle
 - [[topic-data-governance|Data Governance]] — each governing body's data custody obligations under the vendor-customer model
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

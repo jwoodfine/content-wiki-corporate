@@ -56,7 +56,3 @@ Woodfine Capital Projects Inc. aplica una postura de divulgación continua —tr
 - [[about-continuous-disclosure|Obligaciones de Divulgación Continua]] — los requisitos específicos de reporte del NI 51-102 y el calendario de presentación
 - [[topic-direct-hold-framework|Marco de Tenencia Directa]] — la estructura de propiedad de activos sujeta a estas obligaciones de divulgación
 - [[topic-corporate-structure|Estructura Corporativa]] — las entidades legales dentro del grupo Woodfine
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

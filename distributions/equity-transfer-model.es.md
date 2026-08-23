@@ -56,7 +56,3 @@ El Modelo de Transferencia de Capital retira a la entidad corporativa de la ecua
 - [[topic-direct-hold-framework]] — la estructura de propiedad que hace libremente transferible el capital
 - [[topic-fiduciary-data-mandate]] — requisitos de gobernanza de datos que sustentan la integridad del libro contable
 - [[topic-redemption-elimination]] — por qué no existe una facilidad de recompra corporativa
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

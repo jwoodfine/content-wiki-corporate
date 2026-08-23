@@ -182,7 +182,3 @@ Centres Canada LP existe hoy.
 - [[professional-centres-canada-lp-structure|Estructura de Professional Centres Canada LP]] — el vehículo canadiense establecido, en detalle completo
 - [[vendor-customer-model|Modelo Proveedor-Cliente]] — el rol del proveedor de tecnología y sus límites
 - [[asset-vehicle-isolation|Aislamiento de Vehículos de Activos]] — por qué cada edificio se mantiene en su propia unidad legal y financiera
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

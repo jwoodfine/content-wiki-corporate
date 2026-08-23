@@ -55,7 +55,3 @@ Nada de esto se divulga de manera informal. Un pronóstico de este tipo se prepa
 - Ratio de Cobertura de Intereses — el convenio que un pronóstico rastrea frente al financiamiento con debentures
 - [[debt-service-and-financing-structure|Estructura de Servicio de Deuda y Financiamiento]] — cómo se estructura el financiamiento con debentures que modela un pronóstico
 - [[principal-alignment-fee-preservation|Alineación de Principales y Preservación de Comisiones]] — la estructura de comisiones divulgada como transacción con partes relacionadas en las notas de un pronóstico
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

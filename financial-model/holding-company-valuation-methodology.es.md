@@ -54,7 +54,3 @@ Frente a esos ingresos, el modelo compensa los gastos operativos, incluidos los 
 ## En resumen
 
 La valoración de la empresa matriz en WCP se modela a través de tres métodos independientes — precio/utilidad, rendimiento de utilidades y valor en libros con su construcción de VAN de beneficio económico — promediados en un solo compuesto de valor razonable a lo largo de un horizonte de diez años. Los tres métodos se basan en la misma cifra de utilidades subyacente, construida a su vez a partir de una línea de ingresos por honorarios de asesoría modelada en toda la cartera de vehículos afiliados, neta de gastos operativos y de una tasa impositiva estatutaria fija. Cada insumo — el múltiplo de 10,72x, el rendimiento del 4,5%, la participación de beneficio económico del 10% y la tasa impositiva del 27% — es un parámetro modelado e ilustrativo, no una métrica divulgada ni una proyección de resultados reales.
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

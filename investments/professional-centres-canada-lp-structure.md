@@ -59,7 +59,3 @@ Investment Units in Professional Centres Canada LP settle through CDS Clearing a
 - [[four-jurisdiction-framework]] — the multi-jurisdiction deployment this vehicle operates within
 - [[limited-partnership-structure]] — the generic general-partner/limited-partner legal form and capital-account mechanics
 - [[about-risks]] — risk disclosure, including regulatory and compliance risk
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

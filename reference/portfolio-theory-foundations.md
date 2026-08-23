@@ -65,7 +65,3 @@ Modern portfolio theory holds that diversified allocation across a small number 
 - [[narrow-bank-financial-model|Narrow Bank Financial Model]] — the financial engine the Direct-Hold Solutions apply
 - [[direct-hold-framework|Direct-Hold Framework]] — the legal ownership structure evaluated against these portfolio-theory concepts
 - [[global-investment-terminology|Global Investment Terminology]] — cross-jurisdiction glossary of investment terms
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

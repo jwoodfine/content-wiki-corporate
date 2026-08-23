@@ -50,7 +50,3 @@ Combinar cualesquiera dos de estas patas bajo una autoridad común crearía un c
 - [[regulated-reporting-entity|Entidad de Reporte Regulada]] — las obligaciones de administración del cumplimiento que ejerce la segunda pata
 - [[principal-alignment-fee-preservation|Alineación de Principales y Preservación de Comisiones]] — la estructura de comisiones que remunera a los Gestores de Activos independientes que conforman la tercera pata
 - [[governance-documents|Documentos de Gobernanza Corporativa]] — la supervisión del directorio y sus comités sobre las funciones de gestión descritas aquí
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

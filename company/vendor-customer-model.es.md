@@ -59,7 +59,3 @@ El modelo proveedor-cliente asigna a PointSav el rol de constructor de tecnolog�
 - [[topic-corporate-structure|Estructura Corporativa]] — la relación de propiedad entre todas estas entidades
 - [[topic-technology-services|Acuerdo de Servicios Tecnológicos]] — la estructura del contrato de servicios entre PointSav y cada vehículo
 - [[topic-data-governance|Gobernanza de Datos]] — las obligaciones de custodia de datos de cada órgano de gobierno bajo el modelo proveedor-cliente
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

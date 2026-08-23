@@ -56,7 +56,3 @@ Woodfine Capital Projects Inc. applies a continuous-disclosure posture — treat
 - [[about-continuous-disclosure|Continuous Disclosure Obligations]] — the specific NI 51-102 reporting requirements and filing schedule
 - [[topic-direct-hold-framework|Direct-Hold Framework]] — the asset ownership structure subject to these disclosure obligations
 - [[topic-corporate-structure|Corporate Structure]] — the legal entities within the Woodfine group
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

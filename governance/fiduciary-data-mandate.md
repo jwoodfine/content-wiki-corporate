@@ -57,7 +57,3 @@ The Fiduciary Data Mandate is a sovereignty principle applied to digital records
 - [[topic-direct-hold-framework]] — the ownership structure that the fiduciary mandate protects
 - [[topic-equity-transfer-model]] — how ledger integrity supports free equity transfer
 - Interest Coverage Ratio — the financial discipline applied alongside the data mandate
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

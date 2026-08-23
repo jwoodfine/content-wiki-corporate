@@ -64,7 +64,3 @@ In each direct-hold vehicle, the general partner holds management authority over
 ## The bottom line
 
 The Direct-Hold framework replaces the commingled fund with asset-specific equity: each investor holds units in a vehicle constituted around a single named property, with legal title held by a separate WCP Titleco nominee company, rather than participating in a pooled vehicle. Because every asset is its own legal and financial unit, isolation is a property of the architecture and cross-asset contagion cannot occur, so an investor evaluating one asset's risk need not model the rest of a portfolio. With transfers executing directly between private parties, the structure carries no pooled redemption obligation and no fund-manager discretion over an investor's capital.
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

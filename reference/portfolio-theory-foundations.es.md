@@ -65,7 +65,3 @@ La teoría moderna de cartera sostiene que la asignación diversificada a travé
 - [[narrow-bank-financial-model|Modelo Financiero de Banca Estrecha]] — el motor financiero que aplican las Direct-Hold Solutions
 - [[direct-hold-framework|Marco de Tenencia Directa]] — la estructura jurídica de propiedad evaluada frente a estos conceptos de teoría de cartera
 - [[global-investment-terminology|Terminología Global de Inversión]] — glosario interjurisdiccional de términos de inversión
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

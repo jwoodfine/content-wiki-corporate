@@ -56,7 +56,3 @@ The Equity Transfer Model removes the corporate entity from the liquidity equati
 - [[topic-direct-hold-framework|Direct-Hold Framework]] — the ownership structure that makes equity freely transferable
 - [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] — data governance requirements that underpin ledger integrity
 - [[topic-redemption-elimination|Redemption Elimination]] — why no corporate buyback facility exists
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

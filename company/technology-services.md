@@ -77,7 +77,3 @@ The technology services agreement keeps PointSav's role strictly operational and
 - [[topic-vendor-customer-model|Vendor-Customer Model]] — the structural separation between PointSav and each vehicle's governing body that the services agreement reflects
 - [[topic-data-governance|Data Governance]] — each governing body's data custody framework that governs PointSav's obligations under the agreement
 - Property Ledger Technology — the technical infrastructure PointSav maintains under the agreement
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

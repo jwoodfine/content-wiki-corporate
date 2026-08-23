@@ -64,7 +64,3 @@ En cada vehículo de tenencia directa, el socio general ostenta la autoridad de 
 ## La conclusión
 
 El Marco de Tenencia Directa sustituye el fondo mancomunado por capital específico de cada activo: cada inversor posee participaciones en un vehículo constituido en torno a una propiedad única nombrada, con el título legal en manos de una sociedad nominada WCP Titleco independiente, en lugar de participar en un vehículo mancomunado. Dado que cada activo es su propia unidad jurídica y financiera, el aislamiento es una propiedad de la arquitectura y el contagio entre activos no puede producirse, de modo que un inversor que evalúa el riesgo de un activo no necesita modelar el resto de una cartera. Al ejecutarse las transferencias directamente entre partes privadas, la estructura no carga ninguna obligación de redención mancomunada ni discrecionalidad del gestor del fondo sobre el capital del inversor.
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

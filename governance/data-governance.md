@@ -63,7 +63,3 @@ Each Direct-Hold vehicle's data governance framework allocates custodian respons
 - [[topic-fiduciary-data-mandate|Fiduciary Data Mandate]] — the governance obligations each vehicle's governing body holds as custodian of the property ledger
 - Property Ledger Technology — the technical infrastructure on which ledger data is stored and maintained
 - [[topic-vendor-customer-model|Vendor-Customer Model]] — the services relationship that governs PointSav's role as data processor
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

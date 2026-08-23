@@ -52,7 +52,3 @@ Every stress and shock scenario in this methodology is modeled and illustrative.
 ## Next steps
 
 Read Interest Coverage Ratio for the covenant this methodology stress-tests, and [[non-ifrs-measures-explained]] for how NAV and the other supplementary measures used throughout this methodology are defined and reconciled to IFRS. See also [[forward-looking-statements-advisory|the Forward-Looking Statements Advisory]] for the caution language that governs every illustrative scenario in this article.
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

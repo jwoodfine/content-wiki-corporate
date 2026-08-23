@@ -77,7 +77,3 @@ El acuerdo de servicios tecnológicos mantiene el rol de PointSav estrictamente 
 - [[topic-vendor-customer-model|Modelo Proveedor-Cliente]] — la separación estructural entre PointSav y el órgano de gobierno de cada vehículo que refleja el acuerdo de servicios
 - [[topic-data-governance|Gobernanza de Datos]] — el marco de custodia de datos de cada órgano de gobierno que rige las obligaciones de PointSav en virtud del acuerdo
 - Tecnología del Registro de Propiedades — la infraestructura técnica que PointSav mantiene en virtud del acuerdo
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

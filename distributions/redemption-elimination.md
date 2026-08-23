@@ -61,7 +61,3 @@ The Direct-Hold architecture structurally eliminates the need for a redemption f
 - [[topic-direct-hold-framework]] — the ownership structure that makes redemption mechanisms unnecessary
 - [[topic-equity-transfer-model]] — how investors exit their positions in practice
 - Interest Coverage Ratio — the debt-service discipline that removes the need for cash reserves
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

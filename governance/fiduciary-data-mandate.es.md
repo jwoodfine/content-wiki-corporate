@@ -57,7 +57,3 @@ El Mandato de Datos Fiduciarios es un principio de soberanía aplicado a los reg
 - [[topic-direct-hold-framework]] — la estructura de propiedad que el mandato fiduciario protege
 - [[topic-equity-transfer-model]] — cómo la integridad del libro contable sustenta la libre transferencia de capital
 - Ratio de Cobertura de Intereses — la disciplina financiera aplicada en paralelo al mandato de datos
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

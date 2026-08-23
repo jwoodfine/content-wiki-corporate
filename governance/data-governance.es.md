@@ -63,7 +63,3 @@ El marco de gobernanza de datos de cada vehículo de Tenencia Directa asigna cla
 - [[topic-fiduciary-data-mandate|Mandato Fiduciario de Datos]] — las obligaciones de gobernanza que cada órgano de gobierno ostenta como custodio del registro de propiedades
 - Tecnología del Registro de Propiedades — la infraestructura técnica en la que se almacenan y mantienen los datos del registro
 - [[topic-vendor-customer-model|Modelo Proveedor-Cliente]] — la relación de servicios que rige el rol de PointSav como procesador de datos
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

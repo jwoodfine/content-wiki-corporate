@@ -53,7 +53,3 @@ Las Unidades de Inversión de Professional Centres Canada LP se liquidan a trav�
 - [[four-jurisdiction-framework]] — el despliegue multijurisdiccional dentro del cual opera este vehículo
 - [[limited-partnership-structure]] — la forma jurídica genérica de socio general/socio comanditario y la mecánica de las cuentas de capital
 - [[about-risks]] — la divulgación de riesgos, incluido el riesgo regulatorio y de cumplimiento
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

@@ -59,7 +59,3 @@ La arquitectura de Tenencia Directa elimina estructuralmente la necesidad de un 
 - [[topic-direct-hold-framework]] — la estructura de propiedad que hace innecesarios los mecanismos de reembolso
 - [[topic-equity-transfer-model]] — cómo salen en la práctica los inversores de sus posiciones
 - Ratio de Cobertura de Intereses — la disciplina de servicio de deuda que elimina la necesidad de reservas de efectivo
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

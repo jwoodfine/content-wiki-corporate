@@ -88,7 +88,3 @@ This article describes how the group is organised. It is not a statement of inve
 - [[professional-centres-canada-lp-structure|Professional Centres Canada LP Structure]] — the established Canadian vehicle in full detail
 - [[vendor-customer-model|Vendor-Customer Model]] — the technology vendor's role and its limits
 - [[asset-vehicle-isolation|Asset-Vehicle Isolation]] — why each building sits in its own legal and financial unit
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

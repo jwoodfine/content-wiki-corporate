@@ -59,7 +59,3 @@ El acceso al portal se realiza mediante credenciales. MCorp es responsable de la
 - [[equity-transfer-model|Modelo de Transferencia de Capital]] — la mecánica de las transferencias de capital entre pares en activos de Tenencia Directa
 - [[about-continuous-disclosure|Obligaciones de Divulgación Continua]] — los requisitos de reporte ante la OSC que rigen las divulgaciones financieras realizadas a través del portal
 - Tecnología del Registro de Propiedades — la infraestructura técnica que mantiene los datos de posición y el historial de eventos financieros
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

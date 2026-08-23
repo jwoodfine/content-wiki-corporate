@@ -50,7 +50,3 @@ Combining any two of these legs under common authority would create a direct con
 - [[regulated-reporting-entity|Regulated Reporting Entity]] — the compliance-administration obligations the second leg carries out
 - [[principal-alignment-fee-preservation|Principal Alignment and Fee Preservation]] — the fee structure that compensates the independent Asset Managers forming the third leg
 - [[governance-documents|Corporate Governance Documents]] — board and committee oversight of the management functions described here
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

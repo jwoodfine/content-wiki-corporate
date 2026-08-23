@@ -63,7 +63,3 @@ The investor portal provides a ledger-accurate view of each investor's position 
 - [[equity-transfer-model|Equity Transfer Model]] — the mechanics of peer-to-peer equity transfers in Direct-Hold assets
 - [[about-continuous-disclosure|Continuous Disclosure Obligations]] — the OSC reporting requirements that govern financial disclosures made through the portal
 - Property Ledger Technology — the technical infrastructure that maintains position data and financial event history
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

@@ -57,7 +57,3 @@ Los artículos publicados en corporate.woodfinegroup.com son de acceso público 
 
 - [[about-regulatory-posture|Postura Regulatoria]] — el marco más amplio de divulgación ante la OSC aplicable al grupo Woodfine
 - [[topic-investor-access|Acceso de Inversores]] — cómo los inversores reciben informes financieros sobre sus posiciones
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

@@ -54,7 +54,3 @@ Against that revenue, the model nets operating expenses, including multi-jurisdi
 ## The bottom line
 
 Holding-company valuation at WCP is modeled through three independent methods — price/earnings, earnings-yield, and book value with its beneficial-ownership NAV build — averaged into a single fair-value composite across a ten-year horizon. All three methods draw on the same underlying earnings figure, itself built from a modeled advisory-fee revenue line across the affiliated vehicle portfolio, netted against operating expenses and a flat statutory tax rate. Every input — the 10.72x multiple, the 4.5% yield, the 10% beneficial-ownership interest, and the 27% tax rate — is a modeled, illustrative parameter, not a disclosed metric or a forecast of actual results.
-
----
-
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*
