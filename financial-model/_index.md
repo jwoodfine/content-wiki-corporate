@@ -56,12 +56,12 @@ capital is returned, in place of the conventional 2-and-20 management and perfor
 
 How value and forward figures are arrived at: the three-method estimate for the parent
 holding company, the IFRS basis on which a vehicle-level forecast is built, and the stress
-scenarios run against the 1.20x interest-coverage covenant.
+scenarios run against the interest-coverage covenant.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: valuation-and-forecasting-methodology -->
 - [[holding-company-valuation-methodology]] — The three-method framework — price/earnings, earnings-yield, and book value — used to model a composite fair-value-per-share estimate for the parent holding company, distinct from asset- and vehicle-level valuation.
 - [[ifrs-forecast-methodology-direct-hold-solutions]] — How a 10-year IFRS-styled financial forecast for a Direct-Hold Solution vehicle applies IFRS 18, IAS 40, IFRS 13, and IFRS 2 to project future financial statements — illustrative, not a guarantee of results.
-- [[sensitivity-and-stress-test-methodology]] — How Direct-Hold Solutions model interest-rate, occupancy, and development-yield stress against the 1.20x interest-coverage covenant.
+- [[sensitivity-and-stress-test-methodology]] — How Direct-Hold Solutions model interest-rate, occupancy, and development-yield stress against the interest-coverage covenant.
 <!-- END AUTO-GENERATED -->
 
 What a unit holder is actually paid, and when a distribution is withheld, is covered under
