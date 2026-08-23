@@ -38,8 +38,7 @@ terceros.
   promotor.
 - Woodfine Management Corp. ("MCorp") es la entidad Gestora dentro del grupo. PointSav
   Digital Systems es la subsidiaria tecnológica separada del grupo.
-- Los propios documentos legales ejecutados de la empresa describen esta estructura de
-  empresa matriz desde 2011.
+- WCP mantiene esta estructura de empresa matriz al menos desde 2011.
 
 ## La empresa matriz y su enfoque de desarrollo
 
@@ -87,17 +86,18 @@ promotor, están planificados.
 
 ## Continuidad de la estructura
 
-Los propios documentos legales ejecutados de la empresa, de 2011, describen a WCP como
-"una empresa matriz de un grupo de sociedades que se dedican al desarrollo de bienes
-raíces comerciales que se mantienen a través de sociedades limitadas cuyos socios
-generales son subsidiarias de propiedad absoluta" de WCP.
+WCP mantiene esta estructura de empresa matriz al menos desde 2011, cuando sus propios
+documentos legales ejecutados la describían como "una empresa matriz de un grupo de
+sociedades que se dedican al desarrollo de bienes raíces comerciales que se mantienen a
+través de sociedades limitadas cuyos socios generales son subsidiarias de propiedad
+absoluta" de WCP.
 
 El cargo de Director Ejecutivo cuenta con un historial de varias décadas como
 desarrollador en el mercado inmobiliario comercial del oeste canadiense, que abarca
 construcción, arrendamiento, proyectos de diseño y construcción para minoristas
-nacionales, selección de sitios, permisos y supervisión de construcción. Un segundo
-cargo ejecutivo ha trabajado junto al Director Ejecutivo desde finales de la década de
-1990.
+nacionales, selección de sitios, permisos y supervisión de construcción. El cargo de
+Director Ejecutivo y un segundo cargo ejecutivo han trabajado juntos desde finales de la
+década de 1990.
 
 ## Lo que esto no es
 

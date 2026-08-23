@@ -28,7 +28,7 @@ Woodfine Capital Projects Inc. (WCP) is a holding company. Through its subsidiar
 - Four Direct-Hold Solutions exist or are planned: one established, in Canada; three planned, in the United States, Spain, and Mexico.
 - Each jurisdiction has a governing entity (a general partner or an administrator) and a separate company holding the promoter's equity.
 - Woodfine Management Corp. ("MCorp") is the Manager entity within the group. PointSav Digital Systems is the group's separate technology subsidiary.
-- The company's own executed legal documents describe this holding-company structure as of 2011.
+- WCP has held this holding-company structure since at least 2011.
 
 ## The parent company and its development focus
 
@@ -61,9 +61,9 @@ Only Professional Centres Canada LP is established. The United States, Spain, an
 
 ## Continuity of the structure
 
-The company's own executed legal documents from 2011 describe WCP as "a holding company for a group of corporations that engage in the development of commercial real estate that is owned through limited partnerships of which the general partners are wholly owned subsidiaries" of WCP.
+WCP has held this holding-company structure since at least 2011, when its own executed legal documents described it as "a holding company for a group of corporations that engage in the development of commercial real estate that is owned through limited partnerships of which the general partners are wholly owned subsidiaries" of WCP.
 
-The chief executive role has a multi-decade record as a developer in the Western Canadian commercial real estate market, spanning construction, leasing, design-build work for national retailers, site selection, permitting, and construction supervision. A second executive role has worked alongside the chief executive role since the late 1990s.
+The chief executive role has a multi-decade record as a developer in the Western Canadian commercial real estate market, spanning construction, leasing, design-build work for national retailers, site selection, permitting, and construction supervision. The chief executive role and a second executive role have worked together since the late 1990s.
 
 ## What this is not
 
