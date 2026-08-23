@@ -235,4 +235,4 @@ redirects:
   # Genuine merge, not a bare retraction — the one confirmed fact (PointSav is a separate
   # technology subsidiary) now lives in vendor-customer-model.md.
   - from: /technology-services
-    to: /vendor-customer-model
+    to: /wiki/vendor-customer-model
