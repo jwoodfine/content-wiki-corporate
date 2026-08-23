@@ -47,16 +47,7 @@ The Direct-Hold architecture is immune to this failure mode. There is no queue t
 
 ## Investor implications
 
-The structural consequence for investors is explicit: MCorp does not provide a redemption facility. Liquidity depends on the private market for the specific asset. The Direct-Hold structure carries a different risk profile than a pooled fund — the corporate entity makes no liquidity commitment it cannot fulfill, because no pooled capital exists from which such a commitment could be honored.
-
-**Correction (2026-08-02, verified against [[corporate-structure]]):** this sentence
-attributes a governance-adjacent decision to MCorp — a leftover instance of the
-entity-governance error corrected corpus-wide 2026-07-30, missed because this file
-(in `distributions/`) was outside that pass's target list. Per the corrected model,
-MCorp "does not originate or govern the limited partnerships"; the entity that
-would (or wouldn't) provide a redemption facility is each vehicle's own governing
-body — in Canada, the General Partner, Woodfine Professional Centres Inc. — not
-MCorp. **Flagged, not resolved.**
+The structural consequence for investors is explicit: no vehicle's governing body — in Canada, the General Partner, Woodfine Professional Centres Inc. — provides a redemption facility. Liquidity depends on the private market for the specific asset. The Direct-Hold structure carries a different risk profile than a pooled fund — the corporate entity makes no liquidity commitment it cannot fulfill, because no pooled capital exists from which such a commitment could be honored.
 
 Without a redemption queue, no coordinated exit pressure can destabilize the portfolio. Long-term equity compounds without the structural drag of a cash reserve that earns less than the underlying assets, consistent with the [[topic-perpetual-equity-model|perpetual equity model]] applied to fractional investor holdings.
 
