@@ -35,8 +35,9 @@ remuneración como consejero, y las relaciones familiares con directivos del emi
 
 Todos los miembros del comité de auditoría también deben ser financieramente alfabetizados —
 capaces de leer y comprender estados financieros que presenten una amplitud y nivel de
-complejidad de cuestiones contables comparables a los del emisor. Al menos un miembro debe
-tener experiencia contable o financiera relacionada.
+complejidad de cuestiones contables comparables a los del emisor. NI 52-110 exige que el
+emisor divulgue si un "experto financiero del comité de auditoría" designado forma parte del
+comité; exige esa divulgación, no la presencia del experto en sí.
 
 Para los emisores de riesgo ("venture issuers") y otros emisores informantes de menor
 tamaño, la NI 52-110 prevé ciertas exenciones respecto de los requisitos íntegros de
