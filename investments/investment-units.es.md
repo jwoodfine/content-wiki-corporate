@@ -5,6 +5,7 @@ slug: investment-units
 aliases:
   - topic-investment-units
 category: investments
+index_group: the-direct-hold-structure
 type: topic
 content_type: topic
 status: active

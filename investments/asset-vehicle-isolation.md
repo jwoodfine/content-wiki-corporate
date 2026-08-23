@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Asset vehicle isolation"
 slug: asset-vehicle-isolation
 category: investments
+index_group: the-direct-hold-structure
 type: topic
 content_type: topic
 quality: complete

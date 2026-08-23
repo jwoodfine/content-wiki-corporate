@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Accredited investor eligibility"
 slug: accredited-investor-eligibility
 category: investments
+index_group: eligibility-and-distribution-channels
 type: topic
 content_type: topic
 quality: complete

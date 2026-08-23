@@ -6,6 +6,7 @@ aliases:
   - pclp-direct-hold-structure
 short_description: "La estructura jurídica y operativa de Professional Centres Canada LP a nivel de la sociedad en comandita — el acuerdo de asesoría, la participación del promotor en fideicomiso de garantía, el historial de participaciones, la situación regulatoria y la mecánica de liquidación — distinta de los artículos sobre la matriz corporativa y sobre el marco de cuatro jurisdicciones."
 category: investments
+index_group: legal-form-and-jurisdiction
 type: reference
 content_type: topic
 quality: complete

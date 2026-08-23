@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Marco de Cuatro Jurisdicciones"
 slug: four-jurisdiction-framework
 category: investments
+index_group: legal-form-and-jurisdiction
 type: topic
 content_type: topic
 quality: complete

@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Comparación Estructural de Direct-Hold Solutions"
 slug: direct-hold-solutions-structural-comparison
 category: investments
+index_group: the-direct-hold-structure
 type: topic
 content_type: topic
 quality: complete

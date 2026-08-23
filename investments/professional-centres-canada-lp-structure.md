@@ -6,6 +6,7 @@ aliases:
   - pclp-direct-hold-structure
 short_description: "The legal and operating structure of Professional Centres Canada LP at the limited-partnership level — the advisory agreement, escrowed promoter equity, unit history, regulatory standing, and settlement mechanics — distinct from the corporate-parent and four-jurisdiction overview articles."
 category: investments
+index_group: legal-form-and-jurisdiction
 type: reference
 content_type: topic
 quality: complete

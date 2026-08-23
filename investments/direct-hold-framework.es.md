@@ -5,6 +5,7 @@ slug: direct-hold-framework
 aliases:
   - topic-direct-hold-framework
 category: investments
+index_group: the-direct-hold-structure
 type: reference
 content_type: topic
 quality: complete

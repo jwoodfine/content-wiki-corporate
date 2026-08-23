@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Estructura de Sociedad en Comandita"
 slug: limited-partnership-structure
 category: investments
+index_group: legal-form-and-jurisdiction
 type: topic
 content_type: topic
 quality: complete

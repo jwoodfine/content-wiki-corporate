@@ -6,6 +6,7 @@ aliases:
   - topic-direct-hold-framework
 short_description: "A legal structure that issues equity units in a single named direct-hold vehicle, not a share in a commingled pool, eliminating cross-asset contagion."
 category: investments
+index_group: the-direct-hold-structure
 type: reference
 content_type: topic
 quality: complete
