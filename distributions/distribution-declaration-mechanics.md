@@ -7,7 +7,7 @@ index_group: distribution-policy-and-mechanics
 type: topic
 content_type: topic
 quality: complete
-short_description: "How distributions in direct-hold limited partnerships are determined, declared, and paid: the ICR gate, proportional allocation across units, and the suspension protocol."
+short_description: "How distributions in the Canada and United States limited-partnership-form direct-hold vehicles are determined, declared, and paid: the ICR gate, proportional allocation across units, and the suspension protocol."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
@@ -16,13 +16,18 @@ editor: woodfine-editorial
 paired_with: distribution-declaration-mechanics.es.md
 ---
 
-Distributions in direct-hold limited partnerships are declared by the general partner when
+This article describes distribution mechanics as they apply to the Canada and United States
+Direct-Hold Solutions, which are structured as limited partnerships. The Spain SOCIMI and
+Mexico FIBRA are governed by their own jurisdictions' distribution regimes, not by a
+partnership agreement, and are not covered by the mechanics described here.
+
+In the established Canada vehicle, distributions are declared by the general partner when
 the asset's operating performance satisfies the interest coverage ratio (ICR) floor. No
 distribution is declared from an asset whose ICR is below 1.2×. When distributions are
 declared, they are allocated to all outstanding units of the relevant asset in equal
-proportion — no unit carries a preferential distribution right over another. The mechanics
-are identical across all direct-hold solutions: the ICR gate, the proportional calculation,
-and the suspension protocol apply consistently across every asset vehicle in the programme.
+proportion — no unit carries a preferential distribution right over another. The planned
+United States vehicle is intended to apply an equivalent ICR gate, proportional calculation,
+and suspension protocol once established.
 
 ## Key takeaways
 
@@ -72,7 +77,12 @@ single level: all outstanding units of the same asset receive the same per-unit 
 
 ## Minimum distribution and retention
 
-Where a distribution is declared, the partnership pays at least 90% of the fiscal year's Distributable Income to limited partners within 90 days of the fiscal year-end. Until cumulative distributions equal 100% of the gross proceeds limited partners paid for their units (the Initial Period), the remaining 10% is retained for partnership purposes. After the Initial Period, that 10% is applied to redeem First Secured Mortgage Debentures until fully redeemed, after which it reverts to partnership purposes.
+In the established Canada vehicle, where a distribution is declared, the partnership pays at
+least 90% of the fiscal year's Distributable Income to limited partners within 90 days of the
+fiscal year-end. Until cumulative distributions equal 100% of the gross proceeds limited
+partners paid for their units (the Initial Period), the remaining 10% is retained for
+partnership purposes. After the Initial Period, that 10% is applied to redeem First Secured
+Mortgage Debentures until fully redeemed, after which it reverts to partnership purposes.
 
 ## Suspension protocol
 

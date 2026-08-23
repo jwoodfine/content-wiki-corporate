@@ -7,7 +7,7 @@ index_group: distribution-policy-and-mechanics
 type: topic
 content_type: topic
 quality: complete
-short_description: "Cómo se determinan, declaran y pagan las distribuciones en las sociedades en comandita de tenencia directa: la compuerta de la RCI, la asignación proporcional entre participaciones y el protocolo de suspensión."
+short_description: "Cómo se determinan, declaran y pagan las distribuciones en las Soluciones de Tenencia Directa de Canadá y Estados Unidos, constituidas como sociedades en comandita: la compuerta de la RCI, la asignación proporcional entre participaciones y el protocolo de suspensión."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
@@ -16,10 +16,17 @@ editor: woodfine-editorial
 paired_with: distribution-declaration-mechanics.md
 ---
 
-Las distribuciones en las sociedades en comandita de tenencia directa son declaradas por el
-socio gestor cuando el desempeño operativo del activo satisface el piso de la razón de
-cobertura de intereses (RCI). No se declara ninguna distribución de un activo cuya RCI sea
-inferior a 1.2×.
+Este artículo describe la mecánica de distribución tal como se aplica a las Soluciones de
+Tenencia Directa de Canadá y Estados Unidos, constituidas como sociedades en comandita. La
+SOCIMI de España y la FIBRA de México se rigen por sus propios regímenes de distribución de
+sus jurisdicciones, no por un acuerdo de sociedad, y no están cubiertas por la mecánica
+descrita aquí.
+
+En el vehículo de Canadá ya constituido, las distribuciones son declaradas por el socio
+gestor cuando el desempeño operativo del activo satisface el piso de la razón de cobertura
+de intereses (RCI). No se declara ninguna distribución de un activo cuya RCI sea inferior a
+1.2×. El vehículo planificado de Estados Unidos tiene previsto aplicar una compuerta de RCI,
+un cálculo proporcional y un protocolo de suspensión equivalentes una vez constituido.
 
 ## Puntos clave
 
@@ -64,7 +71,7 @@ activo reciben el mismo monto por participación.
 
 ## Distribución mínima y retención
 
-Cuando se declara una distribución, la sociedad paga al menos el 90% del Ingreso Distribuible del ejercicio fiscal a los socios comanditarios dentro de los 90 días posteriores al cierre del ejercicio. Hasta que las distribuciones acumuladas igualen el 100% de los ingresos brutos que los socios comanditarios pagaron por sus participaciones (el Período Inicial), el 10% restante se retiene para fines de la sociedad. Después del Período Inicial, ese 10% se aplica a la redención de Obligaciones con Primera Hipoteca Garantizada hasta que todas sean redimidas, tras lo cual vuelve a destinarse a fines de la sociedad.
+En el vehículo de Canadá ya constituido, cuando se declara una distribución, la sociedad paga al menos el 90% del Ingreso Distribuible del ejercicio fiscal a los socios comanditarios dentro de los 90 días posteriores al cierre del ejercicio. Hasta que las distribuciones acumuladas igualen el 100% de los ingresos brutos que los socios comanditarios pagaron por sus participaciones (el Período Inicial), el 10% restante se retiene para fines de la sociedad. Después del Período Inicial, ese 10% se aplica a la redención de Obligaciones con Primera Hipoteca Garantizada hasta que todas sean redimidas, tras lo cual vuelve a destinarse a fines de la sociedad.
 
 ## Protocolo de suspensión
 
