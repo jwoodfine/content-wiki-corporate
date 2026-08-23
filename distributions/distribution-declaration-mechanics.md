@@ -37,6 +37,9 @@ vehicle in the programme.
   the T5013 information slip issued to each limited partner; they reduce the limited
   partner's capital account and do not constitute a return of original capital unless the
   LP's cumulative losses have reduced the capital account below the original invested amount.
+- At least 90% of a fiscal year's Distributable Income is paid to limited partners within
+  90 days of fiscal year-end; the remaining 10% is retained for partnership purposes
+  during the Initial Period, then applied to redeem First Secured Mortgage Debentures.
 
 ## The ICR gate
 
@@ -68,6 +71,10 @@ There is no preferred class of units, no minimum preferred return that must be s
 before ordinary units participate, and no accumulated preferred distribution that must be
 paid up before a regular distribution is declared. The distribution waterfall contains a
 single level: all outstanding units of the same asset receive the same per-unit amount.
+
+## Minimum distribution and retention
+
+Where a distribution is declared, the partnership pays at least 90% of the fiscal year's Distributable Income to limited partners within 90 days of the fiscal year-end. Until cumulative distributions equal 100% of the gross proceeds limited partners paid for their units (the Initial Period), the remaining 10% is retained for partnership purposes. After the Initial Period, that 10% is applied to redeem First Secured Mortgage Debentures until fully redeemed, after which it reverts to partnership purposes.
 
 ## Suspension protocol
 

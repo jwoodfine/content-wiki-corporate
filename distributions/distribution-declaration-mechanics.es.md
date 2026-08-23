@@ -30,6 +30,10 @@ inferior a 1.2×.
   cualquier distribución declarada.
 - Las distribuciones declaradas aparecen en el formulario T5013 emitido a cada socio comanditario
   y reducen la cuenta de capital del socio comanditario.
+- Al menos el 90% del Ingreso Distribuible de un ejercicio fiscal se paga a los socios
+  comanditarios dentro de los 90 días posteriores al cierre del ejercicio; el 10% restante
+  se retiene para fines de la sociedad durante el Período Inicial, y luego se aplica a la
+  redención de Obligaciones con Primera Hipoteca Garantizada.
 
 ## La compuerta de la RCI
 
@@ -56,6 +60,10 @@ deba satisfacerse antes de que las participaciones ordinarias participen, ni una
 preferente acumulada que deba pagarse antes de declarar una distribución regular. La cascada
 de distribución contiene un solo nivel: todas las participaciones en circulación del mismo
 activo reciben el mismo monto por participación.
+
+## Distribución mínima y retención
+
+Cuando se declara una distribución, la sociedad paga al menos el 90% del Ingreso Distribuible del ejercicio fiscal a los socios comanditarios dentro de los 90 días posteriores al cierre del ejercicio. Hasta que las distribuciones acumuladas igualen el 100% de los ingresos brutos que los socios comanditarios pagaron por sus participaciones (el Período Inicial), el 10% restante se retiene para fines de la sociedad. Después del Período Inicial, ese 10% se aplica a la redención de Obligaciones con Primera Hipoteca Garantizada hasta que todas sean redimidas, tras lo cual vuelve a destinarse a fines de la sociedad.
 
 ## Protocolo de suspensión
 
