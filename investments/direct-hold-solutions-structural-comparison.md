@@ -18,7 +18,7 @@ paired_with: direct-hold-solutions-structural-comparison.es.md
 cites: []
 ---
 
-The Direct-Hold Solutions differ from the three most common alternative real estate investment structures — Legacy Joint Ventures, Private Equity real estate funds, and Traditional Real Estate Investment Trusts — across twelve governance and economic dimensions. Some dimensions distinguish the Direct-Hold Solutions from all three legacy structures simultaneously; others represent parity with listed REITs at features that private structures systematically lack. Four dimensions are exclusive to the Direct-Hold Solutions: they appear in no other investment structure in the comparison set.
+The Direct-Hold Solutions, as designed, differ from the three most common alternative real estate investment structures — Legacy Joint Ventures, Private Equity real estate funds, and Traditional Real Estate Investment Trusts — across twelve governance and economic dimensions. Only one Direct-Hold Solution is currently established — the Canada limited partnership, Woodfine Professional Centres Limited Partnership — and its units are not currently freely transferable, and comprehensive regulated reporting is not currently occurring, because the partnership is subject to an active British Columbia Securities Commission cease-trade order; the United States, Spain, and Mexico vehicles are planned, not yet established. Some dimensions distinguish the Direct-Hold Solutions' design from all three legacy structures simultaneously; others represent parity with listed REITs at features that private structures systematically lack. Four dimensions are exclusive to the Direct-Hold Solutions' design: they appear in no other investment structure in the comparison set.
 
 ## Structural Comparison Matrix
 
@@ -36,14 +36,6 @@ The Direct-Hold Solutions differ from the three most common alternative real est
 | Single Fixed Management Fee | No | No | No | Yes |
 | Debt Right of First Refusal | No | No | No | Yes |
 | Qualified Investment (Major Retailer Anchor) | No | No | No | Yes |
-
-**Correction (2026-08-04):** the "Direct-Hold Solutions" column describes the
-structural design as a class, not current per-vehicle status. Only the Canada
-vehicle (Woodfine Professional Centres Limited Partnership) is currently
-established; it is currently subject to an active BCSC cease-trade order, under
-which units are not currently freely transferable and comprehensive regulated
-reporting is not currently occurring. The United States, Spain, and Mexico vehicles
-are planned, not yet established. **Flagged, not silently rewritten.**
 
 ## Features Where Direct-Hold Solutions Eliminate Legacy Disadvantages
 

@@ -81,8 +81,8 @@ participaciones en ambos vehículos.
 La sociedad holding matriz tiene derechos de observación y puede recibir información
 consolidada sobre todos los vehículos de activos. Sin embargo, la matriz no posee los
 activos individuales en su propio balance: su interés en cada SC es una inversión
-contabilizada al valor razonable a través de resultados bajo la excepción de entidad de
-inversión de la NIIF 10.27.
+contabilizada al valor razonable a través de resultados bajo la excepción de consolidación
+de entidad de inversión de la NIIF 10.31–33.
 
 ## Consulte también
 

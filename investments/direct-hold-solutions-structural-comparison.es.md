@@ -18,7 +18,7 @@ paired_with: direct-hold-solutions-structural-comparison.md
 cites: []
 ---
 
-Las Direct-Hold Solutions difieren de las tres estructuras de inversión inmobiliaria alternativa más comunes — Joint Ventures Heredados, Fondos de Capital Privado inmobiliarios y Fondos de Inversión Inmobiliaria Tradicionales (REIT) — en doce dimensiones de gobernanza y económicas. Cuatro dimensiones son exclusivas de las Direct-Hold Solutions: no aparecen en ninguna otra estructura de inversión del conjunto comparativo.
+Las Direct-Hold Solutions, según diseño, difieren de las tres estructuras de inversión inmobiliaria alternativa más comunes — Joint Ventures Heredados, Fondos de Capital Privado inmobiliarios y Fondos de Inversión Inmobiliaria Tradicionales (REIT) — en doce dimensiones de gobernanza y económicas. Solo una Direct-Hold Solution está actualmente constituida — la sociedad en comandita de Canadá, Woodfine Professional Centres Limited Partnership — y sus unidades no son actualmente libremente transferibles, y el reporte regulado integral no está ocurriendo actualmente, porque la sociedad está sujeta a una orden de suspensión de negociación vigente de la British Columbia Securities Commission; los vehículos de Estados Unidos, España y México están planificados, aún no constituidos. Cuatro dimensiones son exclusivas del diseño de las Direct-Hold Solutions: no aparecen en ninguna otra estructura de inversión del conjunto comparativo.
 
 ## Matriz de Comparación Estructural
 
@@ -36,15 +36,6 @@ Las Direct-Hold Solutions difieren de las tres estructuras de inversión inmobil
 | Tarifa de Gestión Única Fija | No | No | No | Sí |
 | Derecho de Preferencia en Deuda | No | No | No | Sí |
 | Inversión Calificada (Ancla Minorista) | No | No | No | Sí |
-
-**Corrección (2026-08-04):** la columna «Direct-Hold Solutions» describe el diseño
-estructural como clase, no el estado actual por vehículo. Solo el vehículo de Canadá
-(Woodfine Professional Centres Limited Partnership) está actualmente constituido; se
-encuentra sujeto a una orden de suspensión de negociación vigente de la BCSC, bajo la
-cual las unidades no son actualmente libremente transferibles y el reporte regulado
-integral no está ocurriendo actualmente. Los vehículos de Estados Unidos, España y
-México están planificados, aún no constituidos. **Señalado, no reescrito
-silenciosamente.**
 
 ## Características Donde las Direct-Hold Solutions Eliminan Desventajas Heredadas
 
