@@ -67,20 +67,25 @@ factores de riesgo cuando las condiciones han cambiado.
 
 ## Información de las soluciones de participación directa
 
-Cada [[direct-hold-solutions-structural-comparison|solución de tenencia directa]] que haya completado una oferta pública mediante prospecto
-es un emisor informante distinto con obligaciones independientes bajo el NI 51-102; WCP
-tiene previsto convertirse en emisor informante al perfeccionarse su oferta pública planificada.
-Cada solución de tenencia directa presenta sus propios estados financieros anuales auditados,
-formulario de información anual y MD&A de forma independiente; no se consolidan en los
-estados financieros de WCP.
+Esta sección describe la presentación bajo el NI 51-102 tal como se aplica a las soluciones
+de tenencia directa de Canadá y Estados Unidos, constituidas como sociedades en comandita.
+Una solución de tenencia directa constituida como SC que haya completado una oferta pública
+mediante prospecto es un emisor informante distinto con obligaciones independientes bajo el
+NI 51-102; WCP tiene previsto convertirse en emisor informante al perfeccionarse su oferta
+pública planificada. Cada solución de tenencia directa constituida como SC presenta sus
+propios estados financieros anuales auditados, formulario de información anual y MD&A de
+forma independiente; no se consolidan en los estados financieros de WCP. La SOCIMI de España
+y la FIBRA de México presentan información a los reguladores de sus propias jurisdicciones —
+la CNMV y la CNBV, respectivamente — bajo los regímenes de divulgación propios de esos
+reguladores, no bajo el NI 51-102 ni SEDAR+.
 
 WCP aplica el tratamiento contable de entidad de inversión conforme a la excepción de
 consolidación de la NIIF 10.31–33 (la NIIF 10.27 establece los criterios de definición de
 entidad de inversión que califican a una entidad para dicha excepción): su
 participación en cada solución de tenencia directa se mide al valor razonable con cambios en
-resultados, en lugar de consolidarse línea por línea en los estados financieros de WCP. Se
-emiten certificados T5013 a los tenedores de participaciones de sociedad en comandita de
-cada solución para el ejercicio fiscal correspondiente.
+resultados, en lugar de consolidarse línea por línea en los estados financieros de WCP. Para
+los vehículos constituidos como SC, se emiten certificados T5013 a los tenedores de
+participaciones de sociedad en comandita para el ejercicio fiscal correspondiente.
 
 ## Presentación en SEDAR+ y accesibilidad
 

@@ -41,7 +41,8 @@ de la administración.
 El registrador mantiene el registro definitivo de quién posee actualmente cada valor en
 circulación —el registro de tenedores de unidades o acciones. Para las
 [[direct-hold-solutions-structural-comparison|Soluciones de Tenencia Directa]], esta función se desempeña a través del
-libro mayor de propiedad: el socio gestor de cada sociedad en comandita actualiza el libro
+libro mayor de propiedad: la propia entidad de gobierno de cada vehículo —el socio gestor en
+Canadá y Estados Unidos, el Administrador en España y México— actualiza el libro
 mayor cuando recibe una transferencia completada, y el registro en el libro mayor —no un
 registro en papel separado— es el registro autorizado de propiedad para ese activo, según se
 describe en [[accredited-investor-eligibility|Elegibilidad de Inversionista Acreditado]]. La función de registrador existe
@@ -54,15 +55,18 @@ Un agente de transferencia es una parte —a menudo una compañía fiduciaria o 
 transferencia especializada— contratada para procesar la mecánica de una transferencia de
 valores: cancelar la posición del tenedor que transfiere y emitir la posición del nuevo tenedor
 en el registro, conforme a instrucciones y documentación de respaldo. Computershare Inc., con
-sede en Calgary, Alberta, actúa como agente de transferencia. Cuando los valores de una
+sede en Calgary, Alberta, actúa como agente de transferencia para el vehículo de Canadá ya
+constituido. Cuando los valores de una
 Solución de Tenencia Directa se depositan en un depositario central de valores —CDS en Canadá,
 DTC en Estados Unidos, Iberclear en España, o Indeval en México, según se describe en
 [[four-jurisdiction-framework|Marco de Cuatro Jurisdicciones]]— la liquidación y la mecánica de transferencia para
 posiciones elegibles para depósito se realizan en coordinación con la red de participantes de
-ese depositario, en lugar de únicamente por el socio gestor de manera individual. Para
-posiciones mantenidas y transferidas directamente en el libro mayor de propiedad en lugar de a
-través de un depositario, el socio gestor desempeña la función de transferencia directamente al
-recibir una instrucción de transferencia completada, según se describe en
+ese depositario, en lugar de únicamente por la entidad de gobierno del vehículo de manera
+individual. Para posiciones mantenidas y transferidas directamente en el libro mayor de
+propiedad en lugar de a través de un depositario, la propia entidad de gobierno de cada
+vehículo —el socio gestor en Canadá y Estados Unidos, el Administrador en España y México—
+desempeña la función de transferencia directamente al recibir una instrucción de transferencia
+completada, según se describe en
 [[accredited-investor-eligibility|Elegibilidad de Inversionista Acreditado]].
 
 ## Por qué se mantienen separadas las tres funciones
@@ -71,13 +75,9 @@ Separar la verificación de estados financieros (el auditor), el mantenimiento d
 propiedad (el registrador) y el procesamiento de transferencias (el agente de transferencia) de
 la función de administrar el activo subyacente es una práctica de gobernanza estándar: significa
 que ninguna parte única origina una transacción y a la vez la verifica o registra de manera
-independiente. Esta separación respalda los mecanismos de integridad descritos en
-Tecnología del Libro Mayor de Propiedad, incluida la estructura de solo-anexado del libro
-mayor y el requisito de una acción explícita del operador para modificar un registro de
-transferencia.
+independiente.
 
 ## Consulte también
 
 - [[audit-committee-mandate|Mandato del Comité de Auditoría]] — supervisión del consejo sobre la designación e independencia del auditor
-- Tecnología del Libro Mayor de Propiedad — la tecnología que desempeña la función de registrador descrita arriba
 - [[experts|Expertos]] — divulgación del auditor y otros expertos nombrados en documentos de oferta

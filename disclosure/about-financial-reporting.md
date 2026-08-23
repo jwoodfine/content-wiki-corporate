@@ -68,11 +68,15 @@ that occurred during the quarter.
 
 ## Direct-hold solution reporting
 
-Each [[direct-hold-solutions-structural-comparison|direct-hold solution]] that has completed a prospectus offering is a distinct reporting
-issuer with its own obligations under NI 51-102; WCP intends to become a reporting issuer
-upon effectiveness of its planned prospectus offering. Each direct-hold solution files its
+This section describes NI 51-102 reporting as it applies to the Canada and United States
+[[direct-hold-solutions-structural-comparison|direct-hold solutions]], which are structured as limited partnerships. A limited-partnership-form
+direct-hold solution that has completed a prospectus offering is a distinct reporting issuer
+with its own obligations under NI 51-102; WCP intends to become a reporting issuer upon
+effectiveness of its planned prospectus offering. Each LP-form direct-hold solution files its
 own audited annual financial statements, annual information form, and MD&A as a standalone
-issuer; these are not consolidated into WCP's financial statements.
+issuer; these are not consolidated into WCP's financial statements. The Spain SOCIMI and
+Mexico FIBRA report to their own jurisdictions' regulators — the CNMV and CNBV respectively —
+under those regulators' own disclosure regimes, not NI 51-102 or SEDAR+.
 
 WCP applies the investment entity accounting treatment under the IFRS 10.31–33 consolidation
 exception (IFRS 10.27 sets out the investment-entity definition criteria that qualify an
@@ -83,9 +87,9 @@ is disclosed in WCP's own financial statements in accordance with IFRS 12.19A–
 disclosure of the financial information of unconsolidated investment entity investees.
 
 Each direct-hold solution therefore maintains two disclosure streams: its own standalone filings
-as a reporting issuer, and a fair-value line in WCP's statements as an investee of an investment
-entity. T5013 partnership information slips are issued to limited partnership unitholders of
-each direct-hold solution for the applicable fiscal year.
+under its own jurisdiction's regime, and a fair-value line in WCP's statements as an investee
+of an investment entity. For the LP-form vehicles, T5013 partnership information slips are
+issued to limited partnership unitholders for the applicable fiscal year.
 
 ## SEDAR+ filing and accessibility
 
