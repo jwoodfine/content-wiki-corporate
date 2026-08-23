@@ -18,18 +18,7 @@ paired_with: narrow-bank-financial-model.es.md
 cites: []
 ---
 
-The **Narrow Bank Financial Model** is the financing discipline that governs how the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] deploy capital and issue debt. The model operates in two sequential phases: an initial equity-funded construction phase that requires no pre-leasing and no external construction loans, followed by a debt issuance phase in which the stabilized investment vehicle issues its own [[debt-service-and-financing-structure|First Secured Mortgage Debentures]] collateralized directly by the completed physical buildings.
-
-**Correction (2026-08-04):** two issues. (1) The lead previously read "Woodfine
-Management Corp.'s Direct-Hold Solutions" — MCorp is not the general partner,
-administrator, or owner of any Direct-Hold Solution (it is a narrow WCP subsidiary
-that hires consultants and performs delegated tasks); the possessive was removed.
-(2) The "Freely Transferable" claim further below describes the Direct-Hold
-Solutions' structural design as a class. Only the Canada vehicle (Woodfine
-Professional Centres Limited Partnership) is currently established; it is currently
-subject to an active BCSC cease-trade order, under which units are not currently
-freely transferable. The United States, Spain, and Mexico vehicles are planned, not
-yet established. **Flagged, not silently rewritten.**
+The **Narrow Bank Financial Model** is the financing discipline that governs how the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] deploy capital and issue debt. The model operates in two sequential phases: an initial equity-funded construction phase that requires no pre-leasing and no external construction loans, followed by a debt issuance phase in which the stabilized investment vehicle issues its own [[debt-service-and-financing-structure|First Secured Mortgage Debentures]] collateralized directly by the completed physical buildings. Only one Direct-Hold Solution is currently established — the Canada limited partnership, Woodfine Professional Centres Limited Partnership; the United States, Spain, and Mexico vehicles described below are planned, not yet established.
 
 ## Ring-fenced liabilities
 
@@ -41,7 +30,7 @@ In the initial phase, equity capital raised through the Direct-Hold Solution fun
 
 ### Perpetual equity and deployment flexibility
 
-This construction approach is a direct function of the perpetual equity structure of the Direct-Hold Solutions. Because Investment Units are Freely Transferable — not subject to manager-initiated exit mechanics or redemption queues — the vehicle does not face the liquidity demands that typically require a real estate fund to deploy capital only into income-producing assets or pre-leased buildings. Capital can be deployed into construction without the constraint that it must generate a return within a specific fund window, because the vehicle itself has no terminal date.
+This construction approach is a direct function of the perpetual equity structure of the Direct-Hold Solutions. Investment Units are designed to be Freely Transferable — not subject to manager-initiated exit mechanics or redemption queues (the established Canada vehicle's units are not currently freely transferable, because of the active BCSC cease-trade order noted above) — so the vehicle does not face the liquidity demands that typically require a real estate fund to deploy capital only into income-producing assets or pre-leased buildings. Capital can be deployed into construction without the constraint that it must generate a return within a specific fund window, because the vehicle itself has no terminal date.
 
 ## The Debt Phase: First Secured Mortgage Debentures
 
