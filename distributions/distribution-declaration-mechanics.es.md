@@ -7,7 +7,7 @@ index_group: distribution-policy-and-mechanics
 type: topic
 content_type: topic
 quality: complete
-short_description: "Cómo se determinan, declaran y pagan las distribuciones en las sociedades en comandita de tenencia directa: la compuerta de la RCI, la asignación proporcional entre participaciones, el protocolo de suspensión y la relación entre distribuciones y la cuenta de capital del T5013."
+short_description: "Cómo se determinan, declaran y pagan las distribuciones en las sociedades en comandita de tenencia directa: la compuerta de la RCI, la asignación proporcional entre participaciones y el protocolo de suspensión."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
@@ -28,8 +28,9 @@ inferior a 1.2×.
 - Las distribuciones son proporcionales al número de participaciones en circulación; un inversor
   que posee el cinco por ciento de las participaciones de una SC recibe el cinco por ciento de
   cualquier distribución declarada.
-- Las distribuciones declaradas aparecen en el formulario T5013 emitido a cada socio comanditario
-  y reducen la cuenta de capital del socio comanditario.
+- Las distribuciones declaradas son asignaciones de ingreso de la sociedad; el tratamiento
+  fiscal de cualquier distribución depende de las circunstancias particulares de cada socio
+  y es un asunto para el asesor fiscal calificado.
 - Al menos el 90% del Ingreso Distribuible de un ejercicio fiscal se paga a los socios
   comanditarios dentro de los 90 días posteriores al cierre del ejercicio; el 10% restante
   se retiene para fines de la sociedad durante el Período Inicial, y luego se aplica a la
@@ -72,24 +73,12 @@ operativo se retiene dentro de la sociedad. Las distribuciones se reanudan solo 
 ha sido restaurada a 1.2× o superior. Las distribuciones suspendidas durante el período de
 deficiencia de la RCI no se pagan posteriormente.
 
-## Tratamiento del T5013 y las cuentas de capital
+## Tratamiento fiscal
 
 La sociedad en comandita no paga impuesto sobre la renta a nivel de la entidad; el ingreso y
 los gastos deducibles se traspasan a los socios en proporción a su tenencia de participaciones.
-Al cierre de cada ejercicio fiscal, el socio gestor emite una declaración informativa de
-sociedad T5013 y prepara los comprobantes T5013 para cada socio comanditario, que muestran:
-
-- La parte proporcional del socio en el ingreso o la pérdida de la sociedad
-- La parte proporcional del socio en cualquier deducción por costo de capital reclamada por
-  la sociedad
-- Cualquier distribución recibida durante el año
-- El saldo de cierre de la cuenta de capital
-
-Las distribuciones reducen la cuenta de capital del socio comanditario. Si las distribuciones
-agregadas exceden la cuenta de capital del socio comanditario (lo que ocurriría si se le han
-asignado pérdidas acumuladas superiores al capital originalmente aportado), el exceso
-constituye una devolución de capital y puede tener un tratamiento fiscal específico según las
-circunstancias del socio y la naturaleza de los flujos de ingreso.
+El tratamiento fiscal de cualquier distribución depende de las circunstancias particulares de
+cada socio y es un asunto para el asesor fiscal calificado.
 
 ## Consulte también
 

@@ -20,7 +20,7 @@ short_description: "Eliminación estructural del derecho de reembolso de los inv
 cites: []
 ---
 
-Los activos de [[topic-direct-hold-framework|Tenencia Directa]] de Woodfine no tienen cola de reembolso — el capital de cada inversor corresponde a una propiedad específica, y la liquidez depende del mercado privado para ese activo, no de las reservas de efectivo de la entidad corporativa. Dado que no existe un fondo mancomunado, la condición que hace necesarios los mecanismos de reembolso está ausente por diseño. La liquidez se ejecuta a través del [[topic-equity-transfer-model|Modelo de Transferencia de Capital]], y la deuda a nivel de activo está limitada por el Ratio de Cobertura de Intereses de modo que no se requieren reservas de efectivo para atender las obligaciones.
+Los activos de [[direct-hold-framework|Tenencia Directa]] de Woodfine no tienen cola de reembolso — el capital de cada inversor corresponde a una propiedad específica, y la liquidez depende del mercado privado para ese activo, no de las reservas de efectivo de la entidad corporativa. Dado que no existe un fondo mancomunado, la condición que hace necesarios los mecanismos de reembolso está ausente por diseño. La liquidez se ejecuta a través del [[equity-transfer-model|Modelo de Transferencia de Capital]], y la deuda a nivel de activo está limitada por el Ratio de Cobertura de Intereses de modo que no se requieren reservas de efectivo para atender las obligaciones.
 
 ## Puntos clave
 
@@ -48,7 +48,7 @@ Una cola de reembolso es vulnerable a un fallo de coordinación: si los inversor
 
 La consecuencia estructural para los inversores es explícita: ningún órgano de gobierno de vehículo — en Canadá, el socio general, Woodfine Professional Centres Inc. — ofrece un mecanismo de reembolso. La liquidez depende del mercado privado para el activo específico. La estructura de Tenencia Directa conlleva un perfil de riesgo diferente al de un fondo mancomunado — la entidad corporativa no asume ningún compromiso de liquidez que no pueda cumplir, dado que no existe capital mancomunado del que dicho compromiso pudiera satisfacerse.
 
-Sin cola de reembolso, ninguna presión de salida coordinada puede desestabilizar la cartera. El capital a largo plazo se capitaliza sin la carga estructural de una reserva de efectivo que rinde menos que los activos subyacentes, coherente con el [[topic-perpetual-equity-model|modelo de capital perpetuo]] aplicado a las participaciones fraccionales de los inversores.
+Sin cola de reembolso, ninguna presión de salida coordinada puede desestabilizar la cartera. El capital a largo plazo se capitaliza sin la carga estructural de una reserva de efectivo que rinde menos que los activos subyacentes, coherente con el [[perpetual-equity-model|modelo de capital perpetuo]] aplicado a las participaciones fraccionales de los inversores.
 
 ## La conclusión
 
@@ -56,6 +56,5 @@ La arquitectura de Tenencia Directa elimina estructuralmente la necesidad de un 
 
 ## Véase también
 
-- [[topic-direct-hold-framework]] — la estructura de propiedad que hace innecesarios los mecanismos de reembolso
-- [[topic-equity-transfer-model]] — cómo salen en la práctica los inversores de sus posiciones
-- Ratio de Cobertura de Intereses — la disciplina de servicio de deuda que elimina la necesidad de reservas de efectivo
+- [[direct-hold-framework]] — la estructura de propiedad que hace innecesarios los mecanismos de reembolso
+- [[equity-transfer-model]] — cómo salen en la práctica los inversores de sus posiciones

@@ -32,7 +32,7 @@ mechanism.
 How distributions are determined and paid.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: distribution-policy-and-mechanics -->
-- [[distribution-declaration-mechanics]] — How distributions in direct-hold limited partnerships are determined, declared, and paid: the ICR gate, proportional allocation across units, suspension protocol, and the relationship between distributions and the T5013 capital account.
+- [[distribution-declaration-mechanics]] — How distributions in direct-hold limited partnerships are determined, declared, and paid: the ICR gate, proportional allocation across units, and the suspension protocol.
 <!-- END AUTO-GENERATED -->
 
 ## Exit and transfer

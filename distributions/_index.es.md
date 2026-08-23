@@ -32,7 +32,7 @@ transferencia de unidades.
 Cómo se determinan y pagan las distribuciones.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: distribution-policy-and-mechanics -->
-- [[distribution-declaration-mechanics]] — Cómo se determinan, declaran y pagan las distribuciones en las sociedades en comandita de tenencia directa: la compuerta de la RCI, la asignación proporcional entre participaciones, el protocolo de suspensión y la relación entre distribuciones y la cuenta de capital del T5013.
+- [[distribution-declaration-mechanics]] — Cómo se determinan, declaran y pagan las distribuciones en las sociedades en comandita de tenencia directa: la compuerta de la RCI, la asignación proporcional entre participaciones y el protocolo de suspensión.
 <!-- END AUTO-GENERATED -->
 
 ## Salida y transferencia

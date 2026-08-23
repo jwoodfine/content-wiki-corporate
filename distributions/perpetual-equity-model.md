@@ -18,26 +18,26 @@ bcsc_class: public-disclosure-safe
 language: en
 last_edited: 2026-07-30
 see_also:
-  - topic-investment-units
-  - topic-redemption-elimination
-  - topic-direct-hold-framework
+  - investment-units
+  - redemption-elimination
+  - direct-hold-framework
 ---
 
-The Perpetual Equity Model describes the investment framework applied to [[topic-investment-units|investment units]] in named real assets. Under this model, equity is held indefinitely without a fixed redemption horizon, maturity date, or mandatory exit event.
+The Perpetual Equity Model describes the investment framework applied to [[investment-units|investment units]] in named real assets. Under this model, equity is held indefinitely without a fixed redemption horizon, maturity date, or mandatory exit event.
 
-Positions transfer over-the-counter to any eligible counterparty rather than being redeemed by the issuing entity. This structure eliminates redemption queues and liquidity reserves while allowing equity to compound over an indefinite holding period. See [[topic-redemption-elimination|Redemption Elimination]] for the structural rationale.
+Positions transfer over-the-counter to any eligible counterparty rather than being redeemed by the issuing entity. This structure eliminates redemption queues and liquidity reserves while allowing equity to compound over an indefinite holding period. See [[redemption-elimination|Redemption Elimination]] for the structural rationale.
 
 ## Overview
 
 The Perpetual Equity Model is a structural departure from conventional real-asset vehicles that operate on fixed fund cycles of seven to twelve years. By removing the compulsory liquidation event, the model allows the underlying asset to remain under consistent stewardship — capital expenditure decisions, tenant relationships, and financing arrangements are not constrained by the requirement to prepare an asset for forced sale at a predetermined date.
 
-Equity positions are denominated in [[topic-investment-units|investment units]] recorded in the property ledger for each named asset. The number of units in circulation is fixed at issuance; the issuing entity does not issue additional units except through formally documented corporate decisions.
+Equity positions are denominated in [[investment-units|investment units]] recorded in the property ledger for each named asset. The number of units in circulation is fixed at issuance; the issuing entity does not issue additional units except through formally documented corporate decisions.
 
 ## Over-the-Counter Transfer
 
 Investors who require liquidity identify eligible counterparties independently. The corporate entity does not intermediate the exit, maintain a buyback facility, or commit to any form of put right. The over-the-counter market for investment units in a given asset is thin by design — a consequence of the asset-specific, fixed-supply structure rather than a deficiency to be corrected.
 
-Transfer mechanics are straightforward: the seller identifies a counterparty, agrees a price bilaterally, and the property ledger is updated to reflect the new unit holder. No general partner approval decision is required for an ordinary transfer, though a holder crossing 10% of outstanding units must notify the general partner (a disclosure obligation, not an approval gate).
+Transfer mechanics are straightforward: the seller identifies a counterparty, agrees a price bilaterally, and the property ledger is updated to reflect the new unit holder. No general partner approval decision is required for an ordinary transfer; an acquisition crossing 20% of outstanding units triggers a separate Take Over Bid mandatory-offer requirement rather than an ordinary transfer.
 
 ## Distribution Policy
 
@@ -63,6 +63,6 @@ The Perpetual Equity Model replaces the fund cycle's compulsory exit with an ove
 
 ## See also
 
-- [[topic-investment-units|Investment Units]]
-- [[topic-redemption-elimination|Redemption Elimination]]
-- [[topic-direct-hold-framework|Direct-Hold Framework]]
+- [[investment-units|Investment Units]]
+- [[redemption-elimination|Redemption Elimination]]
+- [[direct-hold-framework|Direct-Hold Framework]]
