@@ -75,3 +75,4 @@ that do apply.
 - [[exemptions|Exemptions]] — the specific prospectus exemptions relied upon in each jurisdiction
 - [[accredited-investor-eligibility|Accredited Investor Eligibility]] — the exemption most commonly used for private placements
 - [[legal-proceedings|Legal Proceedings]] — disclosure of proceedings that could affect these rights
+- [[special-resolutions-and-general-partner-removal|Special Resolutions and General Partner Removal]] — the contractual voting rights limited partners hold in the Canadian vehicle, distinct from the statutory rights described here

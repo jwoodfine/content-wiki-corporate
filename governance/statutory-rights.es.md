@@ -79,3 +79,4 @@ derechos que sí aplican.
 - [[exemptions|Exenciones]] — las exenciones de prospecto específicas en las que se apoya cada jurisdicción
 - [[accredited-investor-eligibility|Elegibilidad de Inversionista Acreditado]] — la exención más utilizada para colocaciones privadas
 - [[legal-proceedings|Procedimientos Legales]] — divulgación de procedimientos que podrían afectar estos derechos
+- [[special-resolutions-and-general-partner-removal|Resoluciones Especiales y Remoción del Socio General]] — los derechos contractuales de voto que tienen los socios comanditarios en el vehículo canadiense, distintos de los derechos estatutarios aquí descritos

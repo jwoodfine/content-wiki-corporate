@@ -45,6 +45,8 @@ Obligaciones de divulgación y derechos del inversor.
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: disclosure-obligations-and-investor-rights -->
 - [[investor-relations-policy]] — La política de relaciones con inversionistas.
 - [[statutory-rights]] — Derechos estatutarios de los inversores: rescisión, daños, y los derechos que corresponden a distintos canales de distribución.
+- [[special-resolutions-and-general-partner-removal]] — El umbral de voto de la Resolución Especial, los asuntos que rige, y las condiciones para remover al socio general.
+- [[fees-to-affiliates-and-conflicts-of-interest]] — La prohibición de honorarios vinculados al valor neto de los activos y la regla que limita los honorarios a las afiliadas del promotor.
 - [[material-contracts]] — Divulgación de contratos materiales.
 - [[legal-proceedings]] — Divulgación de procedimientos legales.
 - [[experts]] — Divulgación de expertos nombrados.
