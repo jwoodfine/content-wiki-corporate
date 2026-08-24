@@ -13,7 +13,7 @@ status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
 last_edited: 2026-08-24
-editor: woodfine-editorial
+editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
@@ -33,6 +33,7 @@ How distributions are determined and paid.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: distribution-policy-and-mechanics -->
 - [[distribution-declaration-mechanics]] — How distributions in direct-hold limited partnerships are determined, declared, and paid: the ICR gate, proportional allocation across units, and the suspension protocol.
+- [[liquidation-final-sale-and-dissolution]] — How Professional Centres Canada LP winds down: the events that trigger dissolution, the Final Sale mechanism, and the order in which liquidation proceeds reach limited partners.
 <!-- END AUTO-GENERATED -->
 
 ## Exit and transfer

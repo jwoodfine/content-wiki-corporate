@@ -48,13 +48,26 @@ Limited partners may remove the general partner at any time, but only if three c
 
 Where the alleged breach is curable, removal requires an added step. A limited partner must give the general partner written notice of the breach. The general partner then has 20 business days from receipt to remedy the breach before removal can proceed. An investment or divestiture decision, on its own, is never cause for removal, absent fraud or wilful misconduct — limited partners cannot remove the general partner simply because they disagree with an asset-level decision it made in good faith.
 
+## Amendment protections
+
+Amending the limited partnership agreement is itself one of the eight matters above. The agreement adds further protection beyond the 75% threshold, though: a defined list of changes no Special Resolution can make, and a delay before any amendment adverse to the general partner takes effect.
+
+**The base rule and a higher bar for Article 16 itself.** The agreement may be amended in writing by the general partner with the limited partners' consent by Special Resolution — except that any amendment to the amendment article itself requires unanimous consent of every partner, not a 75% vote.
+
+**Matters no Special Resolution can amend.** No amendment, however passed, may: let a limited partner take part in managing the partnership's business; reduce, eliminate, or modify the partnership's obligation to issue the escrowed promoter equity described in [[professional-centres-canada-lp-structure|Professional Centres Canada LP — Direct-Hold Solution Structure]]; change the general partner's cost-and-expense provisions, unless the general partner itself consents; reduce any limited partner's interest in the partnership; change how income, loss, or tax attributes are allocated between limited partners and the general partner; change any partner's liability; change a partner's voting rights; convert the partnership from a limited partnership to a general partnership, unless every limited partner consents; or deny or reduce a tax deduction or credit a limited partner would otherwise have. These matters sit outside what a 75% vote can reach at all — they require the affected party's own consent, or unanimity, not a supermajority of the whole.
+
+**A delay before amendments adverse to the general partner.** An amendment that would adversely affect the general partner's own rights or obligations does not take effect until 60 days after the meeting that adopted it, unless the general partner consents to an earlier date. The delay runs in the general partner's favour specifically — it has no equivalent counterpart delaying an amendment adverse to limited partners.
+
+**The general partner's own housekeeping power.** Separately, the general partner may amend the agreement on its own, without limited partner notice or consent, but only to add a provision it considers protective or beneficial to limited partners, to cure a manifest error or ambiguity, to resolve an inconsistency between provisions, or to comply with a legal requirement — and only where, in the general partner's own opinion, the change will not materially and adversely affect any limited partner's rights. Limited partners are notified of the full details of any amendment, of either kind, within 30 days of its effective date.
+
 ## What this is not
 
-This article covers only the Special Resolution and general-partner-removal mechanics set out in the Canadian limited partnership agreement. It is not a description of the Take Over Bid or buyout/takeout mechanics covered in [[professional-centres-canada-lp-structure|the partnership's structure article]], which operate independently of the Special Resolution vote described here. It is not a description of voting or removal mechanics in the United States, Spain, or Mexico vehicles, which are governed by separate instruments. It is not legal advice; a limited partner should consult the limited partnership agreement and qualified counsel for the rights applicable to its own units.
+This article covers only the Special Resolution, general-partner-removal, and amendment mechanics set out in the Canadian limited partnership agreement. It is not a description of the Take Over Bid or buyout/takeout mechanics covered in [[professional-centres-canada-lp-structure|the partnership's structure article]], which operate independently of the Special Resolution vote described here. It is not a description of voting or removal mechanics in the United States, Spain, or Mexico vehicles, which are governed by separate instruments. It is not legal advice; a limited partner should consult the limited partnership agreement and qualified counsel for the rights applicable to its own units.
 
 ## See also
 
 - [[professional-centres-canada-lp-structure|Professional Centres Canada LP — Direct-Hold Solution Structure]] — the partnership's entities, agreements, and change-of-control mechanics
+- [[meetings-of-limited-partners|Meetings of Limited Partners]] — how a Special Resolution vote is called, noticed, and conducted
 - [[statutory-rights|Statutory Rights]] — investor rights under securities law, distinct from the contractual voting rights described here
 - [[limited-partnership-structure]] — the generic general-partner/limited-partner legal form
 - [[four-jurisdiction-framework|Four-Jurisdiction Framework]] — the parallel vehicles governed by different instruments

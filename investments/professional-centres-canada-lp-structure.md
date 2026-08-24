@@ -14,7 +14,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: professional-centres-canada-lp-structure.es.md
 cites: []
@@ -57,7 +57,10 @@ Investment Units in Professional Centres Canada LP settle through CDS Clearing a
 - [[direct-hold-framework]] — the general Direct-Hold legal-isolation architecture this partnership instantiates
 - [[four-jurisdiction-framework]] — the multi-jurisdiction deployment this vehicle operates within
 - [[limited-partnership-structure]] — the generic general-partner/limited-partner legal form and capital-account mechanics
-- [[special-resolutions-and-general-partner-removal|Special Resolutions and General Partner Removal]] — the Special Resolution vote threshold, the matters it governs, and the conditions for removing the general partner
+- [[special-resolutions-and-general-partner-removal|Special Resolutions and General Partner Removal]] — the Special Resolution vote threshold, the matters it governs, the conditions for removing the general partner, and amendment protections
+- [[meetings-of-limited-partners|Meetings of Limited Partners]] — how limited partners call, notice, and vote at a meeting of the partnership
+- [[limited-partner-eligibility-representations|Limited Partner Eligibility Representations]] — the ongoing tax and regulatory representations each limited partner makes, and the forced-sale procedure if they change
+- [[liquidation-final-sale-and-dissolution|Liquidation, Final Sale, and Dissolution]] — how the partnership winds down and the order in which liquidation proceeds are distributed
 - [[fees-to-affiliates-and-conflicts-of-interest|Fees to Affiliates and Conflicts of Interest]] — the net-asset-value fee prohibition and the rule limiting fees to promoter affiliates
 - [[titleco-and-subsidiary-silo-model]] — how each property is held through a separate Titleco, and the third-party manager fee cap in full
 - [[about-risks]] — risk disclosure, including regulatory and compliance risk

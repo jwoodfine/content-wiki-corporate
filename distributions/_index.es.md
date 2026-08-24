@@ -13,7 +13,7 @@ status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
 last_edited: 2026-08-24
-editor: woodfine-editorial
+editor: pointsav-engineering
 paired_with: _index.md
 ---
 
@@ -33,6 +33,7 @@ Cómo se determinan y pagan las distribuciones.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: distribution-policy-and-mechanics -->
 - [[distribution-declaration-mechanics]] — Cómo se determinan, declaran y pagan las distribuciones en las sociedades en comandita de tenencia directa: la compuerta de la RCI, la asignación proporcional entre participaciones y el protocolo de suspensión.
+- [[liquidation-final-sale-and-dissolution]] — Cómo se disuelve Professional Centres Canada LP: los eventos que activan la disolución, el mecanismo de Venta Final y el orden en que los ingresos de la liquidación llegan a los socios comanditarios.
 <!-- END AUTO-GENERATED -->
 
 ## Salida y transferencia

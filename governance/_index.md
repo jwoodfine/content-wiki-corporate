@@ -45,7 +45,9 @@ Disclosure obligations and investor rights.
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: disclosure-obligations-and-investor-rights -->
 - [[investor-relations-policy]] — The investor relations policy.
 - [[statutory-rights]] — Statutory investor rights: rescission, damages, and the rights that attach to different distribution channels.
-- [[special-resolutions-and-general-partner-removal]] — The Special Resolution vote threshold, the matters it governs, and the conditions for removing the general partner.
+- [[special-resolutions-and-general-partner-removal]] — The Special Resolution vote threshold, the matters it governs, the conditions for removing the general partner, and amendment protections.
+- [[meetings-of-limited-partners]] — How limited partners call, notice, and vote at a meeting of the partnership.
+- [[limited-partner-eligibility-representations]] — The ongoing tax and regulatory representations each limited partner makes, and the forced-sale procedure if they change.
 - [[fees-to-affiliates-and-conflicts-of-interest]] — The net-asset-value fee prohibition and the rule limiting fees to promoter affiliates.
 - [[material-contracts]] — Material contracts disclosure.
 - [[legal-proceedings]] — Legal proceedings disclosure.
