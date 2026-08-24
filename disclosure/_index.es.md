@@ -28,7 +28,12 @@ Cómo Funciona la Divulgación explica qué significa la divulgación continua p
 
 ## Cómo funciona la divulgación
 
-Explicaciones en lenguaje claro de qué significa la divulgación continua y cómo funciona.
+La divulgación continua es el conjunto permanente de presentaciones que hace un emisor que
+reporta después del cierre de una oferta, no un evento único en ese cierre. Woodfine Capital
+Projects Inc. no es hoy un emisor que reporta; prevé convertirse en uno una vez que entre en
+vigor su oferta de prospecto planificada. Los nueve artículos a continuación explican cada
+obligación de divulgación de este marco en lenguaje claro —qué se presenta, en qué
+calendario, y bajo qué Instrumento Nacional.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: how-disclosure-works -->
 - [[about-continuous-disclosure]] — Requisitos de reporte del NI 51-102 aplicables a Woodfine Capital Projects Inc., incluyendo el MD&A, los informes de cambios materiales y la presentación electrónica bajo el Aviso del Personal OSC 51-721; el formulario de información anual aplica solo a emisores que no son de riesgo.
@@ -44,7 +49,12 @@ Explicaciones en lenguaje claro de qué significa la divulgación continua y có
 
 ## Comunicaciones de la empresa
 
-Canales previstos para comunicaciones en tiempo real y periódicas, una vez implementados.
+Una vez que Woodfine Capital Projects Inc. comience a operar como emisor que reporta, prevé
+comunicarse a través de dos canales. El primero es un comunicado de prensa inmediato ante
+cualquier cambio material. El segundo es un registro periódico de juntas de accionistas,
+presentaciones a inversores y participaciones en conferencias del sector. Ninguno de los dos
+canales existe todavía —los dos artículos a continuación describen qué contendrá cada uno
+una vez que el programa esté implementado.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: company-communications -->
 - [[press-releases]] — Canal previsto de divulgación en tiempo real de cambios materiales: comunicado inmediato, Formulario 51-102F3 en SEDAR+ en diez días y estándares de declaraciones prospectivas.
@@ -53,7 +63,11 @@ Canales previstos para comunicaciones en tiempo real y periódicas, una vez impl
 
 ## La página de cada entidad
 
-Una página por Solución de Tenencia Directa, para lo que publique una vez que exista.
+Cada Solución de Tenencia Directa tiene su propia página aquí, reservada para lo que ese
+vehículo específico realmente publica. Professional Centres Canada LP es el único vehículo
+constituido hoy, por lo que su página es la única con contenido real. Las páginas de los
+vehículos planificados de Estados Unidos, España y México contienen un marcador de posición
+hasta que cada uno se constituya y comience a divulgar.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: vehicle-disclosure -->
 - [[canada-disclosure|Canadá]] — Lo que Professional Centres Canada LP publica en esta página.

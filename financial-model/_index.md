@@ -29,7 +29,11 @@ valuation and forecasting methodology.
 
 ## Financing discipline
 
-How and when debt is used in a building's financing.
+Under the Narrow Banking Model, a building is built with equity and no construction debt.
+Borrowing is intended to begin only after the building is leased and generating income. This
+sequencing is designed to remove construction-phase leverage as a source of risk to investor
+capital. The two articles below cover that phasing and the mortgage-financing structure used
+once debt is in place.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: financing-discipline -->
 - [[narrow-bank-financial-model]] — Two-phase financing discipline of the Direct-Hold Solutions: equity-funded unlevered construction, then First Secured Mortgage Debentures collateralized by the completed buildings.
@@ -38,7 +42,11 @@ How and when debt is used in a building's financing.
 
 ## Compensation and alignment
 
-How the developer is compensated.
+Woodfine's compensation model replaces the standard 2/20 private-fund fee structure.
+Developer profit is taken as equity held in trust rather than cash paid up front, and is
+released only after investor capital is returned. That sequencing is intended to keep the
+developer's incentive tied to the same outcome as the investor's. The article below sets out
+the fee mechanics and the fixed annual overhead contribution paid alongside it.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: compensation-and-alignment -->
 - [[principal-alignment-fee-preservation]] — Compensation model replacing the 2/20 structure: developer profit taken as equity held in trust until investor capital is returned, plus a fixed annual overhead contribution.
@@ -46,7 +54,11 @@ How the developer is compensated.
 
 ## Valuation and forecasting methodology
 
-How value and forward figures are estimated.
+Every forward-looking figure in this wiki — a 10-year forecast, a stress test, a projected
+yield — is a modeled estimate, not a guarantee of results. The two articles below set out
+the accounting standards behind each forecast and the stress scenarios applied to it.
+Reading them is intended to show a reader exactly which assumptions drive a projected
+number, not just the number itself.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: valuation-and-forecasting-methodology -->
 - [[ifrs-forecast-methodology-direct-hold-solutions]] — How a 10-year IFRS-styled financial forecast for a Direct-Hold Solution vehicle applies IFRS 18, IAS 40, IFRS 13, and IFRS 2 to project future financial statements — illustrative, not a guarantee of results.

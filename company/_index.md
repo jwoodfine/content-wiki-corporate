@@ -40,8 +40,11 @@ vehicle sits in the chain.
 
 ## Technology and investor services
 
-The technology vendor and the services relationship it holds with each vehicle's
-governing entity.
+PointSav Digital Systems is a separate technology subsidiary of Woodfine Capital Projects
+Inc., not the entity that holds or governs any Direct-Hold Solution. A reader who wants to
+know who is accountable for investor capital versus who supplies the software distinguishes
+the two before reading further. This category states that boundary once, in plain terms,
+rather than repeating it in every governance article that touches technology.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: technology-and-investor-services -->
 - [[vendor-customer-model]] — Structural separation between PointSav Digital Systems as technology vendor and each Direct-Hold vehicle's governing body.

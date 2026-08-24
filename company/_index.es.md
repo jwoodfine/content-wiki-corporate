@@ -42,8 +42,12 @@ del promotor, cuál presta los servicios delegados, y en qué punto de la cadena
 
 ## Tecnología y servicios al inversor
 
-El proveedor de tecnología y el acuerdo de servicios que mantiene con el órgano de
-gobierno de cada vehículo.
+PointSav Digital Systems es una subsidiaria tecnológica independiente de Woodfine Capital
+Projects Inc., no la entidad que mantiene o gobierna ninguna Solución de Tenencia Directa.
+Un lector que quiera saber quién responde por el capital del inversor, frente a quién
+suministra el software, distingue ambas cosas antes de seguir leyendo. Esta categoría
+establece ese límite una sola vez, en términos claros, en lugar de repetirlo en cada
+artículo de gobernanza que toca la tecnología.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: technology-and-investor-services -->
 - [[vendor-customer-model]] — Separación estructural entre PointSav Digital Systems como proveedor de tecnología y el órgano de gobierno de cada vehículo de Tenencia Directa.

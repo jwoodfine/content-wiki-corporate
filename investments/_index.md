@@ -29,7 +29,11 @@ jurisdiction, and the exemptions under which units are distributed.
 
 ## The direct-hold structure
 
-The direct-hold legal structure and how it compares with other vehicle types.
+Each Direct-Hold Solution issues equity units in one named vehicle, not a share in a pooled
+fund holding many properties. This distinction determines what a unit holder actually owns,
+and what happens to that ownership if one property or one vehicle runs into trouble. The
+articles below cover the legal mechanics of that isolation and the units themselves. They
+also compare the structure with joint ventures, private equity funds, and traditional REITs.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-direct-hold-structure -->
 - [[direct-hold-framework]] — A legal structure that issues equity units in a single named direct-hold vehicle, not a share in a commingled pool, eliminating cross-asset contagion.
@@ -41,7 +45,12 @@ The direct-hold legal structure and how it compares with other vehicle types.
 
 ## Legal form and jurisdiction
 
-The legal form used in each of the four jurisdictions.
+Each Direct-Hold Solution takes the legal form its home jurisdiction's securities law
+requires. That is a limited partnership in Canada and the planned United States vehicle, a
+SOCIMI in Spain, and a FIBRA trust in Mexico. The form is not one instrument relabeled four
+times — each carries its own governance body, tax treatment, and investor protections. The
+articles below cover the general limited-partnership form, the four-jurisdiction framework,
+and each vehicle's specific structure in turn.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: legal-form-and-jurisdiction -->
 - [[limited-partnership-structure]] — How the limited partnership legal form implements the direct-hold investment structure: the GP-LP relationship, limited liability, unitholders as limited partners, and the partnership agreement as the governing instrument.
@@ -53,7 +62,11 @@ The legal form used in each of the four jurisdictions.
 
 ## Eligibility and distribution channels
 
-Who may subscribe, and through which channel.
+Units in each Direct-Hold Solution are distributed under prospectus exemptions, not a public
+offering — most commonly the accredited investor exemption available in each jurisdiction.
+Who qualifies, and what that qualification requires the investor to certify, differs by
+jurisdiction and by exemption. The two articles below cover the exemptions relied upon and
+the accredited investor test in detail.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: eligibility-and-distribution-channels -->
 - [[exemptions]] — Prospectus exemptions relied upon in each jurisdiction's offering: the accredited investor exemption and the parallel prospectus channel.

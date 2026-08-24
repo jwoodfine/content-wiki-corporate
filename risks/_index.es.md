@@ -30,7 +30,12 @@ financiamiento y tasas de interés, estructural y regulatorio, y de la oferta.
 
 ## Cómo se divulga el riesgo
 
-El marco de divulgación de riesgos.
+Esta base de conocimiento organiza la divulgación de riesgos en cinco categorías, cada una
+vinculada a la parte del negocio o de la estructura que produce la exposición. Un lector
+puede ir directamente a la categoría que importa para una decisión específica, en lugar de
+leer cada riesgo en una sola lista extensa. El riesgo de mercado responde a una pregunta de
+arrendamiento; el riesgo de financiamiento responde a una pregunta de deuda. El artículo a
+continuación explica ese principio de organización en su totalidad.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: how-risk-is-disclosed -->
 - [[about-risks]] — Marco de factores de riesgo: cómo se organizan y divulgan los riesgos de mercado, financiamiento, desarrollo, estructurales y del mecanismo de oferta en este wiki.
@@ -38,7 +43,11 @@ El marco de divulgación de riesgos.
 
 ## Riesgo del activo y del desarrollo
 
-Exposición ligada al edificio mismo.
+Este grupo cubre el riesgo ligado a un edificio específico —su mercado, su condición física
+y el proceso de construirlo. El riesgo de mercado y de propiedad cubre la vacancia, los
+niveles de renta y la valuación una vez que el edificio está terminado. El riesgo de
+desarrollo y construcción cubre los sobrecostos, los retrasos y la exposición a permisos
+antes de que esté terminado.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: asset-and-development-risk -->
 - [[market-and-property-risk]] — Riesgo de mercado y de propiedad en el sector inmobiliario comercial: vacancia, niveles de renta, oscilaciones de valuación y concentración de inquilinos.
@@ -47,7 +56,12 @@ Exposición ligada al edificio mismo.
 
 ## Riesgo de financiamiento, estructural y de la oferta
 
-Exposición ligada a cómo se financia, organiza y coloca la inversión.
+Este grupo cubre la exposición proveniente de tres fuentes distintas: el financiamiento, la
+estructura organizacional y el propio mecanismo de inversión. El riesgo de financiamiento y
+de tasa de interés aplica una vez que un edificio completa su arrendamiento y se coloca
+deuda hipotecaria sobre él. El riesgo estructural y regulatorio aplica a operar en cuatro
+regímenes legales y fiscales distintos a la vez. El riesgo de la oferta aplica a las
+unidades mismas —iliquidez por diseño, sin garantía de comprador.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: financing-structural-and-offering-risk -->
 - [[financing-and-interest-rate-risk]] — Disponibilidad de financiamiento y riesgo de tasa de interés en los Pagarés Hipotecarios de Primer Grado emitidos tras el arrendamiento bajo el Modelo de Banca Estrecha.

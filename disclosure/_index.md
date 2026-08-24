@@ -28,7 +28,11 @@ How Disclosure Works explains what continuous disclosure means for a reporting i
 
 ## How disclosure works
 
-Plain-language explainers of what continuous disclosure means and how it works.
+Continuous disclosure is the ongoing set of filings a reporting issuer makes after an
+offering closes, not a one-time event at closing. Woodfine Capital Projects Inc. is not a
+reporting issuer today; it intends to become one once its planned prospectus offering takes
+effect. The nine articles below explain each disclosure obligation this framework requires
+in plain language — what is filed, on what schedule, and under which National Instrument.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: how-disclosure-works -->
 - [[about-continuous-disclosure]] — NI 51-102 reporting requirements applicable to Woodfine Capital Projects Inc., including MD&A, material change reports, and OSC SN 51-721 electronic filing; the annual information form applies only to non-venture issuers.
@@ -44,7 +48,11 @@ Plain-language explainers of what continuous disclosure means and how it works.
 
 ## Company communications
 
-Planned channels for real-time and periodic communications, once in place.
+Once Woodfine Capital Projects Inc. begins operating as a reporting issuer, it plans to
+communicate through two channels. The first is an immediate press release for any material
+change. The second is a periodic record of shareholder meetings, investor presentations, and
+industry conference appearances. Neither channel exists yet — the two articles below
+describe what each is intended to carry once the program is in place.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: company-communications -->
 - [[press-releases]] — Planned real-time disclosure channel for material changes: immediate press release, Form 51-102F3 filing on SEDAR+ within ten days, and forward-looking statement standards.
@@ -53,7 +61,10 @@ Planned channels for real-time and periodic communications, once in place.
 
 ## Vehicle disclosure
 
-One page per Direct-Hold Solution, for what it publishes once it exists.
+Each Direct-Hold Solution gets its own page here, reserved for what that specific vehicle
+actually publishes. Professional Centres Canada LP is the one vehicle established today, so
+its page is the only one with real content. The pages for the planned United States, Spain,
+and Mexico vehicles hold a placeholder until each is established and begins disclosing.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: vehicle-disclosure -->
 - [[canada-disclosure|Canada]] — What Professional Centres Canada LP publishes to this page.

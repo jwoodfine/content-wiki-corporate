@@ -30,7 +30,12 @@ participaciones.
 
 ## La estructura de tenencia directa
 
-La estructura jurídica de tenencia directa y cómo se compara con otros tipos de vehículo.
+Cada Solución de Tenencia Directa emite participaciones en un único vehículo nombrado, no
+una parte de un fondo combinado que mantiene muchas propiedades. Esta distinción determina
+qué posee realmente el tenedor de participaciones, y qué ocurre con esa propiedad si una
+sola propiedad o un solo vehículo enfrenta problemas. Los artículos a continuación cubren la
+mecánica legal de ese aislamiento y las participaciones mismas. También comparan la
+estructura con los Joint Ventures Heredados, el Capital Privado y los REIT Tradicionales.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-direct-hold-structure -->
 - [[direct-hold-framework]] — Estructura legal que emite participaciones en un único vehículo de tenencia directa nombrado, sin participar en un fondo combinado, eliminando el contagio entre activos.
@@ -42,7 +47,13 @@ La estructura jurídica de tenencia directa y cómo se compara con otros tipos d
 
 ## Forma jurídica y jurisdicción
 
-La forma jurídica empleada en cada una de las cuatro jurisdicciones.
+Cada Solución de Tenencia Directa adopta la forma jurídica que exige la ley de valores de su
+jurisdicción de origen. Eso significa una sociedad en comandita en Canadá y en el vehículo
+planificado de Estados Unidos, una SOCIMI en España, y un fideicomiso FIBRA en México. La
+forma no es el mismo instrumento con cuatro etiquetas distintas — cada una tiene su propio
+órgano de gobierno, tratamiento fiscal y protecciones al inversor. Los artículos a
+continuación cubren la forma general de sociedad en comandita, el marco de cuatro
+jurisdicciones, y la estructura específica de cada vehículo por separado.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: legal-form-and-jurisdiction -->
 - [[limited-partnership-structure]] — Cómo la forma jurídica de sociedad en comandita implementa la estructura de inversión de tenencia directa: la relación GP-LP, la responsabilidad limitada, los tenedores de participaciones como socios comanditarios y el acuerdo de sociedad como instrumento rector.
@@ -54,7 +65,12 @@ La forma jurídica empleada en cada una de las cuatro jurisdicciones.
 
 ## Elegibilidad y canales de distribución
 
-Quién puede suscribir, y por qué canal.
+Las participaciones de cada Solución de Tenencia Directa se distribuyen bajo exenciones de
+prospecto, no mediante una oferta pública — con mayor frecuencia la exención de
+inversionista acreditado disponible en cada jurisdicción. Quién califica, y qué debe
+certificar el inversor para calificar, varía según la jurisdicción y la exención. Los dos
+artículos a continuación detallan las exenciones utilizadas y la prueba de inversionista
+acreditado.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: eligibility-and-distribution-channels -->
 - [[exemptions]] — Exenciones de prospecto utilizadas en la oferta de cada jurisdicción: la exención de inversionista acreditado y el canal paralelo de prospecto.

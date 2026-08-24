@@ -30,7 +30,11 @@ rate, structural and regulatory, and offering risk.
 
 ## How risk is disclosed
 
-The risk disclosure framework.
+This wiki organizes risk disclosure into five categories, each tied to the part of the
+business or the structure that produces the exposure. A reader can jump directly to the
+category that matters for a specific decision, rather than reading every risk in one long
+list. Market risk speaks to a leasing question; financing risk speaks to a debt question.
+The article below explains that organizing principle in full.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: how-risk-is-disclosed -->
 - [[about-risks]] — Risk factor framework: how market, financing, development, structural, and offering-mechanism risks are organized and disclosed across this wiki.
@@ -38,7 +42,10 @@ The risk disclosure framework.
 
 ## Asset and development risk
 
-Exposure attached to the building itself.
+This group covers risk tied to a specific building — its market, its physical condition,
+and the process of constructing it. Market and property risk covers vacancy, rent levels,
+and valuation once a building is complete. Development and construction risk covers cost
+overruns, delays, and permitting exposure before it is complete.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: asset-and-development-risk -->
 - [[market-and-property-risk]] — Market and property risk in commercial real estate: vacancy, rent levels, valuation swings, tenant concentration, and general economic conditions.
@@ -47,7 +54,11 @@ Exposure attached to the building itself.
 
 ## Financing, structural, and offering risk
 
-Exposure attached to how the investment is financed, organised, and sold.
+This group covers exposure from three different sources: financing, organizational
+structure, and the investment mechanism itself. Financing and interest rate risk applies
+once a building has completed lease-up and mortgage debt is placed against it. Structure and
+regulatory risk applies to operating across four legal and tax regimes at once. Offering
+risk applies to the units themselves — illiquidity by design, with no guaranteed buyer.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: financing-structural-and-offering-risk -->
 - [[financing-and-interest-rate-risk]] — Financing availability and interest rate risk on First Secured Mortgage Debentures issued after a building completes lease-up under the Narrow Banking Model.
