@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: market-and-property-risk.es.md
 ---
@@ -33,11 +33,12 @@ new lease, depend on local market conditions that are outside the company's cont
 with rising vacancy or falling asking rents can reduce a property's [[cre-financial-metrics|net operating income]]
 even where the property itself is well maintained and well managed.
 
-Because each direct-hold vehicle's Interest Coverage Ratio is calculated per asset, a
-sustained decline in a specific property's net operating income can bring that property's ICR
-below the 1.2× floor, suspending distributions from that asset specifically. This is a
-consequence of vacancy and rent risk working through to the distribution mechanism, not a
-separate risk in itself.
+Because a direct-hold vehicle's Interest Coverage Ratio is calculated in aggregate across
+every property it holds, a sustained decline in net operating income — whether concentrated
+in one property or spread across the vehicle's portfolio — reduces the vehicle's capacity to
+raise additional secured debt under the 1.20× covenant. This is a consequence of vacancy and
+rent risk working through to the vehicle's borrowing capacity, not a separate risk in
+itself, and it is not confined to any single property's distributions.
 
 ## Property value risk
 

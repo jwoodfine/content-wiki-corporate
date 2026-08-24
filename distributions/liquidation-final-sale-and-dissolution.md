@@ -55,7 +55,7 @@ This article covers only the dissolution, Final Sale, and liquidation-waterfall 
 
 ## See also
 
-- [[distribution-declaration-mechanics|Distribution Declaration Mechanics]] — the ICR gate and proportional allocation that govern ordinary distributions
+- [[distribution-declaration-mechanics|Distribution Declaration Mechanics]] — general-partner discretion and proportional allocation that govern ordinary distributions
 - [[perpetual-equity-model|Perpetual Equity Model]] — why unit holders face no mandatory exit outside the wind-up process described here
 - [[professional-centres-canada-lp-structure|Professional Centres Canada LP — Direct-Hold Solution Structure]] — the promoter's escrowed equity and its release conditions
 - [[special-resolutions-and-general-partner-removal|Special Resolutions and General Partner Removal]] — the Special Resolution vote that can approve a Final Sale outside the general partner's direct authority

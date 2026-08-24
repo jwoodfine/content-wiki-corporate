@@ -16,7 +16,7 @@ paired_with: perpetual-equity-model.md
 audience: public
 bcsc_class: public-disclosure-safe
 language: es
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 see_also:
   - investment-units
   - redemption-elimination
@@ -41,7 +41,7 @@ La mecánica de la transferencia es directa: el vendedor identifica una contrapa
 
 ## Política de distribuciones
 
-Las distribuciones se declaran por activo, no a nivel de cartera. La entidad emisora declara distribuciones con cargo a los ingresos operativos cuando el [[cre-financial-metrics|ratio de cobertura de intereses]] (RCI) del activo es igual o superior a 1,2×. No se declara ninguna distribución de un activo cuyo RCI sea inferior al suelo del 1,2×; este suelo es un convenio establecido en el acuerdo rector del vehículo de tenencia directa aplicable que regula la capacidad de endeudamiento, coherente con el rango del 1,2×–1,4× típico de los préstamos inmobiliarios comerciales.
+Las distribuciones se declaran por activo, no a nivel de cartera. El socio gestor declara las distribuciones con cargo a los ingresos operativos a su discreción, sujeto a que la sociedad cuente con efectivo disponible suficiente, a la preservación de la reserva de capital de trabajo y al cumplimiento del convenio agregado de [[cre-financial-metrics|ratio de cobertura de intereses]] (RCI) del vehículo. El convenio de RCI es una restricción sobre la capacidad de endeudamiento, fijada en un suelo de 1,20× y calculada para el vehículo en su conjunto y no para un activo individual — rige cuánta deuda nueva puede asumir el vehículo, no si se declara una distribución de una propiedad en particular.
 
 Cuando se declaran distribuciones, se pagan proporcionalmente entre todas las unidades en circulación del activo correspondiente. Ninguna unidad del mismo activo goza de un derecho de distribución preferente sobre otra.
 
@@ -51,15 +51,9 @@ Las disposiciones — ventas, refinanciaciones con retorno de capital o reorgani
 
 En una disposición, el libro contable de la propiedad del activo correspondiente se cierra y los ingresos finales se distribuyen. Los tenedores de unidades reciben su participación proporcional; el activo sale de la estructura de tenencia. Ningún otro activo de la estructura se ve afectado.
 
-## Restricción del ratio de cobertura de intereses
-
-El suelo de RCI del 1,2× es la principal restricción operativa que rige el modelo en la práctica. Dado que las distribuciones se suspenden por debajo del 1,2× y el horizonte de tenencia es indefinido, un activo que cae por debajo del suelo entra en un estado de preservación de liquidez: los ingresos operativos se retienen, el servicio de la deuda continúa y el activo se gestiona para restablecer el ratio antes de que se reanuden las distribuciones.
-
-La medición del RCI por activo es estructural: un activo con bajo rendimiento no recurre a los ingresos operativos de otras propiedades de la estructura corporativa. La subvención cruzada no está disponible.
-
 ## Conclusión
 
-El Modelo de Capital Perpetuo sustituye la salida obligatoria del ciclo de fondos por un mecanismo de transferencia extrabursátil. Para el tenedor de una unidad, esto elimina el riesgo de venta forzosa y el descuento comprador-vendedor que los vehículos de ciclo de fondo fijo realizan en el momento de la liquidación. El suelo de RCI del 1,2× y el cálculo de distribuciones por activo retienen el efectivo a nivel de activo cuando el rendimiento operativo está bajo presión — un colchón que un vehículo mancomunado con distribuciones de cartera combinada diluiría en toda la cartera.
+El Modelo de Capital Perpetuo sustituye la salida obligatoria del ciclo de fondos por un mecanismo de transferencia extrabursátil. Para el tenedor de una unidad, esto elimina el riesgo de venta forzosa y el descuento comprador-vendedor que los vehículos de ciclo de fondo fijo realizan en el momento de la liquidación. Las distribuciones se calculan y se pagan por activo, de modo que la economía de un tenedor de unidades sigue a la propiedad específica que posee; el convenio agregado de ratio de cobertura de intereses del vehículo es una restricción separada, a nivel de todo el vehículo, sobre el nuevo endeudamiento, no una fórmula de distribución por activo.
 
 ## Véase también
 

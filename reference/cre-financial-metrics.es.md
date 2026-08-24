@@ -11,7 +11,7 @@ short_description: "Definiciones de las métricas financieras primarias utilizad
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: cre-financial-metrics.md
 ---
@@ -52,11 +52,12 @@ total de deuda (principal más intereses). Los prestamistas institucionales típ
 requieren RCSD de 1.20–1.30× en el origen.
 
 **Razón de cobertura de intereses (RCI)** — ION dividido entre las obligaciones anuales de
-intereses (excluyendo el reembolso de principal). Utilizada como métrica de compuerta de
-distribución: no se declara ninguna distribución cuando la RCI está por debajo de 1.2×. La
-RCI es una medida más laxa que la RCSD cuando la hipoteca tiene una estructura amortizable,
-porque la RCSD incluye el reembolso de principal en el denominador, mientras que la RCI lo
-excluye.
+intereses (excluyendo el reembolso de principal). Utilizada como convenio de endeudamiento
+en el programa de tenencia directa: el vehículo no puede emitir deuda garantizada adicional
+si al hacerlo la RCI cayera por debajo de 1,20×, calculada de forma agregada para todo el
+vehículo y no para una propiedad individual. La RCI es una medida más laxa que la RCSD
+cuando la hipoteca tiene una estructura amortizable, porque la RCSD incluye el reembolso de
+principal en el denominador, mientras que la RCI lo excluye.
 
 ## Métricas de valoración
 

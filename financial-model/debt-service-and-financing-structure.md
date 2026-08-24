@@ -7,22 +7,22 @@ index_group: financing-discipline
 type: topic
 content_type: topic
 quality: complete
-short_description: "How commercial mortgage financing is structured within direct-hold limited partnerships: loan-to-value conventions, interest rate risk, and the interaction between debt structure and the ICR distribution gate."
+short_description: "How commercial mortgage financing is structured within direct-hold limited partnerships: loan-to-value conventions, interest rate risk, and the interaction between debt structure and the ICR borrowing covenant."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: debt-service-and-financing-structure.es.md
 ---
 
 Two constraints govern the financing structure in each direct-hold
 [[limited-partnership-structure|limited partnership]]: the loan-to-value limit set by the
-lender, and the 1.2× [[cre-financial-metrics|Interest Coverage Ratio]] (ICR) floor
+lender, and the 1.20× [[cre-financial-metrics|Interest Coverage Ratio]] (ICR) floor
 established as a covenant in the partnership's governing agreement. Commercial real estate
 acquisitions are routinely financed with a combination of equity and mortgage debt. These two constraints determine the maximum mortgage quantum for a given asset,
-the interest obligation that the ICR distribution gate must clear, and the interest rate
-risk profile of the investment.
+the interest obligation the ICR covenant tests against before further secured debt can be
+issued, and the interest rate risk profile of the investment.
 
 ## Key takeaways
 
@@ -73,15 +73,15 @@ or lower than the original rate.
 
 Floating-rate mortgages expose the LP to immediate changes in debt service cost as benchmark
 rates move. An upward movement in benchmark rates increases interest expense and reduces the
-ICR, potentially triggering the distribution suspension protocol if the rate increase is
-sufficient to breach the 1.2× floor.
+ICR, potentially constraining the LP's capacity to issue further secured debt if the rate
+increase is sufficient to breach the 1.20× floor.
 
 ## Refinancing risk
 
 At mortgage maturity, the LP must either repay the outstanding principal or refinance with
 a new mortgage. Refinancing risk arises when credit conditions, property values, or lender
 appetite have deteriorated since the original financing: the available mortgage quantum may
-be lower (due to LTV compression or a decline in the property's ICR), and the interest rate
+be lower (due to LTV compression or a decline in the LP's ICR), and the interest rate
 may be higher.
 If the available refinancing proceeds are insufficient to repay the maturing mortgage, the LP
 must inject equity capital from its unit holders or sell the asset to repay the lender.

@@ -16,7 +16,7 @@ paired_with: perpetual-equity-model.es.md
 audience: public
 bcsc_class: public-disclosure-safe
 language: en
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 see_also:
   - investment-units
   - redemption-elimination
@@ -41,7 +41,7 @@ Transfer mechanics are straightforward: the seller identifies a counterparty, ag
 
 ## Distribution policy
 
-Distributions are declared per asset, not across the portfolio. The issuing entity declares distributions from operating income when the asset's [[cre-financial-metrics|interest coverage ratio]] (ICR) stands at or above 1.2×. A distribution is not declared from an asset below the 1.2× ICR floor; the floor is a covenant established in the applicable Direct-Hold Solution's governing agreement that governs borrowing capacity, consistent with the 1.2–1.4× range typical of commercial real-estate lending.
+Distributions are declared per asset, not across the portfolio. The general partner declares distributions from operating income at its discretion, subject to the partnership having sufficient available cash, to preserving the working-capital reserve, and to compliance with the vehicle's aggregate [[cre-financial-metrics|interest coverage ratio]] (ICR) covenant. The ICR covenant is a borrowing-capacity constraint, set at a 1.20× floor and calculated across the whole vehicle rather than any single asset — it governs how much new debt the vehicle can raise, not whether a distribution from a particular property is declared.
 
 When distributions are declared, they are paid proportionally across all outstanding units of the relevant asset. No unit within the same asset carries a preferential distribution right over another.
 
@@ -51,15 +51,9 @@ Dispositions — sales, refinancings with equity return, or structural reorganis
 
 In a disposition, the property ledger for the relevant asset is closed and final proceeds are distributed. Unit holders receive their proportional share; the asset exits the holding structure. No other asset in the structure is affected.
 
-## Interest coverage ratio constraint
-
-The 1.2× ICR floor is the primary operating constraint that governs the model in practice. Because distributions are suspended below 1.2× and the holding horizon is indefinite, an asset that falls below the floor enters a cash-preservation state: operating income is retained, debt service continues, and the asset is managed toward ratio restoration before distributions resume.
-
-The per-asset ICR measurement is structural: an underperforming asset does not draw on operating income from other properties in the corporate structure. Cross-subsidy is not available.
-
 ## The bottom line
 
-The Perpetual Equity Model replaces the fund cycle's compulsory exit with an over-the-counter transfer mechanism. For a unit holder, this eliminates forced-sale risk and the bid-ask discount that fixed-fund-cycle vehicles realise at wind-down. The 1.2× ICR floor and per-asset distribution calculation retain cash at the asset level when operating performance is under pressure — a buffer that a pooled vehicle with blended-portfolio distributions would dilute across the portfolio.
+The Perpetual Equity Model replaces the fund cycle's compulsory exit with an over-the-counter transfer mechanism. For a unit holder, this eliminates forced-sale risk and the bid-ask discount that fixed-fund-cycle vehicles realise at wind-down. Distributions are calculated and paid per asset, so a unit holder's economics track the specific property they hold; the vehicle's aggregate interest coverage ratio covenant is a separate, vehicle-wide constraint on new borrowing, not a per-asset distribution formula.
 
 ## See also
 

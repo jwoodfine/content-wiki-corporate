@@ -52,7 +52,7 @@ It is a curated core set of roughly fifty terms, selected from an internal extra
 
 **Direct-Hold Solution** — The legal structure under which each investor holds equity units in a single named vehicle tied to a specific property, rather than a proportional claim on a commingled pool. See [[direct-hold-framework|Direct-hold framework]].
 
-**Distributable Income** — The stabilized operating income remaining once the interest coverage ratio requirement is satisfied, from which a general partner may declare distributions. See [[distribution-declaration-mechanics|Distribution declaration mechanics]].
+**Distributable Income** — The stabilized operating income from which a general partner may declare distributions, subject to available cash, the working-capital reserve, and the vehicle's interest coverage ratio covenant on new borrowing. See [[distribution-declaration-mechanics|Distribution declaration mechanics]].
 
 ## E
 
@@ -80,7 +80,7 @@ It is a curated core set of roughly fifty terms, selected from an internal extra
 
 ## I
 
-**Interest Coverage Ratio (ICR)** — Net operating income divided by annual interest obligations; the covenant gating distributions, requiring coverage of at least 1.2×. See Interest coverage ratio.
+**Interest Coverage Ratio (ICR)** — Net operating income divided by annual interest obligations; the covenant on new borrowing, calculated in aggregate across the vehicle, requiring coverage of at least 1.20× before the vehicle may issue further secured debt. See Interest coverage ratio.
 
 **Internal Rate of Return (IRR)** — The discount rate at which the net present value of an investment's cash flows equals zero; the standard total-return measure for a time-limited holding. See [[cre-financial-metrics|Commercial real estate financial metrics]].
 

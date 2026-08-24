@@ -11,7 +11,7 @@ short_description: "Definitions of the primary financial metrics used in commerc
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-15
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: cre-financial-metrics.es.md
 ---
@@ -57,10 +57,12 @@ A DSCR of 1.25× means the property generates $1.25 of NOI for every $1.00 of de
 Institutional lenders typically require DSCR of 1.20–1.30× at origination.
 
 **Interest coverage ratio (ICR)** — NOI divided by annual interest obligations (excluding
-principal repayment). Used as the distribution-gating metric in the direct-hold programme:
-no distribution is declared when the ICR is below 1.2×. ICR is a more lenient measure than
-DSCR when the mortgage has an amortising structure, because DSCR includes principal repayment
-in the denominator while ICR excludes it. See interest-rate-transmission.
+principal repayment). Used as the borrowing covenant in the direct-hold programme: the
+vehicle may not issue further secured debt if doing so would reduce the ICR below 1.20×,
+calculated in aggregate across the vehicle rather than any single property. ICR is a more
+lenient measure than DSCR when the mortgage has an amortising structure, because DSCR
+includes principal repayment in the denominator while ICR excludes it. See
+interest-rate-transmission.
 
 ## Valuation metrics
 

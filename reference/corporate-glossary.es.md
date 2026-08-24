@@ -52,7 +52,7 @@ Es un conjunto curado de aproximadamente cincuenta términos, seleccionados de u
 
 **Direct-Hold Solution** — La estructura jurídica bajo la cual cada inversionista posee unidades de capital en un vehículo único con nombre, vinculado a una propiedad específica, en lugar de una participación proporcional en un fondo mancomunado. Ver [[direct-hold-framework|Marco de tenencia directa]].
 
-**Ingreso Distribuible** — El ingreso operativo estabilizado que permanece una vez satisfecho el requisito de la razón de cobertura de intereses, a partir del cual un socio general puede declarar distribuciones. Ver [[distribution-declaration-mechanics|Mecánica de declaración de distribuciones]].
+**Ingreso Distribuible** — El ingreso operativo estabilizado a partir del cual un socio general puede declarar distribuciones, sujeto al efectivo disponible, la reserva de capital de trabajo y el convenio de razón de cobertura de intereses del vehículo sobre el nuevo endeudamiento. Ver [[distribution-declaration-mechanics|Mecánica de declaración de distribuciones]].
 
 ## E
 
@@ -80,7 +80,7 @@ Es un conjunto curado de aproximadamente cincuenta términos, seleccionados de u
 
 ## I
 
-**Razón de Cobertura de Intereses (RCI)** — Ingreso operativo neto dividido entre las obligaciones anuales de intereses; el convenio que condiciona las distribuciones, exigiendo una cobertura mínima de 1.2×. Ver Ratio de cobertura de intereses.
+**Razón de Cobertura de Intereses (RCI)** — Ingreso operativo neto dividido entre las obligaciones anuales de intereses; el convenio sobre el nuevo endeudamiento, calculado de forma agregada para todo el vehículo, que exige una cobertura mínima de 1,20× antes de que el vehículo pueda emitir deuda garantizada adicional. Ver Ratio de cobertura de intereses.
 
 **Tasa Interna de Retorno (TIR)** — La tasa de descuento a la cual el valor presente neto de los flujos de efectivo de una inversión es igual a cero; la medida estándar de retorno total para una inversión de plazo determinado. Ver [[cre-financial-metrics|Métricas financieras de bienes raíces comerciales]].
 

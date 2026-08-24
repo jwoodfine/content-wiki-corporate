@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: offering-risk.es.md
 ---
@@ -67,7 +67,7 @@ a separate holding rather than a share in a diversified fund.
 ## No guarantee of return or capital preservation
 
 Nothing in the structure of an investment unit — including the [[cre-financial-metrics|Interest Coverage Ratio]]
-distribution gate, the [[narrow-bank-financial-model|Narrow Banking Model]]'s financing discipline, or the
+covenant on new borrowing, the [[narrow-bank-financial-model|Narrow Banking Model]]'s financing discipline, or the
 ring-fencing of asset-level debt — guarantees that distributions will be declared, that a unit
 will retain or increase its value, or that an investor will recover the capital invested.
 Distributions are paid only when declared from Distributable Income and are never guaranteed.

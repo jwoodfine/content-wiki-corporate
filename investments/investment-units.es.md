@@ -16,7 +16,7 @@ paired_with: investment-units.md
 audience: public
 bcsc_class: public-disclosure-safe
 language: es
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 see_also:
   - perpetual-equity-model
   - direct-hold-framework
@@ -42,13 +42,13 @@ Cada unidad de inversión en un activo nombrado confiere tres categorías de der
 
 **Derechos de transferencia.** Las unidades son libremente transferibles a cualquier contraparte elegible. Las transferencias se registran en el libro contable en el orden en que se reciben, por el órgano de gobierno del vehículo, que admite a cualquier cesionario que complete la documentación de transferencia requerida, sujeto a una excepción limitada cuando los titulares beneficiarios del 45% o más de las unidades en circulación son, o podrían ser, instituciones financieras; los demás tenedores de unidades no tienen ningún rol de aprobación. El cesionario adquiere todos los derechos económicos y de información del cedente en el momento de la liquidación en el libro contable.
 
-**Derechos de información.** Los tenedores de unidades de un activo nombrado reciben estados operativos periódicos de ese activo, que incluyen ingresos, gastos operativos y el [[cre-financial-metrics|ratio de cobertura de intereses]] (RCI) vigente. La información es específica del activo y no se extiende a otras propiedades de la estructura corporativa.
+**Derechos de información.** Los tenedores de unidades de un activo nombrado reciben estados operativos periódicos de ese activo, que incluyen ingresos y gastos operativos, junto con el [[cre-financial-metrics|ratio de cobertura de intereses]] (RCI) agregado del vehículo. La información operativa es específica del activo; el RCI se calcula para el vehículo en su conjunto y no varía según la propiedad.
 
 ## Ratio de cobertura de intereses
 
-Cada estructura de tenencia directa mantiene un suelo de ratio de cobertura de intereses (RCI) de 1,2× — ingresos operativos netos respecto a las obligaciones de intereses (excluida la amortización del capital) — como convenio establecido en el propio acuerdo rector de cada vehículo. El RCI se calcula por activo; no existe subvención cruzada entre propiedades. Un activo que opera entre 1,2× y 1,4× RCI se encuentra en el rango típico de los convenios de préstamo inmobiliario comercial. Un activo por debajo de 1,2× entra en un protocolo de preservación en el que se suspenden las distribuciones hasta que se restablece el ratio.
+El ratio de cobertura de intereses (RCI) es un convenio sobre el nuevo endeudamiento, calculado a nivel del vehículo y no por activo. Mide las utilidades agregadas antes de impuestos del vehículo de tenencia directa frente a sus pagos agregados de intereses, comisiones y costos a los acreedores, considerando todas las propiedades que mantiene, no una propiedad de forma aislada. El convenio fija un suelo de 1,20×: el vehículo no puede emitir nuevas Obligaciones Hipotecarias Garantizadas de Primer Grado si al hacerlo el ratio quedara por debajo de ese suelo inmediatamente después, salvo Resolución Especial de los tenedores de unidades.
 
-El suelo del RCI protege directamente a los tenedores de unidades: impide que se realicen distribuciones de una propiedad cuyos ingresos operativos sean insuficientes para sostenerlas. No se declara ninguna distribución de un activo cuyo RCI sea inferior a 1,2×.
+El suelo del RCI protege a los tenedores de unidades al limitar cuánta deuda adicional puede asumir el vehículo en relación con sus utilidades; es una restricción de apalancamiento sobre el nuevo endeudamiento, no una fórmula de distribución. El socio general pondera el convenio, junto con el efectivo disponible y la reserva de capital de trabajo, al ejercer su discreción sobre el monto y el momento de las distribuciones — no existe una regla fija por la cual el bajo desempeño de una propiedad individual suspenda por sí solo las distribuciones de sus propias unidades.
 
 ## Relación con el Modelo de Capital Perpetuo
 
@@ -56,7 +56,7 @@ Las unidades de inversión son el instrumento a través del cual se expresa el [
 
 ## Conclusión
 
-Las unidades de inversión son instrumentos de oferta fija y específicos de cada activo, sin exposición cruzada entre propiedades de la estructura corporativa. El suelo de RCI del 1,2× suspende las distribuciones antes de que superen los ingresos operativos. Las transferencias ordinarias no requieren una decisión de aprobación discrecional — el órgano de gobierno del vehículo admite a cualquier cesionario que complete la documentación requerida, sujeto únicamente a la excepción limitada de concentración de instituciones financieras descrita anteriormente. Para un comprador regulado, la combinación de propiedad registrada en el libro contable, aislamiento estructural del activo y una compuerta de distribución vinculada al RCI proporciona un marco predecible para la asignación permanente de capital a inmuebles nombrados.
+Las unidades de inversión son instrumentos de oferta fija y específicos de cada activo, sin exposición cruzada entre propiedades de la estructura corporativa. El suelo de RCI del 1,20× limita cuánta deuda nueva puede asumir el vehículo en relación con sus utilidades, calculado para el vehículo en su conjunto y no para una propiedad individual. Las transferencias ordinarias no requieren una decisión de aprobación discrecional — el órgano de gobierno del vehículo admite a cualquier cesionario que complete la documentación requerida, sujeto únicamente a la excepción limitada de concentración de instituciones financieras descrita anteriormente. Para un comprador regulado, la combinación de propiedad registrada en el libro contable, aislamiento estructural del activo y un convenio de apalancamiento a nivel del vehículo proporciona un marco predecible para la asignación permanente de capital a inmuebles nombrados.
 
 ## Véase también
 

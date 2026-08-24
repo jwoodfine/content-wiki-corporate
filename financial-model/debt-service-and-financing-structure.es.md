@@ -7,11 +7,11 @@ index_group: financing-discipline
 type: topic
 content_type: topic
 quality: complete
-short_description: "Cómo se estructura el financiamiento hipotecario comercial dentro de las sociedades en comandita de tenencia directa: convenciones de relación préstamo-valor, riesgo de tasa de interés e interacción entre la estructura de deuda y la compuerta de distribución de la RCI."
+short_description: "Cómo se estructura el financiamiento hipotecario comercial dentro de las sociedades en comandita de tenencia directa: convenciones de relación préstamo-valor, riesgo de tasa de interés e interacción entre la estructura de deuda y el convenio de endeudamiento de la RCI."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: debt-service-and-financing-structure.md
 ---
@@ -72,7 +72,9 @@ La tasa de interés en una hipoteca comercial puede ser fija durante el plazo o 
 basada en una tasa de referencia. Las hipotecas a tasa fija protegen a la SC de aumentos
 en las tasas de interés durante el plazo. Las hipotecas a tasa flotante exponen a la SC a
 cambios inmediatos en el costo del servicio de deuda a medida que se mueven las tasas de
-referencia.
+referencia. Un aumento en las tasas de referencia incrementa el gasto de interés y reduce la
+RCI, restringiendo potencialmente la capacidad de la SC para emitir deuda garantizada
+adicional si el aumento es suficiente para romper el piso de 1,20×.
 
 ## Riesgo de refinanciamiento
 
@@ -80,7 +82,7 @@ Al vencimiento de la hipoteca, la SC debe pagar el principal pendiente o refinan
 nueva hipoteca. El riesgo de refinanciamiento surge cuando las condiciones crediticias, los
 valores de las propiedades o el apetito de los prestamistas se han deteriorado desde el
 financiamiento original: el monto hipotecario disponible puede ser menor (por compresión de
-la RPV o deterioro de la RCI de la propiedad), y la tasa de interés puede ser más alta. Si el producto
+la RPV o deterioro de la RCI de la SC), y la tasa de interés puede ser más alta. Si el producto
 disponible del refinanciamiento es insuficiente para pagar la hipoteca que vence, la SC debe
 inyectar capital aportado por sus tenedores de unidades o vender el activo para pagar al
 prestamista.

@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: financing-and-interest-rate-risk.md
 ---
@@ -46,9 +46,10 @@ vigentes al momento de la emisión. Si las tasas de interés suben entre el mome
 planea una propiedad y el momento en que se emiten sus pagarés, el costo de esa deuda será
 mayor al supuesto en proyecciones anteriores, reduciendo el ingreso operativo neto disponible
 para distribución después del servicio de la deuda. Debido a que el
-[[cre-financial-metrics|Índice de Cobertura de Intereses]] se mide contra las obligaciones de interés reales, costos
-de interés superiores a lo previsto acercan un activo al piso de distribución de 1.2×,
-independientemente de cualquier cambio en el desempeño operativo de la propiedad.
+[[cre-financial-metrics|Índice de Cobertura de Intereses]] se mide de forma agregada para todo el vehículo contra
+las obligaciones de interés reales, costos de interés superiores a lo previsto acercan al
+vehículo al piso de 1,20× que restringe el endeudamiento adicional, independientemente de
+cualquier cambio en el desempeño operativo de una propiedad individual.
 
 La prohibición del modelo sobre la capitalización de intereses significa que los aumentos en el
 costo de interés se reflejan de inmediato en los resultados del período en curso, en lugar de
@@ -79,5 +80,5 @@ exposición subyacente de cualquier propiedad endeudada al movimiento de las tas
 
 - [[about-risks]] — cómo se organizan las categorías de riesgo en este wiki
 - [[narrow-bank-financial-model|Modelo de Financiamiento de Banca Estrecha]] — la disciplina de financiamiento en dos fases referida arriba
-- Índice de Cobertura de Intereses — el convenio que condiciona la emisión de deuda y las distribuciones
+- Índice de Cobertura de Intereses — el convenio que condiciona la emisión de nueva deuda
 - [[market-and-property-risk]] — cómo las condiciones de mercado afectan el ingreso que sostiene el servicio de la deuda

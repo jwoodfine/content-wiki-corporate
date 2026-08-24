@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: offering-risk.md
 ---
@@ -71,8 +71,8 @@ una participación en un fondo diversificado.
 
 ## Sin garantía de retorno ni de preservación de capital
 
-Nada en la estructura de una unidad de inversión —incluida la compuerta de distribución del
-[[cre-financial-metrics|Índice de Cobertura de Intereses]], la disciplina de financiamiento del [[narrow-bank-financial-model|Modelo
+Nada en la estructura de una unidad de inversión —incluido el convenio de nuevo
+endeudamiento del [[cre-financial-metrics|Índice de Cobertura de Intereses]], la disciplina de financiamiento del [[narrow-bank-financial-model|Modelo
 de Financiamiento de Banca Estrecha]], o el aislamiento de la deuda a nivel de activo— garantiza
 que se declararán distribuciones, que una unidad mantendrá o aumentará su valor, o que un
 inversor recuperará el capital invertido. Las distribuciones se pagan únicamente cuando se

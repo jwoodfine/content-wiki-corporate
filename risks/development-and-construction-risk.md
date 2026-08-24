@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: development-and-construction-risk.es.md
 ---
@@ -73,7 +73,7 @@ a completed building must still be leased to generate income, and the pace and t
 lease-up are subject to the [[market-and-property-risk|market and property risk]] applicable to the specific location.
 A building that takes longer than anticipated to lease, or that leases at rents below
 underwriting assumptions, generates less income during the lease-up period than originally
-projected, which in turn affects how quickly the property's [[cre-financial-metrics|Interest Coverage Ratio]]
+projected, which in turn affects how quickly the vehicle's [[cre-financial-metrics|Interest Coverage Ratio]]
 reaches the level required to begin the debt phase.
 
 ## See also

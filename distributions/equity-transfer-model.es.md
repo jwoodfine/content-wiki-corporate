@@ -13,14 +13,14 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: equity-transfer-model.md
 short_description: "Mecanismo de transferencia extrabursátil que permite a los inversores ceder su posición directamente a contrapartes elegibles, sin necesidad de un fondo de liquidez ni recompra corporativa."
 cites: []
 ---
 
-Cada vehículo de Tenencia Directa está diseñado para que sus Unidades de Inversión se transfieran de forma extrabursátil entre partes privadas, con el propio órgano de gobierno del vehículo registrando la transferencia completada. Solo un vehículo está actualmente constituido — la sociedad en comandita de Canadá, Professional Centres Canada LP — y sus unidades no son actualmente libremente transferibles, porque la sociedad está sujeta a una orden de suspensión de negociación (cease-trade order) vigente de la British Columbia Securities Commission. Los vehículos de Estados Unidos, España y México descritos más abajo están planificados, aún no constituidos. Una vez que aplique la transferibilidad, dos principios estructurales rigen el diseño: capital libremente transferible dentro de un conjunto breve y enumerado de condiciones, y ejecución entre partes privadas — sin mercado secundario formal, sin creador de mercado, sin facilidad de recompra corporativa. El modelo se apoya en que el propio órgano de gobierno del vehículo mantenga la custodia de los registros contables y opera junto con la disciplina del Ratio de Cobertura de Intereses aplicada a nivel de activo.
+Cada vehículo de Tenencia Directa está diseñado para que sus Unidades de Inversión se transfieran de forma extrabursátil entre partes privadas, con el propio órgano de gobierno del vehículo registrando la transferencia completada. Solo un vehículo está actualmente constituido — la sociedad en comandita de Canadá, Professional Centres Canada LP — y sus unidades no son actualmente libremente transferibles, porque la sociedad está sujeta a una orden de suspensión de negociación (cease-trade order) vigente de la British Columbia Securities Commission. Los vehículos de Estados Unidos, España y México descritos más abajo están planificados, aún no constituidos. Una vez que aplique la transferibilidad, dos principios estructurales rigen el diseño: capital libremente transferible dentro de un conjunto breve y enumerado de condiciones, y ejecución entre partes privadas — sin mercado secundario formal, sin creador de mercado, sin facilidad de recompra corporativa. El modelo se apoya en que el propio órgano de gobierno del vehículo mantenga la custodia de los registros contables y opera junto con la disciplina del Ratio de Cobertura de Intereses aplicada a nivel del vehículo.
 
 ## Puntos clave
 

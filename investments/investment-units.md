@@ -16,7 +16,7 @@ paired_with: investment-units.es.md
 audience: public
 bcsc_class: public-disclosure-safe
 language: en
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 see_also:
   - perpetual-equity-model
   - direct-hold-framework
@@ -42,13 +42,13 @@ Each investment unit in a named asset carries three categories of rights.
 
 **Transfer rights.** Units are designed to be freely transferable to any eligible counterparty (the established Canada vehicle's units are not currently freely transferable, because of the active BCSC cease-trade order noted above). Transfers are recorded in the property ledger in the sequence received by the vehicle's governing body, which admits any transferee who completes the required transfer documentation, subject to a narrow exception where beneficial owners of 45% or more of the outstanding units are, or may be, financial institutions; other unit holders have no approval role. The transferee acquires the full economic and information rights of the transferor upon ledger settlement.
 
-**Information rights.** Unit holders in a named asset receive periodic operating statements for that asset, including revenue, operating expenses, and the current [[cre-financial-metrics|interest coverage ratio]]. Information is asset-specific and does not extend to other properties in the corporate holding structure.
+**Information rights.** Unit holders in a named asset receive periodic operating statements for that asset, including revenue and operating expenses, together with the vehicle's aggregate [[cre-financial-metrics|interest coverage ratio]]. Operating information is asset-specific; the interest coverage ratio is calculated for the vehicle as a whole and does not vary by property.
 
 ## Interest Coverage Ratio
 
-Each direct-hold structure maintains an interest coverage ratio (ICR) floor of 1.2× — net operating income to interest obligations (excluding principal repayment) — as a covenant established in each vehicle's own governing agreement. The ICR is calculated per asset; there is no cross-subsidy between properties. An asset operating between 1.2× and 1.4× ICR is within the range typical of commercial real-estate lending covenants. An asset below 1.2× enters a preservation protocol in which distributions are suspended until the ratio is restored.
+The interest coverage ratio (ICR) is a covenant on new borrowing, calculated at the vehicle level rather than per asset. It measures the direct-hold vehicle's aggregate pre-tax earnings against its aggregate interest, fee, and cost payments to lenders across every property it holds, not any single property in isolation. The covenant sets a floor of 1.20×: the vehicle may not issue further First Secured Mortgage Debentures if doing so would reduce the ratio below that floor immediately afterward, absent a Special Resolution of unit holders.
 
-The ICR floor is a direct protection for unit holders: it prevents distributions from being drawn from a property whose operating income is insufficient to sustain them. No distribution is declared from an asset whose ICR falls below 1.2×.
+The ICR floor protects unit holders by limiting how much additional debt the vehicle can raise relative to its earnings; it is a leverage constraint on new borrowing, not a distribution formula. The general partner weighs the covenant, together with available cash and the working-capital reserve, when exercising its discretion over the amount and timing of distributions — there is no fixed rule under which an individual property's underperformance halts distributions on its own units.
 
 ## Relationship to the Perpetual Equity Model
 
@@ -56,7 +56,7 @@ Investment units are the instrument through which the [[perpetual-equity-model|P
 
 ## The bottom line
 
-Investment units are asset-specific, fixed-supply instruments with no cross-exposure between properties in the corporate structure. The 1.2× ICR floor suspends distributions before they outpace operating income. Ordinary transfers require no discretionary approval decision — the vehicle's governing body admits any transferee who completes the required documentation, subject only to the narrow financial-institution-concentration exception described above. For a regulated buyer, the combination of ledger-recorded ownership, structural asset isolation, and an ICR-linked distribution gate provides a predictable framework for permanent equity allocation to named real property.
+Investment units are asset-specific, fixed-supply instruments with no cross-exposure between properties in the corporate structure. The 1.20× ICR floor constrains how much new debt the vehicle can raise relative to its earnings, calculated across the whole vehicle rather than any single property. Ordinary transfers require no discretionary approval decision — the vehicle's governing body admits any transferee who completes the required documentation, subject only to the narrow financial-institution-concentration exception described above. For a regulated buyer, the combination of ledger-recorded ownership, structural asset isolation, and a vehicle-level leverage covenant provides a predictable framework for permanent equity allocation to named real property.
 
 ## See also
 

@@ -7,20 +7,24 @@ index_group: distribution-policy-and-mechanics
 type: topic
 content_type: topic
 quality: complete
-short_description: "Cómo se determinan, declaran y pagan las distribuciones en las Soluciones de Tenencia Directa de Canadá y Estados Unidos, constituidas como sociedades en comandita: la compuerta de la RCI, la asignación proporcional entre participaciones y el protocolo de suspensión."
+short_description: "Cómo se determinan, declaran y pagan las distribuciones en las Soluciones de Tenencia Directa de Canadá y Estados Unidos, constituidas como sociedades en comandita: la discreción del socio gestor, la asignación proporcional entre participaciones y la relación con el convenio de endeudamiento del vehículo."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: distribution-declaration-mechanics.md
 ---
 
-En el vehículo de Canadá ya constituido, el socio gestor declara las distribuciones
-cuando el desempeño operativo del activo satisface el piso de la razón de cobertura
-de [[cre-financial-metrics|intereses]] (RCI). No se declara ninguna distribución de un activo cuya RCI sea inferior a
-1.2×. El vehículo planificado de Estados Unidos tiene previsto aplicar una compuerta de RCI,
-un cálculo proporcional y un protocolo de suspensión equivalentes una vez constituido.
+En el vehículo de Canadá ya constituido, el socio gestor declara las distribuciones a su
+discreción, sujeto a que la sociedad cuente con efectivo disponible suficiente, a la
+preservación de la reserva de capital de trabajo, y al cumplimiento del convenio de
+[[cre-financial-metrics|razón de cobertura de intereses]] (RCI) que rige el endeudamiento del vehículo. Cuando se
+declaran distribuciones, se asignan a todas las participaciones en circulación del activo
+correspondiente en proporción equitativa — ninguna participación goza de un derecho de
+distribución preferente sobre otra. El vehículo planificado de Estados Unidos tiene previsto
+aplicar un marco equivalente de discreción, convenio y cálculo proporcional una vez
+constituido.
 
 Esta mecánica se aplica a las Soluciones de
 Tenencia Directa de Canadá y Estados Unidos, constituidas como sociedades en comandita. La
@@ -30,8 +34,11 @@ descrita aquí.
 
 ## Puntos clave
 
-- Una distribución se declara por el socio gestor solo cuando el ingreso operativo estabilizado
-  cubre las obligaciones de intereses en al menos 1.2×; no existe excepción a esta compuerta.
+- Una distribución se declara a discreción del socio gestor, sujeta al efectivo disponible,
+  a la preservación de la reserva de capital de trabajo y al cumplimiento del convenio
+  agregado de [[cre-financial-metrics|razón de cobertura de intereses]] del vehículo — no una fórmula por
+  activo, ni un mecanismo que complemente la distribución de una propiedad con el ingreso
+  de otra.
 - Las distribuciones son proporcionales al número de participaciones en circulación; un inversor
   que posee el cinco por ciento de las participaciones de una SC recibe el cinco por ciento de
   cualquier distribución declarada.
@@ -43,18 +50,23 @@ descrita aquí.
   se retiene para fines de la sociedad durante el Período Inicial, y luego se aplica a la
   redención de Obligaciones con Primera Hipoteca Garantizada.
 
-## La compuerta de la RCI
+## La razón de cobertura de intereses y las distribuciones
 
-La RCI para cada activo se calcula como el ingreso operativo neto estabilizado dividido entre las
-obligaciones totales de intereses anuales sobre toda la deuda garantizada por el activo. La
-compuerta de la RCI no es una guía flexible — es una restricción operativa incorporada en el
-acuerdo de sociedad. El socio gestor no puede legalmente declarar una distribución que reduciría
-la RCI por debajo de 1.2×.
+La razón de cobertura de intereses es un convenio sobre el nuevo endeudamiento, no una
+fórmula de distribución. Se calcula a nivel del vehículo — utilidades agregadas antes de
+impuestos frente a los pagos agregados de intereses, comisiones y costos a los acreedores,
+considerando todas las propiedades que mantiene el vehículo, no una propiedad de forma
+aislada — y fija un suelo de 1,20× por debajo del cual el vehículo no puede emitir nuevas
+Obligaciones Hipotecarias Garantizadas de Primer Grado, salvo Resolución Especial de los
+tenedores de unidades. Véase [[debt-service-and-financing-structure]] para la mecánica
+completa del convenio de endeudamiento.
 
-La RCI se calcula por activo y por período. No se agrega entre activos de la cartera ni a
-través de la estructura de tenencia. Un activo con una RCI de 1.5× y un activo con una RCI de
-0.9× se evalúan de forma independiente; la RCI sólida de un activo no complementa la RCI
-débil del otro.
+La declaración de distribuciones es una decisión discrecional distinta. La discreción del
+socio gestor sobre el monto y el momento de las distribuciones está sujeta a que la sociedad
+cuente con efectivo disponible suficiente, a la preservación de la reserva de capital de
+trabajo y al convenio de RCI — el convenio es un factor entre varios, no una compuerta rígida
+que suspenda por sí sola las distribuciones de una propiedad mientras las demás propiedades
+del vehículo siguen pagando.
 
 ## Asignación proporcional
 
@@ -73,13 +85,6 @@ activo reciben el mismo monto por participación.
 
 En el vehículo de Canadá ya constituido, cuando se declara una distribución, la sociedad paga al menos el 90% del Ingreso Distribuible del ejercicio fiscal a los socios comanditarios dentro de los 90 días posteriores al cierre del ejercicio. Hasta que las distribuciones acumuladas igualen el 100% de los ingresos brutos que los socios comanditarios pagaron por sus participaciones (el Período Inicial), el 10% restante se retiene para fines de la sociedad. Después del Período Inicial, ese 10% se aplica a la redención de Obligaciones con Primera Hipoteca Garantizada hasta que todas sean redimidas, tras lo cual vuelve a destinarse a fines de la sociedad.
 
-## Protocolo de suspensión
-
-Si la RCI cae por debajo de 1.2×, el socio gestor suspende las distribuciones. El ingreso
-operativo se retiene dentro de la sociedad. Las distribuciones se reanudan solo cuando la RCI
-ha sido restaurada a 1.2× o superior. Las distribuciones suspendidas durante el período de
-deficiencia de la RCI no se pagan posteriormente.
-
 ## Tratamiento fiscal
 
 La sociedad en comandita no paga impuesto sobre la renta a nivel de la entidad; el ingreso y
@@ -93,3 +98,7 @@ cada socio y es un asunto para el asesor fiscal calificado.
   distribuciones a los socios comanditarios
 - [[asset-vehicle-isolation]] — por qué las distribuciones de un activo LP no pueden ser
   complementadas por activos mantenidos en otra LP
+- [[debt-service-and-financing-structure]] — el convenio de razón de cobertura de intereses
+  y cómo rige el nuevo endeudamiento
+- [[narrow-bank-financial-model]] — el modelo financiero que sustenta el convenio de
+  endeudamiento

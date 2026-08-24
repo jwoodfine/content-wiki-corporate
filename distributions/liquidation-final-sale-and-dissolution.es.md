@@ -55,7 +55,7 @@ Este artículo trata únicamente la mecánica de disolución, Venta Final y liqu
 
 ## Véase también
 
-- [[distribution-declaration-mechanics|Mecánica de Declaración de Distribuciones]] — la compuerta de la RCI y la asignación proporcional que rigen las distribuciones ordinarias
+- [[distribution-declaration-mechanics|Mecánica de Declaración de Distribuciones]] — la discreción del socio gestor y la asignación proporcional que rigen las distribuciones ordinarias
 - [[perpetual-equity-model|Modelo de Capital Perpetuo]] — por qué los tenedores de participaciones no enfrentan una salida obligatoria fuera del proceso de liquidación aquí descrito
 - [[professional-centres-canada-lp-structure|Professional Centres Canada LP — Estructura de la Direct-Hold Solution]] — el capital en garantía del promotor y sus condiciones de liberación
 - [[special-resolutions-and-general-partner-removal|Resoluciones Especiales y Remoción del Socio General]] — la Resolución Especial que puede aprobar una Venta Final fuera de la autoridad directa del socio general

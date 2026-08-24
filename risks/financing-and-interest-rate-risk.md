@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: financing-and-interest-rate-risk.es.md
 ---
@@ -44,9 +44,10 @@ Debentures issued under the model are exposed to prevailing interest rate condit
 issuance. If interest rates rise between the time a property is planned and the time its
 debentures are issued, the cost of that debt will be higher than assumed in earlier
 projections, reducing the net operating income available for distribution after debt service.
-Because the [[cre-financial-metrics|Interest Coverage Ratio]] is measured against actual interest obligations,
-higher-than-assumed interest costs bring an asset closer to the 1.2× distribution floor,
-independent of any change in the property's operating performance.
+Because the [[cre-financial-metrics|Interest Coverage Ratio]] is measured in aggregate across the vehicle
+against actual interest obligations, higher-than-assumed interest costs bring the vehicle
+closer to the 1.20× floor that constrains further borrowing, independent of any change in
+any single property's operating performance.
 
 The model's prohibition on capitalized interest means that interest cost increases are
 reflected immediately in current-period results rather than deferred into the loan principal.

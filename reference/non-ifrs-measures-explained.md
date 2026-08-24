@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: non-ifrs-measures-explained.es.md
 ---
@@ -54,11 +54,11 @@ real estate industry associations, applied consistently across the metrics used 
 value — used to estimate or interpret property value. Capitalization rate is a valuation tool
 drawn from observed market transactions, not an IFRS-defined accounting measure.
 
-**Interest coverage ratio (ICR).** The ratio used as the distribution-gating
-covenant throughout the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] structure — net operating income
-divided by interest obligations — is a covenant and operating metric, not an IFRS-defined
-measure, although it is calculated from figures that trace back to the audited financial
-statements.
+**Interest coverage ratio (ICR).** The ratio used as the borrowing
+covenant throughout the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] structure — aggregate net operating income
+divided by aggregate interest obligations across the vehicle — is a covenant and operating
+metric, not an IFRS-defined measure, although it is calculated from figures that trace back
+to the audited financial statements.
 
 ## Reconciliation to IFRS measures
 

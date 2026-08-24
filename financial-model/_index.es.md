@@ -38,7 +38,7 @@ financiamiento hipotecario utilizada una vez que la deuda está en su lugar.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: financing-discipline -->
 - [[narrow-bank-financial-model]] — Disciplina de financiamiento en dos fases de las Direct-Hold Solutions: construcción con capital propio, luego Obligaciones con Primera Hipoteca Garantizada sobre los edificios.
-- [[debt-service-and-financing-structure]] — Cómo se estructura el financiamiento hipotecario comercial dentro de las sociedades en comandita de tenencia directa: convenciones de relación préstamo-valor, dimensionamiento de deuda restringido por la RCSD, riesgo de tasa de interés e interacción entre la estructura de deuda y la compuerta de distribución de la RCI.
+- [[debt-service-and-financing-structure]] — Cómo se estructura el financiamiento hipotecario comercial dentro de las sociedades en comandita de tenencia directa: convenciones de relación préstamo-valor, dimensionamiento de deuda restringido por la RCSD, riesgo de tasa de interés e interacción entre la estructura de deuda y el convenio de endeudamiento de la RCI.
 <!-- END AUTO-GENERATED -->
 
 ## Compensación y alineación

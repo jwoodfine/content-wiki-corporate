@@ -32,7 +32,7 @@ transferencia de unidades.
 Cómo se determinan y pagan las distribuciones.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: distribution-policy-and-mechanics -->
-- [[distribution-declaration-mechanics]] — Cómo se determinan, declaran y pagan las distribuciones en las sociedades en comandita de tenencia directa: la compuerta de la RCI, la asignación proporcional entre participaciones y el protocolo de suspensión.
+- [[distribution-declaration-mechanics]] — Cómo se determinan, declaran y pagan las distribuciones en las sociedades en comandita de tenencia directa: la discreción del socio gestor, la asignación proporcional entre participaciones y la relación con el convenio de endeudamiento del vehículo.
 - [[liquidation-final-sale-and-dissolution]] — Cómo se disuelve Professional Centres Canada LP: los eventos que activan la disolución, el mecanismo de Venta Final y el orden en que los ingresos de la liquidación llegan a los socios comanditarios.
 <!-- END AUTO-GENERATED -->
 

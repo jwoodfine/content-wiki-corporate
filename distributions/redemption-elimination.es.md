@@ -13,14 +13,14 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: redemption-elimination.md
 short_description: "Eliminación estructural del derecho de reembolso de los inversores, suprimiendo el lastre de la reserva de efectivo y el riesgo de corrida inherente a los vehículos inmobiliarios colectivos."
 cites: []
 ---
 
-Los activos de [[direct-hold-framework|Tenencia Directa]] de Woodfine no tienen cola de reembolso — el capital de cada inversor corresponde a una propiedad específica, y la liquidez depende del mercado privado para ese activo, no de las reservas de efectivo de la entidad corporativa. Dado que no existe un fondo mancomunado, la condición que hace necesarios los mecanismos de reembolso está ausente por diseño. La liquidez se ejecuta a través del [[equity-transfer-model|Modelo de Transferencia de Capital]], y la deuda a nivel de activo está limitada por el [[cre-financial-metrics|Ratio de Cobertura de Intereses]] de modo que no se requieren reservas de efectivo para atender las obligaciones.
+Los activos de [[direct-hold-framework|Tenencia Directa]] de Woodfine no tienen cola de reembolso — el capital de cada inversor corresponde a una propiedad específica, y la liquidez depende del mercado privado para ese activo, no de las reservas de efectivo de la entidad corporativa. Dado que no existe un fondo mancomunado, la condición que hace necesarios los mecanismos de reembolso está ausente por diseño. La liquidez se ejecuta a través del [[equity-transfer-model|Modelo de Transferencia de Capital]], y la deuda garantizada contra cada activo está limitada por el convenio agregado de [[cre-financial-metrics|Ratio de Cobertura de Intereses]] del vehículo, de modo que no se requieren reservas de efectivo para atender las obligaciones.
 
 ## Puntos clave
 

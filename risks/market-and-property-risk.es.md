@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: market-and-property-risk.md
 ---
@@ -36,11 +36,13 @@ dependen de condiciones locales de mercado fuera del control de la compañía. U
 vacancia creciente o rentas de solicitud a la baja puede reducir el [[cre-financial-metrics|ingreso operativo
 neto]] de una propiedad incluso cuando esta se encuentre bien mantenida y bien administrada.
 
-Debido a que el Índice de Cobertura de Intereses de cada vehículo de tenencia directa se
-calcula por activo, una caída sostenida en el ingreso operativo neto de una propiedad
-específica puede llevar su índice por debajo del piso de 1.2×, suspendiendo las distribuciones
-de ese activo en particular. Esto es una consecuencia del riesgo de vacancia y renta que se
-traslada al mecanismo de distribución, no un riesgo separado en sí mismo.
+Debido a que el Índice de Cobertura de Intereses de un vehículo de tenencia directa se
+calcula de forma agregada para todas las propiedades que mantiene, una caída sostenida en el
+ingreso operativo neto — ya sea concentrada en una propiedad o repartida en toda la cartera
+del vehículo — reduce la capacidad del vehículo para asumir deuda garantizada adicional bajo
+el convenio de 1,20×. Esto es una consecuencia del riesgo de vacancia y renta que se traslada
+a la capacidad de endeudamiento del vehículo, no un riesgo separado en sí mismo, y no se
+limita a las distribuciones de una sola propiedad.
 
 ## Riesgo de valor de la propiedad
 
