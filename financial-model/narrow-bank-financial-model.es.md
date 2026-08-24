@@ -10,7 +10,7 @@ quality: complete
 short_description: "Disciplina de financiamiento en dos fases de las Direct-Hold Solutions: construcción con capital propio, luego Obligaciones con Primera Hipoteca Garantizada sobre los edificios."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-08-24
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -44,6 +44,10 @@ La emisión de deuda está sujeta a un convenio de cobertura: las obligaciones n
 ## La fase de gestión: desapalancamiento orgánico
 
 A medida que la cartera entra en su fase de gestión estabilizada, una parte definida del ingreso distribuible se aplica al rescate sistemático de deuda. El 10% del ingreso distribuible se destina al rescate de obligaciones, produciendo una reducción continua de la razón préstamo-valor a través de la generación orgánica de efectivo en lugar de actividad de refinanciamiento externo.
+
+## Reserva operativa
+
+Junto con las fases de capital y deuda, el socio general reserva una Reserva Operativa. El monto lo determina el propio socio general, actuando de manera razonable y de buena fe, para cubrir los gastos, pasivos y compromisos actuales y futuros del vehículo, incluida la compensación adeudada al socio general o al Asesor. El consejo del socio general fija el tamaño de la reserva para los demás fines adicionales que determine necesarios para la conducción del negocio de la sociedad. La reserva es distinta del capital recaudado para financiar la construcción y de la deuda emitida contra los edificios completados — es el propio colchón de capital de trabajo del vehículo, no una tercera fuente de financiamiento del proyecto.
 
 ## Consecuencias estructurales
 

@@ -10,7 +10,7 @@ quality: complete
 short_description: "Two-phase financing discipline of the Direct-Hold Solutions: equity-funded unlevered construction, then First Secured Mortgage Debentures collateralized by the completed buildings."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -48,6 +48,10 @@ The maximum debt load under the model is 100% of development costs for new const
 As the portfolio enters its stabilized management phase — buildings constructed, leased, and generating consistent net operating income — a defined portion of distributable income is applied to systematic debt redemption. Ten percent of distributable income is directed to debenture redemption, producing continuous reduction of the loan-to-value ratio over time through organic cash generation rather than external refinancing activity.
 
 This deleveraging dynamic is driven by portfolio operations rather than by capital market conditions. The vehicle does not rely on favourable refinancing conditions, asset sales, or new equity raises to reduce its debt burden. The 10% distributable income allocation compounds the deleveraging effect across the full hold period.
+
+## Operating reserve
+
+Alongside the equity and debt phases, the general partner sets aside an Operating Reserve — an amount determined, acting reasonably and in good faith, to cover the vehicle's current and future expenses, liabilities, and commitments, including compensation due to the general partner or the Advisor. The general partner's board sets the reserve's size for whatever additional purposes it determines necessary to conduct the partnership's business. The reserve sits apart from the equity raised to fund construction and the debt issued against completed buildings — it is the vehicle's own working-capital buffer, not a third source of project financing.
 
 ## Structural consequences
 
