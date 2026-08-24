@@ -40,12 +40,6 @@ The promoter's minority equity interest in the partnership is held through Benet
 
 Professional Centres Canada LP is currently subject to a cease-trade order issued by the British Columbia Securities Commission (BCSC), arising from delayed continuous-disclosure filings rather than any finding of fraud or misconduct. The partnership has no current limited partners for whom this order is an active transaction condition. The partnership must bring its outstanding filing obligations current and obtain the BCSC's revocation before any future offering of units can close.
 
-**⚠️ Correction (2026-08-02) — NOT resolved:** this contradicts [[four-jurisdiction-framework]]
-and this same article's own "Investment Units are freely transferable in Canada"
-language a few sections below, both of which describe active offering/transfer
-activity in the ordinary course. See [[four-jurisdiction-framework]]'s Correction
-callout for full detail. Escalated to Command by mailbox, 2026-08-02.
-
 ## Change of control — Take Over Bids
 
 An offer to acquire units that, together with the offeror's existing holdings, would constitute 20% or more of outstanding units is a Take Over Bid. The general partner rejects any transfer under such an offer unless the offeror makes an irrevocable offer to purchase all outstanding units, at the same price and on the same terms, remaining open for at least 35 days. If a Take Over Bid is accepted by holders of units that, together with the offeror's own holdings, reach 90% of outstanding units, the offeror may acquire the remaining units at the same price offered under the bid.

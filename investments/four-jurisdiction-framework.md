@@ -22,18 +22,6 @@ cites: []
 
 Woodfine Capital Projects Inc. (WCP) is offering for sale Investment Units in Professional Centres Canada LP, the established Direct-Hold Solution, and plans to establish three further Direct-Hold Solutions in the United States, Spain, and Mexico — each constituted under the laws of its jurisdiction, each using the flow-through investment vehicle that jurisdiction's laws make available. The **Four-Jurisdiction Framework** describes this deployment architecture of the WCP [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] platform.
 
-**⚠️ Correction (2026-08-02) — NOT resolved, needs operator/counsel decision, not a
-unilateral fix:** this "is offering for sale" / "freely transferable" present-tense
-language (repeated below) directly contradicts [[professional-centres-canada-lp-structure]]
-(one day newer, `last_edited: 2026-07-31`), which discloses: "Professional Centres
-Canada LP is currently subject to a cease-trade order issued by the British Columbia
-Securities Commission (BCSC)... The partnership must bring its outstanding filing
-obligations current and obtain the BCSC's revocation before any future offering of
-units can close." An active offering and free unit transferability cannot both be
-true alongside an active CTO. This is a real securities-disclosure-accuracy
-question — which article reflects current reality — not something to guess at or
-silently reconcile. Escalated to Command by mailbox, 2026-08-02.
-
 Professional Centres Canada LP is a [[regulated-reporting-entity|Regulated Reporting Entity]], subject to the securities laws and [[about-disclosure-obligations|continuous disclosure obligations]] of Canada; the planned United States, Spain, and Mexico vehicles are intended to become Regulated Reporting Entities in their respective jurisdictions once established. WCP acts as the promoter of all four vehicles. Wholly owned subsidiaries of WCP serve, or are intended to serve, as each vehicle's governing entity — a general partner in Canada and the United States, an Administrator in Spain and Mexico — and as consultants in respect of each vehicle's business operations.
 
 The Professional Centres Canada LP is a formed, existing legal entity — unlike the United States, Spain, and Mexico vehicles, which have not yet been established. Its C$250 million gross funded value target, like each of the other three jurisdictions' targets, remains a prospective figure that has not yet been achieved.

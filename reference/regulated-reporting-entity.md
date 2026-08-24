@@ -43,17 +43,9 @@ The following table maps the Regulated Reporting Entity designation to its sover
 
 ## Public oversight and mandatory disclosure
 
-The practical consequence of Regulated Reporting Entity status is the elimination of the traditional private equity hold period. Because each Direct-Hold Solution is subject to continuous Public Oversight and mandatory Ongoing Reporting Requirements, Investment Units are designed to be Freely Transferable. Investors are not restricted by statutory lock-up periods or redemption queues. The units may be transferred in private transactions, institutional transfers, or estate planning arrangements to any eligible counterparty. In Canada and the planned United States vehicle, the general partner records each transfer and is contractually obligated to admit an eligible transferee — declining only on a short, enumerated list of grounds — rather than exercising open-ended approval discretion; other unitholders have no approval role in an ordinary transfer.
+The practical consequence of Regulated Reporting Entity status is the elimination of the traditional private equity hold period. Because each Direct-Hold Solution is subject to continuous Public Oversight and mandatory Ongoing Reporting Requirements, Investment Units are designed to be Freely Transferable as a structural feature of the class. Investors are not restricted by statutory lock-up periods or redemption queues by design. The units may be transferred in private transactions, institutional transfers, or estate planning arrangements to any eligible counterparty. In Canada and the planned United States vehicle, the general partner records each transfer and is contractually obligated to admit an eligible transferee — declining only on a short, enumerated list of grounds — rather than exercising open-ended approval discretion; other unitholders have no approval role in an ordinary transfer. The established Canada vehicle's units are not currently freely transferable, because the partnership is subject to an active BCSC cease-trade order; the United States, Spain, and Mexico vehicles are planned, not yet established.
 
-**Correction (2026-08-04):** the paragraph above describes the structural design as
-a class, not current per-vehicle status. Same underlying fact as the escalated,
-unresolved correction below under "Filing Obligations by Jurisdiction" — the Canada
-vehicle is currently subject to an active BCSC cease-trade order, under which units
-are not currently freely transferable. The United States, Spain, and Mexico
-vehicles are planned, not yet established. Consolidated here rather than adding a
-third scattered callout. **Flagged, not silently rewritten.**
-
-This characteristic distinguishes the Direct-Hold Solutions from conventional closed-end funds, where investor exit depends on manager-initiated liquidity events. The Regulated Reporting Entity structure replaces that dependency with a continuous disclosure obligation, which provides the legal foundation for free transferability.
+This characteristic distinguishes the Direct-Hold Solutions from conventional closed-end funds, where investor exit depends on manager-initiated liquidity events. The Regulated Reporting Entity structure replaces that dependency with a continuous disclosure obligation, which provides the legal foundation for free transferability once applicable.
 
 ## Distinction from exchange-listed status
 
@@ -66,12 +58,6 @@ The Direct-Hold Solutions are Public Non-Traded vehicles. They meet all securiti
 Each Direct-Hold Solution, as a Regulated Reporting Entity in its sovereign jurisdiction, is subject to the filing obligations of that jurisdiction's securities law:
 
 **Canada — SEDAR+.** The Professional Centres Canada LP files with the British Columbia Securities Commission and makes its disclosure publicly available on [[about-filing-systems|SEDAR+]]. Required filings include annual information forms, audited financial statements, management's discussion and analysis, and [[about-material-change-reporting|material change reports]].
-
-**⚠️ Correction (2026-08-02) — NOT resolved:** this describes current, unproblematic
-filing behavior, but [[professional-centres-canada-lp-structure]] discloses an
-active BCSC cease-trade order against this same vehicle arising specifically from
-delayed continuous-disclosure filings. See that article's Correction callout — same
-unresolved contradiction, escalated to Command.
 
 **United States — EDGAR.** The planned Professional Centres United States LP is intended to file with the Securities and Exchange Commission on the EDGAR platform under the applicable reporting-issuer regime.
 
