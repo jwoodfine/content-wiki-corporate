@@ -34,6 +34,17 @@ Cada socio comanditario también declara y garantiza cuatro hechos sustantivos s
 
 Una declaración separada aborda la situación de institución financiera — tratada en [[limited-partnership-structure|Estructura de la Sociedad en Comandita]] y [[investment-units|Unidades de Inversión]], y no se repite aquí.
 
+## Cómo participa el capital extranjero y multigeneracional
+
+La declaración de no residencia refleja una decisión de diseño deliberada, no solo un
+tecnicismo fiscal: la titularidad directa de las Unidades de Inversión está prevista
+para restringirse a residentes de Canadá. El capital extranjero y multigeneracional
+tiene previsto obtener exposición a la sociedad a través de Club Deals o vehículos de
+propósito especial constituidos en Canadá, en lugar de mantener Unidades de Inversión
+de forma directa. Esto canaliza el capital indirecto a través de un vehículo residente
+en Canadá que puede él mismo hacer las declaraciones de este artículo, en lugar de
+eximir al capital extranjero de hacerlas.
+
 ## Las declaraciones deben permanecer verdaderas, no solo serlo al momento de suscribir
 
 El contrato de la sociedad en comandita no trata estas declaraciones como una barrera de un solo momento. Cada socio comanditario debe mantener la situación que declaró mientras siga siendo socio, y no puede transferir sus participaciones, en todo o en parte, a nadie que no pudiera hacer las mismas declaraciones. Una declaración que era exacta al momento de suscribir y que luego se vuelve falsa constituye un incumplimiento de un compromiso continuo, no un hecho histórico que deja de importar una vez liquidada la operación.

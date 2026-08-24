@@ -34,6 +34,16 @@ Each limited partner also represents and warrants four substantive facts about i
 
 A separate representation addresses financial institution status — covered in [[limited-partnership-structure|Limited Partnership Structure]] and [[investment-units|Investment Units]], and not repeated here.
 
+## How foreign and multi-generational capital participates
+
+The non-resident representation reflects a deliberate design choice, not only a tax
+technicality: direct ownership of Investment Units is intended to be restricted to
+residents of Canada. Foreign and multi-generational capital is intended to obtain
+exposure to the partnership through Club Deals or special purpose vehicles established
+in Canada, rather than by holding Investment Units directly. This routes indirect
+capital through a Canadian-resident vehicle that itself can make the representations in
+this article, rather than exempting foreign capital from them.
+
 ## The representations must stay true, not just be true at subscription
 
 The limited partnership agreement does not treat these representations as a one-time gate. Each limited partner must maintain the status it represented for as long as it remains a partner, and it may not transfer its units, in whole or in part, to anyone who could not make the same representations. A representation that was accurate at subscription and later becomes false is a breach of an ongoing covenant, not a historical fact that stops mattering once the units settle.
