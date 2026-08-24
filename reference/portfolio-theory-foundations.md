@@ -41,7 +41,7 @@ The frontier's usefulness depends on a specific condition: the asset classes com
 
 ## The 60/40 portfolio and its extensions
 
-The 60/40 portfolio is the most widely cited application of Mutual Fund Theorem-based allocation: a split of approximately 60% listed equities and 40% investment-grade bonds, chosen historically because the two asset classes have exhibited low or negative correlation across many market cycles — equities providing growth, bonds providing ballast during equity drawdowns.
+The 60/40 portfolio is the most widely cited application of Mutual Fund Theorem-based allocation: a split of approximately 60% listed equities and 40% investment-grade bonds. The two asset classes were chosen historically because they have exhibited low or negative correlation across many market cycles — equities providing growth, bonds providing ballast during equity drawdowns.
 
 Over time, allocators have extended the model beyond its original two components. Commodities were an early addition, valued for their historically low correlation to both equities and bonds. Alternative Investments — Private Equity, Hedge Funds, and Real Estate among them — followed as a further diversification layer, added on the same theoretical basis: each category's case for inclusion rests on the extent to which its returns move independently of the equities and bonds that make up the base allocation.
 

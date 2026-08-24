@@ -56,8 +56,7 @@ agent for the established Canada vehicle. Where a Direct-Hold Solution's securit
 deposited with a central securities depositary — CDS in Canada, DTC in the United States,
 Iberclear in Spain, or Indeval in Mexico, as described in [[four-jurisdiction-framework|Four-Jurisdiction Framework]] — settlement and
 transfer mechanics for depositary-eligible positions are performed in coordination with that
-depositary's participant network, rather than solely by the vehicle's governing entity acting
-alone. For positions held and transferred directly on the property ledger rather than through
+depositary's participant network. The vehicle's governing entity does not perform them alone. For positions held and transferred directly on the property ledger rather than through
 a depositary, each vehicle's own governing entity — the general partner in Canada and the
 United States, the Administrator in Spain and Mexico — performs the transfer function directly
 upon receipt of a completed transfer instruction, as described in [[accredited-investor-eligibility|Accredited Investor Eligibility]].

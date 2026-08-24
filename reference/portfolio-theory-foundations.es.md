@@ -41,7 +41,7 @@ La utilidad de la frontera depende de una condición específica: las clases de 
 
 ## La cartera 60/40 y sus extensiones
 
-La cartera 60/40 es la aplicación más citada de la asignación basada en el Teorema de Fondos Mutuos: una división aproximada de 60% en acciones cotizadas y 40% en bonos de grado de inversión, elegida históricamente porque ambas clases de activos han mostrado una correlación baja o negativa a lo largo de numerosos ciclos de mercado — las acciones aportan crecimiento, los bonos aportan lastre durante las caídas del mercado accionario.
+La cartera 60/40 es la aplicación más citada de la asignación basada en el Teorema de Fondos Mutuos: una división aproximada de 60% en acciones cotizadas y 40% en bonos de grado de inversión. Ambas clases de activos se eligieron históricamente porque han mostrado una correlación baja o negativa a lo largo de numerosos ciclos de mercado — las acciones aportan crecimiento, los bonos aportan lastre durante las caídas del mercado accionario.
 
 Con el tiempo, los asignadores de capital han ampliado el modelo más allá de sus dos componentes originales. Las materias primas fueron una incorporación temprana, valoradas por su baja correlación histórica tanto con acciones como con bonos. Las Inversiones Alternativas — Capital Privado, Fondos de Cobertura y Bienes Raíces entre ellas — siguieron como una capa adicional de diversificación, incorporada bajo la misma base teórica: el argumento de inclusión de cada categoría se sustenta en el grado en que sus rendimientos se mueven de forma independiente respecto de las acciones y bonos que componen la asignación base.
 

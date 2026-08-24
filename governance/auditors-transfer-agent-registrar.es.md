@@ -60,8 +60,7 @@ Solución de Tenencia Directa se depositan en un depositario central de valores 
 DTC en Estados Unidos, Iberclear en España, o Indeval en México, según se describe en
 [[four-jurisdiction-framework|Marco de Cuatro Jurisdicciones]]— la liquidación y la mecánica de transferencia para
 posiciones elegibles para depósito se realizan en coordinación con la red de participantes de
-ese depositario, en lugar de únicamente por la entidad de gobierno del vehículo de manera
-individual. Para posiciones mantenidas y transferidas directamente en el libro mayor de
+ese depositario. La entidad de gobierno del vehículo no las realiza por sí sola. Para posiciones mantenidas y transferidas directamente en el libro mayor de
 propiedad en lugar de a través de un depositario, la propia entidad de gobierno de cada
 vehículo —el socio gestor en Canadá y Estados Unidos, el Administrador en España y México—
 desempeña la función de transferencia directamente al recibir una instrucción de transferencia
