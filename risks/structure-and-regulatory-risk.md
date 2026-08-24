@@ -65,12 +65,12 @@ its favorable tax status, which would affect the after-tax income available for 
 
 ## Cross-border currency and reporting risk
 
-Because the four vehicles operate in four different currencies and file with four different
+The four vehicles operate in four different currencies and file with four different
 regulators — the British Columbia Securities Commission through SEDAR+, the Securities and
 Exchange Commission through EDGAR, the Comisión Nacional del Mercado de Valores, and the
-Comisión Nacional Bancaria y de Valores through STIV-2 — an investor holding units in more than
-one jurisdiction's vehicle is exposed to differences in currency, reporting timeline, and
-disclosure format between vehicles. This is a structural feature of the multi-jurisdiction
+Comisión Nacional Bancaria y de Valores through STIV-2. An investor holding units in more than
+one jurisdiction's vehicle is therefore exposed to differences in currency, reporting timeline,
+and disclosure format between vehicles. This is a structural feature of the multi-jurisdiction
 framework, not a defect specific to any one vehicle, but it is a risk factor that a portfolio
 holding units across jurisdictions should account for.
 

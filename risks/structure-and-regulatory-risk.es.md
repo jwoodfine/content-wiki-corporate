@@ -69,13 +69,13 @@ impuestos disponible para distribución.
 
 ## Riesgo cambiario y de divulgación transfronteriza
 
-Debido a que los cuatro vehículos operan en cuatro monedas distintas y presentan información
+Los cuatro vehículos operan en cuatro monedas distintas y presentan información
 ante cuatro reguladores distintos —la Comisión de Valores de Columbia Británica a través de
 SEDAR+, la Comisión de Bolsa y Valores de Estados Unidos a través de EDGAR, la Comisión
 Nacional del Mercado de Valores, y la Comisión Nacional Bancaria y de Valores a través de
-STIV-2— un inversor que mantenga unidades en el vehículo de más de una jurisdicción está
-expuesto a diferencias de moneda, cronograma de reporte y formato de divulgación entre
-vehículos. Esta es una característica estructural del marco multijurisdiccional, no un defecto
+STIV-2—. Por lo tanto, un inversor que mantenga unidades en el vehículo de más de una
+jurisdicción está expuesto a diferencias de moneda, cronograma de reporte y formato de
+divulgación entre vehículos. Esta es una característica estructural del marco multijurisdiccional, no un defecto
 específico de ningún vehículo, pero es un factor de riesgo que un portafolio con unidades en
 varias jurisdicciones debe tomar en cuenta.
 
