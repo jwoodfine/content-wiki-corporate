@@ -95,9 +95,9 @@ general partner's specific board-composition and quorum requirements).
 
 ## Governance documents
 
-| Document | Date | Download |
-|---|---|---|
-| *(documents to be added as approved and published)* | | |
+Beyond the audit committee charter above, no other governance document listed on this
+page has been adopted yet. This section will list each document, with its adoption date
+and a direct download, as the board approves and publishes it.
 
 ## See also
 

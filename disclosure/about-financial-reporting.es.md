@@ -102,14 +102,13 @@ participaciones de sociedad en comandita para el ejercicio fiscal correspondient
 ## Presentación en SEDAR+ y accesibilidad
 
 Todos los documentos financieros anuales e intermedios se presentan electrónicamente a través
-de [[about-filing-systems|SEDAR+]] y quedan accesibles al público en el momento de la presentación.[^2] La siguiente
-tabla se actualizará a medida que se realicen las presentaciones.
+de [[about-filing-systems|SEDAR+]] y quedan accesibles al público en el momento de la presentación.[^2]
 
 ## Registros financieros
 
-| Período | Documento | Presentado | SEDAR+ |
-|---|---|---|---|
-| *(los registros se añadirán cuando estén disponibles)* | | | |
+Aún no se ha presentado ningún estado financiero. Esta sección enumerará los estados
+auditados, el MD&A y la fecha de presentación de cada período, con un enlace directo a
+SEDAR+, una vez que comiencen las presentaciones.
 
 ## Véase también
 

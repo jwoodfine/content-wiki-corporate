@@ -99,9 +99,10 @@ para los requisitos específicos de composición y quórum del consejo del socio
 
 ## Documentos de gobernanza
 
-| Documento | Fecha | Descarga |
-|---|---|---|
-| *(los documentos se añadirán a medida que sean aprobados y publicados)* | | |
+Más allá del estatuto del comité de auditoría descrito arriba, ningún otro documento de
+gobernanza mencionado en esta página ha sido adoptado todavía. Esta sección enumerará
+cada documento, con su fecha de adopción y un enlace de descarga directo, a medida que el
+consejo los apruebe y publique.
 
 ## Véase también
 

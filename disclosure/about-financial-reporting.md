@@ -100,14 +100,12 @@ issued to limited partnership unitholders for the applicable fiscal year.
 
 All annual and interim financial documents are filed electronically through [[about-filing-systems|SEDAR+]] and become
 publicly accessible upon filing.[^2] Documents are provided in a searchable electronic format
-per the requirements of OSC Staff Notice 51-721. The table below will be updated as filings
-are made.
+per the requirements of OSC Staff Notice 51-721.
 
 ## Financial filings
 
-| Period | Document | Filed | SEDAR+ |
-|---|---|---|---|
-| *(filings to be added as available)* | | | |
+No financial statements have been filed yet. This section will list each period's
+audited statements, MD&A, and filing date, with a direct SEDAR+ link, once filings begin.
 
 ## See also
 

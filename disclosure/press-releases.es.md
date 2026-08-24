@@ -4,7 +4,7 @@ title: "Comunicados de prensa e informes de cambios materiales"
 slug: press-releases
 category: disclosure
 index_group: company-communications
-last_edited: 2026-06-29
+last_edited: 2026-08-24
 editor: woodfine-editorial
 status: stable
 short_description: "Canal previsto de divulgación en tiempo real de cambios materiales: comunicado inmediato, Formulario 51-102F3 en SEDAR+ en diez días y estándares de declaraciones prospectivas."
@@ -57,9 +57,9 @@ difieran materialmente de los proyectados.
 
 ## Comunicados de prensa e informes de cambios materiales
 
-| Fecha | Titular | Tipo | SEDAR+ |
-|---|---|---|---|
-| *(los comunicados se añadirán a medida que se emitan)* | | | |
+Aún no se ha emitido ningún comunicado de prensa ni informe de cambio material. Esta
+sección enumerará cada comunicado, su tipo y un enlace directo a SEDAR+ una vez que se
+emita alguno.
 
 ## Véase también
 

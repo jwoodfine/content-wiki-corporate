@@ -4,7 +4,7 @@ title: "Events and presentations"
 slug: events-presentations
 category: disclosure
 index_group: company-communications
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: woodfine-editorial
 status: stable
 short_description: "Planned record of shareholder meetings, investor presentations, and industry conference appearances, with archived materials and advance notice of forthcoming events once this program is in place."
@@ -49,9 +49,8 @@ presentation materials here and, where available, recordings from conference app
 
 ## Events and presentations archive
 
-| Date | Event | Type | Materials |
-|---|---|---|---|
-| *(events to be added as scheduled and completed)* | | | |
+No events have been scheduled or completed yet. This section will list each event, its
+type, and its materials once they occur.
 
 ## See also
 

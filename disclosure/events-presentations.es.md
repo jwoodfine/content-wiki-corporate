@@ -4,7 +4,7 @@ title: "Eventos y presentaciones"
 slug: events-presentations
 category: disclosure
 index_group: company-communications
-last_edited: 2026-06-29
+last_edited: 2026-08-24
 editor: woodfine-editorial
 status: stable
 short_description: "Registro previsto de juntas de accionistas, presentaciones a inversores y participaciones en conferencias del sector, con materiales archivados y aviso previo de próximos eventos una vez implementado este programa."
@@ -52,9 +52,8 @@ grabaciones de las participaciones en conferencias.
 
 ## Archivo de eventos y presentaciones
 
-| Fecha | Evento | Tipo | Materiales |
-|---|---|---|---|
-| *(los eventos se añadirán a medida que sean programados y completados)* | | | |
+Aún no se ha programado ni completado ningún evento. Esta sección enumerará cada evento,
+su tipo y sus materiales una vez que ocurran.
 
 ## Véase también
 
