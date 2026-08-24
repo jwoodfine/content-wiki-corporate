@@ -43,7 +43,7 @@ Separately, the IFRS 13 §93(h)(ii) sensitivity table applies a ±25 basis-point
 
 ## How to tell which scenario you're reading
 
-Any given exhibit in this methodology can be placed correctly by checking two things. First, which of the three coverage drivers is being flexed, and whether the exhibit is a single-driver stress or the maximal combined shock — this comes down to whether two of the three drivers are held at base (a single-driver stress) or whether financing rate, cap rate, and occupancy are all moved together (the combined shock).
+Any given exhibit in this methodology can be placed correctly by checking two things. First, which of the three coverage drivers is being flexed, and whether the exhibit is a single-driver stress or the maximal combined shock. This comes down to whether two of the three drivers are held at base (a single-driver stress) or whether financing rate, cap rate, and occupancy are all moved together (the combined shock).
 
 Second, which side of the disclosure boundary the exhibit sits on. The management-response and corrective-disposition exhibits described above are forward-looking illustrative scenarios, while the IFRS 13 table is a fair-value-measurement sensitivity disclosure. The two are prepared to different standards — the forward-looking exhibits carry caution language consistent with NI 51-102 and ISAE 3400, and the IFRS 13 table follows that standard's own ±25 bps reasonably-possible-alternative-assumption convention. A figure that cannot be placed on one side or the other of that boundary has not been correctly located within the methodology.
 
