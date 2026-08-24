@@ -2,7 +2,7 @@
 schema: foundry-doc-v1
 title: "Divulgación Continua y Publicación en el Wiki"
 slug: about-continuous-disclosure
-short_description: "Requisitos de reporte del NI 51-102 aplicables a Woodfine Capital Projects Inc., incluyendo el formulario de información anual, el MD&A, los informes de cambios materiales y la presentación electrónica bajo el Aviso del Personal OSC 51-721."
+short_description: "Requisitos de reporte del NI 51-102 aplicables a Woodfine Capital Projects Inc., incluyendo el MD&A, los informes de cambios materiales y la presentación electrónica bajo el Aviso del Personal OSC 51-721; el formulario de información anual aplica solo a emisores que no son de empresas de riesgo."
 category: disclosure
 index_group: how-disclosure-works
 type: reference
@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: about-continuous-disclosure.md
 cites: []
@@ -22,14 +22,14 @@ Woodfine Capital Projects Inc. tiene previsto quedar sujeta al régimen completo
 
 ## Puntos clave
 
-- Woodfine Capital Projects Inc. tiene previsto quedar sujeta al régimen completo de divulgación continua del NI 51-102 al perfeccionarse su oferta pública planificada, incluyendo el formulario de información anual, el MD&A, los estados financieros auditados y el reporte trimestral intermedio.
+- Woodfine Capital Projects Inc. tiene previsto quedar sujeta al régimen completo de divulgación continua del NI 51-102 al perfeccionarse su oferta pública planificada, incluyendo el MD&A, los estados financieros auditados y el reporte trimestral intermedio; si el formulario de información anual forma parte de ese régimen depende de la clasificación como emisor de empresas de riesgo, aún no determinada para esta oferta planificada.
 - Cada sociedad limitada de tenencia directa que ha completado una oferta de prospecto es un emisor reportante independiente con sus propias obligaciones del NI 51-102 —presenta de forma independiente en SEDAR+ y no se consolida en el paquete de divulgación de la matriz.
 - Los cambios materiales requieren divulgación inmediata —un comunicado de prensa a la mayor brevedad posible y el depósito del Formulario 51-102F3 en SEDAR+ dentro de los 10 días siguientes— independientemente de cualquier fecha de depósito programada.
 - Los artículos publicados en el wiki corporativo se tratan como aptos para divulgación, por lo que los editores aplican el mismo criterio de cambio material a las publicaciones del wiki que a los depósitos formales en SEDAR+.
 
 ## Obligaciones anuales
 
-El formulario de información anual (AIF) debe depositarse dentro de los 90 días siguientes al cierre del ejercicio fiscal del emisor. El análisis y discusión de la administración (MD&A) se presenta de forma simultánea con los estados financieros auditados anuales. Los estados financieros se preparan de conformidad con las Normas Internacionales de Información Financiera (NIIF) adoptadas en Canadá.
+Un emisor que presenta informes y no es un emisor de empresas de riesgo debe depositar el formulario de información anual (AIF) dentro de los 90 días siguientes al cierre del ejercicio fiscal; un emisor de empresas de riesgo no está obligado a presentarlo. El análisis y discusión de la administración (MD&A) se presenta de forma simultánea con los estados financieros auditados anuales. Los estados financieros se preparan de conformidad con las Normas Internacionales de Información Financiera (NIIF) adoptadas en Canadá.
 
 El MD&A proporciona la interpretación de la administración sobre los resultados financieros auditados y revela las tendencias materiales, los riesgos y las incertidumbres que afectan al negocio. No es un documento de marketing prospectivo; es una divulgación requerida que acompaña a las cifras auditadas.
 

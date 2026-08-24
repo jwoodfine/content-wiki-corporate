@@ -1,12 +1,14 @@
 ---
+schema: foundry-doc-v1
 title: "Corporate governance documents"
 slug: governance-documents
 category: governance
 index_group: board-and-management-oversight
-last_edited: 2026-07-15
+last_edited: 2026-08-24
 editor: woodfine-editorial
 status: stable
-short_description: "Board mandate, committee charters, governance policy, and code of business conduct published as disclosure of governance practices under NP 58-201 and NI 58-101."
+bcsc_class: forward-looking
+short_description: "Professional Centres Canada LP's audit committee charter, currently in place, alongside the board mandate, remaining committee charters, governance policy, and code of business conduct planned but not yet adopted."
 references:
   - id: 1
     text: "National Policy 58-201 Corporate Governance Guidelines, Canadian Securities Administrators."
@@ -16,30 +18,23 @@ references:
     url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/58-101"
 ---
 
-Woodfine Capital Projects Inc. publishes its **corporate governance documents** here as
-public disclosure of governance practices, consistent with National Policy 58-201
-*Corporate Governance Guidelines*[^1] and the related disclosure requirements under
-National Instrument 58-101.[^2] These foundational instruments structure the board of
-directors, define the responsibilities of board committees, and establish the policies
-that govern the relationship between the board, management, and shareholders.
-
-## Board mandate
-
-The board of directors is responsible for the stewardship of WCP, including approval of the
-company's strategic direction, oversight of material risks, succession planning for senior
-management, and the integrity of the company's financial reporting and internal controls. The
-board mandate sets out these responsibilities in detail and defines the boundaries between
-board oversight and day-to-day management authority.
-
-The board mandate is reviewed annually and updated as governance practices evolve or
-regulatory requirements change.
+Professional Centres Canada LP, as a [[regulated-reporting-entity|Regulated Reporting
+Entity]], is the entity whose governance practices are disclosed here consistent with
+National Policy 58-201 *Corporate Governance Guidelines*[^1] and the related disclosure
+requirements under National Instrument 58-101.[^2] WCP itself is a private company and is
+not directly subject to these instruments; its role is as promoter and as the ultimate
+parent of Woodfine Professional Centres Inc., the general partner bound by the governance
+requirements described below. **Of the governance instruments named on this page, only
+the audit committee charter is currently in place; the remaining committee charters and
+policies described below are planned, not yet adopted or published.**
 
 ## Audit committee
 
-The [[audit-committee-mandate|audit committee]] assists the board in its oversight of the integrity of the company's
-financial reporting, the independence and performance of the external auditor, and the
-adequacy of the company's internal control and risk management processes. The committee
-charter specifies:
+Professional Centres Canada LP has an [[audit-committee-mandate|audit committee charter]]
+in place. The committee assists the general partner's board in its oversight of the
+integrity of financial reporting, the independence and performance of the external
+auditor, and the adequacy of internal control and risk management processes. The charter
+specifies:
 
 - Composition requirements (including independence and financial literacy requirements for
   each committee member)
@@ -48,38 +43,45 @@ charter specifies:
 - Reporting obligations to the full board
 - Meeting frequency and quorum requirements
 
-The audit committee charter is filed as part of the [[about-annual-reporting-cycle|Annual Information Form]] and is reproduced
-here for direct accessibility.
+The audit committee charter is reproduced here for direct accessibility. Professional
+Centres Canada LP is a venture issuer, a classification that does not carry a mandatory
+[[about-annual-reporting-cycle|Annual Information Form]] filing requirement under NI
+51-102 — publishing the charter here is a voluntary transparency practice, not evidence
+of an AIF filing.
 
-## Compensation committee
+## Board mandate (planned)
 
-The compensation committee assists the board in its oversight of the company's compensation
-philosophy and the compensation of the Chief Executive Officer, other senior executives, and
-non-executive directors. The committee charter specifies the process for setting executive
-compensation, reviewing incentive plan design, and approving equity grants where applicable.
+A board mandate is intended to set out the board's responsibilities for strategic
+oversight, material-risk oversight, senior-management succession planning, and the
+integrity of financial reporting and internal controls, and to define the boundary
+between board oversight and day-to-day management authority. This document is not yet
+adopted.
 
-## Nominating and governance committee
+## Compensation committee (planned)
 
-The nominating and governance committee assists the board in identifying qualified candidates
-for board membership, assessing board and committee composition, and overseeing the company's
-corporate governance practices including adherence to the board mandate and committee charters.
-The committee conducts an annual assessment of board effectiveness.
+A compensation committee is intended to assist the board in its oversight of compensation
+philosophy and the compensation of the Chief Executive Officer, other senior executives,
+and non-executive directors. This committee and its charter are not yet in place.
 
-## Corporate governance policy
+## Nominating and governance committee (planned)
 
-The corporate governance policy consolidates the company's commitments to governance practices
-that meet or exceed the standards established under Canadian securities regulation. It
-addresses the independence of a majority of board members, the separation of the roles of
-Chair and Chief Executive Officer, board diversity, director orientation and continuing
-education, and the process for shareholder engagement.
+A nominating and governance committee is intended to assist the board in identifying
+qualified board candidates, assessing board and committee composition, and overseeing
+corporate governance practices. This committee is not yet in place.
 
-## Code of business conduct
+## Corporate governance policy (planned)
 
-The code of business conduct sets out the ethical standards applicable to all directors,
-officers, employees, and contractors of WCP. It covers conflicts of interest, confidential
-information, fair dealing with customers and suppliers, compliance with applicable law, and
-the procedures for reporting concerns. The code is reviewed annually by the nominating and
-governance committee.
+A corporate governance policy is intended to consolidate governance-practice commitments
+meeting or exceeding the standards established under Canadian securities regulation,
+addressing board independence, separation of the Chair and Chief Executive Officer roles,
+board diversity, and director orientation. This policy is not yet adopted.
+
+## Code of business conduct (planned)
+
+A code of business conduct is intended to set out ethical standards applicable to
+directors, officers, employees, and contractors, covering conflicts of interest,
+confidential information, fair dealing, legal compliance, and concern-reporting
+procedures. This code is not yet adopted.
 
 ## Unanimous shareholder agreement
 

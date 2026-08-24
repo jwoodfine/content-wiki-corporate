@@ -4,7 +4,7 @@ title: "Annual reporting cycle"
 slug: about-annual-reporting-cycle
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: woodfine-editorial
 status: stable
 short_description: "Annual disclosure obligations of a Canadian reporting issuer: audited IFRS financial statements, Annual Information Form, and MD&A due within 90 days of fiscal year-end."
@@ -15,10 +15,13 @@ references:
     text: "OSC Staff Notice 51-721 — Financial Reporting Standards. OSC, 2013."
 ---
 
-A reporting issuer must file three primary disclosure documents within 90 days of its
-fiscal year-end: audited annual [[about-financial-reporting|financial statements]] prepared in accordance with IFRS as
-adopted in Canada, an Annual Information Form (AIF, Form 51-102F2), and an annual
-Management's Discussion and Analysis (MD&A). This annual reporting cycle is established by
+A non-venture reporting issuer must file three primary disclosure documents within 90
+days of its fiscal year-end: audited annual [[about-financial-reporting|financial statements]] prepared in accordance
+with IFRS as adopted in Canada, an Annual Information Form (AIF, Form 51-102F2), and an
+annual Management's Discussion and Analysis (MD&A). A venture issuer files the financial
+statements and MD&A on the same annual cycle but is not required to file an AIF under NI
+51-102 — Professional Centres Canada LP, as a venture issuer, is not required to file one.
+This annual reporting cycle is established by
 **[[about-disclosure-obligations|NI 51-102 Continuous Disclosure Obligations]]**, the National Instrument promulgated by
 the Canadian Securities Administrators that establishes the ongoing disclosure requirements
 applicable to [[regulated-reporting-entity|reporting issuers]] in Canada.[^1]
@@ -45,7 +48,9 @@ class.
 
 ## Annual Information Form — Form 51-102F2
 
-The AIF provides a comprehensive description of the reporting issuer's business, risk factors,
+Filing an AIF is mandatory only for non-venture issuers. A venture issuer may file one
+voluntarily — for example to become AIF-eligible for short-form prospectus purposes — but
+is not required to. Where an AIF is filed, it provides a comprehensive description of the reporting issuer's business, risk factors,
 capital structure, and governance. Required disclosure categories include:
 
 - Business overview and corporate structure
@@ -82,8 +87,10 @@ all Form 51-102F1 requirements.[^2]
 
 Under NI 51-102, a reporting issuer that is a non-venture issuer must file its annual
 financial statements, AIF, and annual MD&A within **90 calendar days** of the fiscal year-end.
-A reporting issuer that is a venture issuer (listed on a venture exchange such as TSX Venture)
-has **120 calendar days**.
+A reporting issuer that is a venture issuer (listed on a venture exchange such as TSX Venture,
+or classified as one without an exchange listing) has **120 calendar days** to file its
+annual financial statements and MD&A — the AIF is not part of a venture issuer's mandatory
+filing set at all, so no venture-issuer AIF deadline applies.
 
 All filings are made through SEDAR+ and are publicly accessible upon filing. The OSC and
 other provincial securities regulators conduct annual review programs that assess compliance

@@ -10,7 +10,7 @@ quality: complete
 short_description: "Deployment framework for the Direct-Hold Solutions across Canada, the United States, Spain, and Mexico, each using the flow-through vehicle mandated by local securities law."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -43,7 +43,7 @@ Canada's established vehicle delivers 100% flow-through taxation under its sover
 
 The Professional Centres Canada LP is a closed-end limited partnership domiciled in British Columbia. It is the existing vehicle in the framework — the operating model that demonstrates the structure which the three planned Direct-Hold Solutions are intended to replicate in their respective jurisdictions.
 
-As a Regulated Reporting Entity under Canadian securities laws, the Professional Centres Canada LP files continuous public disclosure on [[about-filing-systems|SEDAR+]], including annual information forms, audited financial statements, and [[about-material-change-reporting|material change reports]]. Investment Units are freely transferable in Canada after the expiry of the initial four-month statutory hold period. The General Partner admits any eligible transferee who completes the required transfer documentation and records each transfer, subject to a narrow exception where beneficial owners of 45% or more of the outstanding units are, or may be, financial institutions; a holder whose status would create adverse Canadian tax consequences for the partnership can be required to divest, and an acquisition crossing 20% of outstanding units triggers a separate mandatory-offer requirement. WCP and other unitholders have no approval role in an ordinary transfer.
+As a Regulated Reporting Entity under Canadian securities laws, the Professional Centres Canada LP files continuous public disclosure on [[about-filing-systems|SEDAR+]], including audited financial statements and [[about-material-change-reporting|material change reports]]; as a venture issuer, it is not required to file an Annual Information Form. Investment Units are freely transferable in Canada after the expiry of the initial four-month statutory hold period. The General Partner admits any eligible transferee who completes the required transfer documentation and records each transfer, subject to a narrow exception where beneficial owners of 45% or more of the outstanding units are, or may be, financial institutions; a holder whose status would create adverse Canadian tax consequences for the partnership can be required to divest, and an acquisition crossing 20% of outstanding units triggers a separate mandatory-offer requirement. WCP and other unitholders have no approval role in an ordinary transfer.
 
 The Canadian General Partner is Woodfine Professional Centres Inc., a subsidiary of WCP. The LP is not listed for trading on the Toronto Stock Exchange or any other Canadian exchange. Units trade over the counter in brokerage-facilitated private transactions.
 

@@ -10,7 +10,7 @@ quality: complete
 short_description: "The cross-border bridge term Woodfine uses in place of jurisdiction-specific designations such as Reporting Issuer, Entidad Pública, or Emisora — a Regulated Reporting Entity files continuous public disclosure in its sovereign jurisdiction regardless of exchange-listing status."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -57,7 +57,7 @@ The Direct-Hold Solutions are Public Non-Traded vehicles. They meet all securiti
 
 Each Direct-Hold Solution, as a Regulated Reporting Entity in its sovereign jurisdiction, is subject to the filing obligations of that jurisdiction's securities law:
 
-**Canada — SEDAR+.** The Professional Centres Canada LP files with the British Columbia Securities Commission and makes its disclosure publicly available on [[about-filing-systems|SEDAR+]]. Required filings include annual information forms, audited financial statements, management's discussion and analysis, and [[about-material-change-reporting|material change reports]].
+**Canada — SEDAR+.** The Professional Centres Canada LP files with the British Columbia Securities Commission and makes its disclosure publicly available on [[about-filing-systems|SEDAR+]]. Required filings include audited financial statements, management's discussion and analysis, and [[about-material-change-reporting|material change reports]]; as a venture issuer, Professional Centres Canada LP is not required to file an Annual Information Form.
 
 **United States — EDGAR.** The planned Professional Centres United States LP is intended to file with the Securities and Exchange Commission on the EDGAR platform under the applicable reporting-issuer regime.
 

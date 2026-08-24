@@ -4,7 +4,7 @@ title: "Ciclo de Presentación de Informes Anuales"
 slug: about-annual-reporting-cycle
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-06-29
+last_edited: 2026-08-24
 editor: woodfine-editorial
 status: stable
 short_description: "Obligaciones de divulgación anual de un emisor canadiense: estados financieros IFRS auditados, formulario de información anual y MD&A dentro de 90 días del cierre fiscal."
@@ -15,11 +15,15 @@ references:
     text: "OSC Staff Notice 51-721 — Financial Reporting Standards. OSC, 2013."
 ---
 
-Un emisor que presenta informes debe depositar tres documentos de divulgación primarios en
-un plazo de 90 días a partir del cierre de su ejercicio fiscal:
-[[about-financial-reporting|estados financieros anuales auditados]] preparados de conformidad con las NIIF adoptadas en
-Canadá, un Formulario de Información Anual (AIF, Formulario 51-102F2) y un Análisis y
-Discusión de la Administración (MD&A) anual. Este ciclo de informes anuales lo establece la
+Un emisor que presenta informes y no es un emisor de empresas de riesgo debe depositar
+tres documentos de divulgación primarios en un plazo de 90 días a partir del cierre de su
+ejercicio fiscal: [[about-financial-reporting|estados financieros anuales auditados]]
+preparados de conformidad con las NIIF adoptadas en Canadá, un Formulario de Información
+Anual (AIF, Formulario 51-102F2) y un Análisis y Discusión de la Administración (MD&A)
+anual. Un emisor de empresas de riesgo presenta los estados financieros y el MD&A en el
+mismo ciclo anual, pero no está obligado a presentar un AIF bajo la NI 51-102 —
+Professional Centres Canada LP, como emisor de empresas de riesgo, no está obligado a
+presentarlo. Este ciclo de informes anuales lo establece la
 **[[about-disclosure-obligations|NI 51-102 Continuous Disclosure Obligations]]**, la norma promulgada por los
 Administradores de Valores Canadienses que establece los requisitos de divulgación continua
 aplicables a los [[regulated-reporting-entity|emisores que presentan informes]] en Canadá.[^1]
@@ -44,7 +48,10 @@ del valor razonable) son típicamente las normas más materialmente significativ
 
 ## Formulario de Información Anual — Formulario 51-102F2
 
-El AIF proporciona una descripción exhaustiva del negocio del emisor que presenta informes,
+La presentación del AIF es obligatoria solo para emisores que no son de empresas de
+riesgo. Un emisor de empresas de riesgo puede presentarlo voluntariamente — por ejemplo,
+para calificar para un AIF y así ser elegible para un prospecto simplificado — pero no
+está obligado a hacerlo. Cuando se presenta un AIF, este proporciona una descripción exhaustiva del negocio del emisor que presenta informes,
 los factores de riesgo, la estructura de capital y la gobernanza. Las categorías de
 divulgación requeridas incluyen:
 
@@ -73,7 +80,12 @@ anual debe abordar:
 
 Bajo la NI 51-102, un emisor que presenta informes que no es un emisor de empresas de
 riesgo debe depositar sus estados financieros anuales, AIF y MD&A anual en un plazo de
-**90 días naturales** a partir del cierre del ejercicio fiscal. Todos los depósitos se
+**90 días naturales** a partir del cierre del ejercicio fiscal. Un emisor que presenta
+informes clasificado como emisor de empresas de riesgo (cotizado en una bolsa de empresas
+de riesgo como TSX Venture, o clasificado como tal sin cotización) cuenta con **120 días
+naturales** para presentar sus estados financieros anuales y el MD&A — el AIF no forma
+parte del conjunto obligatorio de presentaciones de un emisor de empresas de riesgo, por
+lo que no aplica ningún plazo de AIF para este tipo de emisor. Todos los depósitos se
 realizan a través de SEDAR+ y son de acceso público tras su presentación.
 
 ## Véase también

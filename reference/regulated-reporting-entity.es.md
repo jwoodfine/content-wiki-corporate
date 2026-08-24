@@ -10,7 +10,7 @@ quality: complete
 short_description: "El término puente transfronterizo que Woodfine utiliza en lugar de designaciones específicas por jurisdicción como Reporting Issuer, Entidad Pública o Emisora: una Entidad Regulada Emisora de Información presenta divulgación pública continua ante su regulador soberano independientemente de si cotiza en bolsa."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -55,7 +55,7 @@ El vehículo SOCIMI de España tiene un requisito de cotización estatutaria que
 
 Cada Direct-Hold Solution, como Entidad Regulada Emisora de Información en su jurisdicción soberana, está sujeta a las obligaciones de presentación de la legislación de valores de esa jurisdicción:
 
-**Canadá — SEDAR+.** La Professional Centres Canada LP presenta ante la British Columbia Securities Commission y pone su divulgación a disposición del público en [[about-filing-systems|SEDAR+]]. Las presentaciones requeridas incluyen formularios de información anual, estados financieros auditados, análisis y discusión de la administración, e [[about-material-change-reporting|informes de cambios materiales]].
+**Canadá — SEDAR+.** La Professional Centres Canada LP presenta ante la British Columbia Securities Commission y pone su divulgación a disposición del público en [[about-filing-systems|SEDAR+]]. Las presentaciones requeridas incluyen estados financieros auditados, análisis y discusión de la administración, e [[about-material-change-reporting|informes de cambios materiales]]; como emisor de empresas de riesgo, Professional Centres Canada LP no está obligada a presentar un Formulario de Información Anual.
 
 **Estados Unidos — EDGAR.** La planificada Professional Centres United States LP tiene previsto presentar ante la Securities and Exchange Commission en la plataforma EDGAR bajo el régimen de emisor informante aplicable.
 

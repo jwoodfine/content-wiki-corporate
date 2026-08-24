@@ -2,7 +2,7 @@
 schema: foundry-doc-v1
 title: "Continuous disclosure and wiki publication"
 slug: about-continuous-disclosure
-short_description: "NI 51-102 reporting requirements applicable to Woodfine Capital Projects Inc., including annual information form, MD&A, material change reports, and OSC SN 51-721 electronic filing."
+short_description: "NI 51-102 reporting requirements applicable to Woodfine Capital Projects Inc., including MD&A, material change reports, and OSC SN 51-721 electronic filing; the annual information form applies only to non-venture issuers."
 category: disclosure
 index_group: how-disclosure-works
 type: reference
@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: about-continuous-disclosure.es.md
 cites: []
@@ -22,14 +22,18 @@ Woodfine Capital Projects Inc. intends to become subject to the full continuous-
 
 ## Key takeaways
 
-- Woodfine Capital Projects Inc. intends to become subject to the full NI 51-102 continuous-disclosure regime upon effectiveness of its planned prospectus offering, including the annual information form, MD&A, audited financial statements, and quarterly interim reporting.
+- Woodfine Capital Projects Inc. intends to become subject to the full NI 51-102 continuous-disclosure regime upon effectiveness of its planned prospectus offering, including MD&A, audited financial statements, and quarterly interim reporting; whether an annual information form is part of that regime depends on venture-issuer classification, which is not yet determined for this planned offering.
 - Each direct-hold limited partnership that completed a prospectus offering is a separate reporting issuer with its own NI 51-102 obligations — it files independently on SEDAR+ and is not consolidated into the parent's disclosure package.
 - Material changes require immediate disclosure — a press release as soon as practicable and a Form 51-102F3 filing on SEDAR+ within 10 days — independent of any scheduled filing date.
 - Articles published on the corporate wiki are treated as disclosure-eligible, so editors apply the same material-change test to wiki publications as to formal SEDAR+ filings.
 
 ## Annual obligations
 
-The annual information form (AIF) must be filed within 90 days of the issuer's fiscal year-end. Management discussion and analysis (MD&A) is filed concurrently with the annual audited financial statements. Financial statements are prepared in accordance with International Financial Reporting Standards (IFRS) as adopted in Canada.
+A non-venture reporting issuer must file an annual information form (AIF) within 90 days
+of the issuer's fiscal year-end; a venture issuer is not required to file one. Management
+discussion and analysis (MD&A) is filed concurrently with the annual audited financial
+statements. Financial statements are prepared in accordance with International Financial
+Reporting Standards (IFRS) as adopted in Canada.
 
 The MD&A provides management's interpretation of the audited financial results and discloses material trends, risks, and uncertainties affecting the business. It is not a forward-looking marketing document; it is a required disclosure that accompanies the audited numbers.
 

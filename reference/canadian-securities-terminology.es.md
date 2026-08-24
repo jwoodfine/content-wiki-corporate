@@ -11,7 +11,7 @@ short_description: "Definiciones de los principales términos regulatorios de va
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: canadian-securities-terminology.md
 ---
@@ -50,13 +50,16 @@ pueden existir exenciones para ciertos tipos de emisores.
 
 **Emisor de riesgo** — Un emisor que cotiza en una bolsa de valores de riesgo (TSX Venture
 Exchange o Canadian Securities Exchange) con acceso a ciertos requisitos de divulgación
-modificados.
+modificados — en particular, un emisor de riesgo no está obligado a presentar un
+Formulario de Información Anual bajo la NI 51-102, y cuenta con 120 en lugar de 90 días
+naturales para presentar los estados financieros anuales y el MD&A.
 
 ## Documentos de divulgación continua
 
 **Formulario de información anual (FIA)** — Descripción integral del negocio, operaciones,
-factores de riesgo, estructura de capital y gobernanza del emisor; presentado anualmente bajo
-NI 51-102 Parte 6.
+factores de riesgo, estructura de capital y gobernanza del emisor; presentado anualmente
+bajo NI 51-102 Parte 6 por emisores que no son de riesgo. Un emisor de riesgo no está
+obligado a presentarlo.
 
 **Análisis y discusión de la administración (MD&A)** — Análisis narrativo de la administración
 sobre la condición financiera y los resultados de operaciones. Presentado anualmente y

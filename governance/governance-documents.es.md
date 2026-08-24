@@ -1,12 +1,14 @@
 ---
+schema: foundry-doc-v1
 title: "Documentos de gobernanza corporativa"
 slug: governance-documents
 category: governance
 index_group: board-and-management-oversight
-last_edited: 2026-07-15
+last_edited: 2026-08-24
 editor: woodfine-editorial
 status: stable
-short_description: "Mandato del consejo, estatutos de comités, política de gobernanza y código de conducta empresarial publicados como divulgación de prácticas de gobernanza bajo NP 58-201 y NI 58-101."
+bcsc_class: forward-looking
+short_description: "El estatuto del comité de auditoría de Professional Centres Canada LP, vigente actualmente, junto con el mandato del consejo, los demás estatutos de comités, la política de gobernanza y el código de conducta empresarial, previstos pero aún no adoptados."
 references:
   - id: 1
     text: "National Policy 58-201 Corporate Governance Guidelines, Canadian Securities Administrators."
@@ -16,28 +18,24 @@ references:
     url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/58-101"
 ---
 
-Woodfine Capital Projects Inc. publica aquí sus **documentos de gobernanza corporativa**
-como divulgación pública de las prácticas de gobernanza, en consonancia con la National
-Policy 58-201 *Corporate Governance Guidelines*[^1] y los requisitos de divulgación conexos
-del National Instrument 58-101.[^2] Estos instrumentos fundacionales estructuran el consejo
-de administración, definen las responsabilidades de los comités del consejo y establecen
-las políticas que rigen la relación entre el consejo, la dirección y los accionistas.
-
-## Mandato del consejo
-
-El consejo de administración es responsable de la administración estratégica de WCP, incluida
-la aprobación de la dirección estratégica de la compañía, la supervisión de los riesgos
-materiales, la planificación de la sucesión de la alta dirección y la integridad de la
-información financiera y los controles internos de la compañía. El mandato del consejo
-establece estas responsabilidades en detalle y define los límites entre la supervisión del
-consejo y la autoridad de gestión cotidiana.
+Professional Centres Canada LP, como [[regulated-reporting-entity|Entidad Regulada
+Emisora de Información]], es la entidad cuyas prácticas de gobernanza se divulgan aquí, en
+consonancia con la National Policy 58-201 *Corporate Governance Guidelines*[^1] y los
+requisitos de divulgación conexos del National Instrument 58-101.[^2] WCP en sí es una
+compañía privada y no está sujeta directamente a estos instrumentos; su función es la de
+promotor y matriz última de Woodfine Professional Centres Inc., el socio general sujeto a
+los requisitos de gobernanza descritos abajo. **De los instrumentos de gobernanza
+nombrados en esta página, solo el estatuto del comité de auditoría está vigente
+actualmente; los demás estatutos de comités y políticas descritos abajo están previstos,
+pero aún no han sido adoptados ni publicados.**
 
 ## Comité de auditoría
 
-El [[audit-committee-mandate|comité de auditoría]] asiste al consejo en su supervisión de la integridad de la información
-financiera, la independencia y el desempeño del auditor externo, y la adecuación de los
-procesos de control interno y gestión de riesgos de la compañía. El estatuto del comité
-especifica:
+Professional Centres Canada LP cuenta con un [[audit-committee-mandate|estatuto del
+comité de auditoría]] vigente. El comité asiste al consejo del socio general en su
+supervisión de la integridad de la información financiera, la independencia y el
+desempeño del auditor externo, y la adecuación de los procesos de control interno y
+gestión de riesgos. El estatuto especifica:
 
 - Requisitos de composición (incluidos los requisitos de independencia y competencia
   financiera para cada miembro del comité)
@@ -46,35 +44,47 @@ especifica:
 - Obligaciones de información al consejo en pleno
 - Frecuencia de reuniones y requisitos de quórum
 
-## Comité de retribución
+El estatuto del comité de auditoría se reproduce aquí para su fácil acceso. Professional
+Centres Canada LP es un emisor de riesgo (venture issuer), clasificación que no conlleva
+un requisito obligatorio de presentar un [[about-annual-reporting-cycle|Formulario de
+Información Anual]] bajo la NI 51-102 — publicar el estatuto aquí es una práctica
+voluntaria de transparencia, no evidencia de una presentación del AIF.
 
-El comité de retribución asiste al consejo en su supervisión de la filosofía retributiva de la
-compañía y la retribución del Director Ejecutivo, otros altos directivos y los consejeros no
-ejecutivos. El estatuto del comité especifica el proceso de fijación de la retribución
-ejecutiva, la revisión del diseño de los planes de incentivos y la aprobación de concesiones
-de capital cuando corresponda.
+## Mandato del consejo (previsto)
 
-## Comité de nombramientos y gobernanza
+Se prevé que un mandato del consejo establezca las responsabilidades del consejo en
+materia de supervisión estratégica, supervisión de riesgos materiales, planificación de
+sucesión de la alta dirección, y la integridad de la información financiera y los
+controles internos, además de definir el límite entre la supervisión del consejo y la
+autoridad de gestión cotidiana. Este documento aún no ha sido adoptado.
 
-El comité de nombramientos y gobernanza asiste al consejo en la identificación de candidatos
-cualificados para la membresía en el consejo, la evaluación de la composición del consejo y
-los comités, y la supervisión de las prácticas de gobernanza corporativa de la compañía. El
-comité realiza una evaluación anual de la eficacia del consejo.
+## Comité de retribución (previsto)
 
-## Política de gobernanza corporativa
+Se prevé que un comité de retribución asista al consejo en su supervisión de la filosofía
+retributiva y la retribución del Director Ejecutivo, otros altos directivos y los
+consejeros no ejecutivos. Este comité y su estatuto aún no están en vigor.
 
-La política de gobernanza corporativa consolida los compromisos de la compañía con las
-prácticas de gobernanza que cumplen o superan los estándares establecidos en virtud de la
-normativa canadiense de valores. Aborda la independencia de la mayoría de los consejeros, la
-separación de los roles de Presidente y Director Ejecutivo, la diversidad del consejo y los
-procedimientos de relacionamiento con accionistas.
+## Comité de nombramientos y gobernanza (previsto)
 
-## Código de conducta empresarial
+Se prevé que un comité de nombramientos y gobernanza asista al consejo en la
+identificación de candidatos cualificados para el consejo, la evaluación de la
+composición del consejo y los comités, y la supervisión de las prácticas de gobernanza
+corporativa. Este comité aún no está en vigor.
 
-El código de conducta empresarial establece las normas éticas aplicables a todos los
-consejeros, funcionarios, empleados y contratistas de WCP. Cubre los conflictos de interés,
-la información confidencial, el trato justo con clientes y proveedores, el cumplimiento de la
-legislación aplicable y los procedimientos para la denuncia de irregularidades.
+## Política de gobernanza corporativa (prevista)
+
+Se prevé que una política de gobernanza corporativa consolide los compromisos con
+prácticas de gobernanza que cumplan o superen los estándares establecidos en virtud de la
+normativa canadiense de valores, abordando la independencia del consejo, la separación de
+los roles de Presidente y Director Ejecutivo, y la diversidad del consejo. Esta política
+aún no ha sido adoptada.
+
+## Código de conducta empresarial (previsto)
+
+Se prevé que un código de conducta empresarial establezca las normas éticas aplicables a
+consejeros, funcionarios, empleados y contratistas, cubriendo los conflictos de interés,
+la información confidencial, el trato justo y los procedimientos para la denuncia de
+irregularidades. Este código aún no ha sido adoptado.
 
 ## Acuerdo unánime de accionistas
 

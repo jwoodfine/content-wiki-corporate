@@ -11,7 +11,7 @@ short_description: "Definitions of the primary Canadian securities regulatory te
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: canadian-securities-terminology.es.md
 ---
@@ -59,13 +59,16 @@ the same as for listed issuers, but exemptions may be available for certain issu
 **Venture issuer** — A reporting issuer listed on a venture exchange (TSX Venture Exchange
 or Canadian Securities Exchange) or that would qualify for listing. Venture issuers have
 access to certain modified or reduced disclosure requirements in NI 51-102, NI 52-110,
-and other instruments.
+and other instruments — most notably, a venture issuer is not required to file an Annual
+Information Form under NI 51-102, and has 120 rather than 90 calendar days to file annual
+financial statements and MD&A.
 
 ## Continuous disclosure documents
 
 **Annual information form (AIF)** — A comprehensive description of the issuer's business,
 operations, risk factors, capital structure, and governance, filed annually under NI 51-102
-Part 6. Analogous to the United States Form 10-K.
+Part 6 by non-venture issuers. A venture issuer is not required to file one. Analogous to
+the United States Form 10-K.
 
 **Management's discussion and analysis (MD&A)** — Management's narrative analysis of the
 issuer's financial condition and results of operations. Filed annually and quarterly. Required
