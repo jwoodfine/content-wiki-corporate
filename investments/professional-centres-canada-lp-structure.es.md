@@ -57,4 +57,7 @@ Las Unidades de Inversión de Professional Centres Canada LP se liquidan a trav�
 - [[direct-hold-framework]] — la arquitectura general de aislamiento jurídico de Tenencia Directa que instancia esta sociedad
 - [[four-jurisdiction-framework]] — el despliegue multijurisdiccional dentro del cual opera este vehículo
 - [[limited-partnership-structure]] — la forma jurídica genérica de socio general/socio comanditario y la mecánica de las cuentas de capital
+- [[special-resolutions-and-general-partner-removal|Resoluciones Especiales y Remoción del Socio General]] — el umbral de voto de la Resolución Especial, los asuntos que rige, y las condiciones para remover al socio general
+- [[fees-to-affiliates-and-conflicts-of-interest|Honorarios a Afiliadas y Conflictos de Interés]] — la prohibición de honorarios vinculados al valor neto de los activos y la regla que limita los honorarios a las afiliadas del promotor
+- [[titleco-and-subsidiary-silo-model]] — cómo se mantiene cada propiedad a través de una Titleco separada, y el límite de tarifa del administrador externo en detalle
 - [[about-risks]] — la divulgación de riesgos, incluido el riesgo regulatorio y de cumplimiento

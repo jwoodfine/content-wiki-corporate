@@ -70,5 +70,6 @@ El despliegue de las cuatro jurisdicciones no está previsto que ocurra simultá
 ## Consulte también
 
 - [[professional-centres-canada-lp-structure]] — el vehículo de Canadá ya constituido, en detalle
+- [[professional-centres-spain-socimi-structure]] — el vehículo de España planificado, en detalle, incluido el requisito legal de cotización del SOCIMI
 - [[direct-hold-solutions-structural-comparison]] — cómo se comparan las Direct-Hold Solutions con joint ventures, fondos de capital privado y REITs
 - [[global-investment-terminology]] — el vocabulario transfronterizo utilizado en las cuatro jurisdicciones

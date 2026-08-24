@@ -84,3 +84,5 @@ activos. Sin embargo, la matriz no posee los activos individuales en su propio b
 - [[limited-partnership-structure]] — la forma jurídica de SC que implementa el aislamiento
 - [[distribution-declaration-mechanics]] — cómo se preserva el aislamiento por activo en
   el proceso de declaración de distribuciones
+- [[titleco-and-subsidiary-silo-model]] — la capa Titleco a nivel de propiedad, un nivel
+  por debajo de este aislamiento a nivel de vehículo

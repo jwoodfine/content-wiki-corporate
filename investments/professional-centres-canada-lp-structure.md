@@ -57,4 +57,7 @@ Investment Units in Professional Centres Canada LP settle through CDS Clearing a
 - [[direct-hold-framework]] — the general Direct-Hold legal-isolation architecture this partnership instantiates
 - [[four-jurisdiction-framework]] — the multi-jurisdiction deployment this vehicle operates within
 - [[limited-partnership-structure]] — the generic general-partner/limited-partner legal form and capital-account mechanics
+- [[special-resolutions-and-general-partner-removal|Special Resolutions and General Partner Removal]] — the Special Resolution vote threshold, the matters it governs, and the conditions for removing the general partner
+- [[fees-to-affiliates-and-conflicts-of-interest|Fees to Affiliates and Conflicts of Interest]] — the net-asset-value fee prohibition and the rule limiting fees to promoter affiliates
+- [[titleco-and-subsidiary-silo-model]] — how each property is held through a separate Titleco, and the third-party manager fee cap in full
 - [[about-risks]] — risk disclosure, including regulatory and compliance risk

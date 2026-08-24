@@ -94,3 +94,5 @@ each direct-hold vehicle are separate documents with separate audits.
 - [[limited-partnership-structure]] — the LP legal form that implements the isolation
 - [[distribution-declaration-mechanics]] — how the per-asset isolation is preserved in the
   distribution declaration process
+- [[titleco-and-subsidiary-silo-model]] — the property-level Titleco layer beneath this
+  vehicle-level isolation

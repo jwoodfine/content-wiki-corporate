@@ -36,6 +36,7 @@ The direct-hold legal structure and how it compares with other vehicle types.
 - [[investment-units]] — The equity units issued by each direct-hold vehicle in MCorp's Direct-Hold framework.
 - [[asset-vehicle-isolation]] — The legal and structural mechanisms through which each direct-hold solution is isolated as a separate vehicle: why creditors of one asset cannot reach assets held in another, and how this isolation protects unit holders.
 - [[direct-hold-solutions-structural-comparison]] — Feature-by-feature comparison of the Direct-Hold Solutions with Legacy Joint Ventures, Private Equity funds, and Traditional REITs across twelve governance dimensions.
+- [[titleco-and-subsidiary-silo-model]] — How each Direct-Hold Solution holds legal title to its real property: a separate Titleco subsidiary per building beneath the vehicle, the tax rationale behind Mexico's Subsidiary Silo structure, and the fee-capped third-party manager each Titleco retains.
 <!-- END AUTO-GENERATED -->
 
 ## Legal form and jurisdiction
@@ -46,6 +47,8 @@ The legal form used in each of the four jurisdictions.
 - [[limited-partnership-structure]] — How the limited partnership legal form implements the direct-hold investment structure: the GP-LP relationship, limited liability, unitholders as limited partners, and the partnership agreement as the governing instrument.
 - [[four-jurisdiction-framework]] — Deployment framework for the Direct-Hold Solutions across Canada, the United States, Spain, and Mexico, each using the flow-through vehicle mandated by local securities law.
 - [[professional-centres-canada-lp-structure]] — The legal and operating structure of Professional Centres Canada LP at the limited-partnership level — the advisory agreement, escrowed promoter equity, unit history, regulatory standing, and settlement mechanics — distinct from the corporate-parent and four-jurisdiction overview articles.
+- [[professional-centres-spain-socimi-structure]] — The planned legal and operating structure of Professional Centres Spain SOCIMI at the vehicle level — the statutory listing mandate, the technical-listing mechanism, the Administrator role, and settlement arrangements — distinct from the corporate-parent and four-jurisdiction overview articles.
+- [[professional-centres-mexico-fibra-structure]] — The planned legal and operating structure of Professional Centres Mexico FIBRA at the trust level — the Bank-fiduciary/Technical Committee governance split, the Subsidiary Silo liability model, Article 187/188 fiscal transparency, and the Private FIBRA vs. FICAP vs. S.A.P.I. comparison — distinct from the corporate-parent and four-jurisdiction overview articles.
 <!-- END AUTO-GENERATED -->
 
 ## Eligibility and distribution channels

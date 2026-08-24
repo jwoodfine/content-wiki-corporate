@@ -37,6 +37,7 @@ La estructura jurídica de tenencia directa y cómo se compara con otros tipos d
 - [[investment-units]] — Las participaciones emitidas por cada vehículo de tenencia directa dentro del marco de Tenencia Directa de MCorp.
 - [[asset-vehicle-isolation]] — Los mecanismos legales y estructurales mediante los cuales cada solución de tenencia directa se aísla como un vehículo separado: por qué los acreedores de un activo no pueden acceder a activos mantenidos en otro, y cómo este aislamiento protege a los tenedores de participaciones.
 - [[direct-hold-solutions-structural-comparison]] — Comparación característica por característica de las Direct-Hold Solutions con Joint Ventures Heredados, Capital Privado y REIT Tradicionales en doce dimensiones de gobernanza.
+- [[titleco-and-subsidiary-silo-model]] — Cómo cada Solución de Tenencia Directa mantiene el título legal de su propiedad inmobiliaria: una subsidiaria Titleco separada por edificio bajo el vehículo, el fundamento fiscal del modelo mexicano de Silo de Subsidiarias, y el administrador externo con tarifa limitada que contrata cada Titleco.
 <!-- END AUTO-GENERATED -->
 
 ## Forma jurídica y jurisdicción
@@ -47,6 +48,8 @@ La forma jurídica empleada en cada una de las cuatro jurisdicciones.
 - [[limited-partnership-structure]] — Cómo la forma jurídica de sociedad en comandita implementa la estructura de inversión de tenencia directa: la relación GP-LP, la responsabilidad limitada, los tenedores de participaciones como socios comanditarios y el acuerdo de sociedad como instrumento rector.
 - [[four-jurisdiction-framework]] — Marco de despliegue previsto de las Direct-Hold Solutions en Canadá, Estados Unidos, España y México, cada una con el vehículo de flujo directo que exige la ley local de valores.
 - [[professional-centres-canada-lp-structure]] — La estructura jurídica y operativa de Professional Centres Canada LP a nivel de la sociedad en comandita — el acuerdo de asesoría, la participación del promotor en fideicomiso de garantía, el historial de participaciones, la situación regulatoria y la mecánica de liquidación — distinta de los artículos sobre la matriz corporativa y sobre el marco de cuatro jurisdicciones.
+- [[professional-centres-spain-socimi-structure]] — La estructura jurídica y operativa planificada de Professional Centres Spain SOCIMI a nivel del vehículo — el mandato legal de cotización, el mecanismo de cotización técnica, el rol del Administrador y los arreglos de liquidación — distinta de los artículos sobre la matriz corporativa y sobre el marco de cuatro jurisdicciones.
+- [[professional-centres-mexico-fibra-structure]] — La estructura jurídica y operativa planificada de Professional Centres Mexico FIBRA a nivel del fideicomiso — la división de gobernanza entre el Banco fiduciario y el Comité Técnico, el modelo de aislamiento por subsidiaria, la transparencia fiscal de los Artículos 187/188, y la comparación entre FIBRA Privada, FICAP y S.A.P.I. — distinta de los artículos sobre la matriz corporativa y sobre el marco de cuatro jurisdicciones.
 <!-- END AUTO-GENERATED -->
 
 ## Elegibilidad y canales de distribución
