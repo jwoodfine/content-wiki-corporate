@@ -1,8 +1,8 @@
 ---
-title: "Disclaimer"
+title: "Trademark Notice"
 slug: page-disclaimer
 category: root
-last_edited: 2026-06-26
+last_edited: 2026-08-24
 editor: pointsav-engineering
 status: stable
 ---

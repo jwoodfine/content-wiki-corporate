@@ -1,8 +1,8 @@
 ---
-title: "Aviso Legal"
+title: "Aviso de Marcas Comerciales"
 slug: page-disclaimer
 category: root
-last_edited: 2026-06-26
+last_edited: 2026-08-24
 editor: pointsav-engineering
 status: stable
 ---
