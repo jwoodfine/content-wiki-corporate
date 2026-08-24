@@ -83,5 +83,6 @@ The four-jurisdiction deployment is not planned to occur simultaneously. The Pro
 
 - [[professional-centres-canada-lp-structure]] — the established Canada vehicle in detail
 - [[professional-centres-spain-socimi-structure]] — the planned Spain vehicle in detail, including the SOCIMI's statutory listing requirement
+- [[professional-centres-mexico-fibra-structure]] — the planned Mexico vehicle's trust-level structure in detail
 - [[direct-hold-solutions-structural-comparison]] — how the Direct-Hold Solutions compare with joint ventures, private equity funds, and REITs
 - [[global-investment-terminology]] — the cross-border vocabulary used across the four jurisdictions
