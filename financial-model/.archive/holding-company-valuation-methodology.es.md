@@ -10,7 +10,10 @@ index_group: valuation-and-forecasting-methodology
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Cada parámetro específico de este artículo (el múltiplo precio/utilidad de 10.72x, el rendimiento objetivo de utilidades del 4.5%, la tasa impositiva estatutaria del 27%) proviene únicamente de un archivo de salida de una herramienta de modelado proforma en vivo (rust-engine-compliance-mcorp-2026-06-04-proforma-wcp-v2.html en business-admin/project-documents/), no de la LPA, la tear-sheet ni el prospecto. Los descargos de responsabilidad del artículo (modelado/ilustrativo, no real) son genuinos, pero las cifras subyacentes nunca debieron extraerse de la salida en vivo de una herramienta de modelado financiero aún no aprobada hacia contenido público de la wiki sin la autorización explícita del operador/asesor legal — señalado por el operador el 2026-08-24 como un patrón a evitar en todo el contenido derivado de proformas, no un error aislado."
+superseded_by: none
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES

@@ -10,7 +10,10 @@ index_group: valuation-and-forecasting-methodology
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Every specific parameter in this article (the 10.72x price/earnings multiple, the 4.5% earnings-yield target, the 27% statutory tax rate) traces only to a live proforma-modeling-tool output file (rust-engine-compliance-mcorp-2026-06-04-proforma-wcp-v2.html in business-admin/project-documents/), not to the LPA, tear-sheet, or prospectus. The article's illustrative/modeled-not-actual disclaimers are real, but the underlying figures should never have been drawn from a not-yet-signed-off financial-modeling tool's live output into public wiki content without explicit operator/counsel sign-off — flagged by the operator 2026-08-24 as a pattern to avoid across all proforma-derived content, not a one-off error."
+superseded_by: none
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC

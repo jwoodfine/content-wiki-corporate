@@ -236,3 +236,10 @@ redirects:
   # technology subsidiary) now lives in vendor-customer-model.md.
   - from: /technology-services
     to: /wiki/vendor-customer-model
+
+  # Track-B integrity retraction, 2026-08-24 (4th batch) — every specific parameter
+  # (10.72x multiple, 4.5% yield, 27% tax rate) traced only to a live proforma-tool
+  # output file, not the LPA/tear-sheet/prospectus. Indexed in the live sitemap;
+  # redirected to the parent category — no single surviving article fully replaces it.
+  - from: /holding-company-valuation-methodology
+    to: /category/financial-model
