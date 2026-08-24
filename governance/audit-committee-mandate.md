@@ -79,3 +79,4 @@ Disclosure of audit and non-audit fees paid to the external auditor is required 
 - board-governance-structure — the broader board governance framework
 - [[about-disclosure-obligations]] — the financial reporting obligations the audit
   committee oversees
+- [[fees-to-affiliates-and-conflicts-of-interest|Fees to Affiliates and Conflicts of Interest]] — the fee-based conflict-of-interest controls in the limited partnership agreement, a related but distinct oversight mechanism

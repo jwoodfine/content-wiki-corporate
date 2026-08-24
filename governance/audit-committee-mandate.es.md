@@ -76,3 +76,4 @@ auditoría y de no auditoría pagados al auditor externo es obligatoria anualmen
 - board-governance-structure — el marco más amplio de gobernanza del consejo
 - [[about-disclosure-obligations]] — las obligaciones de información financiera que
   el comité supervisa
+- [[fees-to-affiliates-and-conflicts-of-interest|Honorarios a Afiliadas y Conflictos de Interés]] — los controles de conflicto de interés basados en honorarios del contrato de sociedad en comandita, un mecanismo de supervisión relacionado pero distinto
