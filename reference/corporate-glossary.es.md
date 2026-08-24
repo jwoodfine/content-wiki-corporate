@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: corporate-glossary.md
 cites: []
@@ -28,7 +28,7 @@ Es un conjunto curado de aproximadamente cincuenta términos, seleccionados de u
 
 **Fondos Ajustados de Operaciones (AFFO)** — FFO menos gastos de capital de mantenimiento normalizados y ajustes de linealización; la medida más conservadora de efectivo distribuible sostenible. Ver [[cre-financial-metrics|Métricas financieras de bienes raíces comerciales]].
 
-**Formulario de Información Anual (FIA)** — El documento de divulgación anual integral que describe el negocio, las operaciones y la gobernanza de un emisor, presentado bajo NI 51-102. Ver [[canadian-securities-terminology|Terminología regulatoria de valores canadienses]].
+**Formulario de Información Anual (FIA)** — El documento de divulgación anual integral que describe el negocio, las operaciones y la gobernanza de un emisor, presentado bajo NI 51-102 por emisores que no son de riesgo (non-venture issuers); un emisor de riesgo (venture issuer) no está obligado a presentarlo. Ver [[canadian-securities-terminology|Terminología regulatoria de valores canadienses]].
 
 **Activos Bajo Gestión (AUM)** — El valor de mercado total de las inversiones que una institución financiera o un gestor de inversiones administra en nombre de sus clientes.
 

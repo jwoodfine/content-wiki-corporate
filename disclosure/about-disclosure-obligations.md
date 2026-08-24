@@ -7,11 +7,11 @@ index_group: how-disclosure-works
 type: topic
 content_type: topic
 quality: complete
-short_description: "The ongoing disclosure obligations of a reporting issuer under NI 51-102: annual financial statements, annual information form, interim statements, MD&A, and material change reports."
+short_description: "The ongoing disclosure obligations of a reporting issuer under NI 51-102: annual financial statements, an annual information form for non-venture issuers, interim statements, MD&A, and material change reports."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: about-disclosure-obligations.es.md
 ---
@@ -37,9 +37,9 @@ sent to all registered securityholders who have requested copies.
 **Annual information form (AIF)** — A disclosure document under NI 51-102 Part 6 that
 provides a detailed description of the issuer: its business and operations, risk factors,
 capital structure, directors and officers, legal proceedings, and material contracts. The
-AIF is analogous to the United States Form 10-K. Not all reporting issuers are required to
-file an AIF; the requirement applies based on market capitalisation and reporting currency
-thresholds.
+AIF is analogous to the United States Form 10-K. Filing an AIF is mandatory only for a
+non-venture issuer; a venture issuer is not required to file one, though it may do so
+voluntarily — for example, to become AIF-eligible for short-form prospectus purposes.
 
 **Annual management's discussion and analysis (Annual MD&A)** — Management's narrative
 analysis of the issuer's financial condition and results of operations for the annual period,

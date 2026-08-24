@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: about-regulatory-posture.md
 cites: []
@@ -28,7 +28,7 @@ Woodfine Capital Projects Inc. y sus subsidiarias — incluidas las entidades de
 
 ## Marco aplicable
 
-El Instrumento Nacional 51-102 (Obligaciones de Divulgación Continua) establece el régimen de reporte para los emisores reportantes en Canadá. El instrumento rige los formularios de información anual, los informes de análisis y discusión de la administración, los informes de cambios materiales y los requisitos de estados financieros periódicos; Woodfine Capital Projects Inc. y cada sociedad limitada de tenencia directa que complete una oferta de prospecto tienen previsto quedar sujetos a dichos requisitos al perfeccionarse sus respectivas ofertas públicas planificadas.
+El Instrumento Nacional 51-102 (Obligaciones de Divulgación Continua) establece el régimen de reporte para los emisores reportantes en Canadá. El instrumento rige los informes de análisis y discusión de la administración, los informes de cambios materiales y los requisitos de estados financieros periódicos; Woodfine Capital Projects Inc. y cada sociedad limitada de tenencia directa que complete una oferta de prospecto tienen previsto quedar sujetos a dichos requisitos al perfeccionarse sus respectivas ofertas públicas planificadas. También rige los formularios de información anual, pero únicamente para un emisor clasificado como emisor que no es de riesgo (non-venture issuer) — un emisor de riesgo (venture issuer) no está obligado a presentarlo. La clasificación de una entidad determinada como emisor de riesgo o no de riesgo se realiza al momento en que se convierte en emisor informante; este artículo no la anticipa.
 
 El Aviso del Personal de la OSC 51-721 (Entrega Electrónica de Documentos) se aplica a los documentos de divulgación presentados y entregados electrónicamente. Todos los depósitos requeridos se realizan a través de SEDAR+.
 

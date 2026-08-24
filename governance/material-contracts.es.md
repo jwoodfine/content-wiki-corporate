@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: material-contracts.md
 ---
@@ -21,6 +21,9 @@ Los inversores pueden leer los contratos que dan forma al negocio de un
 [[regulated-reporting-entity|emisor informante]]: el Instrumento Nacional 51-102 exige que un
 emisor informante enumere los contratos materiales en su formulario de información anual y,
 salvo excepciones específicas, presente los propios contratos en [[about-filing-systems|SEDAR+]].
+Presentar un formulario de información anual es, en sí mismo, obligatorio únicamente para un
+emisor que no sea de riesgo (non-venture issuer); un emisor de riesgo (venture issuer) no está
+obligado a presentarlo.
 Un contrato material es aquel que el emisor considera lo suficientemente significativo para su
 negocio, operaciones o condición financiera como para que los inversores razonablemente
 necesiten conocer su existencia y sus términos materiales a fin de tomar una decisión de
@@ -59,9 +62,11 @@ se relaciona esta divulgación.
 ## Dónde pueden encontrar o solicitar los inversores los contratos materiales
 
 Los contratos materiales que deben presentarse se presentan como anexos del formulario de
-información anual en SEDAR+ (o el registro equivalente en la jurisdicción aplicable —EDGAR en
-Estados Unidos, el registro electrónico de la CNMV en España, la plataforma STIV-2 de la CNBV
-en México), donde están disponibles públicamente. Cuando un contrato esté exento del requisito
+información anual, cuando se presenta uno, en SEDAR+ (o el registro equivalente en la
+jurisdicción aplicable —EDGAR en Estados Unidos, el registro electrónico de la CNMV en España,
+la plataforma STIV-2 de la CNBV en México), donde están disponibles públicamente. Como se
+señaló anteriormente, presentar un formulario de información anual es, en sí mismo, obligatorio
+únicamente para un emisor que no sea de riesgo. Cuando un contrato esté exento del requisito
 de presentación —por ejemplo, porque la divulgación de términos comerciales específicos sería
 gravemente perjudicial para los intereses del emisor— el formulario de información anual sigue
 divulgando la existencia y la naturaleza general del contrato, y un inversor registrado puede

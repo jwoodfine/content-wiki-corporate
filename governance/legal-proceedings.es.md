@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: legal-proceedings.md
 ---
@@ -20,8 +20,9 @@ paired_with: legal-proceedings.md
 Un [[regulated-reporting-entity|emisor informante]] debe divulgar si él, o una subsidiaria, es parte de algún
 procedimiento legal material para su negocio, y describir la naturaleza y el estatus de
 cualquier procedimiento de ese tipo. Este elemento de divulgación estándar y recurrente
-aparece en el formulario de información anual y las presentaciones de divulgación continua
-relacionadas. Este artículo es la versión en lenguaje llano de ese elemento de
+aparece en el formulario de información anual, cuando se presenta uno —presentar un FIA es
+obligatorio únicamente para un emisor que no sea de riesgo—, y de forma más general en las
+presentaciones de divulgación continua relacionadas. Este artículo es la versión en lenguaje llano de ese elemento de
 divulgación en este wiki; la declaración autorizada para un período de reporte específico es la
 presentación aplicable en SEDAR+ o el registro equivalente en la jurisdicción aplicable.
 

@@ -4,7 +4,7 @@ title: "Información Financiera"
 slug: about-financial-reporting
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-06-29
+last_edited: 2026-08-24
 editor: woodfine-editorial
 status: stable
 short_description: "Divulgaciones financieras periódicas que Woodfine Capital Projects Inc. prevé presentar como emisor bajo NI 51-102 tras la efectividad de su oferta de prospecto planificada."
@@ -21,15 +21,20 @@ Woodfine Capital Projects Inc. tiene previsto presentar las divulgaciones financ
 e intermedias obligatorias como [[regulated-reporting-entity|emisor informante]] en virtud del National
 Instrument 51-102 *[[about-disclosure-obligations|Continuous Disclosure Obligations]]*, al
 perfeccionarse su oferta pública planificada.[^1] Estos registros
-proporcionan a inversores y reguladores los estados financieros auditados y revisados, el
-análisis de la dirección sobre resultados y perspectivas, y el formulario de información anual
-que describe la estructura empresarial, los factores de riesgo y la gobernanza de la compañía.
+proporcionan a inversores y reguladores los estados financieros auditados y revisados y el
+análisis de la dirección sobre resultados y perspectivas. Si WCP se clasifica como emisor que
+no es de riesgo (non-venture issuer), sus registros incluyen además un formulario de
+información anual que describe la estructura empresarial, los factores de riesgo y la
+gobernanza de la compañía. Un emisor de riesgo (venture issuer) no está obligado a
+presentarlo.
 
 ## Ciclo de información anual
 
 La [[about-annual-reporting-cycle|divulgación anual]] del ejercicio cerrado el 31 de diciembre debe presentarse a más tardar el
-31 de marzo del año siguiente (90 días después del cierre del ejercicio). El paquete de
-presentación anual consta de tres componentes.
+31 de marzo del año siguiente (90 días después del cierre del ejercicio, o 120 días para un
+emisor de riesgo). El paquete de presentación anual consta de hasta tres componentes; el
+paquete de un emisor de riesgo consta solo de los dos primeros, ya que los emisores de riesgo
+no están obligados a presentar un formulario de información anual.
 
 **Estados financieros anuales auditados** preparados conforme a las Normas Internacionales de
 Información Financiera adoptadas por el Consejo de Normas de Contabilidad de Canadá. Incluyen
@@ -43,10 +48,14 @@ significativos del ejercicio. Incluye una perspectiva prospectiva sobre priorida
 y factores de riesgo. Se identifican y divulgan los supuestos materiales subyacentes a las
 declaraciones prospectivas.
 
-**Formulario de información anual (AIF)** en el Formulario 51-102F2 proporciona información
-de referencia sobre la estructura corporativa, las operaciones, las propiedades, los factores
-de riesgo, los directores y funcionarios, los procedimientos legales y la composición del
-comité de auditoría de la compañía.
+**Formulario de información anual (AIF)** en el Formulario 51-102F2, cuando se presenta,
+proporciona información de referencia sobre la estructura corporativa, las operaciones, las
+propiedades, los factores de riesgo, los directores y funcionarios, los procedimientos legales
+y la composición del comité de auditoría de la compañía. Presentar un AIF es obligatorio
+únicamente para un emisor que no sea de riesgo (non-venture issuer); un emisor de riesgo
+(venture issuer) no está obligado a presentarlo, aunque puede hacerlo de forma voluntaria.
+Cuando se presenta, el AIF es el documento principal para los inversores que buscan una
+descripción fáctica integral del negocio y la gobernanza de la compañía en un momento dado.
 
 ## Ciclo de información intermedia
 
@@ -73,8 +82,11 @@ Una solución de tenencia directa constituida como SC que haya completado una of
 mediante prospecto es un emisor informante distinto con obligaciones independientes bajo el
 NI 51-102; WCP tiene previsto convertirse en emisor informante al perfeccionarse su oferta
 pública planificada. Cada solución de tenencia directa constituida como SC presenta sus
-propios estados financieros anuales auditados, formulario de información anual y MD&A de
-forma independiente; no se consolidan en los estados financieros de WCP. La SOCIMI de España
+propios estados financieros anuales auditados y MD&A de forma independiente; cuando una
+solución es un emisor que no es de riesgo, también presenta un formulario de información
+anual. Como emisor de riesgo (venture issuer), Professional Centres Canada LP no está obligada
+a presentar un AIF. Ninguno de estos registros se consolida en los estados financieros de WCP.
+La SOCIMI de España
 y la FIBRA de México presentan información a los reguladores de sus propias jurisdicciones —
 la CNMV y la CNBV, respectivamente — bajo los regímenes de divulgación propios de esos
 reguladores, no bajo el NI 51-102 ni SEDAR+.

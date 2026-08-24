@@ -31,10 +31,10 @@ How Disclosure Works explains what continuous disclosure means for a reporting i
 Plain-language explainers of what continuous disclosure means and how it works.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: how-disclosure-works -->
-- [[about-continuous-disclosure]] — NI 51-102 reporting requirements applicable to Woodfine Capital Projects Inc., including annual information form, MD&A, material change reports, and OSC SN 51-721 electronic filing.
-- [[about-disclosure-obligations]] — The ongoing disclosure obligations of a reporting issuer under NI 51-102: annual financial statements, annual information form, interim statements, MD&A, and material change reports.
+- [[about-continuous-disclosure]] — NI 51-102 reporting requirements applicable to Woodfine Capital Projects Inc., including MD&A, material change reports, and OSC SN 51-721 electronic filing; the annual information form applies only to non-venture issuers.
+- [[about-disclosure-obligations]] — The ongoing disclosure obligations of a reporting issuer under NI 51-102: annual financial statements, an annual information form for non-venture issuers, interim statements, MD&A, and material change reports.
 - [[about-regulatory-posture]] — Woodfine Capital Projects Inc.'s disclosure posture ahead of its planned prospectus offering.
-- [[about-annual-reporting-cycle]] — Annual disclosure obligations of a Canadian reporting issuer: audited IFRS financial statements, Annual Information Form, and MD&A due within 90 days of fiscal year-end.
+- [[about-annual-reporting-cycle]] — Annual disclosure obligations of a Canadian reporting issuer: audited IFRS financial statements and MD&A due within 90 or 120 days of fiscal year-end depending on venture-issuer status; the Annual Information Form applies only to non-venture issuers.
 - [[about-quarterly-reporting]] — Interim reporting under NI 51-102: condensed IAS 34 financial statements and quarterly MD&A due within 45 days of each of the first three fiscal quarter-ends.
 - [[about-financial-reporting]] — Periodic financial disclosures Woodfine Capital Projects Inc. intends to file as a reporting issuer under NI 51-102 upon effectiveness of its planned prospectus offering.
 - [[about-material-change-reporting]] — The mechanics of material change reporting under NI 51-102 Part 7: what constitutes a material change, the two-step press release plus MCR filing process, and the standard for timely disclosure.

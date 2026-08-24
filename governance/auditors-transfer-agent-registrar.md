@@ -12,14 +12,15 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: auditors-transfer-agent-registrar.es.md
 ---
 
 Three roles give investors and counterparties confidence that a [[regulated-reporting-entity|reporting issuer]]'s
 financial statements, and its record of who owns what, are accurate: the auditor, the transfer
-agent, and the registrar. An annual information form discloses who holds each role. This
+agent, and the registrar. An annual information form, where one is filed — filing an AIF is
+mandatory only for a non-venture issuer — discloses who holds each role. This
 article describes what each role does and why it exists, independent of any specific firm
 currently holding the role.
 

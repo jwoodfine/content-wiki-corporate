@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: about-regulatory-posture.es.md
 cites: []
@@ -28,7 +28,7 @@ Woodfine Capital Projects Inc. and its subsidiaries — including the entities d
 
 ## Applicable framework
 
-National Instrument 51-102 (Continuous Disclosure Obligations) establishes the reporting regime for Canadian reporting issuers. The instrument governs annual information forms, management discussion and analysis filings, material change reports, and the periodic financial statement requirements that Woodfine Capital Projects Inc. and each direct-hold limited partnership that completes a prospectus offering intend to become subject to upon effectiveness of their respective planned prospectus offerings.
+National Instrument 51-102 (Continuous Disclosure Obligations) establishes the reporting regime for Canadian reporting issuers. The instrument governs management discussion and analysis filings, material change reports, and periodic financial statement requirements that Woodfine Capital Projects Inc. and each direct-hold limited partnership that completes a prospectus offering intend to become subject to upon effectiveness of their respective planned prospectus offerings. It also governs annual information forms, but only for an issuer classified as a non-venture issuer — a venture issuer is not required to file one. Whether any particular entity is a venture or non-venture issuer is a classification made at the time it becomes a reporting issuer, not a status this article asserts in advance.
 
 OSC Staff Notice 51-721 (Electronic Delivery of Documents) applies to electronically filed and electronically delivered disclosure documents. All required filings are submitted through SEDAR+.
 

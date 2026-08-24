@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: material-contracts.es.md
 ---
@@ -20,7 +20,8 @@ paired_with: material-contracts.es.md
 Investors can read the contracts that shape a [[regulated-reporting-entity|reporting issuer's]]
 business: National Instrument 51-102 requires a reporting issuer to list material contracts in
 its annual information form and, subject to specified exceptions, to file the contracts
-themselves on [[about-filing-systems|SEDAR+]]. A material contract is one the issuer considers
+themselves on [[about-filing-systems|SEDAR+]]. Filing an annual information form is itself
+mandatory only for a non-venture issuer; a venture issuer is not required to file one. A material contract is one the issuer considers
 significant enough to its business, operations, or financial condition that investors would
 reasonably need to know of its existence and its material terms in order to make an informed
 investment decision.
@@ -54,10 +55,11 @@ enough to affect an investor's understanding of the asset's income stability. Se
 
 ## Where investors can find or request material contracts
 
-Material contracts required to be filed are filed as exhibits to the annual information form on
-SEDAR+ (or the equivalent registry in the applicable jurisdiction — EDGAR in the United States,
-the CNMV's electronic registry in Spain, the CNBV's STIV-2 platform in Mexico), where they are
-publicly available. Where a contract is exempted from the filing requirement — for example,
+Material contracts required to be filed are filed as exhibits to the annual information form,
+where one is filed, on SEDAR+ (or the equivalent registry in the applicable jurisdiction — EDGAR
+in the United States, the CNMV's electronic registry in Spain, the CNBV's STIV-2 platform in
+Mexico), where they are publicly available. As noted above, filing an annual information form
+is itself mandatory only for a non-venture issuer. Where a contract is exempted from the filing requirement — for example,
 because disclosure of specific commercial terms would be seriously prejudicial to the issuer's
 interests — the AIF still discloses the existence and general nature of the contract, and a
 registered investor may request additional information consistent with applicable disclosure

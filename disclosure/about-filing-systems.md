@@ -4,7 +4,7 @@ title: "Filing systems"
 slug: about-filing-systems
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: woodfine-editorial
 status: stable
 short_description: "Filing platform operated by the CSA for public dissemination of continuous disclosure documents, covering document categories, XBRL format rules, and NI 52-109 certification."
@@ -48,7 +48,8 @@ quarter-ends.
 **MD&A** — annual MD&A filed concurrently with annual financial statements; quarterly MD&A
 filed concurrently with interim financial statements.
 
-**Annual Information Form** — filed within 90 days of fiscal year-end.
+**Annual Information Form** — required only for a non-venture issuer, filed within 90 days of
+fiscal year-end; a venture issuer is not required to file one.
 
 **[[about-material-change-reporting|Material Change Reports]]** — Form 51-102F3 filed within 10 days of each material change.
 

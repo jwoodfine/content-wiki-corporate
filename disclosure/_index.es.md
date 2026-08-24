@@ -31,10 +31,10 @@ Cómo Funciona la Divulgación explica qué significa la divulgación continua p
 Explicaciones en lenguaje claro de qué significa la divulgación continua y cómo funciona.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: how-disclosure-works -->
-- [[about-continuous-disclosure]] — Requisitos de reporte del NI 51-102 aplicables a Woodfine Capital Projects Inc., incluyendo el formulario de información anual, el MD&A, los informes de cambios materiales y la presentación electrónica bajo el Aviso del Personal OSC 51-721.
-- [[about-disclosure-obligations]] — Las obligaciones de divulgación continua de un emisor que cotiza bajo NI 51-102: estados financieros anuales, formulario de información anual, estados interinos, MD&A e informes de cambios materiales.
+- [[about-continuous-disclosure]] — Requisitos de reporte del NI 51-102 aplicables a Woodfine Capital Projects Inc., incluyendo el MD&A, los informes de cambios materiales y la presentación electrónica bajo el Aviso del Personal OSC 51-721; el formulario de información anual aplica solo a emisores que no son de riesgo.
+- [[about-disclosure-obligations]] — Las obligaciones de divulgación continua de un emisor que cotiza bajo NI 51-102: estados financieros anuales, formulario de información anual (para emisores que no son de riesgo), estados interinos, MD&A e informes de cambios materiales.
 - [[about-regulatory-posture]] — La postura de divulgación de Woodfine Capital Projects Inc. previo a su oferta de prospecto planificada.
-- [[about-annual-reporting-cycle]] — Obligaciones de divulgación anual de un emisor canadiense: estados financieros IFRS auditados, formulario de información anual y MD&A dentro de 90 días del cierre fiscal.
+- [[about-annual-reporting-cycle]] — Obligaciones de divulgación anual de un emisor canadiense: estados financieros IFRS auditados y MD&A dentro de 90 o 120 días del cierre fiscal según la clasificación de emisor de riesgo; el Formulario de Información Anual aplica solo a emisores que no son de riesgo.
 - [[about-quarterly-reporting]] — Informes intermedios bajo NI 51-102: estados financieros condensados según IAS 34 y MD&A trimestral, presentados dentro de 45 días del cierre de cada uno de los tres primeros trimestres.
 - [[about-financial-reporting]] — Divulgaciones financieras periódicas que Woodfine Capital Projects Inc. prevé presentar como emisor bajo NI 51-102 tras la efectividad de su oferta de prospecto planificada.
 - [[about-material-change-reporting]] — La mecánica de los informes de cambios materiales bajo NI 51-102 Parte 7: qué constituye un cambio material, el proceso de dos pasos de comunicado de prensa más presentación del ICM, y el estándar para la divulgación oportuna.

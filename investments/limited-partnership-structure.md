@@ -11,7 +11,7 @@ short_description: "How the limited partnership legal form implements the direct
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: limited-partnership-structure.es.md
 ---
@@ -106,8 +106,10 @@ A limited partnership that has distributed its units to the public under a prosp
 that meets the statutory thresholds for [[regulated-reporting-entity|reporting issuer]] status under applicable provincial
 securities legislation, is subject to the [[about-disclosure-obligations|continuous disclosure obligations]] of [[about-annual-reporting-cycle|NI 51-102]] as
 a reporting issuer. In that capacity, the partnership — represented by its general partner —
-is required to file audited annual financial statements, interim financial statements, an
-annual information form, and management's discussion and analysis.
+is required to file audited annual financial statements, interim financial statements, and
+management's discussion and analysis. An annual information form is also required if the
+partnership is classified as a non-venture issuer; a venture issuer is not required to file
+one, though it may do so voluntarily.
 
 The financial statements of each direct-hold LP are prepared under IFRS (as required for
 reporting issuers under NI 52-107) and are filed on [[about-filing-systems|SEDAR+]] as the LP's standalone disclosure

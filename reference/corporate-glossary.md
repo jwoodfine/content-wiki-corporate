@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: corporate-glossary.es.md
 cites: []
@@ -28,7 +28,7 @@ It is a curated core set of roughly fifty terms, selected from an internal extra
 
 **Adjusted Funds From Operations (AFFO)** — Funds from operations less normalized maintenance capital expenditure and straight-lining adjustments; the more conservative measure of sustainable distributable cash flow. See [[cre-financial-metrics|Commercial real estate financial metrics]].
 
-**Annual Information Form (AIF)** — The comprehensive annual disclosure document describing an issuer's business, operations, and governance, filed under NI 51-102. See [[canadian-securities-terminology|Canadian securities regulatory terminology]].
+**Annual Information Form (AIF)** — The comprehensive annual disclosure document describing an issuer's business, operations, and governance, filed under NI 51-102 by non-venture issuers; a venture issuer is not required to file one. See [[canadian-securities-terminology|Canadian securities regulatory terminology]].
 
 **Assets Under Management (AUM)** — The total market value of the investments a financial institution or investment manager administers on behalf of clients.
 

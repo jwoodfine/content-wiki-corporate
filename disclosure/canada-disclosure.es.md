@@ -24,15 +24,16 @@ Professional Centres Canada LP es la Solución de Tenencia Directa ya establecid
 [[four-jurisdiction-framework|Marco de Cuatro Jurisdicciones]] —el modelo operativo que los vehículos planeados de
 Estados Unidos, España y México pretenden replicar. Como [[regulated-reporting-entity|emisor informante]],
 presenta divulgación pública continua ante la Comisión de Valores de Columbia Británica en
-SEDAR+, incluidos estados financieros anuales auditados, un formulario de información anual,
-estados financieros intermedios trimestrales y análisis de la administración, e informes de
-cambio material según lo exige la NI 51-102.
+SEDAR+, incluidos estados financieros anuales auditados, estados financieros intermedios
+trimestrales y análisis de la administración, e informes de cambio material según lo exige la
+NI 51-102. Como emisor de riesgo (venture issuer), Professional Centres Canada LP no está
+obligada a presentar un Formulario de Información Anual.
 
 ## Qué contendrá este espacio
 
 Este espacio está destinado a reunir los mismos informes conforme se compilan para su acceso
 directo desde este wiki: estados financieros anuales e intermedios auditados, análisis de la
-administración, formularios de información anual y otras presentaciones en SEDAR+, valuaciones
+administración y otras presentaciones en SEDAR+, valuaciones
 y tasaciones independientes de propiedades, y registros de distribución por activo conforme a
 la mecánica de distribución por activo del [[perpetual-equity-model|Modelo de Capital Perpetuo]]. Los
 documentos se añaden a este espacio conforme se compilan; el registro de presentaciones

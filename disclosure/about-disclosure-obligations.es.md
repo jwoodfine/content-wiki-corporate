@@ -7,11 +7,11 @@ index_group: how-disclosure-works
 type: topic
 content_type: topic
 quality: complete
-short_description: "Las obligaciones de divulgación continua de un emisor que cotiza bajo NI 51-102: estados financieros anuales, formulario de información anual, estados interinos, MD&A e informes de cambios materiales."
+short_description: "Las obligaciones de divulgación continua de un emisor que cotiza bajo NI 51-102: estados financieros anuales, formulario de información anual (para emisores que no son emisores de riesgo), estados interinos, MD&A e informes de cambios materiales."
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: about-disclosure-obligations.md
 ---
@@ -37,8 +37,10 @@ copias.
 **Formulario de información anual (FIA)** — Documento de divulgación bajo NI 51-102 Parte 6
 que proporciona una descripción detallada del emisor: sus negocios y operaciones, factores
 de riesgo, estructura de capital, directores y funcionarios, procedimientos legales y
-contratos materiales. No todos los emisores que cotizan están obligados a presentar un FIA;
-el requisito depende de umbrales de capitalización de mercado y de la moneda de reporte.
+contratos materiales. El FIA es análogo al Formulario 10-K de Estados Unidos. Presentar un
+FIA es obligatorio únicamente para un emisor que no sea un emisor de riesgo (non-venture
+issuer); un emisor de riesgo (venture issuer) no está obligado a presentarlo, aunque puede
+hacerlo de forma voluntaria — por ejemplo, para calificar para un prospecto abreviado.
 
 **Análisis y discusión de la administración anual (MD&A anual)** — Análisis narrativo de
 la administración sobre la condición financiera y los resultados de operaciones del emisor

@@ -12,15 +12,16 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: auditors-transfer-agent-registrar.md
 ---
 
 Tres funciones dan a los inversores y contrapartes confianza en que los estados financieros de
 un [[regulated-reporting-entity|emisor informante]], y su registro de quién posee qué, son exactos: el auditor,
-el agente de transferencia y el registrador. Un formulario de información anual divulga quién
-desempeña cada función. Este artículo describe qué hace cada función y por qué existe,
+el agente de transferencia y el registrador. Un formulario de información anual, cuando se
+presenta uno —presentarlo es obligatorio únicamente para un emisor que no sea de riesgo—,
+divulga quién desempeña cada función. Este artículo describe qué hace cada función y por qué existe,
 independientemente de la firma específica que la desempeñe en un momento dado.
 
 ## El auditor

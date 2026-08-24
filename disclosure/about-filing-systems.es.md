@@ -4,7 +4,7 @@ title: "Sistemas de Presentación"
 slug: about-filing-systems
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-06-29
+last_edited: 2026-08-24
 editor: woodfine-editorial
 status: stable
 short_description: "Plataforma de presentación operada por la CSA para la difusión pública de documentos de divulgación continua, incluyendo categorías de documentos, formato XBRL y certificación NI 52-109."
@@ -43,8 +43,9 @@ primeros tres cierres de trimestre.
 **MD&A** — MD&A anual presentado de forma concurrente con los estados financieros anuales;
 MD&A trimestral presentado de forma concurrente con los estados financieros intermedios.
 
-**Formulario de Información Anual** — presentado en un plazo de 90 días del cierre del
-ejercicio fiscal.
+**Formulario de Información Anual** — exigido únicamente para un emisor que no sea de riesgo
+(non-venture issuer), presentado en un plazo de 90 días del cierre del ejercicio fiscal; un
+emisor de riesgo (venture issuer) no está obligado a presentarlo.
 
 **[[about-material-change-reporting|Informes de Cambio Material]]** — Formulario 51-102F3 presentado en un plazo de 10 días de
 cada cambio material.

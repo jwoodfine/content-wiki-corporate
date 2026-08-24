@@ -4,7 +4,7 @@ title: "Financial reporting"
 slug: about-financial-reporting
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: woodfine-editorial
 status: stable
 short_description: "Periodic financial disclosures Woodfine Capital Projects Inc. intends to file as a reporting issuer under NI 51-102 upon effectiveness of its planned prospectus offering."
@@ -21,14 +21,17 @@ Woodfine Capital Projects Inc. intends to file mandatory annual and interim fina
 disclosures as a [[regulated-reporting-entity|reporting issuer]] under National Instrument 51-102
 *[[about-disclosure-obligations|Continuous Disclosure Obligations]]*, upon effectiveness of its planned
 prospectus offering.[^1] These filings give investors and regulators audited and reviewed
-financial statements, management's analysis of results and outlook, and the annual information
-form that describes the company's business, risk factors, and governance structure.
+financial statements and management's analysis of results and outlook. If WCP is classified as
+a non-venture issuer, its filings also include an annual information form describing the
+company's business, risk factors, and governance structure — a venture issuer is not required
+to file one.
 
 ## Annual reporting cycle
 
 [[about-annual-reporting-cycle|Annual disclosure]] for the fiscal year ended December 31 is due no later than March 31 of the
-following year (90 days after fiscal year end). The annual filing package consists of three
-components.
+following year (90 days after fiscal year end, or 120 days for a venture issuer). The annual
+filing package consists of up to three components; a venture issuer's package consists of the
+first two below, since venture issuers are not required to file an annual information form.
 
 **Audited annual financial statements** are prepared in accordance with International Financial
 Reporting Standards as adopted by the Canadian Accounting Standards Board. They include the
@@ -42,11 +45,12 @@ during the fiscal year. It includes a forward-looking overview of business prior
 factors. Material assumptions underlying forward-looking statements are identified and
 disclosed. The annual MD&A is filed together with the annual financial statements.
 
-**Annual information form (AIF)** on Form 51-102F2 provides background on the company's
-corporate structure, business operations, properties, risk factors, directors and officers,
-legal proceedings, and audit committee composition. The AIF is the primary document for
-investors seeking a comprehensive factual description of the company's business and governance
-at a point in time.
+**Annual information form (AIF)** on Form 51-102F2, where one is filed, provides background on
+the company's corporate structure, business operations, properties, risk factors, directors and
+officers, legal proceedings, and audit committee composition. Filing an AIF is mandatory only
+for a non-venture issuer; a venture issuer is not required to file one, though it may do so
+voluntarily. Where filed, the AIF is the primary document for investors seeking a comprehensive
+factual description of the company's business and governance at a point in time.
 
 ## Interim reporting cycle
 
@@ -72,8 +76,10 @@ This section describes NI 51-102 reporting as it applies to the Canada and Unite
 direct-hold solution that has completed a prospectus offering is a distinct reporting issuer
 with its own obligations under NI 51-102; WCP intends to become a reporting issuer upon
 effectiveness of its planned prospectus offering. Each LP-form direct-hold solution files its
-own audited annual financial statements, annual information form, and MD&A as a standalone
-issuer; these are not consolidated into WCP's financial statements. The Spain SOCIMI and
+own audited annual financial statements and MD&A as a standalone issuer; where a solution is a
+non-venture issuer, it also files an annual information form. As a venture issuer, Professional
+Centres Canada LP is not required to file an AIF. None of these filings are consolidated into
+WCP's financial statements. The Spain SOCIMI and
 Mexico FIBRA report to their own jurisdictions' regulators — the CNMV and CNBV respectively —
 under those regulators' own disclosure regimes, not NI 51-102 or SEDAR+.
 

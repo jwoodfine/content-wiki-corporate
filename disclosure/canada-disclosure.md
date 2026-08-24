@@ -24,14 +24,15 @@ Professional Centres Canada LP is the established Direct-Hold Solution in the [[
 Framework]] — the operating model that the planned United States, Spain, and Mexico vehicles are
 intended to replicate. As a [[regulated-reporting-entity|reporting issuer]], it files continuous public disclosure
 with the British Columbia Securities Commission on SEDAR+, including annual audited financial
-statements, an annual information form, quarterly interim statements and management's
-discussion and analysis, and material change reports as required under NI 51-102.
+statements, quarterly interim statements and management's discussion and analysis, and material
+change reports as required under NI 51-102. As a venture issuer, Professional Centres Canada LP
+is not required to file an Annual Information Form.
 
 ## What this shelf will hold
 
 This shelf is intended to carry the same reports as they are compiled for direct access from
 this wiki: audited annual and interim financial statements, management's discussion and
-analysis, annual information forms and other SEDAR+ filings, independent property valuations
+analysis and other SEDAR+ filings, independent property valuations
 and appraisals, and per-asset distribution records consistent with the
 [[perpetual-equity-model|Perpetual Equity Model]]'s per-asset distribution mechanics. Documents are added to this
 shelf as they are compiled; the authoritative and complete filing record remains SEDAR+.

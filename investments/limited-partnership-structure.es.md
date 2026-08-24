@@ -11,7 +11,7 @@ short_description: "Cómo la forma jurídica de sociedad en comandita implementa
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: limited-partnership-structure.md
 ---
@@ -100,8 +100,14 @@ inversor y es un asunto para el asesor fiscal calificado.
 
 Una sociedad en comandita que ha distribuido sus participaciones al público bajo un prospecto,
 o que cumple los umbrales legales para el estado de [[regulated-reporting-entity|emisor informante]], está sujeta a las
-[[about-disclosure-obligations|obligaciones de divulgación continua]] de la [[about-annual-reporting-cycle|NI 51-102]]. Los estados financieros de cada SC de
-tenencia directa se presentan bajo las NIIF y se archivan en [[about-filing-systems|SEDAR+]].
+[[about-disclosure-obligations|obligaciones de divulgación continua]] de la [[about-annual-reporting-cycle|NI 51-102]] como emisor informante. En esa
+calidad, la sociedad — representada por su socio gestor — debe presentar estados financieros
+anuales auditados, estados financieros intermedios y el análisis y discusión de la
+administración. También debe presentar un formulario de información anual si la sociedad se
+clasifica como emisor que no es de riesgo (non-venture issuer); un emisor de riesgo (venture
+issuer) no está obligado a presentarlo, aunque puede hacerlo de forma voluntaria. Los estados
+financieros de cada SC de tenencia directa se presentan bajo las NIIF y se archivan en
+[[about-filing-systems|SEDAR+]].
 
 ## Consulte también
 

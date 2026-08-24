@@ -12,15 +12,16 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: legal-proceedings.es.md
 ---
 
 A [[regulated-reporting-entity|reporting issuer]] must disclose whether it, or a subsidiary, is party to any
 legal proceeding material to its business, and describe the nature and status of any such
-proceeding. This standard, recurring disclosure item appears in the annual information form
-and related continuous disclosure filings. This article is the wiki's
+proceeding. This standard, recurring disclosure item appears in the annual information form,
+where one is filed — filing an AIF is mandatory only for a non-venture issuer — and in
+related continuous disclosure filings more generally. This article is the wiki's
 plain-language rendering of that disclosure item; the authoritative statement for a specific
 reporting period is the applicable filing on SEDAR+ or the equivalent registry in the
 applicable jurisdiction.
