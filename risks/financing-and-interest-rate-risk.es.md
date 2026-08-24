@@ -36,7 +36,7 @@ existe garantía de que el financiamiento esté disponible en los términos supu
 un proyecto, ni en ningún término en particular. Un período de condiciones crediticias
 restrictivas, menor apetito de los inversores por deuda inmobiliaria, o un deterioro en la
 calidad crediticia percibida del patrocinador o de la clase de activo específica podrían
-aumentar el costo de la deuda o reducir el monto disponible, lo que a su vez podría retrasar el
+aumentar el costo de la deuda o reducir el monto disponible. Eso, a su vez, podría retrasar el
 ritmo de financiamiento de las fases de construcción subsiguientes.
 
 ## Exposición a la tasa de interés tras el arrendamiento

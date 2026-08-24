@@ -40,7 +40,7 @@ The registrar maintains the definitive record of who currently holds each outsta
 — the register of unit holders or shareholders. For the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]], this
 function is performed through the property ledger: each vehicle's own governing entity — the
 general partner in Canada and the United States, the Administrator in Spain and Mexico —
-updates the ledger when a completed transfer is received, and the ledger entry — not a
+updates the ledger when a completed transfer is received. The ledger entry — not a
 separate paper register — is the authoritative record of ownership for that asset, as
 described in [[accredited-investor-eligibility|Accredited Investor Eligibility]]. The registrar function exists
 so that there is one authoritative answer, at any point in time, to the question of who owns a

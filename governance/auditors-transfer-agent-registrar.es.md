@@ -42,7 +42,7 @@ circulación —el registro de tenedores de unidades o acciones. Para las
 [[direct-hold-solutions-structural-comparison|Soluciones de Tenencia Directa]], esta función se desempeña a través del
 libro mayor de propiedad: la propia entidad de gobierno de cada vehículo —el socio gestor en
 Canadá y Estados Unidos, el Administrador en España y México— actualiza el libro
-mayor cuando recibe una transferencia completada, y el registro en el libro mayor —no un
+mayor cuando recibe una transferencia completada. El registro en el libro mayor —no un
 registro en papel separado— es el registro autorizado de propiedad para ese activo, según se
 describe en [[accredited-investor-eligibility|Elegibilidad de Inversionista Acreditado]]. La función de registrador existe
 para que exista una única respuesta autorizada, en cualquier momento, a la pregunta de quién es

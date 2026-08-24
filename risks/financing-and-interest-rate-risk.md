@@ -35,7 +35,7 @@ built. There is no assurance that financing will be available on the terms assum
 outset of a project, or on any particular terms at all. A period of tight credit conditions,
 reduced investor appetite for real estate debt, or a deterioration in the perceived credit
 quality of the sponsor or the specific asset class could increase the cost of debt or reduce
-the amount of debt available, which in turn could slow the pace at which subsequent
+the amount of debt available. That, in turn, could slow the pace at which subsequent
 construction phases are funded.
 
 ## Interest rate exposure after lease-up

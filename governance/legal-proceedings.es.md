@@ -30,7 +30,7 @@ presentación aplicable en SEDAR+ o el registro equivalente en la jurisdicción 
 Cuando no existe ningún procedimiento legal material, la forma estándar de este elemento de
 divulgación declara que el emisor y sus subsidiarias no son parte de ningún procedimiento legal
 que la administración considere material para el negocio, la condición financiera o las
-operaciones de la compañía; cuando sí existe un procedimiento material, el elemento describe en
+operaciones de la compañía. Cuando sí existe un procedimiento material, el elemento describe en
 su lugar su naturaleza y estatus. Este wiki no reitera el valor vigente de esa declaración para
 el período actual, porque es vigente únicamente a la fecha de presentación y cambia en cada
 ciclo de reporte. La declaración autorizada y vigente para Woodfine Capital Projects Inc. y sus

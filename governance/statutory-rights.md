@@ -30,8 +30,8 @@ qualified legal counsel, for the rights applicable to their own investment.
 Where units are distributed under a prospectus, applicable provincial securities legislation —
 for example, section 131 of the British Columbia Securities Act and equivalent provisions in
 other provinces — generally gives a purchaser a statutory right of rescission or a right of
-action for damages against the issuer, its directors, and certain other parties, if the
-prospectus contains a misrepresentation. This right typically must be exercised within a
+action for damages if the prospectus contains a misrepresentation. The right runs against the
+issuer, its directors, and certain other parties. This right typically must be exercised within a
 prescribed limitation period following the purchase, and the specific procedural requirements
 vary by province. The purpose of the right is to give an investor a remedy where the disclosure
 document they relied on turns out to have been materially inaccurate.
@@ -54,9 +54,9 @@ principles of law, independent of securities-specific statutory rights.
 
 A separate exemption available under Canadian securities law, the offering memorandum exemption
 of NI 45-106, is generally accompanied by a mandated statutory right of action for damages or
-rescission if the offering memorandum contains a misrepresentation — a protection built into
-that specific exemption because it can be used to distribute securities to purchasers who are
-not required to meet the accredited investor threshold. See [[exemptions|Exemptions]] for the specific
+rescission if the offering memorandum contains a misrepresentation. That protection is built
+into this specific exemption because it can be used to distribute securities to purchasers who
+are not required to meet the accredited investor threshold. See [[exemptions|Exemptions]] for the specific
 exemptions the Direct-Hold Solutions rely upon; the offering memorandum exemption is described
 here for comparison and is not the exemption used for the distributions described elsewhere in
 this wiki.

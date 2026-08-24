@@ -31,8 +31,8 @@ derechos aplicables a su propia inversión.
 Cuando las unidades se distribuyen mediante un prospecto, la legislación provincial de valores
 aplicable —por ejemplo, el artículo 131 de la Ley de Valores de Columbia Británica y
 disposiciones equivalentes en otras provincias— generalmente otorga al comprador un derecho
-estatutario de rescisión o un derecho de acción por daños contra el emisor, sus directores y
-ciertas otras partes, si el prospecto contiene una tergiversación. Este derecho generalmente
+estatutario de rescisión o un derecho de acción por daños si el prospecto contiene una
+tergiversación. El derecho se ejerce contra el emisor, sus directores y ciertas otras partes. Este derecho generalmente
 debe ejercerse dentro de un plazo de prescripción determinado a partir de la compra, y los
 requisitos procesales específicos varían según la provincia. El propósito del derecho es
 otorgar al inversor un recurso en caso de que el documento de divulgación en el que se basó
@@ -57,9 +57,9 @@ derecho, independientemente de los derechos estatutarios específicos de valores
 
 Una exención separada disponible bajo la ley de valores canadiense, la exención de memorándum
 de oferta de la NI 45-106, generalmente se acompaña de un derecho estatutario obligatorio de
-acción por daños o rescisión si el memorándum de oferta contiene una tergiversación —una
-protección incorporada en esa exención específica porque puede usarse para distribuir valores a
-compradores que no requieren cumplir el umbral de inversionista acreditado—. Véase
+acción por daños o rescisión si el memorándum de oferta contiene una tergiversación. Esa
+protección está incorporada en esa exención específica porque puede usarse para distribuir
+valores a compradores que no requieren cumplir el umbral de inversionista acreditado. Véase
 [[exemptions|Exenciones]] para conocer las exenciones específicas en las que se apoyan las Soluciones de
 Tenencia Directa; la exención de memorándum de oferta se describe aquí solo con fines
 comparativos y no es la exención utilizada para las distribuciones descritas en el resto de

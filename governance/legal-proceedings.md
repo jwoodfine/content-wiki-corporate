@@ -29,7 +29,7 @@ applicable jurisdiction.
 
 Where no material legal proceeding exists, the standard form of this disclosure item states
 that the issuer and its subsidiaries are not party to any legal proceeding that management
-considers material to the business, financial condition, or operations of the company; where
+considers material to the business, financial condition, or operations of the company. Where
 a material proceeding does exist, the item instead describes its nature and status. This wiki
 does not restate the current-period value of that statement, because it is current only as of
 the filing date and changes at each reporting cycle. The authoritative, current statement for
