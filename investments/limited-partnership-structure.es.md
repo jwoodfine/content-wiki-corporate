@@ -47,11 +47,12 @@ su capital invertido.
 
 El acuerdo de sociedad es el instrumento rector de cada solución de tenencia directa constituida como SC.
 Especifica los derechos y obligaciones de todos los socios: la estructura de cuentas de
-capital, la asignación de ingresos y pérdidas entre los socios, las condiciones para las
-distribuciones, las disposiciones de transferencia que permiten a los socios comanditarios
-transferir sus participaciones a cualquier contraparte elegible sujeto a una lista breve y
-enumerada de motivos por los cuales el socio general puede rechazar una transferencia
-específica, y los procedimientos de gobernanza para las decisiones fundamentales.
+capital, la asignación de ingresos y pérdidas entre los socios, y las condiciones para las
+distribuciones. También establece las disposiciones de transferencia — que permiten a los
+socios comanditarios transferir sus participaciones a cualquier contraparte elegible, sujeto
+a una lista breve y enumerada de motivos por los cuales el socio general puede rechazar una
+transferencia específica — y los procedimientos de gobernanza para las decisiones
+fundamentales.
 
 Las disposiciones de transferencia del acuerdo implementan el
 [[equity-transfer-model|modelo de transferencia de participaciones]]: el socio general

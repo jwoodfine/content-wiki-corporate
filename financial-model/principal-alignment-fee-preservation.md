@@ -19,7 +19,7 @@ paired_with: principal-alignment-fee-preservation.es.md
 cites: []
 ---
 
-The **Principal Alignment and Fee Preservation** model describes how compensation in the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] is structured to enforce a direct alignment between the developer's economic interest and the investment returns of the investors it serves. The conventional alternative investment fee model — the 2/20 structure of a 2% annual management fee and 20% carried interest — is restructured in two ways: developer profit is taken as equity rather than cash, and the variable management fee is replaced by a fixed annual overhead contribution that does not grow with the passage of time or the execution of transactions.
+The **Principal Alignment and Fee Preservation** model describes how compensation in the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] is structured to enforce a direct alignment between the developer's economic interest and the investment returns of the investors it serves. The conventional alternative investment fee model — the 2/20 structure of a 2% annual management fee and 20% carried interest — is restructured in two ways. Developer profit is taken as equity rather than cash, and the variable management fee is replaced by a fixed annual overhead contribution that does not grow with the passage of time or the execution of transactions.
 
 ## The problem with the conventional 2/20 model
 

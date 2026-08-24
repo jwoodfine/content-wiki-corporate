@@ -28,7 +28,7 @@ Under the price/earnings method, WCP's projected annual earnings for a given for
 
 ## The earnings-yield method
 
-The earnings-yield method inverts the same earnings line against a fixed target yield — 4.5% in this model — dividing projected annual earnings by that rate to produce a second, independent implied per-share value. Run alongside the price/earnings method rather than in place of it, the earnings-yield calculation serves as a cross-check: because a price/earnings multiple and an earnings yield are reciprocal expressions of the same relationship, any material divergence between the two implied values in a given forecast year signals that the modeled multiple and the modeled yield are not internally consistent with each other for that period.
+The earnings-yield method inverts the same earnings line against a fixed target yield — 4.5% in this model — dividing projected annual earnings by that rate to produce a second, independent implied per-share value. Run alongside the price/earnings method rather than in place of it, the earnings-yield calculation serves as a cross-check. A price/earnings multiple and an earnings yield are reciprocal expressions of the same relationship, so any material divergence between the two implied values in a given forecast year signals that the modeled multiple and the modeled yield are not internally consistent with each other for that period.
 
 ## The book-value method and the beneficial-ownership NAV build
 

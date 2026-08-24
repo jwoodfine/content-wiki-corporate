@@ -56,10 +56,10 @@ capped liability protects them from loss beyond their investment.
 
 The partnership agreement is the governing instrument of each LP-form direct-hold solution. It
 specifies the rights and obligations of all partners: the capital account structure, the
-allocation of income and loss among partners, the conditions for distributions, the transfer
-provisions that allow limited partners to transfer their units to any eligible counterparty
-subject to a short, enumerated list of grounds on which the general partner may decline a
-specific transfer, and the governance procedures for material decisions.
+allocation of income and loss among partners, and the conditions for distributions. It also
+sets out the transfer provisions — which allow limited partners to transfer their units to any
+eligible counterparty, subject to a short, enumerated list of grounds on which the general
+partner may decline a specific transfer — and the governance procedures for material decisions.
 
 The transfer provisions of the agreement implement the [[equity-transfer-model|equity transfer model]]:
 the general partner admits any transferee as a limited partner, subject to the transferee

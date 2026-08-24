@@ -44,10 +44,10 @@ jurisdictions' corporate and trust law, not through limited partnership form.
 
 A limited partnership in Canada is a legal entity distinct from its partners. The LP can
 own property, incur debt, enter contracts, and be a party to litigation in its own name.
-This legal personhood means the assets of the LP belong to the LP, not to its partners —
-and conversely, the creditors of the LP have recourse to the LP's assets, not to the personal
-assets of the limited partners (whose liability is capped at their invested capital) or to the
-assets of other vehicles that share the same general partner or beneficial owner.
+This legal personhood means the assets of the LP belong to the LP, not to its partners.
+Conversely, the creditors of the LP have recourse to the LP's assets — not to the personal
+assets of the limited partners (whose liability is capped at their invested capital), and not
+to the assets of other vehicles that share the same general partner or beneficial owner.
 
 The direct-hold structure exploits this separation deliberately. By holding each asset in a
 separate legal entity, the default of any single asset — a lender calling a loan, a judgment

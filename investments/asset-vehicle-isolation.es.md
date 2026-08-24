@@ -42,8 +42,8 @@ de sus propias jurisdicciones, no mediante la forma de sociedad en comandita.
 ## Separación legal
 
 Una sociedad en comandita en Canadá es una entidad legal distinta de sus socios. Los activos
-de la SC pertenecen a la SC, no a sus socios — y, a la inversa, los acreedores de la SC
-tienen recurso sobre los activos de la SC, no sobre los activos personales de los socios
+de la SC pertenecen a la SC, no a sus socios. A la inversa, los acreedores de la SC tienen
+recurso sobre los activos de la SC — no sobre los activos personales de los socios
 comanditarios ni sobre los activos de otros vehículos que compartan el mismo socio gestor.
 
 ## Financiamiento hipotecario

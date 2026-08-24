@@ -28,7 +28,7 @@ Bajo el método de precio/utilidad, las utilidades anuales proyectadas de WCP pa
 
 ## El método de rendimiento de utilidades
 
-El método de rendimiento de utilidades invierte la misma línea de utilidades frente a una tasa objetivo fija — 4,5% en este modelo — dividiendo las utilidades anuales proyectadas entre esa tasa para producir un segundo valor implícito por acción, independiente del primero. Aplicado junto con el método de precio/utilidad, y no en su lugar, el cálculo del rendimiento de utilidades funciona como una verificación cruzada: dado que un múltiplo de precio/utilidad y un rendimiento de utilidades son expresiones recíprocas de la misma relación, cualquier divergencia significativa entre los dos valores implícitos en un año determinado de la proyección señala que el múltiplo modelado y el rendimiento modelado no son internamente consistentes entre sí para ese período.
+El método de rendimiento de utilidades invierte la misma línea de utilidades frente a una tasa objetivo fija — 4,5% en este modelo — dividiendo las utilidades anuales proyectadas entre esa tasa para producir un segundo valor implícito por acción, independiente del primero. Aplicado junto con el método de precio/utilidad, y no en su lugar, el cálculo del rendimiento de utilidades funciona como una verificación cruzada. Un múltiplo de precio/utilidad y un rendimiento de utilidades son expresiones recíprocas de la misma relación, por lo que cualquier divergencia significativa entre los dos valores implícitos en un año determinado de la proyección señala que el múltiplo modelado y el rendimiento modelado no son internamente consistentes entre sí para ese período.
 
 ## El método de valor en libros y la construcción del VAN de beneficio económico
 
