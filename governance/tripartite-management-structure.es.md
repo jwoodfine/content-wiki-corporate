@@ -14,7 +14,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-30
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: tripartite-management-structure.md
 cites: []
@@ -34,11 +34,11 @@ La primera pata realiza el trabajo físico de la plataforma de Soluciones de Ten
 
 ## Administración del cumplimiento como Entidad de Reporte Regulada
 
-La segunda pata administra las obligaciones de divulgación continua y de reporte que corresponden al estatus de cada Solución de Tenencia Directa como [[regulated-reporting-entity|Entidad de Reporte Regulada]]: la presentación de estados financieros anuales e intermedios, el mantenimiento del expediente de divulgación exigido por el regulador de valores de cada jurisdicción, y la coordinación con auditores y asesoría legal en materia de divulgación. Esta función corresponde al propio órgano de gobierno de cada vehículo — en Canadá, el socio general, Woodfine Professional Centres Inc. Mantener esta función separada de la ejecución del desarrollo significa que la administración del cumplimiento nunca queda subordinada a las prioridades de construcción o arrendamiento.
+La segunda pata administra las obligaciones de divulgación continua y de reporte que corresponden al estatus de cada Solución de Tenencia Directa como [[regulated-reporting-entity|Entidad Regulada Emisora de Información]]: la presentación de estados financieros anuales e intermedios, el mantenimiento del expediente de divulgación exigido por el regulador de valores de cada jurisdicción, y la coordinación con auditores y asesoría legal en materia de divulgación. Esta función corresponde al propio órgano de gobierno de cada vehículo — en Canadá, el socio general, Woodfine Professional Centres Inc. Mantener esta función separada de la ejecución del desarrollo significa que la administración del cumplimiento nunca queda subordinada a las prioridades de construcción o arrendamiento.
 
 ## El sindicato bancario independiente de Gestores de Activos
 
-La tercera pata es estructuralmente la más distinta de las tres: no es en absoluto una función interna del grupo Woodfine. El Capital Privado Calificado llega a la plataforma a través de un sindicato de Gestores de Activos independientes, contratados en condiciones de plena independencia respecto del grupo. Se trata de la misma categoría de fiduciario descrita en [[principal-alignment-fee-preservation|Alineación de Principales y Preservación de Comisiones]] — gestores que actúan en representación de categorías de inversores internacionales e institucionales, remunerados con cargo al fondo de comisiones preservado que la estructura de comisión fija de la plataforma está diseñada para proteger, en lugar de absorberlo en una comisión convencional tipo 2/20. Debido a que esta pata se sitúa fuera del operador, las decisiones de obtención de capital las toman partes cuyo deber fiduciario corresponde a los inversores a quienes representan, no al grupo — el acceso de la plataforma al capital no depende de, ni puede ser dirigido por, las mismas funciones de gestión que construyen y reportan sobre los activos subyacentes.
+La tercera pata es estructuralmente la más distinta de las tres: no es en absoluto una función interna del grupo Woodfine. El Capital Privado Calificado llega a la plataforma a través de un sindicato de Gestores de Activos independientes, contratados en condiciones de plena independencia respecto del grupo. Se trata de la misma categoría de fiduciario descrita en [[principal-alignment-fee-preservation|Alineación de Principales y Preservación de Tarifas]] — gestores que actúan en representación de categorías de inversores internacionales e institucionales, remunerados con cargo al fondo de comisiones preservado que la estructura de comisión fija de la plataforma está diseñada para proteger, en lugar de absorberlo en una comisión convencional tipo 2/20. Debido a que esta pata se sitúa fuera del operador, las decisiones de obtención de capital las toman partes cuyo deber fiduciario corresponde a los inversores a quienes representan, no al grupo — el acceso de la plataforma al capital no depende de, ni puede ser dirigido por, las mismas funciones de gestión que construyen y reportan sobre los activos subyacentes.
 
 ## Por qué se mantienen separadas las tres patas
 
@@ -47,6 +47,6 @@ Combinar cualesquiera dos de estas patas bajo una autoridad común crearía un c
 ## Véase también
 
 - [[corporate-structure|Estructura Corporativa]] — la separación corporativa de tres entidades a nivel de la sociedad matriz, entre propiedad, tecnología y operaciones inmobiliarias
-- [[regulated-reporting-entity|Entidad de Reporte Regulada]] — las obligaciones de administración del cumplimiento que ejerce la segunda pata
-- [[principal-alignment-fee-preservation|Alineación de Principales y Preservación de Comisiones]] — la estructura de comisiones que remunera a los Gestores de Activos independientes que conforman la tercera pata
+- [[regulated-reporting-entity|Entidad Regulada Emisora de Información]] — las obligaciones de administración del cumplimiento que ejerce la segunda pata
+- [[principal-alignment-fee-preservation|Alineación de Principales y Preservación de Tarifas]] — la estructura de comisiones que remunera a los Gestores de Activos independientes que conforman la tercera pata
 - [[governance-documents|Documentos de Gobernanza Corporativa]] — la supervisión del directorio y sus comités sobre las funciones de gestión descritas aquí

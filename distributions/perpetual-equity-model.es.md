@@ -41,7 +41,7 @@ La mecánica de la transferencia es directa: el vendedor identifica una contrapa
 
 ## Política de distribuciones
 
-Las distribuciones se declaran por activo, no a nivel de cartera. El socio gestor declara las distribuciones con cargo a los ingresos operativos a su discreción, sujeto a que la sociedad cuente con efectivo disponible suficiente, a la preservación de la reserva de capital de trabajo y al cumplimiento del convenio agregado de [[cre-financial-metrics|ratio de cobertura de intereses]] (RCI) del vehículo. El convenio de RCI es una restricción sobre la capacidad de endeudamiento, fijada en un suelo de 1,20× y calculada para el vehículo en su conjunto y no para un activo individual — rige cuánta deuda nueva puede asumir el vehículo, no si se declara una distribución de una propiedad en particular.
+Las distribuciones se declaran por activo, no a nivel de cartera. El socio gestor declara las distribuciones con cargo a los ingresos operativos a su discreción, sujeto a que la sociedad cuente con efectivo disponible suficiente, a la preservación de la reserva de capital de trabajo y al cumplimiento del convenio agregado de [[cre-financial-metrics|razón de cobertura de intereses]] (RCI) del vehículo. El convenio de RCI es una restricción sobre la capacidad de endeudamiento, fijada en un suelo de 1,20× y calculada para el vehículo en su conjunto y no para un activo individual — rige cuánta deuda nueva puede asumir el vehículo, no si se declara una distribución de una propiedad en particular.
 
 Cuando se declaran distribuciones, se pagan proporcionalmente entre todas las unidades en circulación del activo correspondiente. Ninguna unidad del mismo activo goza de un derecho de distribución preferente sobre otra.
 

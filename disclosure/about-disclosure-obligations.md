@@ -83,6 +83,6 @@ participants simultaneous access to material information.
 
 ## See also
 
-- [[about-regulatory-posture|regulatory-posture]] — the regulatory framework applicable to reporting issuers
+- [[about-regulatory-posture|Regulatory Posture]] — the regulatory framework applicable to reporting issuers
 - [[about-financial-reporting]] — the financial statements component of the continuous disclosure
   package

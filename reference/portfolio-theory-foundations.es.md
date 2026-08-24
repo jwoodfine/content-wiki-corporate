@@ -14,7 +14,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-15
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: portfolio-theory-foundations.md
 cites: []
@@ -61,7 +61,7 @@ La teoría moderna de cartera sostiene que la asignación diversificada a travé
 
 ## Véase también
 
-- [[principal-alignment-fee-preservation|Alineación de Principal y Preservación de Comisiones]] — cómo se estructura la compensación del gestor en las Direct-Hold Solutions, una alternativa al modelo convencional de comisiones de inversión alternativa
-- [[narrow-bank-financial-model|Modelo Financiero de Banca Estrecha]] — el motor financiero que aplican las Direct-Hold Solutions
+- [[principal-alignment-fee-preservation|Alineación de Principales y Preservación de Tarifas]] — cómo se estructura la compensación del gestor en las Direct-Hold Solutions, una alternativa al modelo convencional de comisiones de inversión alternativa
+- [[narrow-bank-financial-model|Modelo Financiero Narrow Bank]] — el motor financiero que aplican las Direct-Hold Solutions
 - [[direct-hold-framework|Marco de Tenencia Directa]] — la estructura jurídica de propiedad evaluada frente a estos conceptos de teoría de cartera
 - [[global-investment-terminology|Terminología Global de Inversión]] — glosario interjurisdiccional de términos de inversión

@@ -30,7 +30,7 @@ policies described below are planned, not yet adopted or published.**
 
 ## Audit committee
 
-Professional Centres Canada LP has an [[audit-committee-mandate|audit committee charter]]
+Professional Centres Canada LP has an [[audit-committee-mandate|Audit Committee Mandate]]
 in place. The committee assists the general partner's board in its oversight of the
 integrity of financial reporting, the independence and performance of the external
 auditor, and the adequacy of internal control and risk management processes. The charter

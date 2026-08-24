@@ -16,7 +16,7 @@ short_description: "A reader's map: this knowledge base describes the
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-03
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: wiki-structure.es.md
 ---
@@ -39,7 +39,7 @@ written in plain language, and every technical term links to the glossary.
    each investor's home jurisdiction. Where an offering is planned
    rather than open, the articles say so plainly.
 3. **The Financial Model** — the financial engine. Under the
-   [[narrow-bank-financial-model|Narrow Banking Model]], buildings are intended to be built with zero
+   [[narrow-bank-financial-model|Narrow Bank Financial Model]], buildings are intended to be built with zero
    construction debt, using subscription capital; borrowing is planned
    to come only after buildings are leased and earning. The fees
    Woodfine charges, what it earns, and why its own stake is designed to

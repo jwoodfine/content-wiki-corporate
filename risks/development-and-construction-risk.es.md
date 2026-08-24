@@ -18,8 +18,7 @@ paired_with: development-and-construction-risk.md
 ---
 
 La construcción desde cero de un edificio nuevo conlleva riesgos distintos a los de poseer una
-propiedad terminada y generadora de ingresos. El [[narrow-bank-financial-model|Modelo de Financiamiento de Banca
-Estrecha]] elimina el riesgo de deuda durante el período de construcción al financiar la obra con
+propiedad terminada y generadora de ingresos. El [[narrow-bank-financial-model|Modelo Financiero Narrow Bank]] elimina el riesgo de deuda durante el período de construcción al financiar la obra con
 capital, pero la construcción en sí sigue sujeta a incertidumbre de costo, cronograma y
 regulación que ninguna estructura de financiamiento puede eliminar.
 
@@ -79,12 +78,12 @@ inicial están sujetos al [[market-and-property-risk|riesgo de mercado y de prop
 específica. Un edificio que tarda más de lo previsto en arrendarse, o que se arrienda a rentas
 inferiores a los supuestos de suscripción, genera menos ingresos durante el período de
 arrendamiento inicial de lo proyectado originalmente, lo que a su vez afecta la rapidez con que
-el [[cre-financial-metrics|Índice de Cobertura de Intereses]] del vehículo alcanza el nivel requerido para iniciar
+el [[cre-financial-metrics|Razón de Cobertura de Intereses]] del vehículo alcanza el nivel requerido para iniciar
 la fase de deuda.
 
 ## Consulte también
 
 - [[about-risks]] — cómo se organizan las categorías de riesgo en este wiki
-- [[narrow-bank-financial-model|Modelo de Financiamiento de Banca Estrecha]] — la secuencia de construcción y financiamiento referida arriba
+- [[narrow-bank-financial-model|Modelo Financiero Narrow Bank]] — la secuencia de construcción y financiamiento referida arriba
 - [[market-and-property-risk]] — riesgo de arrendamiento y de valor de la propiedad tras completar la construcción
 - [[structure-and-regulatory-risk]] — riesgo regulatorio más allá de la zonificación y los permisos

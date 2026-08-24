@@ -84,6 +84,6 @@ emisor unilateralmente, y aplica a términos específicos, no a la existencia de
 
 ## Consulte también
 
-- [[governance-documents|Documentos de Gobierno Corporativo]] — los instrumentos del consejo y comités que supervisan la revisión de contratos materiales
+- [[governance-documents|Documentos de Gobernanza Corporativa]] — los instrumentos del consejo y comités que supervisan la revisión de contratos materiales
 - [[investor-relations-policy|Política de Relaciones con Inversores]] — cómo dirigen los inversores sus consultas sobre contratos divulgados
 - [[legal-proceedings|Procedimientos Legales]] — el elemento de divulgación paralelo del formulario de información anual para litigios pendientes

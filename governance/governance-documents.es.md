@@ -31,8 +31,7 @@ pero aún no han sido adoptados ni publicados.**
 
 ## Comité de auditoría
 
-Professional Centres Canada LP cuenta con un [[audit-committee-mandate|estatuto del
-comité de auditoría]] vigente. El comité asiste al consejo del socio general en su
+Professional Centres Canada LP cuenta con un [[audit-committee-mandate|Mandato del Comité de Auditoría]] vigente. El comité asiste al consejo del socio general en su
 supervisión de la integridad de la información financiera, la independencia y el
 desempeño del auditor externo, y la adecuación de los procesos de control interno y
 gestión de riesgos. El estatuto especifica:

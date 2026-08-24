@@ -85,5 +85,5 @@ con medidas de nombre similar presentadas por otras compañías.
 ## Consulte también
 
 - [[cre-financial-metrics|Métricas Financieras de Bienes Raíces Comerciales]] — definiciones completas del NOI, FFO, AFFO y medidas relacionadas
-- [[about-financial-reporting|Reporte Financiero]] — los estados financieros NIIF que complementan estas medidas
+- [[about-financial-reporting|Información Financiera]] — los estados financieros NIIF que complementan estas medidas
 - [[forward-looking-statements-advisory|Aviso sobre Declaraciones Prospectivas]] — el aviso complementario para el lenguaje prospectivo

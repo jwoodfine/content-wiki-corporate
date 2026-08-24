@@ -68,5 +68,5 @@ bienes raíces de tenencia directa, se posicionan dentro de una cartera más amp
 
 ## Consulte también
 
-- [[corporate-structure|La Empresa]] — la entidad que describen estos términos
-- [[direct-hold-framework|Los Vehículos de Inversión]] — las estructuras a las que se refieren los términos definidos en esta categoría
+- [[corporate-structure|Estructura Corporativa]] — la entidad que describen estos términos
+- [[direct-hold-framework|Marco de Tenencia Directa]] — las estructuras a las que se refieren los términos definidos en esta categoría

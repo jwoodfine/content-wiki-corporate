@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: structure-and-regulatory-risk.md
 ---
@@ -37,7 +37,7 @@ otra—. Un inversor no debe suponer que una característica legal confirmada pa
 una jurisdicción —un tratamiento fiscal, una mecánica de transferencia, un derecho de
 gobernanza— aplica automáticamente a un vehículo en una jurisdicción diferente.
 
-El término puente [[regulated-reporting-entity|Entidad Reguladora Informante]] utilizado en todo este wiki es una
+El término puente [[regulated-reporting-entity|Entidad Regulada Emisora de Información]] utilizado en todo este wiki es una
 conveniencia en lenguaje llano para describir un estatus de cumplimiento compartido entre
 jurisdicciones; no elimina las diferencias legales subyacentes entre un emisor informante
 canadiense, una compañía informante estadounidense, una entidad emisora española y una Emisora
@@ -83,5 +83,5 @@ varias jurisdicciones debe tomar en cuenta.
 
 - [[about-risks]] — cómo se organizan las categorías de riesgo en este wiki
 - [[four-jurisdiction-framework|Marco de Cuatro Jurisdicciones]] — la arquitectura de despliegue referida arriba
-- [[regulated-reporting-entity|Entidad Reguladora Informante]] — el término puente de estatus de divulgación entre jurisdicciones
+- [[regulated-reporting-entity|Entidad Regulada Emisora de Información]] — el término puente de estatus de divulgación entre jurisdicciones
 - [[exemptions]] — las exenciones de prospecto utilizadas en la oferta de cada jurisdicción

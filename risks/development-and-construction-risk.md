@@ -18,7 +18,7 @@ paired_with: development-and-construction-risk.es.md
 ---
 
 Ground-up construction of a new building carries risk that is distinct from the risk of owning
-a completed, income-producing property. The [[narrow-bank-financial-model|Narrow Banking Model]] removes
+a completed, income-producing property. The [[narrow-bank-financial-model|Narrow Bank Financial Model]] removes
 construction-period debt risk by funding construction with equity, but construction itself
 remains subject to cost, schedule, and regulatory uncertainty that no financing structure can
 eliminate.
@@ -79,6 +79,6 @@ reaches the level required to begin the debt phase.
 ## See also
 
 - [[about-risks]] — how risk categories are organized across this wiki
-- [[narrow-bank-financial-model|Narrow Banking Model]] — the construction and financing sequence referenced above
+- [[narrow-bank-financial-model|Narrow Bank Financial Model]] — the construction and financing sequence referenced above
 - [[market-and-property-risk]] — leasing and property value risk after construction is complete
 - [[structure-and-regulatory-risk]] — regulatory risk beyond zoning and permitting

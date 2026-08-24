@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: about-risks.md
 ---
@@ -29,7 +29,7 @@ figurar en una sola lista indiferenciada.
 
 Una lista única y sin estructura de factores de riesgo dificulta que el lector determine cuáles
 riesgos son relevantes para una decisión específica. Un inversor que evalúa el
-[[narrow-bank-financial-model|Modelo de Financiamiento de Banca Estrecha]] necesita comprender el riesgo de financiamiento en
+[[narrow-bank-financial-model|Modelo Financiero Narrow Bank]] necesita comprender el riesgo de financiamiento en
 detalle; una contraparte que evalúa una jurisdicción específica necesita el panorama estructural
 y regulatorio de esa jurisdicción; un lector que evalúa si mantener unidades de
 [[perpetual-equity-model|Capital Perpetuo]] necesita comprender el mecanismo de la oferta mismo. Agrupar los factores

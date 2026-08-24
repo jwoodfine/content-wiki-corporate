@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: financing-and-interest-rate-risk.es.md
 ---
 
-The [[narrow-bank-financial-model|Narrow Banking Model]] funds construction with equity and defers borrowing until a
+The [[narrow-bank-financial-model|Narrow Bank Financial Model]] funds construction with equity and defers borrowing until a
 building has stabilized and completed lease-up. This sequencing removes construction-period
 debt risk, but it does not remove financing risk from the structure — it relocates that risk to
 the point at which the [[debt-service-and-financing-structure|First Secured Mortgage Debentures]] are issued. Financing risk and
@@ -76,5 +76,5 @@ rate movement.
 ## See also
 
 - [[about-risks]] — how risk categories are organized across this wiki
-- [[narrow-bank-financial-model|Narrow Banking Model]] — the two-phase financing discipline referenced above
+- [[narrow-bank-financial-model|Narrow Bank Financial Model]] — the two-phase financing discipline referenced above
 - [[market-and-property-risk]] — how market conditions affect the income that supports debt service

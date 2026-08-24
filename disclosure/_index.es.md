@@ -22,7 +22,7 @@ Cómo Funciona la Divulgación explica qué significa la divulgación continua p
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card
      (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
-**Comience aquí:** [[about-continuous-disclosure|Divulgación Continua y Publicación en la Wiki]]
+**Comience aquí:** [[about-continuous-disclosure|Divulgación Continua y Publicación en el Wiki]]
 
 <!-- END-START-HERE-HIGHLIGHT -->
 

@@ -77,5 +77,5 @@ a la información material.
 
 ## Consulte también
 
-- [[about-regulatory-posture|regulatory-posture]] — el marco regulatorio aplicable a los emisores que cotizan
+- [[about-regulatory-posture|Postura Regulatoria]] — el marco regulatorio aplicable a los emisores que cotizan
 - [[about-financial-reporting]] — el componente de estados financieros del paquete de divulgación

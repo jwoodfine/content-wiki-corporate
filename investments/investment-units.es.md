@@ -42,7 +42,7 @@ Cada unidad de inversión en un activo nombrado confiere tres categorías de der
 
 **Derechos de transferencia.** Las unidades son libremente transferibles a cualquier contraparte elegible. Las transferencias se registran en el libro contable en el orden en que se reciben, por el órgano de gobierno del vehículo, que admite a cualquier cesionario que complete la documentación de transferencia requerida, sujeto a una excepción limitada cuando los titulares beneficiarios del 45% o más de las unidades en circulación son, o podrían ser, instituciones financieras; los demás tenedores de unidades no tienen ningún rol de aprobación. El cesionario adquiere todos los derechos económicos y de información del cedente en el momento de la liquidación en el libro contable.
 
-**Derechos de información.** Los tenedores de unidades de un activo nombrado reciben estados operativos periódicos de ese activo, que incluyen ingresos y gastos operativos, junto con el [[cre-financial-metrics|ratio de cobertura de intereses]] (RCI) agregado del vehículo. La información operativa es específica del activo; el RCI se calcula para el vehículo en su conjunto y no varía según la propiedad.
+**Derechos de información.** Los tenedores de unidades de un activo nombrado reciben estados operativos periódicos de ese activo, que incluyen ingresos y gastos operativos, junto con el [[cre-financial-metrics|razón de cobertura de intereses]] (RCI) agregado del vehículo. La información operativa es específica del activo; el RCI se calcula para el vehículo en su conjunto y no varía según la propiedad.
 
 ## Ratio de cobertura de intereses
 

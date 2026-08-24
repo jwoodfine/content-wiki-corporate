@@ -60,5 +60,5 @@ Junto con las fases de capital y deuda, el socio general reserva una Reserva Ope
 ## Consulte también
 
 - [[debt-service-and-financing-structure]] — los términos de las obligaciones y la mecánica de cobertura que el modelo rige
-- [[cre-financial-metrics|Ratio de Cobertura de Intereses]] — el covenant de cobertura en el centro del modelo
+- [[cre-financial-metrics|Razón de Cobertura de Intereses]] — el covenant de cobertura en el centro del modelo
 - [[sensitivity-and-stress-test-methodology]] — cómo se someten a pruebas de estrés los supuestos de cobertura del modelo

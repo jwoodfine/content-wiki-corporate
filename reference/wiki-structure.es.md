@@ -17,7 +17,7 @@ short_description: "Un mapa para el lector: esta base de conocimiento
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-03
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: wiki-structure.md
 ---
@@ -43,7 +43,7 @@ término técnico enlaza con el glosario.
    oferta está planificada y no abierta, los artículos lo indican con
    claridad.
 3. **El modelo financiero** — el motor financiero. Bajo el Narrow
-   Banking Model ([[narrow-bank-financial-model|modelo de banca estrecha]]), los edificios están
+   Banking Model ([[narrow-bank-financial-model|Modelo Financiero Narrow Bank]]), los edificios están
    previstos para construirse sin deuda de construcción, con capital de
    suscripción; el endeudamiento está planificado para llegar solo
    después de que los edificios estén arrendados y generen ingresos. Las

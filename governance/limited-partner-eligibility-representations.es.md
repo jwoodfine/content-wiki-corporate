@@ -63,11 +63,11 @@ En conjunto, estas declaraciones y el procedimiento de venta forzosa mantienen e
 
 ## Qué no es este artículo
 
-Este artículo trata únicamente las declaraciones, garantías y compromisos establecidos en el Artículo 14 del contrato de la sociedad en comandita canadiense. No describe el mecanismo de concentración de instituciones financieras tratado en [[limited-partnership-structure|Estructura de la Sociedad en Comandita]] y [[investment-units|Unidades de Inversión]], el marco de elegibilidad de inversor acreditado tratado en [[accredited-investor-eligibility|Elegibilidad de Inversor Acreditado]], ni las declaraciones equivalentes de los vehículos de Estados Unidos, España o México, que se rigen por instrumentos distintos. No constituye asesoría legal ni fiscal; un socio comanditario debe consultar el contrato de la sociedad en comandita y a un asesor calificado para conocer las declaraciones aplicables a sus propias participaciones.
+Este artículo trata únicamente las declaraciones, garantías y compromisos establecidos en el Artículo 14 del contrato de la sociedad en comandita canadiense. No describe el mecanismo de concentración de instituciones financieras tratado en [[limited-partnership-structure|Estructura de la Sociedad en Comandita]] y [[investment-units|Unidades de Inversión]], el marco de elegibilidad de inversor acreditado tratado en [[accredited-investor-eligibility|Elegibilidad de Inversionista Acreditado]], ni las declaraciones equivalentes de los vehículos de Estados Unidos, España o México, que se rigen por instrumentos distintos. No constituye asesoría legal ni fiscal; un socio comanditario debe consultar el contrato de la sociedad en comandita y a un asesor calificado para conocer las declaraciones aplicables a sus propias participaciones.
 
 ## Véase también
 
 - [[professional-centres-canada-lp-structure|Professional Centres Canada LP — Estructura de la Direct-Hold Solution]] — las entidades, los acuerdos y la mecánica de cambio de control de la sociedad
 - [[limited-partnership-structure|Estructura de la Sociedad en Comandita]] — la forma jurídica genérica de socio general/socio comanditario y la restricción de transferencia por concentración de instituciones financieras
-- [[accredited-investor-eligibility|Elegibilidad de Inversor Acreditado]] — el marco de exención de valores que rige quién puede suscribir
+- [[accredited-investor-eligibility|Elegibilidad de Inversionista Acreditado]] — el marco de exención de valores que rige quién puede suscribir
 - [[special-resolutions-and-general-partner-removal|Resoluciones Especiales y Remoción del Socio General]] — la Resolución Especial y los asuntos que rige

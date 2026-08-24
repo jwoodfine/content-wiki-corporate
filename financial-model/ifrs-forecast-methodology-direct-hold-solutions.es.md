@@ -13,7 +13,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-15
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: ifrs-forecast-methodology-direct-hold-solutions.md
 cites: []
@@ -25,7 +25,7 @@ Woodfine prepara un pronóstico financiero a 10 años, generado con motor y con 
 
 - El pronóstico sigue la categorización operativa/de inversión/de financiamiento de la NIIF 18 y los dos subtotales obligatorios que aplicarán una vez que la NIIF 18 entre en vigor para los períodos que comiencen a partir del 1 de enero de 2027; el ingreso operativo neto se conserva solo como subtotal heredado de carácter voluntario.
 - La propiedad de inversión se registra al costo bajo la NIC 40 en los estados primarios; el valor razonable se mide mediante una técnica de capitalización de ingresos y se divulga por separado como una medición de Nivel 3 bajo la NIIF 13, junto con el análisis de sensibilidad que la NIIF 13 exige para las variables no observables.
-- La cobertura de intereses y la relación préstamo-valor se recalculan para cada año del pronóstico frente al convenio del debenture descrito en [[cre-financial-metrics|Ratio de Cobertura de Intereses]] y en [[debt-service-and-financing-structure|Estructura de Servicio de Deuda y Financiamiento]].
+- La cobertura de intereses y la relación préstamo-valor se recalculan para cada año del pronóstico frente al convenio del debenture descrito en [[cre-financial-metrics|Razón de Cobertura de Intereses]] y en [[debt-service-and-financing-structure|Servicio de Deuda y Estructura de Financiamiento]].
 - Todo supuesto significativo detrás del pronóstico se divulga, y el pronóstico establece con claridad que no es un memorándum de oferta —coherente con el [[forward-looking-statements-advisory|Aviso sobre Declaraciones Prospectivas]] que rige este wiki.
 
 ## Categorización del pronóstico bajo la NIIF 18
@@ -38,7 +38,7 @@ La propiedad de inversión, incluida la propiedad en desarrollo, se registra en 
 
 ## Compensación con capital, partes relacionadas y tributación de flujo directo
 
-Cuando un pronóstico modela unidades de sociedad limitada emitidas a una parte afiliada al gestor a cambio de servicios en lugar de efectivo, la transacción se contabiliza bajo la NIIF 2 *Pagos Basados en Acciones*. Las unidades se miden a valor razonable en la fecha de emisión, se reconocen como gasto dentro del resultado operativo durante el período en que se prestan los servicios, y se compensan con un aumento correspondiente en una reserva de patrimonio —un cambio de presentación dentro del patrimonio, sin efecto sobre el patrimonio total—. Debido a que el socio general y el gestor son partes relacionadas de la sociedad limitada, las notas del pronóstico divulgan los acuerdos de asesoría y gestión entre ellos como transacciones con partes relacionadas realizadas en los términos establecidos por el contrato de sociedad limitada, en coherencia con la estructura de comisiones descrita en [[principal-alignment-fee-preservation|Alineación de Principales y Preservación de Comisiones]]. Debido a que la sociedad es una entidad de flujo directo para efectos fiscales, no reconoce gasto por impuesto a las ganancias corriente ni diferido a nivel de la sociedad; el ingreso y la pérdida se asignan a los socios, y se gravan en sus manos.
+Cuando un pronóstico modela unidades de sociedad limitada emitidas a una parte afiliada al gestor a cambio de servicios en lugar de efectivo, la transacción se contabiliza bajo la NIIF 2 *Pagos Basados en Acciones*. Las unidades se miden a valor razonable en la fecha de emisión, se reconocen como gasto dentro del resultado operativo durante el período en que se prestan los servicios, y se compensan con un aumento correspondiente en una reserva de patrimonio —un cambio de presentación dentro del patrimonio, sin efecto sobre el patrimonio total—. Debido a que el socio general y el gestor son partes relacionadas de la sociedad limitada, las notas del pronóstico divulgan los acuerdos de asesoría y gestión entre ellos como transacciones con partes relacionadas realizadas en los términos establecidos por el contrato de sociedad limitada, en coherencia con la estructura de comisiones descrita en [[principal-alignment-fee-preservation|Alineación de Principales y Preservación de Tarifas]]. Debido a que la sociedad es una entidad de flujo directo para efectos fiscales, no reconoce gasto por impuesto a las ganancias corriente ni diferido a nivel de la sociedad; el ingreso y la pérdida se asignan a los socios, y se gravan en sus manos.
 
 ## Métricas complementarias, mecánica de financiamiento y la disciplina de divulgación FOFI
 
@@ -52,6 +52,6 @@ Nada de esto se divulga de manera informal. Un pronóstico de este tipo se prepa
 
 - [[non-ifrs-measures-explained|Medidas No-NIIF Explicadas]] — cómo se relacionan el NAV, el FFO y la cobertura de intereses con las cifras NIIF que produce un pronóstico
 - [[forward-looking-statements-advisory|Aviso sobre Declaraciones Prospectivas]] — el tratamiento canónico de este wiki para el lenguaje prospectivo y de pronóstico
-- [[cre-financial-metrics|Ratio de Cobertura de Intereses]] — el convenio que un pronóstico rastrea frente al financiamiento con debentures
-- [[debt-service-and-financing-structure|Estructura de Servicio de Deuda y Financiamiento]] — cómo se estructura el financiamiento con debentures que modela un pronóstico
-- [[principal-alignment-fee-preservation|Alineación de Principales y Preservación de Comisiones]] — la estructura de comisiones divulgada como transacción con partes relacionadas en las notas de un pronóstico
+- [[cre-financial-metrics|Razón de Cobertura de Intereses]] — el convenio que un pronóstico rastrea frente al financiamiento con debentures
+- [[debt-service-and-financing-structure|Servicio de Deuda y Estructura de Financiamiento]] — cómo se estructura el financiamiento con debentures que modela un pronóstico
+- [[principal-alignment-fee-preservation|Alineación de Principales y Preservación de Tarifas]] — la estructura de comisiones divulgada como transacción con partes relacionadas en las notas de un pronóstico
