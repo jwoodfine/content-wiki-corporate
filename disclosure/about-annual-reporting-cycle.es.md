@@ -7,7 +7,7 @@ index_group: how-disclosure-works
 last_edited: 2026-08-24
 editor: woodfine-editorial
 status: stable
-short_description: "Obligaciones de divulgación anual de un emisor canadiense: estados financieros IFRS auditados, formulario de información anual y MD&A dentro de 90 días del cierre fiscal."
+short_description: "Obligaciones de divulgación anual de un emisor canadiense: estados financieros IFRS auditados y MD&A dentro de 90 o 120 días del cierre fiscal según la condición de emisor de riesgo; el Formulario de Información Anual aplica solo a emisores que no son de riesgo."
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations. CSA, 2004 (as amended)."

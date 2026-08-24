@@ -7,7 +7,7 @@ index_group: how-disclosure-works
 last_edited: 2026-08-24
 editor: woodfine-editorial
 status: stable
-short_description: "Annual disclosure obligations of a Canadian reporting issuer: audited IFRS financial statements, Annual Information Form, and MD&A due within 90 days of fiscal year-end."
+short_description: "Annual disclosure obligations of a Canadian reporting issuer: audited IFRS financial statements and MD&A due within 90 or 120 days of fiscal year-end depending on venture-issuer status; the Annual Information Form applies only to non-venture issuers."
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations. CSA, 2004 (as amended)."
