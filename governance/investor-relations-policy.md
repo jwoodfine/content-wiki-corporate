@@ -157,4 +157,3 @@ requirements of Regulation FD.
 *references:*
 - *NI 51-102 Continuous Disclosure Obligations, Canadian Securities Administrators.*
 - *CSA National Policy 51-201 Disclosure Standards.*
-- *OSC Staff Notice 51-721 Forward-Looking Information Disclosure.*

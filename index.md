@@ -23,9 +23,10 @@ provide perpetual equity ownership of commercial real estate through freely
 transferable investment units. Each solution is governed by its own jurisdiction-
 specific governing body; in Canada, the General Partner is Woodfine Professional
 Centres Inc., a WCP subsidiary. The established Canada solution is structured as a
-regulated reporting entity with mandatory disclosures to securities regulators under
-NI 51-102 and OSC SN 51-721; further planned solutions are intended to be structured
-the same way once established.
+regulated reporting entity, with the British Columbia Securities Commission (BCSC) as its
+principal regulator, and mandatory disclosures under NI 51-102 and CSA National Policy
+51-201; further planned solutions are intended to be structured the same way once
+established.
 
 The direct-hold model is built on four structural principles: full beneficial ownership
 of underlying assets, elimination of fund-level redemption mechanics, perpetual equity
@@ -44,4 +45,4 @@ fiduciary mandate in detail.
 
 Forward-looking statements in this wiki reflect current intentions and are subject to risk
 and uncertainty; statements are framed using planned, intended, or target language per the
-firm's continuous-disclosure practice under NI 51-102 and OSC SN 51-721.
+firm's continuous-disclosure practice under NI 51-102 and CSA National Policy 51-201.

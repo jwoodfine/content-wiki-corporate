@@ -144,4 +144,3 @@ conservadores que los requisitos de la Regulation FD.
 *referencias:*
 - *IN 51-102 Obligaciones de Divulgación Continua, Administradores de Valores de Canadá.*
 - *Política Nacional 51-201 de la CSA, Estándares de Divulgación.*
-- *Aviso del Personal de la OSC 51-721, Divulgación de Información Prospectiva.*

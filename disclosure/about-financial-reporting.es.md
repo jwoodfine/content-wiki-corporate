@@ -13,8 +13,7 @@ references:
     text: "National Instrument 51-102 Continuous Disclosure Obligations, Canadian Securities Administrators."
     url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/51-102"
   - id: 2
-    text: "OSC Staff Notice 51-721, Electronic Delivery of Documents, Ontario Securities Commission."
-    url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/51-721"
+    text: "CSA National Policy 11-201, Delivery of Documents by Electronic Means, Canadian Securities Administrators."
 ---
 
 Woodfine Capital Projects Inc. tiene previsto presentar las divulgaciones financieras anuales

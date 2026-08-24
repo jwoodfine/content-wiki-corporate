@@ -11,8 +11,6 @@ short_description: "Obligaciones de divulgación anual de un emisor canadiense: 
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations. CSA, 2004 (as amended)."
-  - id: 2
-    text: "OSC Staff Notice 51-721 — Financial Reporting Standards. OSC, 2013."
 ---
 
 Un emisor que presenta informes y no es un emisor de empresas de riesgo debe depositar

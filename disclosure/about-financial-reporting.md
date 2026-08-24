@@ -13,8 +13,7 @@ references:
     text: "National Instrument 51-102 Continuous Disclosure Obligations, Canadian Securities Administrators."
     url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/51-102"
   - id: 2
-    text: "OSC Staff Notice 51-721, Electronic Delivery of Documents, Ontario Securities Commission."
-    url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/51-721"
+    text: "CSA National Policy 11-201, Delivery of Documents by Electronic Means, Canadian Securities Administrators."
 ---
 
 Woodfine Capital Projects Inc. intends to file mandatory annual and interim financial
@@ -100,7 +99,7 @@ issued to limited partnership unitholders for the applicable fiscal year.
 
 All annual and interim financial documents are filed electronically through [[about-filing-systems|SEDAR+]] and become
 publicly accessible upon filing.[^2] Documents are provided in a searchable electronic format
-per the requirements of OSC Staff Notice 51-721.
+per the requirements of CSA National Policy 11-201.
 
 ## Financial filings
 

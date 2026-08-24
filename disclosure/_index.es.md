@@ -36,7 +36,7 @@ obligación de divulgación de este marco en lenguaje claro —qué se presenta,
 calendario, y bajo qué Instrumento Nacional.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: how-disclosure-works -->
-- [[about-continuous-disclosure]] — Requisitos de reporte del NI 51-102 aplicables a Woodfine Capital Projects Inc., incluyendo el MD&A, los informes de cambios materiales y la presentación electrónica bajo el Aviso del Personal OSC 51-721; el formulario de información anual aplica solo a emisores que no son de riesgo.
+- [[about-continuous-disclosure]] — Requisitos de reporte del NI 51-102 aplicables a Woodfine Capital Projects Inc., incluyendo el MD&A, los informes de cambios materiales y la presentación electrónica bajo la Política Nacional 11-201 de la CSA; el formulario de información anual aplica solo a emisores que no son de riesgo.
 - [[about-disclosure-obligations]] — Las obligaciones de divulgación continua de un emisor que cotiza bajo NI 51-102: estados financieros anuales, formulario de información anual (para emisores que no son de riesgo), estados interinos, MD&A e informes de cambios materiales.
 - [[about-regulatory-posture]] — La postura de divulgación de Woodfine Capital Projects Inc. previo a su oferta de prospecto planificada.
 - [[about-annual-reporting-cycle]] — Obligaciones de divulgación anual de un emisor canadiense: estados financieros IFRS auditados y MD&A dentro de 90 o 120 días del cierre fiscal según la clasificación de emisor de riesgo; el Formulario de Información Anual aplica solo a emisores que no son de riesgo.

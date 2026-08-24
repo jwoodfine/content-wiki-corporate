@@ -2,7 +2,7 @@
 schema: foundry-doc-v1
 title: "Divulgación Continua y Publicación en el Wiki"
 slug: about-continuous-disclosure
-short_description: "Requisitos de reporte del NI 51-102 aplicables a Woodfine Capital Projects Inc., incluyendo el MD&A, los informes de cambios materiales y la presentación electrónica bajo el Aviso del Personal OSC 51-721; el formulario de información anual aplica solo a emisores que no son de empresas de riesgo."
+short_description: "Requisitos de reporte del NI 51-102 aplicables a Woodfine Capital Projects Inc., incluyendo el MD&A, los informes de cambios materiales y la presentación electrónica bajo la Política Nacional 11-201 de la CSA; el formulario de información anual aplica solo a emisores que no son de empresas de riesgo."
 category: disclosure
 index_group: how-disclosure-works
 type: reference
@@ -46,9 +46,9 @@ Un cambio material —definido como un cambio en el negocio, las operaciones o l
 
 La obligación es continua. No depende de la proximidad de una fecha de depósito programada ni de una comunicación con inversores.
 
-## Presentación electrónica bajo el Aviso del Personal OSC 51-721
+## Presentación electrónica bajo la Política Nacional 11-201 de la CSA
 
-El Aviso del Personal de la OSC 51-721 rige la entrega electrónica de documentos de divulgación a los tenedores de valores y la presentación electrónica de documentos ante la OSC. Todos los depósitos requeridos se realizan a través de SEDAR+. Los documentos entregados electrónicamente deben cumplir los requisitos de accesibilidad y formato establecidos en el Aviso del Personal.
+La Política Nacional 11-201 de la CSA (Entrega de Documentos por Medios Electrónicos) rige la entrega electrónica de documentos de divulgación a los tenedores de valores y la presentación electrónica de documentos ante el regulador principal del emisor — la Comisión de Valores de Columbia Británica (BCSC) para el vehículo de Canadá ya establecido. Todos los depósitos requeridos se realizan a través de SEDAR+. Los documentos entregados electrónicamente deben cumplir los requisitos de accesibilidad y consentimiento establecidos en la Política Nacional.
 
 ## Interacción con el contenido del wiki
 
@@ -56,4 +56,4 @@ Los artículos publicados en corporate.woodfinegroup.com son de acceso público 
 
 ## Véase también
 
-- [[about-regulatory-posture|Postura Regulatoria]] — el marco más amplio de divulgación ante la OSC aplicable al grupo Woodfine
+- [[about-regulatory-posture|Postura Regulatoria]] — el marco más amplio de divulgación ante la BCSC aplicable al grupo Woodfine

@@ -22,7 +22,7 @@ and auditors reviewing Woodfine holdings and structures.
 
 Articles follow institutional financial-press register. Claims are precise and
 consequence-first. Marketing vocabulary and AI-product language do not appear. Every article
-satisfies the [[about-continuous-disclosure|continuous-disclosure]] posture required under NI 51-102 and OSC SN 51-721.
+satisfies the [[about-continuous-disclosure|continuous-disclosure]] posture required under NI 51-102 and CSA National Policy 51-201.
 
 ## Content scope
 

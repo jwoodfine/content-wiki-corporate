@@ -2,7 +2,7 @@
 schema: foundry-doc-v1
 title: "Continuous disclosure and wiki publication"
 slug: about-continuous-disclosure
-short_description: "NI 51-102 reporting requirements applicable to Woodfine Capital Projects Inc., including MD&A, material change reports, and OSC SN 51-721 electronic filing; the annual information form applies only to non-venture issuers."
+short_description: "NI 51-102 reporting requirements applicable to Woodfine Capital Projects Inc., including MD&A, material change reports, and electronic filing under CSA National Policy 11-201; the annual information form applies only to non-venture issuers."
 category: disclosure
 index_group: how-disclosure-works
 type: reference
@@ -50,9 +50,9 @@ A material change — defined as a change in the business, operations, or capita
 
 The obligation is continuous. It does not depend on the proximity of a scheduled filing date or investor communication.
 
-## Electronic filing under OSC SN 51-721
+## Electronic filing under CSA National Policy 11-201
 
-OSC Staff Notice 51-721 governs the electronic delivery of disclosure documents to security holders and the electronic filing of documents with the OSC. All required filings are submitted through SEDAR+. Documents delivered electronically must meet accessibility and format requirements set out under the Staff Notice.
+CSA National Policy 11-201 (Delivery of Documents by Electronic Means) governs the electronic delivery of disclosure documents to security holders and the electronic filing of documents with the issuer's principal regulator — the British Columbia Securities Commission (BCSC) for the established Canada vehicle. All required filings are submitted through SEDAR+. Documents delivered electronically must meet the accessibility and consent requirements set out under the National Policy.
 
 ## Interaction with wiki content
 
@@ -60,4 +60,4 @@ The articles published at corporate.woodfinegroup.com are publicly available and
 
 ## See also
 
-- [[about-regulatory-posture|Regulatory Posture]] — the broader OSC disclosure framework applicable to the Woodfine group
+- [[about-regulatory-posture|Regulatory Posture]] — the broader BCSC disclosure framework applicable to the Woodfine group

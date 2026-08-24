@@ -2,7 +2,7 @@
 schema: foundry-doc-v1
 title: "Regulatory posture"
 slug: about-regulatory-posture
-short_description: "Woodfine Capital Projects Inc. applies a continuous-disclosure posture aligned with NI 51-102 and OSC Staff Notice 51-721 in advance of its planned prospectus offering; all public materials are treated as reviewable under this regime."
+short_description: "Woodfine Capital Projects Inc. applies a continuous-disclosure posture aligned with NI 51-102 and CSA National Policy 11-201, under the British Columbia Securities Commission as principal regulator, in advance of its planned prospectus offering; all public materials are treated as reviewable under this regime."
 category: disclosure
 index_group: how-disclosure-works
 type: reference
@@ -18,11 +18,11 @@ paired_with: about-regulatory-posture.es.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. and its subsidiaries — including the entities described in the [[corporate-structure|corporate structure]] — apply a continuous-disclosure posture aligned with the Canadian securities regulatory framework in advance of their respective planned prospectus offerings. Materials published at corporate.woodfinegroup.com are treated as publicly available disclosure and are reviewable under the [[about-continuous-disclosure|continuous-disclosure obligations]] of National Instrument 51-102 and OSC Staff Notice 51-721. The regime covers asset acquisitions placed under the [[direct-hold-framework|Direct-Hold framework]] and the records held by each vehicle's governing body as custodian.
+Woodfine Capital Projects Inc. and its subsidiaries — including the entities described in the [[corporate-structure|corporate structure]] — apply a continuous-disclosure posture aligned with the Canadian securities regulatory framework in advance of their respective planned prospectus offerings. The British Columbia Securities Commission (BCSC) is the established Canada vehicle's principal regulator. Materials published at corporate.woodfinegroup.com are treated as publicly available disclosure and are reviewable under the [[about-continuous-disclosure|continuous-disclosure obligations]] of National Instrument 51-102 and CSA National Policy 11-201. The regime covers asset acquisitions placed under the [[direct-hold-framework|Direct-Hold framework]] and the records held by each vehicle's governing body as custodian.
 
 ## Key takeaways
 
-- All materials published at corporate.woodfinegroup.com are treated as public disclosure subject to NI 51-102 and OSC Staff Notice 51-721; the same standard applied to formally filed documents governs the corporate wiki.
+- All materials published at corporate.woodfinegroup.com are treated as public disclosure subject to NI 51-102 and CSA National Policy 11-201; the same standard applied to formally filed documents governs the corporate wiki.
 - Forward-looking statements — including references to platform features, acquisition targets, and governance structures under development — carry qualifying language throughout; this is factual acknowledgment, not a legal formality.
 - References to the Sovereign Data Foundation describe a planned structure only; the Foundation does not currently hold governance, audit, or ownership rights over any Woodfine operation.
 
@@ -30,7 +30,7 @@ Woodfine Capital Projects Inc. and its subsidiaries — including the entities d
 
 National Instrument 51-102 (Continuous Disclosure Obligations) establishes the reporting regime for Canadian reporting issuers. The instrument governs management discussion and analysis filings, material change reports, and periodic financial statement requirements that Woodfine Capital Projects Inc. and each direct-hold limited partnership that completes a prospectus offering intend to become subject to upon effectiveness of their respective planned prospectus offerings. It also governs annual information forms, but only for an issuer classified as a non-venture issuer — a venture issuer is not required to file one. Whether any particular entity is a venture or non-venture issuer is a classification made at the time it becomes a reporting issuer, not a status this article asserts in advance.
 
-OSC Staff Notice 51-721 (Electronic Delivery of Documents) applies to electronically filed and electronically delivered disclosure documents. All required filings are submitted through SEDAR+.
+CSA National Policy 11-201 (Delivery of Documents by Electronic Means) applies to electronically filed and electronically delivered disclosure documents. All required filings are submitted through SEDAR+.
 
 ## Forward-looking statements
 
@@ -42,7 +42,7 @@ A material change in the business, operations, or capital structure of Woodfine 
 
 ## Sovereign Data Foundation
 
-References to the Sovereign Data Foundation in Woodfine materials describe a planned institutional structure. The Foundation is not a current equity holder in any Direct-Hold vehicle's managed asset. It is not a current auditor of the property ledger. All references to the Foundation in public-facing materials carry planned or intended language, consistent with OSC guidance on forward-looking statements. Any representation that the Foundation currently holds governance, audit, or ownership rights over Woodfine operations would be inaccurate under the current structure.
+References to the Sovereign Data Foundation in Woodfine materials describe a planned institutional structure. The Foundation is not a current equity holder in any Direct-Hold vehicle's managed asset. It is not a current auditor of the property ledger. All references to the Foundation in public-facing materials carry planned or intended language, consistent with CSA National Policy 51-201 guidance on forward-looking statements. Any representation that the Foundation currently holds governance, audit, or ownership rights over Woodfine operations would be inaccurate under the current structure.
 
 ## Public wiki scope
 

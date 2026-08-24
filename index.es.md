@@ -25,10 +25,11 @@ por capas para proporcionar participación accionaria perpetua en bienes raíces
 mediante unidades de inversión de libre transmisión. Cada solución cuenta con su propio
 órgano de gobierno específico según la jurisdicción; en Canadá, el socio general es
 Woodfine Professional Centres Inc., una subsidiaria de WCP. La solución de Canadá, ya
-establecida, está estructurada como una entidad de información regulada con divulgaciones
-obligatorias ante los reguladores de valores bajo la NI 51-102 y el SN 51-721 de la OSC;
-las soluciones planificadas adicionales tienen previsto estructurarse de la misma manera
-una vez establecidas.
+establecida, está estructurada como una entidad de información regulada, con la Comisión de
+Valores de Columbia Británica (BCSC) como su regulador principal, y con divulgaciones
+obligatorias bajo la NI 51-102 y la Política Nacional 51-201 del CSA; las soluciones
+planificadas adicionales tienen previsto estructurarse de la misma manera una vez
+establecidas.
 
 El modelo de tenencia directa se sustenta en cuatro principios estructurales: propiedad
 beneficiaria plena de los activos subyacentes, eliminación de los mecanismos de rescate a
@@ -48,4 +49,4 @@ terminología de referencia.
 Las declaraciones prospectivas en esta enciclopedia reflejan las intenciones actuales y están
 sujetas a riesgos e incertidumbres; las afirmaciones se formulan con términos como planificado,
 previsto o proyectado, conforme a la práctica de divulgación continua de la empresa bajo la
-NI 51-102 y el SN 51-721 de la OSC.
+NI 51-102 y la Política Nacional 51-201 del CSA.

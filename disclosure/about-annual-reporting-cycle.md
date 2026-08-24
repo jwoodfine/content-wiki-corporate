@@ -11,8 +11,6 @@ short_description: "Annual disclosure obligations of a Canadian reporting issuer
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations. CSA, 2004 (as amended)."
-  - id: 2
-    text: "OSC Staff Notice 51-721 — Financial Reporting Standards. OSC, 2013."
 ---
 
 A non-venture reporting issuer must file three primary disclosure documents within 90
@@ -81,7 +79,7 @@ analysis that the financial statements alone do not supply. The annual MD&A must
 
 The MD&A may be filed as a standalone document or incorporated into an annual report to
 shareholders, provided the SEDAR+ filing includes a clearly identified MD&A document meeting
-all Form 51-102F1 requirements.[^2]
+all Form 51-102F1 requirements.[^1]
 
 ## Filing deadlines
 
@@ -92,7 +90,7 @@ or classified as one without an exchange listing) has **120 calendar days** to f
 annual financial statements and MD&A — the AIF is not part of a venture issuer's mandatory
 filing set at all, so no venture-issuer AIF deadline applies.
 
-All filings are made through SEDAR+ and are publicly accessible upon filing. The OSC and
+All filings are made through SEDAR+ and are publicly accessible upon filing. The BCSC and
 other provincial securities regulators conduct annual review programs that assess compliance
 with the technical requirements of NI 51-102 and the IFRS standards applied.
 

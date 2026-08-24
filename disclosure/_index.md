@@ -35,7 +35,7 @@ effect. The nine articles below explain each disclosure obligation this framewor
 in plain language — what is filed, on what schedule, and under which National Instrument.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: how-disclosure-works -->
-- [[about-continuous-disclosure]] — NI 51-102 reporting requirements applicable to Woodfine Capital Projects Inc., including MD&A, material change reports, and OSC SN 51-721 electronic filing; the annual information form applies only to non-venture issuers.
+- [[about-continuous-disclosure]] — NI 51-102 reporting requirements applicable to Woodfine Capital Projects Inc., including MD&A, material change reports, and electronic filing under CSA National Policy 11-201; the annual information form applies only to non-venture issuers.
 - [[about-disclosure-obligations]] — The ongoing disclosure obligations of a reporting issuer under NI 51-102: annual financial statements, an annual information form for non-venture issuers, interim statements, MD&A, and material change reports.
 - [[about-regulatory-posture]] — Woodfine Capital Projects Inc.'s disclosure posture ahead of its planned prospectus offering.
 - [[about-annual-reporting-cycle]] — Annual disclosure obligations of a Canadian reporting issuer: audited IFRS financial statements and MD&A due within 90 or 120 days of fiscal year-end depending on venture-issuer status; the Annual Information Form applies only to non-venture issuers.

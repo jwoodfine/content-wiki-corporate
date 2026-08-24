@@ -20,8 +20,8 @@ paired_with: forward-looking-statements-advisory.es.md
 Forward-looking language across the corporate wiki follows the single canonical advisory set
 out here. Individual articles that contain forward-looking statements refer back to this
 article rather than repeating the full advisory each time. It is written consistent with the
-guidance under National Instrument 51-102 *Continuous Disclosure Obligations* and OSC Staff
-Notice 51-721 *Forward-Looking Information Disclosure*.
+guidance under National Instrument 51-102 *Continuous Disclosure Obligations* and CSA
+National Policy 51-201 *Disclosure Standards*.
 
 ## What a forward-looking statement is
 

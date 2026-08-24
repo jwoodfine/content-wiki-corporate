@@ -46,7 +46,7 @@ Some articles describe planned or intended features of corporate structures. The
 forward-looking statements are subject to material risks and uncertainties. Actual
 outcomes may differ. Forward-looking language is marked with terms such as "planned,"
 "intended," "may," or "target" in accordance with [[about-continuous-disclosure|continuous-disclosure]] requirements
-under NI 51-102 and OSC SN 51-721, and consistent with the [[about-regulatory-posture|regulatory posture]] of the issuer.
+under NI 51-102 and CSA National Policy 51-201, and consistent with the [[about-regulatory-posture|regulatory posture]] of the issuer.
 
 ## Accuracy
 
