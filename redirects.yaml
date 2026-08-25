@@ -4,200 +4,258 @@
 # full design. Format: Hugo-compatible redirect list. The wiki engine emits 301 for
 # each `from` path. Language variants are handled by the engine's i18n routing; only
 # EN slugs are listed here.
+#
+# 2026-08-25 route-format fix: the engine (app-mediakit-knowledge, shared by all 3
+# knowledge wikis) serves article content ONLY at /wiki/{slug} (or /es/wiki/{slug}) —
+# a flat namespace, no category segment, ever (see `router()` in
+# app-mediakit-knowledge/src/app.rs). Every `to:` value in this file had been written
+# as the old Hugo-style /<category>/<slug> path (or a bare cross-wiki path in the same
+# shape) since this file's creation — never a real route on this engine. `moved_301(to)`
+# uses the `to:` value verbatim as the redirect Location, so every redirect below has
+# been a silent 301 -> 404 the entire time. All entries rewritten to /wiki/<slug>
+# (cross-wiki targets: scheme+host kept, path rewritten the same way); 5 redirect chains
+# found and flattened to a single hop along the way (see individual entry comments).
+# `from:` values are unchanged — confirmed correct: the /wiki/{*slug} wildcard route
+# captures the full path including directory segments, and serve_article()'s fallback
+# lookup (`state.redirects.get(&format!("/{slug}"))`) matches `from:` verbatim against
+# that captured path. NOTE: a 2026-08-24 comment lower in this file asserts several
+# category-prefixed `from:` values are dead per a "live curl" check — that claim was not
+# re-verified here (out of this pass's scope: task instructions were explicit not to
+# touch `from:` values) and appears to conflict with the route-matching logic above;
+# flagged for a follow-up audit, not resolved in this commit.
 
 redirects:
 
   # Batch B1 Part 2 — within-corporate category moves (slug unchanged, category only).
+  # 2026-08-25 route fix: engine serves articles only at /wiki/{slug} (flat namespace,
+  # no category segment) — see app-mediakit-knowledge/src/app.rs `router()`. Every
+  # `to:` below rewritten from the old /<category>/<slug> Hugo-style path to /wiki/<slug>.
   - from: /economy/narrow-bank-financial-model
-    to: /financial-model/narrow-bank-financial-model
+    to: /wiki/narrow-bank-financial-model
 
   # Flattened 2026-08-03 — the /financial-model/ hop this redirect used to point to no
   # longer exists (article moved cross-wiki; see the entry near the end of this file).
+  # 2026-08-25: cross-wiki path also uses /category/slug on the target site — same bug,
+  # same fix (projects wiki runs the identical engine/route table).
   - from: /economy/centralized-buying-program
-    to: https://projects.woodfinegroup.com/buildings/centralized-buying-program
+    to: https://projects.woodfinegroup.com/wiki/centralized-buying-program
 
   - from: /investment/accredited-investor-eligibility
-    to: /investments/accredited-investor-eligibility
+    to: /wiki/accredited-investor-eligibility
 
   - from: /investment/four-jurisdiction-framework
-    to: /investments/four-jurisdiction-framework
+    to: /wiki/four-jurisdiction-framework
 
   - from: /investment/limited-partnership-structure
-    to: /investments/limited-partnership-structure
+    to: /wiki/limited-partnership-structure
 
   - from: /investment/asset-vehicle-isolation
-    to: /investments/asset-vehicle-isolation
+    to: /wiki/asset-vehicle-isolation
 
   # Phase 1c category-fit audit, 2026-08-03 — moved back out of financial-model into
   # investments (content is legal-form/isolation, not financing-engine mechanics). See
   # .agent/audit/phase1c-corporate-sweep/category-fit-design-2026-08-03.md.
   - from: /financial-model/asset-vehicle-isolation
-    to: /investments/asset-vehicle-isolation
+    to: /wiki/asset-vehicle-isolation
 
   - from: /investment/debt-service-and-financing-structure
-    to: /financial-model/debt-service-and-financing-structure
+    to: /wiki/debt-service-and-financing-structure
 
   - from: /investment/distribution-declaration-mechanics
-    to: /distributions/distribution-declaration-mechanics
+    to: /wiki/distribution-declaration-mechanics
 
   - from: /research/direct-hold-solutions-structural-comparison
-    to: /investments/direct-hold-solutions-structural-comparison
+    to: /wiki/direct-hold-solutions-structural-comparison
 
   - from: /research/principal-alignment-fee-preservation
-    to: /financial-model/principal-alignment-fee-preservation
+    to: /wiki/principal-alignment-fee-preservation
 
   - from: /reporting/press-releases
-    to: /reports/press-releases
+    to: /wiki/press-releases
 
   - from: /reporting/events-presentations
-    to: /reports/events-presentations
+    to: /wiki/events-presentations
 
   - from: /reporting/governance-documents
-    to: /governance/governance-documents
+    to: /wiki/governance-documents
 
   - from: /reporting/investor-relations-policy
-    to: /governance/investor-relations-policy
+    to: /wiki/investor-relations-policy
 
   # Batch B1 Part 3 — the about-* explainer band inside reports/ (rename at move time).
   - from: /reporting/financial-reporting
-    to: /reports/about-financial-reporting
+    to: /wiki/about-financial-reporting
 
   - from: /governance/continuous-disclosure-obligations
-    to: /reports/about-disclosure-obligations
+    to: /wiki/about-disclosure-obligations
 
   - from: /governance/ni-51-102-annual-reporting-cycle
-    to: /reports/about-annual-reporting-cycle
+    to: /wiki/about-annual-reporting-cycle
 
   - from: /governance/quarterly-mda-filing-requirements
-    to: /reports/about-quarterly-reporting
+    to: /wiki/about-quarterly-reporting
 
   - from: /governance/sedar-electronic-filing-standards
-    to: /reports/about-filing-systems
+    to: /wiki/about-filing-systems
 
   - from: /topic-regulatory-posture
-    to: /reports/about-regulatory-posture
+    to: /wiki/about-regulatory-posture
 
   - from: /reporting/insider-reporting
-    to: /reports/about-insider-reporting
+    to: /wiki/about-insider-reporting
 
   - from: /topic-continuous-disclosure
-    to: /reports/about-continuous-disclosure
+    to: /wiki/about-continuous-disclosure
 
   # Merge: reporting/material-change-reporting + governance/material-change-press-release-protocol
   # consolidated into a single survivor article; both old paths redirect to it.
   - from: /reporting/material-change-reporting
-    to: /reports/about-material-change-reporting
+    to: /wiki/about-material-change-reporting
 
   - from: /governance/material-change-press-release-protocol
-    to: /reports/about-material-change-reporting
+    to: /wiki/about-material-change-reporting
 
   # Batch B1 Part 4 — flat root topic-* articles moved into category directories,
   # slug prefix dropped.
   - from: /topic-corporate-structure
-    to: /company/corporate-structure
+    to: /wiki/corporate-structure
 
   - from: /topic-vendor-customer-model
-    to: /company/vendor-customer-model
+    to: /wiki/vendor-customer-model
 
+  # Chain flattened 2026-08-25: /company/technology-services (this redirect's old target)
+  # is itself the `from:` of the Track-B retraction below (technology-services -> merged
+  # into vendor-customer-model, 2026-08-24) — point directly at the final live slug rather
+  # than a second hop through a now-retracted one.
   - from: /topic-technology-services
-    to: /company/technology-services
+    to: /wiki/vendor-customer-model
 
+  # Chain flattened 2026-08-25: /company/property-ledger-technology (this redirect's old
+  # target) is itself the `from:` of the Track-B retraction below (property-ledger-
+  # technology -> retracted with no replacement, 2026-08-24, redirected to its parent
+  # category) — point directly at the final destination.
   - from: /topic-property-ledger-technology
-    to: /company/property-ledger-technology
+    to: /category/company
 
   - from: /topic-direct-hold-framework
-    to: /investments/direct-hold-framework
+    to: /wiki/direct-hold-framework
 
+  # Chain flattened 2026-08-25: /company/investor-access (this redirect's old target) is
+  # itself the `from:` of the Track-B retraction below (investor-access -> retracted with
+  # no replacement, 2026-08-24, redirected to its parent category).
   - from: /topic-investor-access
-    to: /company/investor-access
+    to: /category/company
 
   - from: /topic-investment-units
-    to: /investments/investment-units
+    to: /wiki/investment-units
 
+  # Chain flattened 2026-08-25: /financial-model/interest-coverage-ratio (this redirect's
+  # old target) is itself the `from:` of the Track-B retraction below (interest-coverage-
+  # ratio -> retracted with no replacement, 2026-08-24, redirected to its parent category).
   - from: /topic-interest-coverage-ratio
-    to: /financial-model/interest-coverage-ratio
+    to: /category/financial-model
 
   - from: /topic-equity-transfer-model
-    to: /distributions/equity-transfer-model
+    to: /wiki/equity-transfer-model
 
   - from: /topic-perpetual-equity-model
-    to: /distributions/perpetual-equity-model
+    to: /wiki/perpetual-equity-model
 
   - from: /topic-redemption-elimination
-    to: /distributions/redemption-elimination
+    to: /wiki/redemption-elimination
 
+  # 2026-08-25: fiduciary-data-mandate.md was ALSO archived 2026-08-24 (Track-B integrity
+  # review, commit 7615cf7 — same review pass as the 5 Track-B retractions below, but no
+  # redirect entry was ever added here for it) — superseded_by: none, category: governance.
+  # This redirect's old target (/governance/fiduciary-data-mandate) is a dead slug even
+  # after the /wiki/ mechanical fix; following the same parent-category pattern already
+  # used for the other no-replacement Track-B retractions in this file.
   - from: /topic-fiduciary-data-mandate
-    to: /governance/fiduciary-data-mandate
+    to: /category/governance
 
+  # 2026-08-25: data-governance.md was ALSO archived 2026-08-24 (same Track-B review pass,
+  # commit 7615cf7 — no redirect entry was ever added here for it) — superseded_by: none,
+  # category: governance. Same fix as fiduciary-data-mandate above.
   - from: /topic-data-governance
-    to: /governance/data-governance
+    to: /category/governance
 
   # Category-level courtesy redirect: reporting/ dissolved into reports/ (Part 2 + Part 3
   # moved every article out of reporting/; the category landing itself is retired).
+  # 2026-08-25: `reports` was itself later merged into `disclosure` (commit bb478c9,
+  # "Merge reports/ + filings/ into disclosure/ category; rename to 'How Disclosure
+  # Works'") — categories.yaml has no `reports` id today. Route straight to the current
+  # category rather than through a second retired name.
   - from: /reporting
-    to: /reports
+    to: /category/disclosure
 
   # Batch D1 — Phase C re-categorization, CROSS-REPO move: 16 industry/methodology
   # articles moved to media-knowledge-projects (a different site). Full external URLs,
   # since the target is not this repo. Slugs renamed where noted.
+  # 2026-08-25: same /category/slug route-format bug applies cross-wiki (identical
+  # engine); rewritten to /wiki/<slug> on the target host. Not independently verifiable
+  # from this repo — flagged for the projects-wiki fix-agent to cross-check (see report).
   - from: /economy/capitalization-rate
-    to: https://projects.woodfinegroup.com/industry/capitalization-rate
+    to: https://projects.woodfinegroup.com/wiki/capitalization-rate
 
   - from: /economy/net-operating-income
-    to: https://projects.woodfinegroup.com/industry/net-operating-income
+    to: https://projects.woodfinegroup.com/wiki/net-operating-income
 
   - from: /economy/interest-rate-transmission
-    to: https://projects.woodfinegroup.com/industry/interest-rate-transmission
+    to: https://projects.woodfinegroup.com/wiki/interest-rate-transmission
 
   - from: /economy/commercial-real-estate-cycles
-    to: https://projects.woodfinegroup.com/industry/commercial-real-estate-cycles
+    to: https://projects.woodfinegroup.com/wiki/commercial-real-estate-cycles
 
   - from: /economy/under-building-supply-discipline
-    to: https://projects.woodfinegroup.com/industry/under-building-supply-discipline
+    to: https://projects.woodfinegroup.com/wiki/under-building-supply-discipline
 
   - from: /research/private-cre-market-structure
-    to: https://projects.woodfinegroup.com/industry/private-cre-market-structure
+    to: https://projects.woodfinegroup.com/wiki/private-cre-market-structure
 
   - from: /research/regional-market-capital-gap
-    to: https://projects.woodfinegroup.com/industry/regional-market-capital-gap
+    to: https://projects.woodfinegroup.com/wiki/regional-market-capital-gap
 
   - from: /research/north-american-office-market-recovery
-    to: https://projects.woodfinegroup.com/industry/north-american-office-market-recovery
+    to: https://projects.woodfinegroup.com/wiki/north-american-office-market-recovery
 
   - from: /economy/development-class-economics
-    to: https://projects.woodfinegroup.com/buildings/about-development-class-economics
+    to: https://projects.woodfinegroup.com/wiki/about-development-class-economics
 
   - from: /investment/professional-centres-development-class
-    to: https://projects.woodfinegroup.com/buildings/class-professional-centres
+    to: https://projects.woodfinegroup.com/wiki/class-professional-centres
 
   - from: /economy/institutional-retail-halo
-    to: https://projects.woodfinegroup.com/site-selection/institutional-retail-halo
+    to: https://projects.woodfinegroup.com/wiki/institutional-retail-halo
 
   - from: /research/power-centre-co-location-thesis
-    to: https://projects.woodfinegroup.com/site-selection/power-centre-co-location-thesis
+    to: https://projects.woodfinegroup.com/wiki/power-centre-co-location-thesis
 
   - from: /topic-co-location-investment-thesis
-    to: https://projects.woodfinegroup.com/site-selection/co-location-investment-thesis
+    to: https://projects.woodfinegroup.com/wiki/co-location-investment-thesis
 
   - from: /topic-asset-evaluation
-    to: https://projects.woodfinegroup.com/site-selection/asset-evaluation-protocol
+    to: https://projects.woodfinegroup.com/wiki/asset-evaluation-protocol
 
   - from: /research/geometry-of-sustainability
-    to: https://projects.woodfinegroup.com/building-design/geometry-of-sustainability
+    to: https://projects.woodfinegroup.com/wiki/geometry-of-sustainability
 
   - from: /research/dual-mandate-building-certifications
-    to: https://projects.woodfinegroup.com/building-design/dual-mandate-building-certifications
+    to: https://projects.woodfinegroup.com/wiki/dual-mandate-building-certifications
 
   # Phase 1c category-fit audit follow-through, 2026-08-03 — operator-confirmed placement
   # calls on the 3 items left flagged by commit 4e8f2c6 (category-fit-design-2026-08-03.md).
   - from: /governance/exemptions
-    to: /investments/exemptions
+    to: /wiki/exemptions
 
+  # Chain flattened 2026-08-25: /company/investor-access (this redirect's old target) is
+  # itself the `from:` of the Track-B retraction below (investor-access -> retracted with
+  # no replacement, 2026-08-24, redirected to its parent category) — same chain as the
+  # /topic-investor-access entry earlier in this file.
   - from: /investments/investor-access
-    to: /company/investor-access
+    to: /category/company
 
   - from: /financial-model/portfolio-theory-foundations
-    to: /reference/portfolio-theory-foundations
+    to: /wiki/portfolio-theory-foundations
 
   # Phase 1c category-fit audit follow-through, 2026-08-03 (4th flagged item resolved
   # same day) — centralized-buying-program.md was flagged in category-fit-design-2026-
@@ -206,8 +264,9 @@ redirects:
   # charter, and reads closer to media-knowledge-projects' buildings-and-places
   # charter than to anything in this wiki). Operator confirmed the cross-wiki move;
   # article now lives at media-knowledge-projects/buildings/centralized-buying-program.
+  # 2026-08-25: same /category/slug route bug cross-wiki; rewritten to /wiki/<slug>.
   - from: /financial-model/centralized-buying-program
-    to: https://projects.woodfinegroup.com/buildings/centralized-buying-program
+    to: https://projects.woodfinegroup.com/wiki/centralized-buying-program
 
   # Track-B integrity retraction, 2026-08-24 — both articles stated specific
   # unverifiable mechanics as fact with no source citation (see .archive/ frontmatter
