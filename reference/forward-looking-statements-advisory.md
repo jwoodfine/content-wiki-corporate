@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: forward-looking-statements-advisory.es.md
 ---
@@ -60,7 +60,7 @@ of actual results and is not a commitment that the stated figure will be achieve
 Forward-looking statements are, by definition, based on assumptions and expectations current as
 of the date they are made. Actual outcomes may differ materially from what is described,
 because of factors including — without limitation — the risks described in the
-[[about-risks|Risks]] category of this wiki: market and property conditions, financing availability,
+[[risks-index|Risks]] category of this wiki: market and property conditions, financing availability,
 construction cost and schedule, regulatory change, and the mechanics of the offering itself.
 Woodfine Capital Projects Inc. does not undertake any obligation to update a forward-looking
 statement to reflect new information or subsequent events, except as required by applicable
@@ -76,6 +76,6 @@ advisory governs the statements it contains.
 
 ## See also
 
-- [[about-risks|Risks]] — the risk factors that could cause actual results to differ from forward-looking statements
+- [[risks-index|Risks]] — the risk factors that could cause actual results to differ from forward-looking statements
 - [[about-continuous-disclosure|Continuous Disclosure and Wiki Publication]] — how this wiki's content is treated under NI 51-102
 - [[disclaimers|Disclaimers]] — the wiki's general disclosure and liability disclaimers

@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: forward-looking-statements-advisory.md
 ---
@@ -63,7 +63,7 @@ alcanzará.
 Las declaraciones prospectivas se basan, por definición, en supuestos y expectativas vigentes a
 la fecha en que se formulan. Los resultados reales podrían diferir materialmente de lo descrito,
 debido a factores que incluyen —sin limitación— los riesgos descritos en la categoría
-[[about-risks|Riesgos]] de este wiki: condiciones de mercado y de propiedad, disponibilidad de
+[[risks-index|Riesgos]] de este wiki: condiciones de mercado y de propiedad, disponibilidad de
 financiamiento, costo y cronograma de construcción, cambio regulatorio, y la mecánica de la
 oferta misma. Woodfine Capital Projects Inc. no asume obligación alguna de actualizar una
 declaración prospectiva para reflejar nueva información o eventos posteriores, salvo cuando lo
@@ -79,6 +79,6 @@ aviso rige las declaraciones que contiene ese documento.
 
 ## Consulte también
 
-- [[about-risks|Riesgos]] — los factores de riesgo que podrían causar que los resultados reales difieran de las declaraciones prospectivas
+- [[risks-index|Riesgos]] — los factores de riesgo que podrían causar que los resultados reales difieran de las declaraciones prospectivas
 - [[about-continuous-disclosure|Divulgación Continua y Publicación en el Wiki]] — cómo se trata el contenido de este wiki bajo la NI 51-102
 - [[disclaimers|Avisos Legales]] — los avisos generales de divulgación y responsabilidad de este wiki

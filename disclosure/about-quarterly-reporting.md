@@ -4,7 +4,7 @@ title: "Quarterly reporting"
 slug: about-quarterly-reporting
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: woodfine-editorial
 status: stable
 short_description: "Interim reporting under NI 51-102: condensed IAS 34 financial statements and quarterly MD&A due within 45 days of each of the first three fiscal quarter-ends."
@@ -61,7 +61,7 @@ For real estate entities, the quarterly MD&A typically addresses:
 - Fair value movements in investment property
 - Capital expenditure on existing portfolio
 - [[debt-service-and-financing-structure|Debt maturity profile]] and interest rate exposure
-- Any material changes in the [[direct-hold-solutions-structural-comparison|direct-hold portfolio structure]]
+- Any material changes in the [[direct-hold-framework|direct-hold portfolio structure]]
 
 ## Filing deadlines
 

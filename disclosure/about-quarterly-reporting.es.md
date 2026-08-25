@@ -4,7 +4,7 @@ title: "Presentación de Informes Trimestrales"
 slug: about-quarterly-reporting
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-06-29
+last_edited: 2026-08-24
 editor: woodfine-editorial
 status: stable
 short_description: "Informes intermedios bajo NI 51-102: estados financieros condensados según IAS 34 y MD&A trimestral, presentados dentro de 45 días del cierre de cada uno de los tres primeros trimestres."
@@ -51,7 +51,7 @@ Los elementos requeridos incluyen:
 Para las entidades inmobiliarias, el MD&A trimestral típicamente aborda la ocupación de la
 cartera y las tendencias de las tasas de alquiler, los movimientos del valor razonable de las
 propiedades de inversión, el [[debt-service-and-financing-structure|perfil de vencimiento de la deuda]] y la exposición a tipos de
-interés, y cualquier cambio material en la [[direct-hold-solutions-structural-comparison|estructura de la cartera de tenencia directa]].
+interés, y cualquier cambio material en la [[direct-hold-framework|estructura de la cartera de tenencia directa]].
 
 ## Plazos de presentación
 
