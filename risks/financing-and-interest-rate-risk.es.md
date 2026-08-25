@@ -80,5 +80,5 @@ exposición subyacente de cualquier propiedad endeudada al movimiento de las tas
 
 - [[about-risks]] — cómo se organizan las categorías de riesgo en este wiki
 - [[narrow-bank-financial-model|Modelo Financiero Narrow Bank]] — la disciplina de financiamiento en dos fases referida arriba
-- Índice de Cobertura de Intereses — el convenio que condiciona la emisión de nueva deuda
+- [[cre-financial-metrics|Razón de Cobertura de Intereses]] — el convenio que condiciona la emisión de nueva deuda
 - [[market-and-property-risk]] — cómo las condiciones de mercado afectan el ingreso que sostiene el servicio de la deuda
