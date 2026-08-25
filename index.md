@@ -3,10 +3,11 @@ schema: foundry-doc-v1
 content_type: page
 title: "Woodfine Corporate"
 slug: index
+short_description: "The corporate record for Woodfine Capital Projects Inc., developer and promoter of direct-hold commercial real estate. Articles explain the company, its investment vehicles, the financial model, governance, and risk, in plain language. Forward-looking statements carry planned, intended, or target language throughout."
 category: root
 status: active
 bcsc_class: public-disclosure-safe
-last_edited: 2026-06-26
+last_edited: 2026-08-25
 editor: pointsav-engineering
 ---
 
