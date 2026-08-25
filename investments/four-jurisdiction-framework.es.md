@@ -32,8 +32,8 @@ Los vehículos establecido y planificados se estructuran de la siguiente manera 
 
 | Vehículo | Jurisdicción | Entidad principal | Valor financiado bruto | Depositario central |
 |---|---|---|---|---|
-| Professional Centres Canada LP | Canadá (Columbia Británica) | Sociedad Limitada | C$250 millones | CDS (Restringido) |
-| Professional Centres United States LP | Estados Unidos (Delaware) | Sociedad Limitada | US$500 millones | DTC (Restringido) |
+| Professional Centres Canada LP | Canadá (Columbia Británica) | Sociedad en Comandita | C$250 millones | CDS (Restringido) |
+| Professional Centres United States LP | Estados Unidos (Delaware) | Sociedad en Comandita | US$500 millones | DTC (Restringido) |
 | Professional Centres Spain SOCIMI | España (Madrid) | Sociedad Cotizada | €250 millones | Iberclear (Restringido) |
 | Professional Centres Mexico FIBRA | México (Estado de México) | FIBRA Privada | MN$5.000 millones | Indeval (Restringido) |
 
@@ -47,7 +47,7 @@ Como Entidad Regulada Emisora de Información bajo las leyes canadienses de valo
 
 ## Estados Unidos — Professional Centres United States LP
 
-La Professional Centres United States LP está prevista para constituirse en Delaware como sociedad limitada bajo la ley de Delaware. Está estructurada para ser una empresa informante registrada bajo la ley de valores de los Estados Unidos, con divulgación continua presentada en EDGAR. El valor financiado bruto objetivo es US$500 millones.
+La Professional Centres United States LP está prevista para constituirse en Delaware como sociedad en comandita bajo la ley de Delaware. Está estructurada para ser una empresa informante registrada bajo la ley de valores de los Estados Unidos, con divulgación continua presentada en EDGAR. El valor financiado bruto objetivo es US$500 millones.
 
 ## España — Professional Centres Spain SOCIMI
 

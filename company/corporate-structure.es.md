@@ -75,8 +75,8 @@ correspondiente.
 
 | Solución de Tenencia Directa | Forma legal y jurisdicción | Estatus | Entidad de gobierno | Sociedad de participación del promotor |
 |---|---|---|---|---|
-| Professional Centres Canada LP | Sociedad limitada, Columbia Británica | Establecido | Woodfine Professional Centres Inc., Socio General | Benetti Holdings Inc. |
-| Professional Centres United States LP | Sociedad limitada, Delaware | Planificado | Woodfine Professional Centres 2 Inc., Socio General | Benetti Holdings 2 Inc. |
+| Professional Centres Canada LP | Sociedad en comandita, Columbia Británica | Establecido | Woodfine Professional Centres Inc., Socio General | Benetti Holdings Inc. |
+| Professional Centres United States LP | Sociedad en comandita, Delaware | Planificado | Woodfine Professional Centres 2 Inc., Socio General | Benetti Holdings 2 Inc. |
 | Professional Centres Spain SOCIMI | SOCIMI, Madrid | Planificado | Woodfine Professional Centres 3 S.A., Administrador | Benetti Holdings 3 S.L. |
 | Professional Centres Mexico FIBRA | FIBRA, Estado de México | Planificado | Woodfine Professional Centres 4 S.A., Administrador | Benetti Holdings 4 S.R.L. |
 
