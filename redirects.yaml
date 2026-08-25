@@ -192,31 +192,37 @@ redirects:
   # articles moved to media-knowledge-projects (a different site). Full external URLs,
   # since the target is not this repo. Slugs renamed where noted.
   # 2026-08-25: same /category/slug route-format bug applies cross-wiki (identical
-  # engine); rewritten to /wiki/<slug> on the target host. Not independently verifiable
-  # from this repo — flagged for the projects-wiki fix-agent to cross-check (see report).
+  # engine); rewritten to /wiki/<slug> on the target host, cross-checked against the
+  # projects-wiki fix-agent's report. That check found 6 of these 8 targets are
+  # themselves dead: retracted from media-knowledge-projects on 2026-08-24
+  # (industry/.archive/, all superseded_by: none — general CRE glossary/market-
+  # commentary content ruled out of scope for that wiki, not moved elsewhere). Those 6
+  # now redirect to the projects-wiki industry category landing page instead of a
+  # second dead hop. The 2 that do still resolve (under-building-supply-discipline,
+  # regional-market-capital-gap) are untouched below.
   - from: /economy/capitalization-rate
-    to: https://projects.woodfinegroup.com/wiki/capitalization-rate
+    to: https://projects.woodfinegroup.com/category/industry
 
   - from: /economy/net-operating-income
-    to: https://projects.woodfinegroup.com/wiki/net-operating-income
+    to: https://projects.woodfinegroup.com/category/industry
 
   - from: /economy/interest-rate-transmission
-    to: https://projects.woodfinegroup.com/wiki/interest-rate-transmission
+    to: https://projects.woodfinegroup.com/category/industry
 
   - from: /economy/commercial-real-estate-cycles
-    to: https://projects.woodfinegroup.com/wiki/commercial-real-estate-cycles
+    to: https://projects.woodfinegroup.com/category/industry
 
   - from: /economy/under-building-supply-discipline
     to: https://projects.woodfinegroup.com/wiki/under-building-supply-discipline
 
   - from: /research/private-cre-market-structure
-    to: https://projects.woodfinegroup.com/wiki/private-cre-market-structure
+    to: https://projects.woodfinegroup.com/category/industry
 
   - from: /research/regional-market-capital-gap
     to: https://projects.woodfinegroup.com/wiki/regional-market-capital-gap
 
   - from: /research/north-american-office-market-recovery
-    to: https://projects.woodfinegroup.com/wiki/north-american-office-market-recovery
+    to: https://projects.woodfinegroup.com/category/industry
 
   - from: /economy/development-class-economics
     to: https://projects.woodfinegroup.com/wiki/about-development-class-economics
