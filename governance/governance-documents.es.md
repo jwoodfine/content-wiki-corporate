@@ -21,7 +21,7 @@ references:
 Professional Centres Canada LP, como [[regulated-reporting-entity|Entidad Regulada
 Emisora de Información]], es la entidad cuyas prácticas de gobernanza se divulgan aquí, en
 consonancia con la National Policy 58-201 *Corporate Governance Guidelines*[^1] y los
-requisitos de divulgación conexos del National Instrument 58-101.[^2] WCP en sí es una
+requisitos de divulgación conexos del National Instrument 58-101.[^2] Woodfine en sí es una
 compañía privada y no está sujeta directamente a estos instrumentos; su función es la de
 promotor y matriz última de Woodfine Professional Centres Inc., el socio general sujeto a
 los requisitos de gobernanza descritos abajo. **De los instrumentos de gobernanza
@@ -88,7 +88,7 @@ irregularidades. Este código aún no ha sido adoptado.
 ## Acuerdo unánime de accionistas
 
 Un Acuerdo Unánime de Accionistas, presentado como contrato material, restringe la emisión y
-la transferencia de las acciones de WCP y establece los límites dentro de los cuales el consejo
+la transferencia de las acciones de Woodfine y establece los límites dentro de los cuales el consejo
 fija la retribución de consejeros y directivos. Una instancia distinta de este acuerdo, a nivel
 de la sociedad en comandita, sujeta a Woodfine Professional Centres Inc. — socio general de
 Professional Centres Canada LP — a que la mayoría de su consejo esté compuesta por directores

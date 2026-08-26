@@ -21,7 +21,7 @@ references:
 Professional Centres Canada LP, as a [[regulated-reporting-entity|Regulated Reporting
 Entity]], is the entity whose governance practices are disclosed here consistent with
 National Policy 58-201 *Corporate Governance Guidelines*[^1] and the related disclosure
-requirements under National Instrument 58-101.[^2] WCP itself is a private company and is
+requirements under National Instrument 58-101.[^2] Woodfine itself is a private company and is
 not directly subject to these instruments; its role is as promoter and as the ultimate
 parent of Woodfine Professional Centres Inc., the general partner bound by the governance
 requirements described below. **Of the governance instruments named on this page, only
@@ -86,7 +86,7 @@ procedures. This code is not yet adopted.
 ## Unanimous shareholder agreement
 
 A Unanimous Shareholder Agreement, filed as a material contract, restricts the issuance and
-transfer of WCP's shares and sets the limits within which the board sets director and
+transfer of Woodfine's shares and sets the limits within which the board sets director and
 executive compensation. A separate, partnership-level instance of this agreement binds
 Woodfine Professional Centres Inc. — general partner of Professional Centres Canada LP — to a
 majority of arm's-length, independent directors on its board (see
