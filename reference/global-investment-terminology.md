@@ -20,7 +20,7 @@ paired_with: global-investment-terminology.es.md
 cites: []
 ---
 
-The [[four-jurisdiction-framework|four jurisdictions]] in which Woodfine Capital Projects Inc. (WCP), as promoter, intends to deploy Direct-Hold Solutions — Canada, the United States, Spain, and Mexico — each maintain distinct legal vocabularies for describing investment vehicles, their compliance obligations, and their tradability characteristics. Terms that carry precise legal meaning in one jurisdiction are frequently ambiguous, legally inaccurate, or actively misleading when read in the context of another legal system. Woodfine addresses this divergence through a set of **Global Bridge Terms**: a parallel vocabulary designed to translate accurately across all four jurisdictions without importing the legal assumptions of any single one.
+The [[four-jurisdiction-framework|four jurisdictions]] in which Woodfine Capital Projects Inc. ("Woodfine"), as promoter, intends to deploy Direct-Hold Solutions — Canada, the United States, Spain, and Mexico — each maintain distinct legal vocabularies for describing investment vehicles, their compliance obligations, and their tradability characteristics. Terms that carry precise legal meaning in one jurisdiction are frequently ambiguous, legally inaccurate, or actively misleading when read in the context of another legal system. Woodfine addresses this divergence through a set of **Global Bridge Terms**: a parallel vocabulary designed to translate accurately across all four jurisdictions without importing the legal assumptions of any single one.
 
 ## The Jurisdictional Fracture problem
 
