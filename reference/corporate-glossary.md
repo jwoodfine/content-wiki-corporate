@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: corporate-glossary.es.md
 cites: []
@@ -154,11 +154,11 @@ It is a curated core set of roughly fifty terms, selected from an internal extra
 
 **Woodfine Capital Projects Inc. (WCP)** — The Canadian parent company, promoter, and developer; 100% owner of its subsidiaries, including PointSav Digital Systems, Woodfine Management Corp., Woodfine Professional Centres Inc., Woodfine Advisors Inc., and Benetti Holdings Inc. See [[corporate-structure|Corporate structure]].
 
-**Woodfine Management Corp. (MCorp)** — The wholly-owned WCP subsidiary that retains third-party consultants and performs tasks delegated to it by other WCP subsidiaries. Not the general partner, administrator, or governing body of any Direct-Hold vehicle. See [[corporate-structure|Corporate structure]].
+**Woodfine Management Corp. (MCorp)** — The wholly-owned Woodfine subsidiary that retains third-party consultants and performs tasks delegated to it by other Woodfine subsidiaries. Not the general partner, administrator, or governing body of any Direct-Hold vehicle. See [[corporate-structure|Corporate structure]].
 
-**Woodfine Professional Centres Inc.** — The British Columbia corporation, a wholly-owned WCP subsidiary, that serves as General Partner of Professional Centres Canada LP, bound by a Unanimous Shareholder Agreement requiring an arm's-length independent-director majority. See [[professional-centres-canada-lp-structure|Professional Centres Canada LP structure]].
+**Woodfine Professional Centres Inc.** — The British Columbia corporation, a wholly-owned Woodfine subsidiary, that serves as General Partner of Professional Centres Canada LP, bound by a Unanimous Shareholder Agreement requiring an arm's-length independent-director majority. See [[professional-centres-canada-lp-structure|Professional Centres Canada LP structure]].
 
-**Benetti Holdings Inc.** — The special-purpose WCP subsidiary through which the promoter's escrowed minority equity interest in Professional Centres Canada LP is held. See [[professional-centres-canada-lp-structure|Professional Centres Canada LP structure]].
+**Benetti Holdings Inc.** — The special-purpose Woodfine subsidiary through which the promoter's escrowed minority equity interest in Professional Centres Canada LP is held. See [[professional-centres-canada-lp-structure|Professional Centres Canada LP structure]].
 
 **Administrator (Administrador) / Technical Committee (Comité Técnico)** — The planned governing bodies of the Mexico FIBRA vehicle, which as a trust structure has no general partner. See [[four-jurisdiction-framework|Four-jurisdiction framework]].
 

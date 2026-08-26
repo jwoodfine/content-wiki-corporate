@@ -14,7 +14,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: vendor-customer-model.es.md
 cites: []
@@ -24,12 +24,12 @@ PointSav Digital Systems is a separate, wholly-owned technology subsidiary of Wo
 
 ## Key takeaways
 
-- PointSav Digital Systems is a separate, wholly-owned technology subsidiary of WCP.
-- Woodfine Management Corp. ("MCorp") holds the Manager role within the group.
+- PointSav Digital Systems is a separate, wholly-owned technology subsidiary of Woodfine.
+- Woodfine Management Corp. ("MCorp") is the group's operating-services subsidiary — it employs staff and performs delegated operational work, holding no governing authority in any vehicle.
 
 ## The subsidiaries
 
-PointSav Digital Systems and Woodfine Management Corp. ("MCorp") are each separate, wholly-owned subsidiaries of WCP.
+PointSav Digital Systems and Woodfine Management Corp. ("MCorp") are each separate, wholly-owned subsidiaries of Woodfine.
 
 ## What this is not
 

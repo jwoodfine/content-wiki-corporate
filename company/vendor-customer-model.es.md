@@ -14,7 +14,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: vendor-customer-model.md
 cites: []
@@ -26,13 +26,15 @@ de Woodfine Capital Projects Inc.
 ## Puntos clave
 
 - PointSav Digital Systems es una subsidiaria tecnológica separada, de propiedad absoluta
-  de WCP.
-- Woodfine Management Corp. ("MCorp") mantiene el rol de Gestora dentro del grupo.
+  de Woodfine.
+- Woodfine Management Corp. ("MCorp") es la subsidiaria de servicios operativos del
+  grupo — emplea al personal y realiza el trabajo operativo delegado, sin autoridad de
+  gobierno en ningún vehículo.
 
 ## Las subsidiarias
 
 PointSav Digital Systems y Woodfine Management Corp. ("MCorp") son subsidiarias
-separadas, de propiedad absoluta, de WCP.
+separadas, de propiedad absoluta, de Woodfine.
 
 ## Lo que esto no es
 

@@ -4,7 +4,7 @@ title: "Estructura corporativa"
 slug: corporate-structure
 aliases:
   - topic-corporate-structure
-short_description: "Estructura corporativa de Woodfine Capital Projects Inc.: la empresa matriz, las subsidiarias de Gestión y de tecnología debajo de ella, y las entidades de gobierno y sociedades de participación del promotor de cada Solución de Tenencia Directa."
+short_description: "Estructura corporativa de Woodfine Capital Projects Inc.: la empresa matriz, sus subsidiarias de servicios operativos y de tecnología debajo de ella, y las entidades de gobierno y sociedades de participación del promotor de cada Solución de Tenencia Directa."
 category: company
 index_group: corporate-structure-and-ownership
 type: reference
@@ -14,37 +14,39 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: corporate-structure.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. (WCP), una empresa matriz (holding company), origina
+Woodfine Capital Projects Inc. ("Woodfine"), una empresa matriz (holding company), origina
 Soluciones de Tenencia Directa a través de sus subsidiarias para la procuración, el
-desarrollo y la gestión de bienes inmuebles. WCP actúa como Desarrollador
+desarrollo y la gestión de bienes inmuebles. Woodfine actúa como Desarrollador
 y Promotor de las Soluciones de Tenencia Directa. Sus actividades de originación y
 desarrollo excluyen la gestión de capital, fondos o activos financieros por cuenta de
 terceros.
 
 ## Puntos clave
 
-- WCP es una empresa matriz que actúa como Desarrollador y Promotor de las Soluciones de
-  Tenencia Directa.
+- Woodfine es una empresa matriz que actúa como Desarrollador y Promotor de las Soluciones
+  de Tenencia Directa.
 - Existen o están planificadas cuatro Soluciones de Tenencia Directa: una establecida, en
   Canadá; tres planificadas, en Estados Unidos, España y México.
 - Cada jurisdicción cuenta con una entidad de gobierno (un socio general o un
   administrador) y una sociedad separada que mantiene la participación accionaria del
   promotor.
-- Woodfine Management Corp. ("MCorp") es la entidad Gestora dentro del grupo. PointSav
-  Digital Systems es la subsidiaria tecnológica separada del grupo.
-- WCP mantiene esta estructura de empresa matriz al menos desde 2011.
+- Woodfine Management Corp. ("MCorp") es la subsidiaria de servicios operativos del
+  grupo — emplea al personal y realiza el trabajo operativo delegado, sin autoridad de
+  gobierno en ningún vehículo. PointSav Digital Systems es la subsidiaria tecnológica
+  separada del grupo.
+- Woodfine mantiene esta estructura de empresa matriz al menos desde 2011.
 
 ## La empresa matriz y su enfoque de desarrollo
 
-El enfoque de desarrollo de WCP son los Power Centres — una gran agrupación de tiendas
-minoristas con al menos un inquilino ancla de gran formato — en Norteamérica y Europa. La
-oportunidad de desarrollo declarada por WCP es espacio arrendable en y cerca de Power
+Woodfine desarrolla los Power Centres — una gran agrupación de tiendas
+minoristas con al menos un inquilino ancla de gran formato — en Norteamérica y Europa. Su
+oportunidad de desarrollo declarada es espacio arrendable en y cerca de Power
 Centres para proveedores de servicios profesionales e industriales.
 
 El desarrollo inicial en Canadá se concentra en Columbia Británica y Alberta, con otros
@@ -52,10 +54,13 @@ mercados del oeste canadiense bajo consideración.
 
 ## La capa de subsidiarias
 
-Woodfine Management Corp. ("MCorp") mantiene el rol de Gestora dentro del grupo.
+Woodfine Management Corp. ("MCorp") es la subsidiaria de servicios operativos del grupo:
+emplea al personal y contrata a los consultores requeridos por los negocios de los
+vehículos de tenencia directa, realizando trabajo de procuración, desarrollo, gestión y
+administración que le ha sido delegado. No tiene autoridad de gobierno en ningún vehículo.
 
 PointSav Digital Systems es una subsidiaria tecnológica separada, de propiedad absoluta
-de WCP, bajo el [[vendor-customer-model|modelo proveedor-cliente]].
+de Woodfine, bajo el [[vendor-customer-model|modelo proveedor-cliente]].
 
 La participación accionaria del promotor en cada jurisdicción la mantiene una sociedad
 separada: Benetti Holdings Inc. en Canadá, Benetti Holdings 2 Inc. en Estados Unidos,
@@ -64,10 +69,10 @@ participaciones se mantienen en fideicomiso de garantía hasta que los socios
 comanditarios recuperen el 100% del capital aportado o se produzca un evento de liquidez
 definido.
 
-Woodfine Advisors Inc., subsidiaria de propiedad total de WCP, presta servicios de
+Woodfine Advisors Inc., subsidiaria de propiedad total de Woodfine, presta servicios de
 adquisición, desarrollo y gestión a la sociedad canadiense.
 
-El título legal de cada propiedad lo mantiene una sociedad nominataria WCP Titleco
+El título legal de cada propiedad lo mantiene una sociedad nominataria Woodfine Titleco
 separada, cuyo beneficiario efectivo es el vehículo de Tenencia Directa
 correspondiente.
 
@@ -86,11 +91,11 @@ promotor, están planificados.
 
 ## Continuidad de la estructura
 
-WCP mantiene esta estructura de empresa matriz al menos desde 2011, cuando sus propios
+Woodfine mantiene esta estructura de empresa matriz al menos desde 2011, cuando sus propios
 documentos legales ejecutados la describían como "una empresa matriz de un grupo de
 sociedades que se dedican al desarrollo de bienes raíces comerciales que se mantienen a
 través de sociedades limitadas cuyos socios generales son subsidiarias de propiedad
-absoluta" de WCP.
+absoluta" de Woodfine.
 
 El cargo de Director Ejecutivo cuenta con un historial de varias décadas como
 desarrollador en el mercado inmobiliario comercial del oeste canadiense, que abarca
