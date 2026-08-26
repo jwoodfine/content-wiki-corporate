@@ -17,7 +17,7 @@ short_description: "Un mapa para el lector: esta base de conocimiento
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: woodfine-editorial
 paired_with: wiki-structure.md
 ---
@@ -66,9 +66,9 @@ término técnico enlaza con el glosario.
 6. **Riesgos** — qué podría salir mal, expuesto con claridad y reunido
    en un solo lugar.
 
-## Cómo funciona la divulgación
+## Divulgación e informes
 
-**Cómo Funciona la Divulgación** explica, en lenguaje claro, qué significa la divulgación
+**Divulgación e Informes** explica, en lenguaje claro, qué significa la divulgación
 para un emisor que reporta y cómo se aplica a la empresa matriz, además de una página para
 cada Solución de Tenencia Directa: Canadá, Estados Unidos, España y México. Solo Canadá
 está establecida; las otras tres páginas permanecen vacías hasta que su vehículo exista.
@@ -84,13 +84,11 @@ Media Release (comunicado mediático), un relato más extenso construido en
 torno a un acontecimiento concreto. El Newsroom no es un sitio aparte:
 cada sección de Informes de cada empresa que informa está prevista para
 tener su propio canal, aunque hoy solo lo tiene la sección de la empresa
-matriz. Es distinto de la categoría Noticias de la base de conocimiento
-de proyectos que la acompaña, la cual recoge notas de lanzamiento sobre
-esa base de conocimiento y no divulgación corporativa.
+matriz.
 
-## Glosario y guía del lector
+## Glosario y referencia
 
-**Glosario y guía del lector** define en palabras sencillas cada término
+**Glosario y referencia** define en palabras sencillas cada término
 usado aquí, y explica las notas cautelares que acompañan a las
 declaraciones prospectivas y a las medidas financieras no estándar.
 Empiece ahí si algún término le resulta desconocido — y lea el aviso

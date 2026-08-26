@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "How Disclosure Works"
+title: "Disclosure and Reporting"
 slug: disclosure-index
 category: disclosure
 type: topic
@@ -12,12 +12,12 @@ index_scope: disclosure
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: woodfine-editorial
 paired_with: _index.es.md
 ---
 
-How Disclosure Works explains what continuous disclosure means for a reporting issuer, in plain language, and gathers what each entity has published, or will publish once it exists.
+Disclosure and Reporting explains what continuous disclosure means for a reporting issuer, in plain language, and gathers what each entity has published, or will publish once it exists.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card
      (reuses the existing cluster-card--start-here component). Do not add more than one. -->

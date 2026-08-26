@@ -80,7 +80,7 @@ categories:
     order: 6
 
   - id: disclosure
-    name: "How Disclosure Works"
+    name: "Disclosure and Reporting"
     scope: >-
       What disclosure means for Woodfine and each Direct-Hold Solution,
       explained in plain language — plus a page per entity for whatever
@@ -89,7 +89,7 @@ categories:
     order: 7
 
   - id: reference
-    name: "Glossary and Reader's Guide"
+    name: "Glossary and Reference"
     scope: >-
       Every defined term in plain words, plus the forward-looking-
       statements advisory and the non-IFRS measures explained.

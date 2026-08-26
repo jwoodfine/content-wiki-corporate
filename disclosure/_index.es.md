@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Cómo Funciona la Divulgación"
+title: "Divulgación e Informes"
 slug: disclosure-index
 category: disclosure
 type: topic
@@ -12,12 +12,12 @@ index_scope: disclosure
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: woodfine-editorial
 paired_with: _index.md
 ---
 
-Cómo Funciona la Divulgación explica qué significa la divulgación continua para un emisor que reporta, en lenguaje claro, y reúne lo que cada entidad ha publicado, o publicará una vez que exista.
+Divulgación e Informes explica qué significa la divulgación continua para un emisor que reporta, en lenguaje claro, y reúne lo que cada entidad ha publicado, o publicará una vez que exista.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card
      (reuses the existing cluster-card--start-here component). Do not add more than one. -->

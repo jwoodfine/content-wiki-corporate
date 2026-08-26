@@ -16,7 +16,7 @@ short_description: "A reader's map: this knowledge base describes the
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: woodfine-editorial
 paired_with: wiki-structure.es.md
 ---
@@ -58,9 +58,9 @@ written in plain language, and every technical term links to the glossary.
    investors' statutory rights.
 6. **Risks** — what could go wrong, stated plainly and kept in one place.
 
-## How disclosure works
+## Disclosure and reporting
 
-**How Disclosure Works** explains, in plain language, what disclosure means for a
+**Disclosure and Reporting** explains, in plain language, what disclosure means for a
 reporting issuer and how it applies to the parent company, plus a page for each
 Direct-Hold Solution: Canada, United States, Spain, and Mexico. Only Canada is
 established; the other three pages are empty until their vehicle exists.
@@ -74,13 +74,11 @@ short, minimum-word disclosure issued for a material change event, and a
 Media Release, a longer narrative account built around a specific event.
 The newsroom is not a separate site; each reporting company's Reports
 section is intended to carry its own feed, though today only the parent
-company's section does. It is distinct from the companion projects
-knowledge base's News category, which carries release notes about that
-knowledge base itself, not corporate disclosure.
+company's section does.
 
-## Glossary and reader's guide
+## Glossary and reference
 
-**Glossary and Reader's Guide** defines every term used here in plain
+**Glossary and Reference** defines every term used here in plain
 words, and explains the cautionary notes that accompany forward-looking
 statements and non-standard financial measures. Start there if any term
 is unfamiliar — and read the forward-looking-statements advisory before
