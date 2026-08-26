@@ -40,7 +40,7 @@ El Marco de Tenencia Directa elimina el fondo. Cada propiedad es su propia unida
 
 ## Aislamiento legal
 
-La separación legal estricta es estructural. Cada libro contable de activo está aislado como un vehículo independiente, de modo que un evento financiero que afecta a un activo — vacancia, litigio, refinanciación — no puede propagarse al capital del inversor en un activo diferente. El título legal de cada propiedad lo ostenta una sociedad nominada WCP Titleco independiente, de la cual es beneficiaria la sociedad de tenencia directa aplicable, lo que aisla la propiedad de las obligaciones de cualquier otra entidad de la estructura.
+La separación legal estricta es estructural. Cada libro contable de activo está aislado como un vehículo independiente, de modo que un evento financiero que afecta a un activo — vacancia, litigio, refinanciación — no puede propagarse al capital del inversor en un activo diferente. El título legal de cada propiedad lo ostenta una sociedad nominada Woodfine Titleco independiente, de la cual es beneficiaria la sociedad de tenencia directa aplicable, lo que aisla la propiedad de las obligaciones de cualquier otra entidad de la estructura.
 
 El aislamiento es una propiedad de la arquitectura y no de una promesa contractual. Un inversor que evalúa el riesgo de un activo no tiene que modelar el resto de una cartera.
 
@@ -56,7 +56,7 @@ En cada vehículo de tenencia directa, la entidad de gobierno — el socio gener
 
 ## La conclusión
 
-El Marco de Tenencia Directa sustituye el fondo mancomunado por capital específico de cada activo: cada inversor posee participaciones en un vehículo constituido en torno a una propiedad única nombrada, con el título legal en manos de una sociedad nominada WCP Titleco independiente, en lugar de participar en un vehículo mancomunado. Dado que cada activo es su propia unidad jurídica y financiera, el aislamiento es una propiedad de la arquitectura y el contagio entre activos no puede producirse, de modo que un inversor que evalúa el riesgo de un activo no necesita modelar el resto de una cartera. Al ejecutarse las transferencias directamente entre partes privadas, la estructura no carga ninguna obligación de redención mancomunada ni discrecionalidad del gestor del fondo sobre el capital del inversor.
+El Marco de Tenencia Directa sustituye el fondo mancomunado por capital específico de cada activo: cada inversor posee participaciones en un vehículo constituido en torno a una propiedad única nombrada, con el título legal en manos de una sociedad nominada Woodfine Titleco independiente, en lugar de participar en un vehículo mancomunado. Dado que cada activo es su propia unidad jurídica y financiera, el aislamiento es una propiedad de la arquitectura y el contagio entre activos no puede producirse, de modo que un inversor que evalúa el riesgo de un activo no necesita modelar el resto de una cartera. Al ejecutarse las transferencias directamente entre partes privadas, la estructura no carga ninguna obligación de redención mancomunada ni discrecionalidad del gestor del fondo sobre el capital del inversor.
 
 ## Véase también
 

@@ -22,13 +22,13 @@ see_also:
   - direct-hold-framework
 ---
 
-Each direct-hold vehicle within Woodfine Capital Projects Inc.'s (WCP) [[direct-hold-framework|Direct-Hold]] framework, with WCP as promoter, issues its own investment units. Each unit represents a proportional interest in that specific vehicle — not a share in a pooled fund or a proportional claim on a portfolio of properties.
+Each direct-hold vehicle within Woodfine Capital Projects Inc.'s ("Woodfine") [[direct-hold-framework|Direct-Hold]] framework, with Woodfine as promoter, issues its own investment units. Each unit represents a proportional interest in that specific vehicle — not a share in a pooled fund or a proportional claim on a portfolio of properties.
 
 Units are registered through each vehicle's own book-entry system and are designed to be transferable to willing counterparties subject to the restrictions set out in that vehicle's own governing agreement; the established Canada vehicle's units are not currently freely transferable, because the partnership is subject to an active BCSC cease-trade order. The [[perpetual-equity-model|Perpetual Equity Model]] governs the holding horizon for these units.
 
 ## Overview
 
-Investment units are asset-specific instruments. A unit issued in one named property carries no claim on, and confers no exposure to, any other property in the WCP holding structure. This isolation is structural: it derives from the Direct-Hold framework rather than from contractual representation. An investor holding units in three separate assets holds three separate positions with three separate ledgers, three separate operating statements, and three separate distribution entitlements.
+Investment units are asset-specific instruments. A unit issued in one named property carries no claim on, and confers no exposure to, any other property in the Woodfine holding structure. This isolation is structural: it derives from the Direct-Hold framework rather than from contractual representation. An investor holding units in three separate assets holds three separate positions with three separate ledgers, three separate operating statements, and three separate distribution entitlements.
 
 ## Denomination and Issuance
 

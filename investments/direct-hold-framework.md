@@ -40,7 +40,7 @@ The Direct-Hold framework removes the pool. Each property is its own legal and f
 
 ## Legal isolation
 
-Strict legal separation is structural. Each asset ledger is isolated as an independent vehicle, so a financial event affecting one asset — vacancy, litigation, refinancing — cannot propagate to the investor's equity in a different asset. Legal title to each property is held by a separate WCP Titleco nominee company that is beneficially owned by the applicable direct-hold vehicle, ring-fencing the property from obligations of any other entity in the structure.
+Strict legal separation is structural. Each asset ledger is isolated as an independent vehicle, so a financial event affecting one asset — vacancy, litigation, refinancing — cannot propagate to the investor's equity in a different asset. Legal title to each property is held by a separate Woodfine Titleco nominee company that is beneficially owned by the applicable direct-hold vehicle, ring-fencing the property from obligations of any other entity in the structure.
 
 The isolation is a property of the architecture rather than of a contractual promise. An investor evaluating one asset's risk does not have to model the rest of a portfolio.
 
@@ -56,7 +56,7 @@ In each direct-hold vehicle, the governing entity — a general partner in Canad
 
 ## The bottom line
 
-The Direct-Hold framework replaces the commingled fund with asset-specific equity: each investor holds units in a vehicle constituted around a single named property, with legal title held by a separate WCP Titleco nominee company, rather than participating in a pooled vehicle. Because every asset is its own legal and financial unit, isolation is a property of the architecture and cross-asset contagion cannot occur, so an investor evaluating one asset's risk need not model the rest of a portfolio. With transfers executing directly between private parties, the structure carries no pooled redemption obligation and no fund-manager discretion over an investor's capital.
+The Direct-Hold framework replaces the commingled fund with asset-specific equity: each investor holds units in a vehicle constituted around a single named property, with legal title held by a separate Woodfine Titleco nominee company, rather than participating in a pooled vehicle. Because every asset is its own legal and financial unit, isolation is a property of the architecture and cross-asset contagion cannot occur, so an investor evaluating one asset's risk need not model the rest of a portfolio. With transfers executing directly between private parties, the structure carries no pooled redemption obligation and no fund-manager discretion over an investor's capital.
 
 ## See also
 
