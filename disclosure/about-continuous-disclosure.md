@@ -12,17 +12,17 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: about-continuous-disclosure.es.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. intends to become subject to the full continuous-disclosure regime of National Instrument 51-102 upon effectiveness of its planned prospectus offering. That instrument (Continuous Disclosure Obligations) sets the periodic and event-driven reporting requirements for reporting issuers in Canada: annual filings, quarterly reporting, and material change obligations. Each direct-hold limited partnership that has completed a prospectus offering is itself a separate reporting issuer, with independent NI 51-102 obligations filed on SEDAR+. The regime therefore applies to multiple entities within the Woodfine group — each filing separately — and governs disclosures pertaining to [[direct-hold-framework|Direct-Hold]] assets held under each vehicle's governing-body custody.
+The full continuous-disclosure regime of National Instrument 51-102 is planned to bind Woodfine upon effectiveness of its planned prospectus offering. That instrument (Continuous Disclosure Obligations) sets the periodic and event-driven reporting requirements for reporting issuers in Canada: annual filings, quarterly reporting, and material change obligations. Each direct-hold limited partnership that has completed a prospectus offering is itself a separate reporting issuer, with independent NI 51-102 obligations filed on SEDAR+. The regime therefore applies to multiple entities within the Woodfine group — each filing separately — and governs disclosures pertaining to [[direct-hold-framework|Direct-Hold]] assets held under each vehicle's governing-body custody.
 
 ## Key takeaways
 
-- Woodfine Capital Projects Inc. intends to become subject to the full NI 51-102 continuous-disclosure regime upon effectiveness of its planned prospectus offering, including MD&A, audited financial statements, and quarterly interim reporting; whether an annual information form is part of that regime depends on venture-issuer classification, which is not yet determined for this planned offering.
+- The full NI 51-102 continuous-disclosure regime is planned to bind Woodfine upon effectiveness of its planned prospectus offering, including MD&A, audited financial statements, and quarterly interim reporting; whether an annual information form is part of that regime depends on venture-issuer classification, which is not yet determined for this planned offering.
 - Each direct-hold limited partnership that completed a prospectus offering is a separate reporting issuer with its own NI 51-102 obligations — it files independently on SEDAR+ and is not consolidated into the parent's disclosure package.
 - Material changes require immediate disclosure — a press release as soon as practicable and a Form 51-102F3 filing on SEDAR+ within 10 days — independent of any scheduled filing date.
 - Articles published on the corporate wiki are treated as disclosure-eligible, so editors apply the same material-change test to wiki publications as to formal SEDAR+ filings.

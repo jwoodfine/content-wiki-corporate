@@ -4,7 +4,7 @@ title: "Información Financiera"
 slug: about-financial-reporting
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: woodfine-editorial
 status: stable
 short_description: "Divulgaciones financieras periódicas que Woodfine Capital Projects Inc. prevé presentar como emisor bajo NI 51-102 tras la efectividad de su oferta de prospecto planificada."
@@ -16,12 +16,12 @@ references:
     text: "CSA National Policy 11-201, Delivery of Documents by Electronic Means, Canadian Securities Administrators."
 ---
 
-Woodfine Capital Projects Inc. tiene previsto presentar las divulgaciones financieras anuales
-e intermedias obligatorias como [[regulated-reporting-entity|emisor informante]] en virtud del National
-Instrument 51-102 *[[about-disclosure-obligations|Continuous Disclosure Obligations]]*, al
-perfeccionarse su oferta pública planificada.[^1] Estos registros
+Las divulgaciones financieras anuales e intermedias obligatorias están previstas como
+presentación de [[regulated-reporting-entity|emisor informante]] en virtud del National
+Instrument 51-102 *[[about-disclosure-obligations|Continuous Disclosure Obligations]]*, una vez
+que la oferta pública planificada de Woodfine se perfeccione.[^1] Estos registros
 proporcionan a inversores y reguladores los estados financieros auditados y revisados y el
-análisis de la dirección sobre resultados y perspectivas. Si WCP se clasifica como emisor que
+análisis de la dirección sobre resultados y perspectivas. Si Woodfine se clasifica como emisor que
 no es de riesgo (non-venture issuer), sus registros incluyen además un formulario de
 información anual que describe la estructura empresarial, los factores de riesgo y la
 gobernanza de la compañía. Un emisor de riesgo (venture issuer) no está obligado a
@@ -79,22 +79,22 @@ Esta sección describe la presentación bajo el NI 51-102 tal como se aplica a l
 de tenencia directa de Canadá y Estados Unidos, constituidas como sociedades en comandita.
 Una solución de tenencia directa constituida como SC que haya completado una oferta pública
 mediante prospecto es un emisor informante distinto con obligaciones independientes bajo el
-NI 51-102; WCP tiene previsto convertirse en emisor informante al perfeccionarse su oferta
+NI 51-102; Woodfine tiene previsto convertirse en emisor informante al perfeccionarse su oferta
 pública planificada. Cada solución de tenencia directa constituida como SC presenta sus
 propios estados financieros anuales auditados y MD&A de forma independiente; cuando una
 solución es un emisor que no es de riesgo, también presenta un formulario de información
 anual. Como emisor de riesgo (venture issuer), Professional Centres Canada LP no está obligada
-a presentar un AIF. Ninguno de estos registros se consolida en los estados financieros de WCP.
+a presentar un AIF. Ninguno de estos registros se consolida en los estados financieros de Woodfine.
 La SOCIMI de España
 y la FIBRA de México presentan información a los reguladores de sus propias jurisdicciones —
 la CNMV y la CNBV, respectivamente — bajo los regímenes de divulgación propios de esos
 reguladores, no bajo el NI 51-102 ni SEDAR+.
 
-WCP aplica el tratamiento contable de entidad de inversión conforme a la excepción de
+Woodfine aplica el tratamiento contable de entidad de inversión conforme a la excepción de
 consolidación de la NIIF 10.31–33 (la NIIF 10.27 establece los criterios de definición de
 entidad de inversión que califican a una entidad para dicha excepción): su
 participación en cada solución de tenencia directa se mide al valor razonable con cambios en
-resultados, en lugar de consolidarse línea por línea en los estados financieros de WCP. Para
+resultados, en lugar de consolidarse línea por línea en los estados financieros de Woodfine. Para
 los vehículos constituidos como SC, se emiten certificados T5013 a los tenedores de
 participaciones de sociedad en comandita para el ejercicio fiscal correspondiente.
 

@@ -10,7 +10,7 @@ quality: complete
 short_description: "Compensation model replacing the 2/20 structure: developer profit taken as equity held in trust until investor capital is returned, plus a fixed annual overhead contribution."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-11
+last_edited: 2026-08-26
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -41,11 +41,11 @@ The developer's equity position, once earned through the holding period and inve
 
 ## Initial offering cost reimbursement
 
-Separate from the ongoing overhead contribution, WCP pays all costs and expenses of each offering of units. In the established Canada vehicle, the partnership reimburses WCP 1% of the gross proceeds from the sale of units in that offering, as partial payment of those offering costs, per its governing agreement. This is a one-time reimbursement tied to a specific offering, not a recurring management fee.
+Separate from the ongoing overhead contribution, Woodfine pays all costs and expenses of each offering of units. In the established Canada vehicle, the partnership reimburses Woodfine 1% of the gross proceeds from the sale of units in that offering, as partial payment of those offering costs, per its governing agreement. This is a one-time reimbursement tied to a specific offering, not a recurring management fee.
 
 ## The fixed annual overhead contribution
 
-Variable management fees — acquisition fees, asset management fees, disposition fees, financing fees — are replaced by a single fixed annual overhead contribution calculated on the Gross Funded Value of each Direct-Hold Solution. The overhead contribution is a contribution to the operating costs of MCorp, calculated as a fixed percentage of the stated gross funded value of the vehicle rather than as a mark-to-market percentage of net asset value.
+Variable management fees — acquisition fees, asset management fees, disposition fees, financing fees — are replaced by a single fixed annual overhead contribution calculated on the Gross Funded Value of each Direct-Hold Solution. The contribution is paid to Woodfine Advisors Inc., the retained advisor, under the advisory services agreement, calculated as a fixed percentage of the stated gross funded value of the vehicle rather than as a mark-to-market percentage of net asset value.
 
 ### Fee predictability and valuation independence
 

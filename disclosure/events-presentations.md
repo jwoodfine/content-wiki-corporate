@@ -4,13 +4,13 @@ title: "Events and presentations"
 slug: events-presentations
 category: disclosure
 index_group: company-communications
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: woodfine-editorial
 status: stable
 short_description: "Planned record of shareholder meetings, investor presentations, and industry conference appearances, with archived materials and advance notice of forthcoming events once this program is in place."
 ---
 
-Woodfine Capital Projects Inc. intends to give shareholders advance notice of each formal
+Woodfine intends to give shareholders advance notice of each formal
 meeting, investor presentation, and conference appearance, and to archive the materials here.
 This section is designed to record that scheduled engagement with shareholders, the investor
 community, and the professional organisations active in the company's operating domains, once
@@ -18,7 +18,7 @@ each of these practices is in place.
 
 ## Annual general meeting
 
-Once Woodfine Capital Projects Inc. is subject to the full continuous-disclosure regime, an
+Once Woodfine is subject to the full continuous-disclosure regime, an
 annual general meeting (AGM) of shareholders is intended to be held each year, typically in the
 second quarter following the fiscal year end. At the AGM, shareholders would elect the board of
 directors, appoint the external auditor, and vote on other matters requiring shareholder

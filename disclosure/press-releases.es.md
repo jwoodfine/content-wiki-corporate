@@ -4,7 +4,7 @@ title: "Comunicados de prensa e informes de cambios materiales"
 slug: press-releases
 category: disclosure
 index_group: company-communications
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: woodfine-editorial
 status: stable
 short_description: "Canal previsto de divulgación en tiempo real de cambios materiales: comunicado inmediato, Formulario 51-102F3 en SEDAR+ en diez días y estándares de declaraciones prospectivas."
@@ -14,9 +14,9 @@ references:
     url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/51-102"
 ---
 
-Woodfine Capital Projects Inc. tiene previsto divulgar en tiempo real los desarrollos que
-constituyan [[about-material-change-reporting|cambios materiales]] en virtud del derecho canadiense de valores,
-mediante comunicados de prensa e informes de cambios materiales.
+Los desarrollos que constituyan [[about-material-change-reporting|cambios materiales]] en
+virtud del derecho canadiense de valores están previstos para divulgación en tiempo real por
+Woodfine, mediante comunicados de prensa e informes de cambios materiales.
 Un cambio material es cualquier cambio en los negocios, operaciones o capital de la compañía
 que un inversor razonablemente esperaría que tenga un efecto significativo sobre el precio de
 mercado o el valor de los valores de la compañía.[^1]

@@ -26,7 +26,7 @@ advisors, before investing.
 
 ## No investment advice
 
-Articles describe the structural and legal characteristics of MCorp's frameworks — including
+Articles describe the structural and legal characteristics of Woodfine's frameworks — including
 the [[direct-hold-framework|Direct-Hold framework]] and related governance models —
 as reference material for institutional professionals, and are qualified in their entirety
 by the applicable Private Placement Memorandum and the governing documents of the relevant

@@ -4,7 +4,7 @@ title: "Financial reporting"
 slug: about-financial-reporting
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: woodfine-editorial
 status: stable
 short_description: "Periodic financial disclosures Woodfine Capital Projects Inc. intends to file as a reporting issuer under NI 51-102 upon effectiveness of its planned prospectus offering."
@@ -16,11 +16,11 @@ references:
     text: "CSA National Policy 11-201, Delivery of Documents by Electronic Means, Canadian Securities Administrators."
 ---
 
-Woodfine Capital Projects Inc. intends to file mandatory annual and interim financial
-disclosures as a [[regulated-reporting-entity|reporting issuer]] under National Instrument 51-102
-*[[about-disclosure-obligations|Continuous Disclosure Obligations]]*, upon effectiveness of its planned
-prospectus offering.[^1] These filings give investors and regulators audited and reviewed
-financial statements and management's analysis of results and outlook. If WCP is classified as
+Mandatory annual and interim financial disclosures are planned as a
+[[regulated-reporting-entity|reporting issuer]] filing under National Instrument 51-102
+*[[about-disclosure-obligations|Continuous Disclosure Obligations]]*, once Woodfine's planned
+prospectus offering takes effect.[^1] These filings give investors and regulators audited and reviewed
+financial statements and management's analysis of results and outlook. If Woodfine is classified as
 a non-venture issuer, its filings also include an annual information form describing the
 company's business, risk factors, and governance structure — a venture issuer is not required
 to file one.
@@ -73,25 +73,25 @@ that occurred during the quarter.
 This section describes NI 51-102 reporting as it applies to the Canada and United States
 [[direct-hold-solutions-structural-comparison|direct-hold solutions]], which are structured as limited partnerships. A limited-partnership-form
 direct-hold solution that has completed a prospectus offering is a distinct reporting issuer
-with its own obligations under NI 51-102; WCP intends to become a reporting issuer upon
+with its own obligations under NI 51-102; Woodfine intends to become a reporting issuer upon
 effectiveness of its planned prospectus offering. Each LP-form direct-hold solution files its
 own audited annual financial statements and MD&A as a standalone issuer; where a solution is a
 non-venture issuer, it also files an annual information form. As a venture issuer, Professional
 Centres Canada LP is not required to file an AIF. None of these filings are consolidated into
-WCP's financial statements. The Spain SOCIMI and
+Woodfine's financial statements. The Spain SOCIMI and
 Mexico FIBRA report to their own jurisdictions' regulators — the CNMV and CNBV respectively —
 under those regulators' own disclosure regimes, not NI 51-102 or SEDAR+.
 
-WCP applies the investment entity accounting treatment under the IFRS 10.31–33 consolidation
+Woodfine applies the investment entity accounting treatment under the IFRS 10.31–33 consolidation
 exception (IFRS 10.27 sets out the investment-entity definition criteria that qualify an
 entity for it): its interest in each
 direct-hold solution is measured at fair value through profit or loss rather than consolidated
-on a line-by-line basis into WCP's statements. The fair value of WCP's interest in each solution
-is disclosed in WCP's own financial statements in accordance with IFRS 12.19A–G, which requires
+on a line-by-line basis into Woodfine's statements. The fair value of Woodfine's interest in each solution
+is disclosed in Woodfine's own financial statements in accordance with IFRS 12.19A–G, which requires
 disclosure of the financial information of unconsolidated investment entity investees.
 
 Each direct-hold solution therefore maintains two disclosure streams: its own standalone filings
-under its own jurisdiction's regime, and a fair-value line in WCP's statements as an investee
+under its own jurisdiction's regime, and a fair-value line in Woodfine's statements as an investee
 of an investment entity. For the LP-form vehicles, T5013 partnership information slips are
 issued to limited partnership unitholders for the applicable fiscal year.
 

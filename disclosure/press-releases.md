@@ -4,7 +4,7 @@ title: "Press releases and material change reports"
 slug: press-releases
 category: disclosure
 index_group: company-communications
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: woodfine-editorial
 status: stable
 short_description: "Planned real-time disclosure channel for material changes: immediate press release, Form 51-102F3 filing on SEDAR+ within ten days, and forward-looking statement standards."
@@ -14,9 +14,9 @@ references:
     url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/51-102"
 ---
 
-Woodfine Capital Projects Inc. intends to disclose developments that would constitute
-[[about-material-change-reporting|material changes]] under Canadian securities law in real
-time, through press releases and material change reports. A material change is any change in the business, operations, or capital of the company
+[[about-material-change-reporting|Material changes]] under Canadian securities law are
+planned to be disclosed by Woodfine in real time, through press releases and material change
+reports. A material change is any change in the business, operations, or capital of the company
 that an investor would reasonably expect to have a significant effect on the market price or
 value of the company's securities.[^1]
 

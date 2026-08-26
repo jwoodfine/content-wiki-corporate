@@ -4,13 +4,13 @@ title: "Eventos y presentaciones"
 slug: events-presentations
 category: disclosure
 index_group: company-communications
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: woodfine-editorial
 status: stable
 short_description: "Registro previsto de juntas de accionistas, presentaciones a inversores y participaciones en conferencias del sector, con materiales archivados y aviso previo de próximos eventos una vez implementado este programa."
 ---
 
-Woodfine Capital Projects Inc. tiene previsto informar a los accionistas con antelación de cada
+Woodfine tiene previsto informar a los accionistas con antelación de cada
 junta formal, presentación para inversores y participación en conferencias, y archivar aquí los
 materiales. Esta sección está diseñada para registrar ese relacionamiento programado con los
 accionistas, la comunidad inversora y las organizaciones profesionales activas en los dominios
@@ -18,7 +18,7 @@ operativos de la compañía, una vez que cada una de estas prácticas esté impl
 
 ## Junta general anual de accionistas
 
-Una vez que Woodfine Capital Projects Inc. esté sujeta al régimen completo de divulgación
+Una vez que Woodfine esté sujeta al régimen completo de divulgación
 continua, se prevé celebrar una junta general anual (JGA) de accionistas cada año, habitualmente
 en el segundo trimestre siguiente al cierre del ejercicio fiscal. En la JGA, los accionistas
 elegirían al consejo de administración, nombrarían al auditor externo y votarían sobre otros

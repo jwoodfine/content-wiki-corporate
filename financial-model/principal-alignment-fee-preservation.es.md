@@ -10,7 +10,7 @@ quality: complete
 short_description: "Modelo de compensación que reemplaza el 2/20: beneficio del desarrollador en capital en fideicomiso hasta devolver el capital del inversor, más una contribución fija anual."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-08-26
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -41,7 +41,7 @@ La posición de capital del desarrollador, una vez ganada a través del período
 
 ## Reembolso inicial de costos de oferta
 
-Aparte de la contribución continua a los gastos generales, WCP paga todos los costos y gastos de cada oferta de participaciones. En el vehículo de Canadá ya constituido, la sociedad reembolsa a WCP el 1% de los ingresos brutos de la venta de participaciones en esa oferta, como pago parcial de dichos costos, conforme a su acuerdo rector. Se trata de un reembolso único ligado a una oferta específica, no de una comisión de gestión recurrente.
+Aparte de la contribución continua a los gastos generales, Woodfine paga todos los costos y gastos de cada oferta de participaciones. En el vehículo de Canadá ya constituido, la sociedad reembolsa a Woodfine el 1% de los ingresos brutos de la venta de participaciones en esa oferta, como pago parcial de dichos costos, conforme a su acuerdo rector. Se trata de un reembolso único ligado a una oferta específica, no de una comisión de gestión recurrente.
 
 ## La contribución fija anual a gastos generales
 

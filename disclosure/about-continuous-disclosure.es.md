@@ -12,17 +12,17 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: about-continuous-disclosure.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. tiene previsto quedar sujeta al régimen completo de divulgación continua del Instrumento Nacional 51-102 al perfeccionarse su oferta pública planificada. Ese instrumento (Obligaciones de Divulgación Continua) establece los requisitos de reporte periódico y basado en eventos para los emisores reportantes en Canadá: depósitos anuales, reportes trimestrales y obligaciones por cambios materiales. Cada sociedad en comandita de tenencia directa que ha completado una oferta de prospecto es en sí misma un emisor reportante independiente, con obligaciones propias del NI 51-102 presentadas en SEDAR+. El régimen se aplica por lo tanto a múltiples entidades dentro del grupo Woodfine —cada una presentando de forma independiente— y rige las divulgaciones relativas a los activos de [[direct-hold-framework|Tenencia Directa]] bajo custodia del órgano de gobierno de cada vehículo.
+El régimen completo de divulgación continua del Instrumento Nacional 51-102 tiene previsto regir a Woodfine al perfeccionarse su oferta pública planificada. Ese instrumento (Obligaciones de Divulgación Continua) establece los requisitos de reporte periódico y basado en eventos para los emisores reportantes en Canadá: depósitos anuales, reportes trimestrales y obligaciones por cambios materiales. Cada sociedad en comandita de tenencia directa que ha completado una oferta de prospecto es en sí misma un emisor reportante independiente, con obligaciones propias del NI 51-102 presentadas en SEDAR+. El régimen se aplica por lo tanto a múltiples entidades dentro del grupo Woodfine —cada una presentando de forma independiente— y rige las divulgaciones relativas a los activos de [[direct-hold-framework|Tenencia Directa]] bajo custodia del órgano de gobierno de cada vehículo.
 
 ## Puntos clave
 
-- Woodfine Capital Projects Inc. tiene previsto quedar sujeta al régimen completo de divulgación continua del NI 51-102 al perfeccionarse su oferta pública planificada, incluyendo el MD&A, los estados financieros auditados y el reporte trimestral intermedio; si el formulario de información anual forma parte de ese régimen depende de la clasificación como emisor de empresas de riesgo, aún no determinada para esta oferta planificada.
+- El régimen completo de divulgación continua del NI 51-102 tiene previsto regir a Woodfine al perfeccionarse su oferta pública planificada, incluyendo el MD&A, los estados financieros auditados y el reporte trimestral intermedio; si el formulario de información anual forma parte de ese régimen depende de la clasificación como emisor de empresas de riesgo, aún no determinada para esta oferta planificada.
 - Cada sociedad en comandita de tenencia directa que ha completado una oferta de prospecto es un emisor reportante independiente con sus propias obligaciones del NI 51-102 —presenta de forma independiente en SEDAR+ y no se consolida en el paquete de divulgación de la matriz.
 - Los cambios materiales requieren divulgación inmediata —un comunicado de prensa a la mayor brevedad posible y el depósito del Formulario 51-102F3 en SEDAR+ dentro de los 10 días siguientes— independientemente de cualquier fecha de depósito programada.
 - Los artículos publicados en el wiki corporativo se tratan como aptos para divulgación, por lo que los editores aplican el mismo criterio de cambio material a las publicaciones del wiki que a los depósitos formales en SEDAR+.
