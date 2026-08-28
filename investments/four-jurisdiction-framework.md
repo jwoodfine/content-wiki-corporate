@@ -10,7 +10,7 @@ quality: complete
 short_description: "Deployment framework for the Direct-Hold Solutions across Canada, the United States, Spain, and Mexico, each using the flow-through vehicle mandated by local securities law."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-08-27
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -37,13 +37,13 @@ The established and planned Direct-Hold Solutions are structured as follows (tar
 | Professional Centres Spain SOCIMI | Spain (Madrid) | Sociedad Cotizada | €250 million | Iberclear (Restricted) |
 | Professional Centres Mexico FIBRA | Mexico (State of Mexico) | Private FIBRA | MN$5,000 million | Indeval (Restricted) |
 
-Canada's established vehicle delivers 100% flow-through taxation under its sovereign tax regime, Freely Transferable Investment Units, and Exchange-Traded First Secured Mortgage Debentures; the three planned vehicles are designed to deliver the same features once established. The legal form varies by jurisdiction — [[limited-partnership-structure|limited partnership]] in Canada and the United States, SOCIMI in Spain, FIBRA in Mexico — but the economic and governance structure is designed to be functionally equivalent across all four.
+Canada's established vehicle delivers 100% flow-through taxation under its sovereign tax regime, Freely Transferable Investment Units (the established Canada vehicle's units are not currently freely transferable, because of an active BCSC cease-trade order — see below), and Exchange-Traded First Secured Mortgage Debentures; the three planned vehicles are designed to deliver the same features once established. The legal form varies by jurisdiction — [[limited-partnership-structure|limited partnership]] in Canada and the United States, SOCIMI in Spain, FIBRA in Mexico — but the economic and governance structure is designed to be functionally equivalent across all four.
 
 ## Canada — Professional Centres Canada LP
 
 The Professional Centres Canada LP is a closed-end limited partnership domiciled in British Columbia. It is the existing vehicle in the framework — the operating model that demonstrates the structure which the three planned Direct-Hold Solutions are intended to replicate in their respective jurisdictions.
 
-As a Regulated Reporting Entity under Canadian securities laws, the Professional Centres Canada LP files continuous public disclosure on [[about-filing-systems|SEDAR+]], including audited financial statements and [[about-material-change-reporting|material change reports]]; as a venture issuer, it is not required to file an Annual Information Form. Investment Units are freely transferable in Canada after the expiry of the initial four-month statutory hold period. The General Partner admits any eligible transferee who completes the required transfer documentation and records each transfer, subject to a narrow exception where beneficial owners of 45% or more of the outstanding units are, or may be, financial institutions; a holder whose status would create adverse Canadian tax consequences for the partnership can be required to divest, and an acquisition crossing 20% of outstanding units triggers a separate mandatory-offer requirement. Woodfine and other unitholders have no approval role in an ordinary transfer.
+As a Regulated Reporting Entity under Canadian securities laws, the Professional Centres Canada LP files continuous public disclosure on [[about-filing-systems|SEDAR+]], including audited financial statements and [[about-material-change-reporting|material change reports]]; as a venture issuer, it is not required to file an Annual Information Form. Investment Units are designed to be freely transferable in Canada after the expiry of the initial four-month statutory hold period, though the established vehicle's units are not currently freely transferable, because the partnership is subject to an active British Columbia Securities Commission cease-trade order, arising from delayed continuous-disclosure filings rather than any finding of fraud or misconduct. Once that order is revoked, the General Partner admits any eligible transferee who completes the required transfer documentation and records each transfer, subject to a narrow exception where beneficial owners of 45% or more of the outstanding units are, or may be, financial institutions; a holder whose status would create adverse Canadian tax consequences for the partnership can be required to divest, and an acquisition crossing 20% of outstanding units triggers a separate mandatory-offer requirement. Woodfine and other unitholders have no approval role in an ordinary transfer.
 
 The Canadian General Partner is Woodfine Professional Centres Inc., a subsidiary of Woodfine. The LP is not listed for trading on the Toronto Stock Exchange or any other Canadian exchange. Units trade over the counter in brokerage-facilitated private transactions.
 

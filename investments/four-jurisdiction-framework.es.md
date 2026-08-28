@@ -10,7 +10,7 @@ quality: complete
 short_description: "Marco de despliegue previsto de las Direct-Hold Solutions en Canadá, Estados Unidos, España y México, cada una con el vehículo de flujo directo que exige la ley local de valores."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-08-27
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -37,13 +37,13 @@ Los vehículos establecido y planificados se estructuran de la siguiente manera 
 | Professional Centres Spain SOCIMI | España (Madrid) | Sociedad Cotizada | €250 millones | Iberclear (Restringido) |
 | Professional Centres Mexico FIBRA | México (Estado de México) | FIBRA Privada | MN$5.000 millones | Indeval (Restringido) |
 
-El vehículo establecido de Canadá entrega tributación de flujo directo del 100% bajo su régimen fiscal soberano, Unidades de Inversión de Libre Transmisión y Obligaciones con Primera Hipoteca Garantizada Negociadas en Bolsa; los tres vehículos planificados están diseñados para entregar las mismas características una vez establecidos. La forma legal varía por jurisdicción, pero la estructura económica y de gobernanza está diseñada para ser funcionalmente equivalente en las cuatro.
+El vehículo establecido de Canadá entrega tributación de flujo directo del 100% bajo su régimen fiscal soberano, Unidades de Inversión de Libre Transmisión (las unidades del vehículo de Canadá ya constituido no son actualmente libremente transferibles, debido a una orden de suspensión de negociación vigente de la BCSC — véase más abajo) y Obligaciones con Primera Hipoteca Garantizada Negociadas en Bolsa; los tres vehículos planificados están diseñados para entregar las mismas características una vez establecidos. La forma legal varía por jurisdicción, pero la estructura económica y de gobernanza está diseñada para ser funcionalmente equivalente en las cuatro.
 
 ## Canadá — Professional Centres Canada LP
 
 La Professional Centres Canada LP es una [[limited-partnership-structure|sociedad en comandita]] de capital cerrado domiciliada en Columbia Británica. Es el vehículo existente en el marco — el modelo operativo que demuestra la estructura que los tres Direct-Hold Solutions planificados tienen previsto replicar en sus respectivas jurisdicciones.
 
-Como Entidad Regulada Emisora de Información bajo las leyes canadienses de valores, la Professional Centres Canada LP presenta divulgación pública continua en [[about-filing-systems|SEDAR+]], incluyendo estados financieros auditados y [[about-material-change-reporting|reportes de cambios materiales]]; como emisor de empresas de riesgo, no está obligada a presentar un Formulario de Información Anual. Las Unidades de Inversión son de libre transmisión en Canadá después del vencimiento del período inicial de cuatro meses tras la distribución inicial.
+Como Entidad Regulada Emisora de Información bajo las leyes canadienses de valores, la Professional Centres Canada LP presenta divulgación pública continua en [[about-filing-systems|SEDAR+]], incluyendo estados financieros auditados y [[about-material-change-reporting|reportes de cambios materiales]]; como emisor de empresas de riesgo, no está obligada a presentar un Formulario de Información Anual. Las Unidades de Inversión están diseñadas para ser de libre transmisión en Canadá después del vencimiento del período inicial de cuatro meses tras la distribución inicial, aunque las unidades del vehículo ya constituido no son actualmente libremente transferibles, porque la sociedad está sujeta a una orden de suspensión de negociación vigente de la British Columbia Securities Commission, originada en la presentación tardía de informes de divulgación continua y no en ningún hallazgo de fraude o conducta indebida. Una vez revocada esa orden, el Socio General admite a cualquier cesionario elegible que complete la documentación de transferencia requerida y registra cada transferencia, sujeto a una excepción limitada cuando los beneficiarios efectivos del 45% o más de las unidades en circulación son, o podrían ser, instituciones financieras; un titular cuyo estatus generara consecuencias fiscales adversas para la sociedad puede verse obligado a desprenderse de sus unidades, y una adquisición que cruce el 20% de las unidades en circulación activa un requisito separado de oferta obligatoria. Woodfine y los demás tenedores de unidades no tienen ningún papel de aprobación en una transferencia ordinaria.
 
 ## Estados Unidos — Professional Centres United States LP
 
