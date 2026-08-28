@@ -12,7 +12,7 @@ index_scope: reference
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-27
 editor: pointsav-engineering
 paired_with: reference/_index.md
 ---
@@ -46,13 +46,20 @@ designaciones específicas de cada jurisdicción.
 - [[regulated-reporting-entity]] — El término puente transfronterizo que Woodfine utiliza en lugar de designaciones específicas de cada jurisdicción como Reporting Issuer, Entidad Pública o Emisora.
 <!-- END AUTO-GENERATED -->
 
-## Cómo leer esta base de conocimiento
+## Cómo está organizada esta base de conocimiento
 
-Cómo está organizada esta base de conocimiento, cómo cubre sus declaraciones prospectivas,
-y cómo se relacionan sus medidas financieras no-NIIF con los estados financieros NIIF.
+Un mapa del lector para cada categoría antes de consultar definiciones individuales.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: reading-this-wiki -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: how-this-knowledge-base-is-organized -->
 - [[wiki-structure]] — Un mapa del lector: cómo está organizada esta base de conocimiento por categoría.
+<!-- END AUTO-GENERATED -->
+
+## Declaraciones Prospectivas y Medidas No-NIIF
+
+Cómo esta base de conocimiento cubre sus declaraciones prospectivas, y cómo se relacionan
+sus medidas financieras no-NIIF con los estados financieros NIIF.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: forward-looking-statements-and-non-ifrs-measures -->
 - [[forward-looking-statements-advisory]] — Qué significan planificado, previsto, podría y meta en esta base de conocimiento, y por qué los resultados reales pueden diferir materialmente.
 - [[non-ifrs-measures-explained]] — NOI, FFO, AFFO y la tasa de capitalización como medidas suplementarias que no reemplazan los estados financieros NIIF.
 <!-- END AUTO-GENERATED -->

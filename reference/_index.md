@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Reference"
+title: "Glossary and Reference"
 slug: reference
 category: reference
 type: topic
@@ -12,15 +12,15 @@ index_scope: reference
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-27
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
 Reference holds the terminology index, glossary expansions, and standard definitions used
 across the corporate knowledge base — the vocabulary of direct-hold investment, private
-capital markets, and corporate governance as this wiki uses it, sourced from the canonical
-corporate glossary and from institutional financial standards.
+capital markets, and corporate governance as this knowledge base uses it, sourced from the
+canonical corporate glossary and from institutional financial standards.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card
      (reuses the existing cluster-card--start-here component). Do not add more than one. -->
@@ -34,7 +34,7 @@ every category before consulting individual definitions.
 
 The vocabulary itself: the corporate glossary, jurisdiction-specific securities
 terminology, commercial real estate financial metrics, and the cross-border bridge terms
-this wiki uses in place of jurisdiction-specific designations.
+this knowledge base uses in place of jurisdiction-specific designations.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: defined-terms-and-glossaries -->
 - [[corporate-glossary]] — Curated glossary of the core terms used across the corporate knowledge base: the Direct-Hold Solution structure, the four-jurisdiction framework, financial and securities reporting, and the corporate structure governing them.
@@ -44,14 +44,21 @@ this wiki uses in place of jurisdiction-specific designations.
 - [[regulated-reporting-entity]] — The cross-border bridge term Woodfine uses in place of jurisdiction-specific designations such as Reporting Issuer, Entidad Pública, or Emisora.
 <!-- END AUTO-GENERATED -->
 
-## Reading this wiki
+## How this knowledge base is organized
 
-How this knowledge base is organized, how it hedges forward-looking claims, and how its
-non-IFRS financial measures relate to IFRS statements.
+A reader's map to every category before consulting individual definitions.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: reading-this-wiki -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: how-this-knowledge-base-is-organized -->
 - [[wiki-structure]] — A reader's map: how this knowledge base is organized by category.
-- [[forward-looking-statements-advisory]] — What planned, intended, may, and target mean across this wiki, and why actual results may differ materially.
+<!-- END AUTO-GENERATED -->
+
+## Forward-Looking Statements and Non-IFRS Measures
+
+How this knowledge base hedges forward-looking claims, and how its non-IFRS financial
+measures relate to IFRS statements.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: forward-looking-statements-and-non-ifrs-measures -->
+- [[forward-looking-statements-advisory]] — What planned, intended, may, and target mean across this knowledge base, and why actual results may differ materially.
 - [[non-ifrs-measures-explained]] — NOI, FFO, AFFO, and capitalization rate as supplementary metrics that do not replace IFRS statements.
 <!-- END AUTO-GENERATED -->
 

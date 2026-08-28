@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Medidas No-NIIF Explicadas"
 slug: non-ifrs-measures-explained
 category: reference
-index_group: reading-this-wiki
+index_group: forward-looking-statements-and-non-ifrs-measures
 type: topic
 content_type: topic
 quality: complete
@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-27
 editor: pointsav-engineering
 paired_with: non-ifrs-measures-explained.md
 ---

@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Cómo está organizada esta base de conocimiento"
 slug: wiki-structure
 category: reference
-index_group: reading-this-wiki
+index_group: how-this-knowledge-base-is-organized
 type: topic
 content_type: topic
 quality: complete
@@ -17,7 +17,7 @@ short_description: "Un mapa para el lector: esta base de conocimiento
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-26
+last_edited: 2026-08-27
 editor: woodfine-editorial
 paired_with: wiki-structure.md
 ---
