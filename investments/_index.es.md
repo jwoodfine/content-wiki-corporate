@@ -12,7 +12,7 @@ index_scope: investments
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-27
 editor: woodfine-editorial
 paired_with: _index.md
 ---
@@ -39,7 +39,7 @@ estructura con los Joint Ventures Heredados, el Capital Privado y los REIT Tradi
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-direct-hold-structure -->
 - [[direct-hold-framework]] — Estructura legal que emite participaciones en un único vehículo de tenencia directa nombrado, sin participar en un fondo combinado, eliminando el contagio entre activos.
-- [[investment-units]] — Las participaciones emitidas por cada vehículo de tenencia directa dentro del marco de Tenencia Directa de MCorp.
+- [[investment-units]] — Las participaciones emitidas por cada vehículo de tenencia directa dentro del marco de Tenencia Directa de Woodfine.
 - [[asset-vehicle-isolation]] — Los mecanismos legales y estructurales mediante los cuales cada solución de tenencia directa se aísla como un vehículo separado: por qué los acreedores de un activo no pueden acceder a activos mantenidos en otro, y cómo este aislamiento protege a los tenedores de participaciones.
 - [[direct-hold-solutions-structural-comparison]] — Comparación característica por característica de las Direct-Hold Solutions con Joint Ventures Heredados, Capital Privado y REIT Tradicionales en doce dimensiones de gobernanza.
 - [[titleco-and-subsidiary-silo-model]] — Cómo cada Solución de Tenencia Directa mantiene el título legal de su propiedad inmobiliaria: una subsidiaria Titleco separada por edificio bajo el vehículo, el fundamento fiscal del modelo mexicano de Silo de Subsidiarias, y el administrador externo con tarifa limitada que contrata cada Titleco.
@@ -63,7 +63,7 @@ jurisdicciones, y la estructura específica de cada vehículo por separado.
 - [[professional-centres-mexico-fibra-structure]] — La estructura jurídica y operativa planificada de Professional Centres Mexico FIBRA a nivel del fideicomiso — la división de gobernanza entre el Banco fiduciario y el Comité Técnico, el modelo de aislamiento por subsidiaria, la transparencia fiscal de los Artículos 187/188, y la comparación entre FIBRA Privada, FICAP y S.A.P.I. — distinta de los artículos sobre la matriz corporativa y sobre el marco de cuatro jurisdicciones.
 <!-- END AUTO-GENERATED -->
 
-## Elegibilidad y canales de distribución
+## Elegibilidad del Inversionista y Exenciones de Oferta
 
 Las participaciones de cada Solución de Tenencia Directa se distribuyen bajo exenciones de
 prospecto, no mediante una oferta pública — con mayor frecuencia la exención de
@@ -72,7 +72,7 @@ certificar el inversor para calificar, varía según la jurisdicción y la exenc
 artículos a continuación detallan las exenciones utilizadas y la prueba de inversionista
 acreditado.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: eligibility-and-distribution-channels -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: investor-eligibility-and-offering-exemptions -->
 - [[exemptions]] — Exenciones de prospecto utilizadas en la oferta de cada jurisdicción: la exención de inversionista acreditado y el canal paralelo de prospecto.
 - [[accredited-investor-eligibility]] — La exención de inversionista acreditado como canal de distribución para participaciones en sociedades en comandita de tenencia directa.
 <!-- END AUTO-GENERATED -->

@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Elegibilidad de Inversionista Acreditado"
 slug: accredited-investor-eligibility
 category: investments
-index_group: eligibility-and-distribution-channels
+index_group: investor-eligibility-and-offering-exemptions
 type: topic
 content_type: topic
 quality: complete
@@ -11,7 +11,7 @@ short_description: "La exención de inversionista acreditado bajo la NI 45-106 c
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-27
 editor: woodfine-editorial
 paired_with: accredited-investor-eligibility.md
 ---

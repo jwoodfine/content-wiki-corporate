@@ -12,7 +12,7 @@ index_scope: investments
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-27
 editor: woodfine-editorial
 paired_with: _index.es.md
 ---
@@ -37,7 +37,7 @@ also compare the structure with joint ventures, private equity funds, and tradit
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-direct-hold-structure -->
 - [[direct-hold-framework]] — A legal structure that issues equity units in a single named direct-hold vehicle, not a share in a commingled pool, eliminating cross-asset contagion.
-- [[investment-units]] — The equity units issued by each direct-hold vehicle in MCorp's Direct-Hold framework.
+- [[investment-units]] — The equity units issued by each direct-hold vehicle in Woodfine's Direct-Hold framework.
 - [[asset-vehicle-isolation]] — The legal and structural mechanisms through which each direct-hold solution is isolated as a separate vehicle: why creditors of one asset cannot reach assets held in another, and how this isolation protects unit holders.
 - [[direct-hold-solutions-structural-comparison]] — Feature-by-feature comparison of the Direct-Hold Solutions with Legacy Joint Ventures, Private Equity funds, and Traditional REITs across twelve governance dimensions.
 - [[titleco-and-subsidiary-silo-model]] — How each Direct-Hold Solution holds legal title to its real property: a separate Titleco subsidiary per building beneath the vehicle, the tax rationale behind Mexico's Subsidiary Silo structure, and the fee-capped third-party manager each Titleco retains.
@@ -60,7 +60,7 @@ and each vehicle's specific structure in turn.
 - [[professional-centres-mexico-fibra-structure]] — The planned legal and operating structure of Professional Centres Mexico FIBRA at the trust level — the Bank-fiduciary/Technical Committee governance split, the Subsidiary Silo liability model, Article 187/188 fiscal transparency, and the Private FIBRA vs. FICAP vs. S.A.P.I. comparison — distinct from the corporate-parent and four-jurisdiction overview articles.
 <!-- END AUTO-GENERATED -->
 
-## Eligibility and distribution channels
+## Investor Eligibility and Offering Exemptions
 
 Units in each Direct-Hold Solution are distributed under prospectus exemptions, not a public
 offering — most commonly the accredited investor exemption available in each jurisdiction.
@@ -68,7 +68,7 @@ Who qualifies, and what that qualification requires the investor to certify, dif
 jurisdiction and by exemption. The two articles below cover the exemptions relied upon and
 the accredited investor test in detail.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: eligibility-and-distribution-channels -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: investor-eligibility-and-offering-exemptions -->
 - [[exemptions]] — Prospectus exemptions relied upon in each jurisdiction's offering: the accredited investor exemption and the parallel prospectus channel.
 - [[accredited-investor-eligibility]] — The accredited investor exemption as a distribution channel for direct-hold limited partnership units.
 <!-- END AUTO-GENERATED -->
