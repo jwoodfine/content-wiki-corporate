@@ -4,7 +4,7 @@ title: "Información Financiera"
 slug: about-financial-reporting
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-08-26
+last_edited: 2026-08-27
 editor: woodfine-editorial
 status: stable
 short_description: "Divulgaciones financieras periódicas que Woodfine Capital Projects Inc. prevé presentar como emisor bajo NI 51-102 tras la efectividad de su oferta de prospecto planificada."
@@ -94,8 +94,15 @@ Woodfine aplica el tratamiento contable de entidad de inversión conforme a la e
 consolidación de la NIIF 10.31–33 (la NIIF 10.27 establece los criterios de definición de
 entidad de inversión que califican a una entidad para dicha excepción): su
 participación en cada solución de tenencia directa se mide al valor razonable con cambios en
-resultados, en lugar de consolidarse línea por línea en los estados financieros de Woodfine. Para
-los vehículos constituidos como SC, se emiten certificados T5013 a los tenedores de
+resultados, en lugar de consolidarse línea por línea en los estados financieros de Woodfine. El
+valor razonable de la participación de Woodfine en cada solución se divulga en los propios
+estados financieros de Woodfine conforme a la NIIF 12.19A–G, que exige la divulgación de la
+información financiera de las entidades participadas de una entidad de inversión no consolidadas.
+
+Cada solución de tenencia directa mantiene, por tanto, dos flujos de divulgación: sus propias
+presentaciones independientes conforme al régimen de su propia jurisdicción, y una línea de
+valor razonable en los estados financieros de Woodfine como participada de una entidad de
+inversión. Para los vehículos constituidos como SC, se emiten certificados T5013 a los tenedores de
 participaciones de sociedad en comandita para el ejercicio fiscal correspondiente.
 
 ## Presentación en SEDAR+ y accesibilidad
