@@ -6,7 +6,7 @@ aliases:
   - topic-vendor-customer-model
 short_description: "PointSav Digital Systems is Woodfine Capital Projects Inc.'s separate technology subsidiary."
 category: company
-index_group: technology-and-investor-services
+index_group: corporate-structure-and-ownership
 type: reference
 content_type: topic
 quality: complete
@@ -14,7 +14,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-26
+last_edited: 2026-08-27
 editor: pointsav-engineering
 paired_with: vendor-customer-model.es.md
 cites: []
