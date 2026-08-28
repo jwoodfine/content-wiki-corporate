@@ -25,6 +25,18 @@ Este repositorio no contiene cuentas financieras activas, registros de personal 
 
 Woodfine no opera fondos de inversión. Opera Soluciones de Tenencia Directa — entidades de reporte regulado que poseen los activos inmobiliarios directamente, estructuradas para eliminar los costos estructurales redundantes de los vehículos de fondos en capas. Los inversores mantienen unidades directamente en la empresa que posee los inmuebles.
 
+**Corrección (2026-08-04):** la caracterización de "Libre Transferencia" que aparece a
+continuación (y en varios artículos relacionados) describe el diseño estructural de las
+Soluciones de Tenencia Directa como clase, sin diferenciar el estado actual por vehículo.
+Solo el vehículo de Canadá (Woodfine Professional Centres Limited Partnership) está
+actualmente constituido; se encuentra sujeto a una orden de suspensión de negociación
+(cease-trade order) activa de la BCSC, en virtud de la cual las unidades no son
+actualmente de libre transferencia. Los vehículos de Estados Unidos, España y México
+están planificados, aún no constituidos. **Señalado, no reescrito silenciosamente** —
+esta corrección se aplica en todo el corpus a cada artículo que hace la afirmación no
+matizada de "libre transferencia"/"oferta activa"; véase la corrección correspondiente
+en cada artículo relacionado.
+
 `topic-DIRECT-HOLD-FRAMEWORK.md` — El argumento estructural completo para las Soluciones de Tenencia Directa frente a los REIT tradicionales y los vehículos de fondos. Las cuatro implementaciones jurisdiccionales: LP de Canadá, LP de Estados Unidos, SOCIMI de España, FIBRA de México.
 
 `topic-EQUITY-TRANSFER-MODEL.md` — Cómo las Unidades de Inversión se transfieren directamente entre inversores sin colas de redención. Por qué el estado de Libre Transferencia distingue las Soluciones de Tenencia Directa tanto de los REIT públicos como de los fondos privados.
