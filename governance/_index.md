@@ -6,7 +6,7 @@ category: governance
 type: topic
 content_type: topic
 quality: complete
-short_description: "Regulatory posture, continuous disclosure obligations, and board governance requirements for direct-hold real estate investment in Canada, the United States, Spain, and Mexico."
+short_description: "Board and management oversight, investor rights and voting, and conflicts-of-interest and required disclosures governing direct-hold real estate investment in Canada, the United States, Spain, and Mexico."
 index_type: thematic
 index_scope: governance
 status: active

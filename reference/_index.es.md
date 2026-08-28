@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Referencia"
+title: "Glosario y Referencia"
 slug: reference
 category: reference
 type: topic

@@ -1,12 +1,12 @@
 ---
 schema: foundry-doc-v1
-title: "Gobernanza"
+title: "Gobernanza y Asuntos Legales"
 slug: governance
 category: governance
 type: topic
 content_type: topic
 quality: complete
-short_description: "Postura regulatoria, obligaciones de divulgación continua y requisitos de gobernanza del consejo que rigen la inversión inmobiliaria de tenencia directa en Canadá, Estados Unidos, España y México."
+short_description: "Supervisión del consejo y la dirección, derechos de voto de los inversores, y conflictos de interés y divulgaciones obligatorias que rigen la inversión inmobiliaria de tenencia directa en Canadá, Estados Unidos, España y México."
 index_type: thematic
 index_scope: governance
 status: active
