@@ -7,7 +7,7 @@ short_description: "The corporate record for Woodfine Capital Projects Inc., dev
 category: root
 status: active
 bcsc_class: public-disclosure-safe
-last_edited: 2026-08-25
+last_edited: 2026-08-27
 editor: pointsav-engineering
 ---
 
@@ -36,14 +36,14 @@ escrowed promoter equity — held through a special-purpose Woodfine subsidiary 
 in escrow until limited partners recover 100% of contributed capital or a defined
 liquidity event occurs.
 
-This encyclopedia is organized around [the parent company itself](/category/company),
+This knowledge base is organized around [the parent company itself](/category/company),
 [the investment vehicles](/category/investments), [the financial model
 behind them](/category/financial-model), [distributions and unit transfers](/category/distributions),
-[governance and legal structure](/category/governance), [risk factors](/category/risks),
-[how disclosure works](/category/disclosure), and reference terminology. The investments
+[governance and legal](/category/governance), [risks](/category/risks),
+[how disclosure works](/category/disclosure), and glossary and reference terminology. The investments
 section covers the four direct-hold vehicle types, the equity transfer model, and the
 fiduciary mandate in detail.
 
-Forward-looking statements in this wiki reflect current intentions and are subject to risk
+Forward-looking statements in this knowledge base reflect current intentions and are subject to risk
 and uncertainty; statements are framed using planned, intended, or target language per the
 firm's continuous-disclosure practice under NI 51-102 and CSA National Policy 51-201.

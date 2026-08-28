@@ -8,7 +8,7 @@ paired_with: index.md
 category: root
 status: active
 bcsc_class: public-disclosure-safe
-last_edited: 2026-06-26
+last_edited: 2026-08-27
 editor: pointsav-engineering
 ---
 
@@ -39,14 +39,14 @@ mantenida a través de una subsidiaria de Woodfine de propósito especial y rete
 hasta que los socios limitados recuperen el 100% del capital aportado o se produzca un
 evento de liquidez definido.
 
-Esta enciclopedia está organizada en torno a [la empresa matriz](/category/company),
+Esta base de conocimiento está organizada en torno a [la empresa matriz](/category/company),
 [los vehículos de inversión](/category/investments), [el modelo
 financiero que los sustenta](/category/financial-model), [las distribuciones y transferencias
-de unidades](/category/distributions), [la gobernanza y la estructura legal](/category/governance),
-[los factores de riesgo](/category/risks), [cómo funciona la divulgación](/category/disclosure) y la
-terminología de referencia.
+de unidades](/category/distributions), [la gobernanza y los asuntos legales](/category/governance),
+[los riesgos](/category/risks), [cómo funciona la divulgación](/category/disclosure) y la
+terminología de glosario y referencia.
 
-Las declaraciones prospectivas en esta enciclopedia reflejan las intenciones actuales y están
+Las declaraciones prospectivas en esta base de conocimiento reflejan las intenciones actuales y están
 sujetas a riesgos e incertidumbres; las afirmaciones se formulan con términos como planificado,
 previsto o proyectado, conforme a la práctica de divulgación continua de la empresa bajo la
 NI 51-102 y la Política Nacional 51-201 del CSA.
