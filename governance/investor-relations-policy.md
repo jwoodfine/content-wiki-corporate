@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Investor relations policy"
 slug: investor-relations-policy
 category: governance
-index_group: disclosure-obligations-and-investor-rights
+index_group: investor-rights-and-voting
 type: topic
 content_type: topic
 quality: complete
@@ -11,7 +11,7 @@ short_description: "The structure and purpose of a formal investor relations pol
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-27
 editor: woodfine-editorial
 paired_with: investor-relations-policy.es.md
 ---

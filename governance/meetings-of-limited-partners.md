@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Meetings of limited partners"
 slug: meetings-of-limited-partners
 category: governance
-index_group: disclosure-obligations-and-investor-rights
+index_group: investor-rights-and-voting
 type: reference
 content_type: topic
 quality: complete
@@ -11,7 +11,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-27
 editor: pointsav-engineering
 paired_with: meetings-of-limited-partners.es.md
 cites: []

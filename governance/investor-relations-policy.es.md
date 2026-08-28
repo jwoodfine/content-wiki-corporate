@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Política de Relaciones con Inversionistas"
 slug: investor-relations-policy
 category: governance
-index_group: disclosure-obligations-and-investor-rights
+index_group: investor-rights-and-voting
 type: topic
 content_type: topic
 quality: complete
@@ -11,7 +11,7 @@ short_description: "La estructura y el propósito de una política formal de rel
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-30
+last_edited: 2026-08-27
 editor: woodfine-editorial
 paired_with: investor-relations-policy.md
 ---

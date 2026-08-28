@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Governance"
+title: "Governance and Legal"
 slug: governance
 category: governance
 type: topic
@@ -12,7 +12,7 @@ index_scope: governance
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-27
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
@@ -38,16 +38,25 @@ The board and management instruments.
 - [[auditors-transfer-agent-registrar]] — Roles of the auditor, transfer agent, and registrar.
 <!-- END AUTO-GENERATED -->
 
-## Disclosure obligations and investor rights
+## Investor Rights and Voting
 
-Disclosure obligations and investor rights.
+The statutory rights, voting procedures, and eligibility representations that protect
+limited partners.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: disclosure-obligations-and-investor-rights -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: investor-rights-and-voting -->
 - [[investor-relations-policy]] — The investor relations policy.
 - [[statutory-rights]] — Statutory investor rights: rescission, damages, and the rights that attach to different distribution channels.
 - [[special-resolutions-and-general-partner-removal]] — The Special Resolution vote threshold, the matters it governs, the conditions for removing the general partner, and amendment protections.
 - [[meetings-of-limited-partners]] — How limited partners call, notice, and vote at a meeting of the partnership.
 - [[limited-partner-eligibility-representations]] — The ongoing tax and regulatory representations each limited partner makes, and the forced-sale procedure if they change.
+<!-- END AUTO-GENERATED -->
+
+## Conflicts and Required Disclosures
+
+The rules limiting fees to promoter affiliates, and the disclosure record: material
+contracts, legal proceedings, and named experts.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: conflicts-and-required-disclosures -->
 - [[fees-to-affiliates-and-conflicts-of-interest]] — The net-asset-value fee prohibition and the rule limiting fees to promoter affiliates.
 - [[material-contracts]] — Material contracts disclosure.
 - [[legal-proceedings]] — Legal proceedings disclosure.

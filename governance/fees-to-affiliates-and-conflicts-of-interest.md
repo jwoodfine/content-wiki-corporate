@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Fees to affiliates and conflicts of interest"
 slug: fees-to-affiliates-and-conflicts-of-interest
 category: governance
-index_group: disclosure-obligations-and-investor-rights
+index_group: conflicts-and-required-disclosures
 type: reference
 content_type: topic
 quality: complete
@@ -11,7 +11,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-27
 editor: pointsav-engineering
 paired_with: fees-to-affiliates-and-conflicts-of-interest.es.md
 cites: []

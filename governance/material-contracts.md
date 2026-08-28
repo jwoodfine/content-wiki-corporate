@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Material contracts"
 slug: material-contracts
 category: governance
-index_group: disclosure-obligations-and-investor-rights
+index_group: conflicts-and-required-disclosures
 type: topic
 content_type: topic
 quality: complete
@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-27
 editor: pointsav-engineering
 paired_with: material-contracts.es.md
 ---

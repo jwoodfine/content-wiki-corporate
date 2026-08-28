@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Derechos Estatutarios"
 slug: statutory-rights
 category: governance
-index_group: disclosure-obligations-and-investor-rights
+index_group: investor-rights-and-voting
 type: topic
 content_type: topic
 quality: complete
@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-08-27
 editor: pointsav-engineering
 paired_with: statutory-rights.md
 ---

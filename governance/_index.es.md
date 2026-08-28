@@ -12,7 +12,7 @@ index_scope: governance
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-27
 editor: pointsav-engineering
 paired_with: governance/_index.md
 ---
@@ -38,16 +38,25 @@ Los instrumentos del consejo y de la administración.
 - [[auditors-transfer-agent-registrar]] — Funciones del auditor, el agente de transferencia y el registrador.
 <!-- END AUTO-GENERATED -->
 
-## Obligaciones de divulgación y derechos del inversor
+## Derechos del Inversor y Votación
 
-Obligaciones de divulgación y derechos del inversor.
+Los derechos estatutarios, los procedimientos de votación y las declaraciones de
+elegibilidad que protegen a los socios comanditarios.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: disclosure-obligations-and-investor-rights -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: investor-rights-and-voting -->
 - [[investor-relations-policy]] — La política de relaciones con inversionistas.
 - [[statutory-rights]] — Derechos estatutarios de los inversores: rescisión, daños, y los derechos que corresponden a distintos canales de distribución.
 - [[special-resolutions-and-general-partner-removal]] — El umbral de voto de la Resolución Especial, los asuntos que rige, las condiciones para remover al socio general, y las protecciones sobre las modificaciones.
 - [[meetings-of-limited-partners]] — Cómo los socios comanditarios convocan, notifican y votan en una asamblea de la sociedad.
 - [[limited-partner-eligibility-representations]] — Las declaraciones fiscales y regulatorias continuas que hace cada socio comanditario, y el procedimiento de venta forzosa si estas cambian.
+<!-- END AUTO-GENERATED -->
+
+## Conflictos y Divulgaciones Requeridas
+
+Las reglas que limitan los honorarios a las afiliadas del promotor, y el registro de
+divulgación: contratos materiales, procedimientos legales y expertos nombrados.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: conflicts-and-required-disclosures -->
 - [[fees-to-affiliates-and-conflicts-of-interest]] — La prohibición de honorarios vinculados al valor neto de los activos y la regla que limita los honorarios a las afiliadas del promotor.
 - [[material-contracts]] — Divulgación de contratos materiales.
 - [[legal-proceedings]] — Divulgación de procedimientos legales.
