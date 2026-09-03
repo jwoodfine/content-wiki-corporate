@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Glosario y Referencia"
+title: "Glosario y Guía del Lector"
 slug: reference
 category: reference
 type: topic
@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: reference/_index.md
 ---
 
-Referencia contiene el índice de terminología, las expansiones del glosario y las
+El Glosario y Guía del Lector contiene el índice de terminología, las expansiones del glosario y las
 definiciones estándar utilizadas en toda la base de conocimiento corporativa —el
 vocabulario de la inversión de tenencia directa, los mercados de capital privado y el
 gobierno corporativo tal como se emplean en esta base de conocimiento, con fuente en el

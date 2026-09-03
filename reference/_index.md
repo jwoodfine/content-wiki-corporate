@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Glossary and Reference"
+title: "Glossary and Reader's Guide"
 slug: reference
 category: reference
 type: topic
@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-Reference holds the terminology index, glossary expansions, and standard definitions used
+The Glossary and Reader's Guide holds the terminology index, glossary expansions, and standard definitions used
 across the corporate knowledge base — the vocabulary of direct-hold investment, private
 capital markets, and corporate governance as this knowledge base uses it, sourced from the
 canonical corporate glossary and from institutional financial standards.

@@ -37,7 +37,7 @@ categories:
     order: 2
 
   - id: financial-model
-    name: "Financial Model"
+    name: "Capital Structure and Fees"
     scope: >-
       The financial engine: the Narrow Banking Model, under which
       buildings are intended to be built with zero construction debt and
@@ -61,7 +61,7 @@ categories:
     order: 4
 
   - id: governance
-    name: "Governance and Legal"
+    name: "Governance and Investor Rights"
     scope: >-
       Who is in charge and what protects investors: the board and its
       independent directors, committees, compensation, the rules written
@@ -80,7 +80,7 @@ categories:
     order: 6
 
   - id: disclosure
-    name: "Disclosure and Reporting"
+    name: "Reports and Disclosure"
     scope: >-
       What disclosure means for Woodfine and each Direct-Hold Solution,
       explained in plain language — plus a page per entity for whatever
@@ -89,7 +89,7 @@ categories:
     order: 7
 
   - id: reference
-    name: "Glossary and Reference"
+    name: "Glossary and Reader's Guide"
     scope: >-
       Every defined term in plain words, plus the forward-looking-
       statements advisory and the non-IFRS measures explained.

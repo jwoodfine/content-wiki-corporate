@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Governance and Legal"
+title: "Governance and Investor Rights"
 slug: governance
 category: governance
 type: topic
@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-Governance covers the board and management instruments, disclosure obligations, and investor
+Governance and Investor Rights covers the board and management instruments, disclosure obligations, and investor
 rights.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card

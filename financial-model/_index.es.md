@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Modelo Financiero"
+title: "Estructura de Capital y Comisiones"
 slug: financial-model-index
 category: financial-model
 type: topic

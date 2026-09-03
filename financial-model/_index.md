@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Financial Model"
+title: "Capital Structure and Fees"
 slug: financial-model-index
 category: financial-model
 type: topic

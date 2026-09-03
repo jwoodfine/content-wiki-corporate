@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Divulgación e Informes"
+title: "Informes y Divulgación"
 slug: disclosure-index
 category: disclosure
 type: topic
@@ -17,7 +17,7 @@ editor: woodfine-editorial
 paired_with: _index.md
 ---
 
-Divulgación e Informes explica qué significa la divulgación continua para un emisor que reporta, en lenguaje claro, y reúne lo que cada entidad ha publicado, o publicará una vez que exista.
+Informes y Divulgación explica qué significa la divulgación continua para un emisor que reporta, en lenguaje claro, y reúne lo que cada entidad ha publicado, o publicará una vez que exista.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card
      (reuses the existing cluster-card--start-here component). Do not add more than one. -->

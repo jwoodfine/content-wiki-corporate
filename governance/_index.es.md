@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Gobernanza y Asuntos Legales"
+title: "Gobernanza y Derechos del Inversor"
 slug: governance
 category: governance
 type: topic
@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: governance/_index.md
 ---
 
-Gobernanza abarca los instrumentos del consejo y de la administración, las obligaciones
+Gobernanza y Derechos del Inversor abarca los instrumentos del consejo y de la administración, las obligaciones
 de divulgación, y los derechos del inversor.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card

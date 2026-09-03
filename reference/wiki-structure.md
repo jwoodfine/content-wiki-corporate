@@ -38,7 +38,7 @@ written in plain language, and every technical term links to the glossary.
    vehicle is, its legal form, and the [[accredited-investor-eligibility|eligibility rules]] that apply in
    each investor's home jurisdiction. Where an offering is planned
    rather than open, the articles say so plainly.
-3. **The Financial Model** — the financial engine. Under the
+3. **Capital Structure and Fees** — the financial engine. Under the
    [[narrow-bank-financial-model|Narrow Bank Financial Model]], buildings are intended to be built with zero
    construction debt, using subscription capital; borrowing is planned
    to come only after buildings are leased and earning. The fees
@@ -51,16 +51,16 @@ written in plain language, and every technical term links to the glossary.
    unitholders to offer their units for sale at a time of their
    choosing: there is no forced exit and no redemption window by design,
    but the mechanism is not a promise of a buyer or a price.
-5. **Governance and Legal** — who is in charge and what protects
+5. **Governance and Investor Rights** — who is in charge and what protects
    investors: the board and its independent directors, the committees,
    compensation, the rules written into every vehicle's
    [[governance-documents|governing documents]], and the legal record — contracts, proceedings, and
    investors' statutory rights.
 6. **Risks** — what could go wrong, stated plainly and kept in one place.
 
-## Disclosure and reporting
+## Reports and disclosure
 
-**Disclosure and Reporting** explains, in plain language, what disclosure means for a
+**Reports and Disclosure** explains, in plain language, what disclosure means for a
 reporting issuer and how it applies to the parent company, plus a page for each
 Direct-Hold Solution: Canada, United States, Spain, and Mexico. Only Canada is
 established; the other three pages are empty until their vehicle exists.
@@ -76,9 +76,9 @@ The newsroom is not a separate site; each reporting company's Reports
 section is intended to carry its own feed, though today only the parent
 company's section does.
 
-## Glossary and reference
+## Glossary and reader's guide
 
-**Glossary and Reference** defines every term used here in plain
+**Glossary and Reader's Guide** defines every term used here in plain
 words, and explains the cautionary notes that accompany forward-looking
 statements and non-standard financial measures. Start there if any term
 is unfamiliar — and read the forward-looking-statements advisory before

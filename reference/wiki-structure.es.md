@@ -42,7 +42,7 @@ término técnico enlaza con el glosario.
    aplican en la jurisdicción de origen de cada inversor. Cuando una
    oferta está planificada y no abierta, los artículos lo indican con
    claridad.
-3. **El modelo financiero** — el motor financiero. Bajo el Narrow
+3. **Estructura de capital y comisiones** — el motor financiero. Bajo el Narrow
    Banking Model ([[narrow-bank-financial-model|Modelo Financiero Narrow Bank]]), los edificios están
    previstos para construirse sin deuda de construcción, con capital de
    suscripción; el endeudamiento está planificado para llegar solo
@@ -58,7 +58,7 @@ término técnico enlaza con el glosario.
    partícipes ofrezcan sus participaciones en venta en el momento que
    elijan: no hay salida forzosa ni ventana de rescate por diseño, pero
    el mecanismo no es una promesa de comprador ni de precio.
-5. **Gobernanza y asuntos legales** — quién dirige y qué protege a los
+5. **Gobernanza y derechos del inversor** — quién dirige y qué protege a los
    inversores: el consejo y sus consejeros independientes, los comités,
    la remuneración, las reglas escritas en los [[governance-documents|documentos constitutivos]]
    de cada vehículo, y el registro legal — contratos, procedimientos y
@@ -66,9 +66,9 @@ término técnico enlaza con el glosario.
 6. **Riesgos** — qué podría salir mal, expuesto con claridad y reunido
    en un solo lugar.
 
-## Divulgación e informes
+## Informes y divulgación
 
-**Divulgación e Informes** explica, en lenguaje claro, qué significa la divulgación
+**Informes y Divulgación** explica, en lenguaje claro, qué significa la divulgación
 para un emisor que reporta y cómo se aplica a la empresa matriz, además de una página para
 cada Solución de Tenencia Directa: Canadá, Estados Unidos, España y México. Solo Canadá
 está establecida; las otras tres páginas permanecen vacías hasta que su vehículo exista.
@@ -86,9 +86,9 @@ cada sección de Informes de cada empresa que informa está prevista para
 tener su propio canal, aunque hoy solo lo tiene la sección de la empresa
 matriz.
 
-## Glosario y referencia
+## Glosario y guía del lector
 
-**Glosario y referencia** define en palabras sencillas cada término
+**Glosario y Guía del Lector** define en palabras sencillas cada término
 usado aquí, y explica las notas cautelares que acompañan a las
 declaraciones prospectivas y a las medidas financieras no estándar.
 Empiece ahí si algún término le resulta desconocido — y lea el aviso

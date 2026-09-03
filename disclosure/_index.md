@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Disclosure and Reporting"
+title: "Reports and Disclosure"
 slug: disclosure-index
 category: disclosure
 type: topic
@@ -17,7 +17,7 @@ editor: woodfine-editorial
 paired_with: _index.es.md
 ---
 
-Disclosure and Reporting explains what continuous disclosure means for a reporting issuer, in plain language, and gathers what each entity has published, or will publish once it exists.
+Reports and Disclosure explains what continuous disclosure means for a reporting issuer, in plain language, and gathers what each entity has published, or will publish once it exists.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card
      (reuses the existing cluster-card--start-here component). Do not add more than one. -->
