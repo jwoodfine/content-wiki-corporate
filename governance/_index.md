@@ -12,7 +12,7 @@ index_scope: governance
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-27
+last_edited: 2026-09-03
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
@@ -29,7 +29,14 @@ rights.
 
 ## Board and management oversight
 
-The board and management instruments.
+[[governance-documents|Corporate Governance Documents]] is the entry point: the board
+mandate, committee charters, and code of business conduct that govern the group.
+[[audit-committee-mandate|The Audit Committee Mandate]] sets out that committee's
+composition and responsibilities in more detail, while
+[[tripartite-management-structure|the Tripartite Management Structure]] describes the
+functional separation between development, compliance, and capital management that the
+board oversees. [[auditors-transfer-agent-registrar|Auditors, Transfer Agent, and
+Registrar]] covers the three external roles the structure depends on.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: board-and-management-oversight -->
 - [[governance-documents]] — Board mandate, committee charters, and code of business conduct.
@@ -40,8 +47,19 @@ The board and management instruments.
 
 ## Investor Rights and Voting
 
-The statutory rights, voting procedures, and eligibility representations that protect
-limited partners.
+[[investor-relations-policy|The Investor Relations Policy]] is the entry point: how the
+group communicates with limited partners day to day. [[statutory-rights|Statutory
+Rights]] sets out the baseline protections — rescission, damages, and the rights that
+attach to different distribution channels — that apply regardless of what a
+partnership agreement says.
+[[special-resolutions-and-general-partner-removal|Special Resolutions and General
+Partner Removal]] and [[meetings-of-limited-partners|Meetings of Limited Partners]]
+describe the mechanics investors actually use to exercise those rights — the vote
+threshold and matters a Special Resolution governs, and how a meeting is called,
+noticed, and voted. [[limited-partner-eligibility-representations|Limited Partner
+Eligibility Representations]] closes the loop: the ongoing representations each
+investor makes to remain eligible, and the forced-sale procedure if their
+circumstances change.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: investor-rights-and-voting -->
 - [[investor-relations-policy]] — The investor relations policy.
@@ -53,8 +71,13 @@ limited partners.
 
 ## Conflicts and Required Disclosures
 
-The rules limiting fees to promoter affiliates, and the disclosure record: material
-contracts, legal proceedings, and named experts.
+[[fees-to-affiliates-and-conflicts-of-interest|Fees to Affiliates and Conflicts of
+Interest]] is the entry point: the net-asset-value fee prohibition and the rule
+limiting fees paid to promoter affiliates. [[material-contracts|Material Contracts]],
+[[legal-proceedings|Legal Proceedings]], and [[experts|Experts]] complete the
+disclosure record a prospective investor would review alongside it — the contracts the
+group has entered into, any legal proceedings on file, and the named experts whose work
+the disclosure record relies on.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: conflicts-and-required-disclosures -->
 - [[fees-to-affiliates-and-conflicts-of-interest]] — The net-asset-value fee prohibition and the rule limiting fees to promoter affiliates.
