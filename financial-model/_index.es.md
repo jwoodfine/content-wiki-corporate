@@ -12,7 +12,7 @@ index_scope: financial-model
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: woodfine-editorial
 paired_with: _index.md
 ---
@@ -38,7 +38,7 @@ financiamiento hipotecario utilizada una vez que la deuda está en su lugar.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: financing-discipline -->
 - [[narrow-bank-financial-model]] — Disciplina de financiamiento en dos fases de las Direct-Hold Solutions: construcción con capital propio, luego Obligaciones con Primera Hipoteca Garantizada sobre los edificios.
-- [[debt-service-and-financing-structure]] — Cómo se estructura el financiamiento hipotecario comercial dentro de las sociedades en comandita de tenencia directa: convenciones de relación préstamo-valor, dimensionamiento de deuda restringido por la RCSD, riesgo de tasa de interés e interacción entre la estructura de deuda y el convenio de endeudamiento de la RCI.
+- [[debt-service-and-financing-structure]] — Cómo se estructura el financiamiento hipotecario comercial dentro de las sociedades en comandita de tenencia directa: convenciones de relación préstamo-valor, riesgo de tasa de interés e interacción entre la estructura de deuda y el convenio de endeudamiento de la RCI.
 <!-- END AUTO-GENERATED -->
 
 ## Compensación y alineación
@@ -64,7 +64,7 @@ supuestos impulsan una cifra proyectada, no solo la cifra misma.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: valuation-and-forecasting-methodology -->
 - [[ifrs-forecast-methodology-direct-hold-solutions]] — Cómo un pronóstico financiero de 10 años, con estilo NIIF, para una Solución de Tenencia Directa aplica la NIIF 18, la NIC 40, la NIIF 13 y la NIIF 2 para proyectar futuros estados financieros — ilustrativo, no una garantía de resultados.
-- [[sensitivity-and-stress-test-methodology]] — Cómo las Soluciones de Tenencia Directa modelan el estrés de tasa de interés, ocupación y rendimiento de desarrollo frente al convenio de cobertura de intereses de 1.20x.
+- [[sensitivity-and-stress-test-methodology]] — Cómo las Soluciones de Tenencia Directa modelan el estrés de tasa de interés, ocupación y rendimiento de desarrollo frente al convenio de cobertura de 1.20x.
 <!-- END AUTO-GENERATED -->
 
 ## Consulte también

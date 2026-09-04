@@ -12,7 +12,7 @@ index_scope: disclosure
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: woodfine-editorial
 paired_with: _index.es.md
 ---
@@ -37,7 +37,7 @@ in plain language — what is filed, on what schedule, and under which National 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: how-disclosure-works -->
 - [[about-continuous-disclosure]] — NI 51-102 reporting requirements applicable to Woodfine Capital Projects Inc., including MD&A, material change reports, and electronic filing under CSA National Policy 11-201; the annual information form applies only to non-venture issuers.
 - [[about-disclosure-obligations]] — The ongoing disclosure obligations of a reporting issuer under NI 51-102: annual financial statements, an annual information form for non-venture issuers, interim statements, MD&A, and material change reports.
-- [[about-regulatory-posture]] — Woodfine Capital Projects Inc.'s disclosure posture ahead of its planned prospectus offering.
+- [[about-regulatory-posture]] — Woodfine Capital Projects Inc. applies a continuous-disclosure posture aligned with NI 51-102 and CSA National Policy 11-201, under the British Columbia Securities Commission as principal regulator, in advance of its planned prospectus offering; all public materials are treated as reviewable under this regime.
 - [[about-annual-reporting-cycle]] — Annual disclosure obligations of a Canadian reporting issuer: audited IFRS financial statements and MD&A due within 90 or 120 days of fiscal year-end depending on venture-issuer status; the Annual Information Form applies only to non-venture issuers.
 - [[about-quarterly-reporting]] — Interim reporting under NI 51-102: condensed IAS 34 financial statements and quarterly MD&A due within 45 days of each of the first three fiscal quarter-ends.
 - [[about-financial-reporting]] — Periodic financial disclosures Woodfine Capital Projects Inc. intends to file as a reporting issuer under NI 51-102 upon effectiveness of its planned prospectus offering.

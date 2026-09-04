@@ -12,7 +12,7 @@ index_scope: company
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-27
+last_edited: 2026-09-04
 editor: woodfine-editorial
 paired_with: _index.es.md
 ---
@@ -35,8 +35,8 @@ stake, which provides delegated services, and where the governing body of each D
 vehicle sits in the chain.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: corporate-structure-and-ownership -->
-- [[corporate-structure]] — Corporate structure under Woodfine Capital Projects Inc.: the parent, its technology and delegated-services subsidiaries, and the vehicle-level subsidiaries that govern the Direct-Hold programme.
-- [[vendor-customer-model]] — Structural separation between PointSav Digital Systems as technology vendor and each Direct-Hold vehicle's governing body.
+- [[corporate-structure]] — Woodfine Capital Projects Inc.'s corporate structure: the parent holding company, its operating-services and technology subsidiaries beneath it, and the governing entities and promoter-equity companies of each Direct-Hold Solution.
+- [[vendor-customer-model]] — PointSav Digital Systems is Woodfine Capital Projects Inc.'s separate technology subsidiary.
 <!-- END AUTO-GENERATED -->
 
 ## See also

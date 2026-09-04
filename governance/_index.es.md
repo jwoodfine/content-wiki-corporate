@@ -12,7 +12,7 @@ index_scope: governance
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-09-03
+last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: governance/_index.md
 ---
@@ -39,10 +39,10 @@ supervisa. [[auditors-transfer-agent-registrar|Auditor, Agente de Transferencia 
 Registrador]] cubre las tres funciones externas de las que depende la estructura.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: board-and-management-oversight -->
-- [[governance-documents]] — Mandato del consejo, estatutos de comités y código de conducta empresarial.
-- [[audit-committee-mandate]] — La composición y las responsabilidades del comité de auditoría.
-- [[tripartite-management-structure]] — La separación funcional entre desarrollo, cumplimiento y gestión de capital.
-- [[auditors-transfer-agent-registrar]] — Funciones del auditor, el agente de transferencia y el registrador.
+- [[governance-documents]] — El estatuto del comité de auditoría de Professional Centres Canada LP, vigente actualmente, junto con el mandato del consejo, los demás estatutos de comités, la política de gobernanza y el código de conducta empresarial, previstos pero aún no adoptados.
+- [[audit-committee-mandate]] — La composición, los requisitos de independencia y las responsabilidades del comité de auditoría bajo NI 52-110 Comités de Auditoría, incluyendo la supervisión de la información financiera, las relaciones con el auditor externo y los controles internos.
+- [[tripartite-management-structure]] — La separación funcional tripartita — ejecución del desarrollo, cumplimiento de la Entidad de Reporte Regulada, y un sindicato bancario independiente de Gestores de Activos — que rige la gestión y capitalización de cada Solución de Tenencia Directa.
+- [[auditors-transfer-agent-registrar]] — Funciones del auditor, el agente de transferencia y el registrador: verificación independiente, registro de propiedad y mantenimiento del registro en la estructura corporativa.
 <!-- END AUTO-GENERATED -->
 
 ## Derechos del Inversor y Votación
@@ -63,8 +63,8 @@ mantener su elegibilidad, y el procedimiento de venta forzosa si sus circunstanc
 cambian.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: investor-rights-and-voting -->
-- [[investor-relations-policy]] — La política de relaciones con inversionistas.
-- [[statutory-rights]] — Derechos estatutarios de los inversores: rescisión, daños, y los derechos que corresponden a distintos canales de distribución.
+- [[investor-relations-policy]] — La estructura y el propósito de una política formal de relaciones con inversionistas: prevenir la divulgación selectiva, designar portavoces autorizados, establecer períodos de restricción, y gestionar la orientación financiera dentro del marco de divulgación continua del IN 51-102 y la Política Nacional 51-201 de la CSA.
+- [[statutory-rights]] — Derechos estatutarios de los inversores bajo la ley de valores canadiense: rescisión, daños, y los derechos que corresponden a distintos canales de distribución.
 - [[special-resolutions-and-general-partner-removal]] — El umbral de voto de la Resolución Especial, los asuntos que rige, las condiciones para remover al socio general, y las protecciones sobre las modificaciones.
 - [[meetings-of-limited-partners]] — Cómo los socios comanditarios convocan, notifican y votan en una asamblea de la sociedad.
 - [[limited-partner-eligibility-representations]] — Las declaraciones fiscales y regulatorias continuas que hace cada socio comanditario, y el procedimiento de venta forzosa si estas cambian.
@@ -83,9 +83,9 @@ expertos nombrados en los que se apoya el registro de divulgación.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: conflicts-and-required-disclosures -->
 - [[fees-to-affiliates-and-conflicts-of-interest]] — La prohibición de honorarios vinculados al valor neto de los activos y la regla que limita los honorarios a las afiliadas del promotor.
-- [[material-contracts]] — Divulgación de contratos materiales.
-- [[legal-proceedings]] — Divulgación de procedimientos legales.
-- [[experts]] — Divulgación de expertos nombrados.
+- [[material-contracts]] — Divulgación de contratos materiales: convenios de administración, contratos de administración de propiedades y arrendamientos importantes, y dónde solicitarlos.
+- [[legal-proceedings]] — Divulgación de procedimientos legales: declaración estándar que confirma el estatus de litigios pendientes a la fecha de la última actualización, revisada cada período.
+- [[experts]] — Divulgación de expertos nombrados: el auditor de registro, el asesor legal externo y los tasadores independientes cuyos informes se citan en los materiales de oferta.
 <!-- END AUTO-GENERATED -->
 
 ## Consulte también

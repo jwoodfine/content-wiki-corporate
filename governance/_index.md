@@ -12,7 +12,7 @@ index_scope: governance
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-09-03
+last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
@@ -39,10 +39,10 @@ board oversees. [[auditors-transfer-agent-registrar|Auditors, Transfer Agent, an
 Registrar]] covers the three external roles the structure depends on.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: board-and-management-oversight -->
-- [[governance-documents]] — Board mandate, committee charters, and code of business conduct.
-- [[audit-committee-mandate]] — The audit committee's composition and responsibilities.
-- [[tripartite-management-structure]] — The functional separation between development, compliance, and capital management.
-- [[auditors-transfer-agent-registrar]] — Roles of the auditor, transfer agent, and registrar.
+- [[governance-documents]] — Professional Centres Canada LP's audit committee charter, currently in place, alongside the board mandate, remaining committee charters, governance policy, and code of business conduct planned but not yet adopted.
+- [[audit-committee-mandate]] — The composition, independence requirements, and responsibilities of the audit committee under NI 52-110 Audit Committees, including oversight of financial reporting, external auditor relationships, and internal controls.
+- [[tripartite-management-structure]] — The three-way functional separation — development execution, Regulated Reporting Entity compliance, and an independent Asset Manager banking syndicate — that governs how each Direct-Hold Solution is managed and capitalized.
+- [[auditors-transfer-agent-registrar]] — Roles of the auditor, transfer agent, and registrar: independent verification, ownership records, and register maintenance in the corporate structure.
 <!-- END AUTO-GENERATED -->
 
 ## Investor Rights and Voting
@@ -62,8 +62,8 @@ investor makes to remain eligible, and the forced-sale procedure if their
 circumstances change.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: investor-rights-and-voting -->
-- [[investor-relations-policy]] — The investor relations policy.
-- [[statutory-rights]] — Statutory investor rights: rescission, damages, and the rights that attach to different distribution channels.
+- [[investor-relations-policy]] — The structure and purpose of a formal investor relations policy: preventing selective disclosure, designating authorised spokespersons, establishing quiet periods, and managing guidance within the continuous disclosure framework of NI 51-102 and CSA National Policy 51-201.
+- [[statutory-rights]] — Statutory investor rights under Canadian securities law: rescission, damages, and the rights that attach to different distribution channels.
 - [[special-resolutions-and-general-partner-removal]] — The Special Resolution vote threshold, the matters it governs, the conditions for removing the general partner, and amendment protections.
 - [[meetings-of-limited-partners]] — How limited partners call, notice, and vote at a meeting of the partnership.
 - [[limited-partner-eligibility-representations]] — The ongoing tax and regulatory representations each limited partner makes, and the forced-sale procedure if they change.
@@ -81,9 +81,9 @@ the disclosure record relies on.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: conflicts-and-required-disclosures -->
 - [[fees-to-affiliates-and-conflicts-of-interest]] — The net-asset-value fee prohibition and the rule limiting fees to promoter affiliates.
-- [[material-contracts]] — Material contracts disclosure.
-- [[legal-proceedings]] — Legal proceedings disclosure.
-- [[experts]] — Named experts disclosure.
+- [[material-contracts]] — Material contracts disclosure: management agreements, property management contracts, and major leases, and where investors can request them.
+- [[legal-proceedings]] — Legal proceedings disclosure: standard template confirming pending litigation status as of the last reporting update, reviewed each period.
+- [[experts]] — Named experts disclosure: the auditor of record, external legal counsel, and independent appraisers whose reports are referenced in offering materials.
 <!-- END AUTO-GENERATED -->
 
 ## See also

@@ -12,7 +12,7 @@ index_scope: investments
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-27
+last_edited: 2026-09-04
 editor: woodfine-editorial
 paired_with: _index.md
 ---
@@ -39,7 +39,7 @@ estructura con los Joint Ventures Heredados, el Capital Privado y los REIT Tradi
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-direct-hold-structure -->
 - [[direct-hold-framework]] — Estructura legal que emite participaciones en un único vehículo de tenencia directa nombrado, sin participar en un fondo combinado, eliminando el contagio entre activos.
-- [[investment-units]] — Las participaciones emitidas por cada vehículo de tenencia directa dentro del marco de Tenencia Directa de Woodfine.
+- [[investment-units]] — Las participaciones emitidas por cada vehículo de tenencia directa dentro del marco de Tenencia Directa de Woodfine Capital Projects Inc.
 - [[asset-vehicle-isolation]] — Los mecanismos legales y estructurales mediante los cuales cada solución de tenencia directa se aísla como un vehículo separado: por qué los acreedores de un activo no pueden acceder a activos mantenidos en otro, y cómo este aislamiento protege a los tenedores de participaciones.
 - [[direct-hold-solutions-structural-comparison]] — Comparación característica por característica de las Direct-Hold Solutions con Joint Ventures Heredados, Capital Privado y REIT Tradicionales en doce dimensiones de gobernanza.
 - [[titleco-and-subsidiary-silo-model]] — Cómo cada Solución de Tenencia Directa mantiene el título legal de su propiedad inmobiliaria: una subsidiaria Titleco separada por edificio bajo el vehículo, el fundamento fiscal del modelo mexicano de Silo de Subsidiarias, y el administrador externo con tarifa limitada que contrata cada Titleco.
@@ -58,9 +58,9 @@ jurisdicciones, y la estructura específica de cada vehículo por separado.
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: legal-form-and-jurisdiction -->
 - [[limited-partnership-structure]] — Cómo la forma jurídica de sociedad en comandita implementa la estructura de inversión de tenencia directa: la relación GP-LP, la responsabilidad limitada, los tenedores de participaciones como socios comanditarios y el acuerdo de sociedad como instrumento rector.
 - [[four-jurisdiction-framework]] — Marco de despliegue previsto de las Direct-Hold Solutions en Canadá, Estados Unidos, España y México, cada una con el vehículo de flujo directo que exige la ley local de valores.
-- [[professional-centres-canada-lp-structure]] — La estructura jurídica y operativa de Professional Centres Canada LP a nivel de la sociedad en comandita — el acuerdo de asesoría, la participación del promotor en fideicomiso de garantía, el historial de participaciones, la situación regulatoria y la mecánica de liquidación — distinta de los artículos sobre la matriz corporativa y sobre el marco de cuatro jurisdicciones.
+- [[professional-centres-canada-lp-structure]] — La estructura jurídica y operativa de Professional Centres Canada LP a nivel de la sociedad en comandita — el acuerdo de asesoría, la participación del promotor en fideicomiso de garantía, la situación regulatoria y la mecánica de liquidación — distinta de los artículos sobre la matriz corporativa y sobre el marco de cuatro jurisdicciones.
 - [[professional-centres-spain-socimi-structure]] — La estructura jurídica y operativa planificada de Professional Centres Spain SOCIMI a nivel del vehículo — el mandato legal de cotización, el mecanismo de cotización técnica, el rol del Administrador y los arreglos de liquidación — distinta de los artículos sobre la matriz corporativa y sobre el marco de cuatro jurisdicciones.
-- [[professional-centres-mexico-fibra-structure]] — La estructura jurídica y operativa planificada de Professional Centres Mexico FIBRA a nivel del fideicomiso — la división de gobernanza entre el Banco fiduciario y el Comité Técnico, el modelo de aislamiento por subsidiaria, la transparencia fiscal de los Artículos 187/188, y la comparación entre FIBRA Privada, FICAP y S.A.P.I. — distinta de los artículos sobre la matriz corporativa y sobre el marco de cuatro jurisdicciones.
+- [[professional-centres-mexico-fibra-structure]] — La estructura prevista, a nivel de fideicomiso, de Professional Centres Mexico FIBRA — la división de gobernanza entre el Banco fiduciario y el Comité Técnico, el modelo de aislamiento de responsabilidad por subsidiaria, la transparencia fiscal de los Artículos 187/188 de la LISR, y cómo se compara la forma de FIBRA Privada con las alternativas mexicanas de FICAP y S.A.P.I. — distinta de los artículos sobre la matriz corporativa y sobre el marco de cuatro jurisdicciones.
 <!-- END AUTO-GENERATED -->
 
 ## Elegibilidad del Inversionista y Exenciones de Oferta
@@ -74,7 +74,7 @@ acreditado.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: investor-eligibility-and-offering-exemptions -->
 - [[exemptions]] — Exenciones de prospecto utilizadas en la oferta de cada jurisdicción: la exención de inversionista acreditado y el canal paralelo de prospecto.
-- [[accredited-investor-eligibility]] — La exención de inversionista acreditado como canal de distribución para participaciones en sociedades en comandita de tenencia directa.
+- [[accredited-investor-eligibility]] — La exención de inversionista acreditado bajo la NI 45-106 como canal de distribución para participaciones en las sociedades en comandita de tenencia directa de Canadá y Estados Unidos, junto con la oferta pública mediante prospecto: quién califica, qué permite la exención y la documentación de divulgación requerida en el momento de la suscripción.
 <!-- END AUTO-GENERATED -->
 
 ## Consulte también

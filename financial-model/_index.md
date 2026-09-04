@@ -12,7 +12,7 @@ index_scope: financial-model
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: woodfine-editorial
 paired_with: _index.es.md
 ---
@@ -37,7 +37,7 @@ once debt is in place.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: financing-discipline -->
 - [[narrow-bank-financial-model]] — Two-phase financing discipline of the Direct-Hold Solutions: equity-funded unlevered construction, then First Secured Mortgage Debentures collateralized by the completed buildings.
-- [[debt-service-and-financing-structure]] — How commercial mortgage financing is structured within direct-hold limited partnerships: loan-to-value conventions, DSCR-constrained debt sizing, interest rate risk, and the interaction between debt structure and the ICR borrowing covenant.
+- [[debt-service-and-financing-structure]] — How commercial mortgage financing is structured within direct-hold limited partnerships: loan-to-value conventions, interest rate risk, and the interaction between debt structure and the ICR borrowing covenant.
 <!-- END AUTO-GENERATED -->
 
 ## Compensation and alignment

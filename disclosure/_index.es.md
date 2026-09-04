@@ -12,7 +12,7 @@ index_scope: disclosure
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: woodfine-editorial
 paired_with: _index.md
 ---
@@ -36,14 +36,14 @@ obligación de divulgación de este marco en lenguaje claro —qué se presenta,
 calendario, y bajo qué Instrumento Nacional.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: how-disclosure-works -->
-- [[about-continuous-disclosure]] — Requisitos de reporte del NI 51-102 aplicables a Woodfine Capital Projects Inc., incluyendo el MD&A, los informes de cambios materiales y la presentación electrónica bajo la Política Nacional 11-201 de la CSA; el formulario de información anual aplica solo a emisores que no son de riesgo.
-- [[about-disclosure-obligations]] — Las obligaciones de divulgación continua de un emisor que cotiza bajo NI 51-102: estados financieros anuales, formulario de información anual (para emisores que no son de riesgo), estados interinos, MD&A e informes de cambios materiales.
-- [[about-regulatory-posture]] — La postura de divulgación de Woodfine Capital Projects Inc. previo a su oferta de prospecto planificada.
-- [[about-annual-reporting-cycle]] — Obligaciones de divulgación anual de un emisor canadiense: estados financieros IFRS auditados y MD&A dentro de 90 o 120 días del cierre fiscal según la clasificación de emisor de riesgo; el Formulario de Información Anual aplica solo a emisores que no son de riesgo.
+- [[about-continuous-disclosure]] — Requisitos de reporte del NI 51-102 aplicables a Woodfine Capital Projects Inc., incluyendo el MD&A, los informes de cambios materiales y la presentación electrónica bajo la Política Nacional 11-201 de la CSA; el formulario de información anual aplica solo a emisores que no son de empresas de riesgo.
+- [[about-disclosure-obligations]] — Las obligaciones de divulgación continua de un emisor que cotiza bajo NI 51-102: estados financieros anuales, formulario de información anual (para emisores que no son emisores de riesgo), estados interinos, MD&A e informes de cambios materiales.
+- [[about-regulatory-posture]] — Woodfine Capital Projects Inc. aplica una postura de divulgación continua alineada con el NI 51-102 y la Política Nacional 11-201 de la CSA, con la Comisión de Valores de Columbia Británica como regulador principal, con carácter previo a su oferta pública planificada; todos los materiales públicos se tratan como revisables bajo este régimen.
+- [[about-annual-reporting-cycle]] — Obligaciones de divulgación anual de un emisor canadiense: estados financieros IFRS auditados y MD&A dentro de 90 o 120 días del cierre fiscal según la condición de emisor de riesgo; el Formulario de Información Anual aplica solo a emisores que no son de riesgo.
 - [[about-quarterly-reporting]] — Informes intermedios bajo NI 51-102: estados financieros condensados según IAS 34 y MD&A trimestral, presentados dentro de 45 días del cierre de cada uno de los tres primeros trimestres.
 - [[about-financial-reporting]] — Divulgaciones financieras periódicas que Woodfine Capital Projects Inc. prevé presentar como emisor bajo NI 51-102 tras la efectividad de su oferta de prospecto planificada.
 - [[about-material-change-reporting]] — La mecánica de los informes de cambios materiales bajo NI 51-102 Parte 7: qué constituye un cambio material, el proceso de dos pasos de comunicado de prensa más presentación del ICM, y el estándar para la divulgación oportuna.
-- [[about-insider-reporting]] — La mecánica del reporte de iniciados conforme al Instrumento Nacional 55-104: quién califica como iniciado reportante, qué transacciones generan una obligación de presentación, el sistema electrónico SEDI, y los plazos de diez y cinco días.
+- [[about-insider-reporting]] — La mecánica del reporte de iniciados conforme al Instrumento Nacional 55-104: quién califica como iniciado reportante, qué transacciones generan una obligación de presentación, el sistema electrónico de presentación SEDI, y los plazos de diez y cinco días calendario dentro de los cuales deben presentarse los informes iniciales y subsiguientes.
 - [[about-filing-systems]] — Plataforma de presentación operada por la CSA para la difusión pública de documentos de divulgación continua, incluyendo categorías de documentos, formato XBRL y certificación NI 52-109.
 <!-- END AUTO-GENERATED -->
 

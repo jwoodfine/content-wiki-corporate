@@ -12,7 +12,7 @@ index_scope: reference
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-27
+last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
@@ -38,10 +38,10 @@ this knowledge base uses in place of jurisdiction-specific designations.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: defined-terms-and-glossaries -->
 - [[corporate-glossary]] — Curated glossary of the core terms used across the corporate knowledge base: the Direct-Hold Solution structure, the four-jurisdiction framework, financial and securities reporting, and the corporate structure governing them.
-- [[canadian-securities-terminology]] — Definitions of the primary Canadian securities regulatory terms used throughout the corporate knowledge base.
+- [[canadian-securities-terminology]] — Definitions of the primary Canadian securities regulatory terms used throughout the corporate knowledge base: reporting issuer, SEDAR+, AIF, MD&A, MCR, BCSC, OSC, CSA, NI 45-106, and related instruments.
 - [[global-investment-terminology]] — Cross-border vocabulary of Global Bridge Terms mapping jurisdiction-specific legal terminology in Canada, the United States, Spain, and Mexico to one accurate shared lexicon.
 - [[cre-financial-metrics]] — Definitions of the primary financial metrics used in commercial real estate investment analysis: NOI, DSCR, LTV, ICR, FFO, AFFO, NAV, IRR, CAGR, and MOIC.
-- [[regulated-reporting-entity]] — The cross-border bridge term Woodfine uses in place of jurisdiction-specific designations such as Reporting Issuer, Entidad Pública, or Emisora.
+- [[regulated-reporting-entity]] — The cross-border bridge term Woodfine uses in place of jurisdiction-specific designations such as Reporting Issuer, Entidad Pública, or Emisora — a Regulated Reporting Entity files continuous public disclosure in its sovereign jurisdiction regardless of exchange-listing status.
 <!-- END AUTO-GENERATED -->
 
 ## How this knowledge base is organized
@@ -49,7 +49,7 @@ this knowledge base uses in place of jurisdiction-specific designations.
 A reader's map to every category before consulting individual definitions.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: how-this-knowledge-base-is-organized -->
-- [[wiki-structure]] — A reader's map: how this knowledge base is organized by category.
+- [[wiki-structure]] — A reader's map: this knowledge base describes the company — who it is, the investment vehicles, the financial model, the distribution policy and unit-transfer mechanism, who is in charge, what could go wrong, and where the reports are — with the buildings-and-places half of the story in the companion projects knowledge base.
 <!-- END AUTO-GENERATED -->
 
 ## Forward-Looking Statements and Non-IFRS Measures
@@ -58,8 +58,8 @@ How this knowledge base hedges forward-looking claims, and how its non-IFRS fina
 measures relate to IFRS statements.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: forward-looking-statements-and-non-ifrs-measures -->
-- [[forward-looking-statements-advisory]] — What planned, intended, may, and target mean across this knowledge base, and why actual results may differ materially.
-- [[non-ifrs-measures-explained]] — NOI, FFO, AFFO, and capitalization rate as supplementary metrics that do not replace IFRS statements.
+- [[forward-looking-statements-advisory]] — Forward-looking statements advisory: what planned, intended, may, and target mean across this wiki, and why actual results may differ materially.
+- [[non-ifrs-measures-explained]] — Non-IFRS financial measures explained: NOI, FFO, AFFO, and capitalization rate as supplementary metrics that do not replace IFRS statements.
 <!-- END AUTO-GENERATED -->
 
 ## Investment theory context

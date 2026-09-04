@@ -12,7 +12,7 @@ index_scope: distributions
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: _index.md
 ---
@@ -32,8 +32,8 @@ transferencia de unidades.
 Cómo se determinan y pagan las distribuciones.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: distribution-policy-and-mechanics -->
-- [[distribution-declaration-mechanics]] — Cómo se determinan, declaran y pagan las distribuciones en las sociedades en comandita de tenencia directa: la discreción del socio gestor, la asignación proporcional entre participaciones y la relación con el convenio de endeudamiento del vehículo.
-- [[liquidation-final-sale-and-dissolution]] — Cómo se disuelve Professional Centres Canada LP: los eventos que activan la disolución, el mecanismo de Venta Final y el orden en que los ingresos de la liquidación llegan a los socios comanditarios.
+- [[distribution-declaration-mechanics]] — Cómo se determinan, declaran y pagan las distribuciones en las Soluciones de Tenencia Directa de Canadá y Estados Unidos, constituidas como sociedades en comandita: la discreción del socio gestor, la asignación proporcional entre participaciones y la relación con el convenio de endeudamiento del vehículo.
+- [[liquidation-final-sale-and-dissolution]] — Cómo se disuelve Professional Centres Canada LP: los eventos que activan la disolución, el mecanismo de Venta Final, y el orden en que los ingresos de la liquidación llegan a los socios comanditarios.
 <!-- END AUTO-GENERATED -->
 
 ## Salida y transferencia

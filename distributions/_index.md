@@ -12,7 +12,7 @@ index_scope: distributions
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
@@ -32,7 +32,7 @@ mechanism.
 How distributions are determined and paid.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: distribution-policy-and-mechanics -->
-- [[distribution-declaration-mechanics]] — How distributions in direct-hold limited partnerships are determined, declared, and paid: general-partner discretion, proportional allocation across units, and the relationship to the vehicle's borrowing covenant.
+- [[distribution-declaration-mechanics]] — How distributions in the Canada and United States limited-partnership-form direct-hold vehicles are determined, declared, and paid: general-partner discretion, proportional allocation across units, and the relationship to the vehicle's borrowing covenant.
 - [[liquidation-final-sale-and-dissolution]] — How Professional Centres Canada LP winds down: the events that trigger dissolution, the Final Sale mechanism, and the order in which liquidation proceeds reach limited partners.
 <!-- END AUTO-GENERATED -->
 

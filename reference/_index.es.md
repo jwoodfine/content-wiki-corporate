@@ -12,7 +12,7 @@ index_scope: reference
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-27
+last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: reference/_index.md
 ---
@@ -39,11 +39,11 @@ los términos puente transfronterizos que esta base de conocimiento utiliza en l
 designaciones específicas de cada jurisdicción.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: defined-terms-and-glossaries -->
-- [[corporate-glossary]] — Glosario curado de los términos centrales utilizados en toda la base de conocimiento corporativa: la estructura de la Solución de Tenencia Directa, el marco de cuatro jurisdicciones, la información financiera y de valores, y la estructura corporativa que los rige.
-- [[canadian-securities-terminology]] — Definiciones de los principales términos regulatorios de valores canadienses utilizados en toda la base de conocimiento corporativa.
-- [[global-investment-terminology]] — Vocabulario transfronterizo de Términos Puente Globales que mapea la terminología legal específica de cada jurisdicción en Canadá, Estados Unidos, España y México a un léxico común preciso.
-- [[cre-financial-metrics]] — Definiciones de las principales métricas financieras utilizadas en el análisis de inversión en bienes raíces comerciales: NOI, DSCR, LTV, ICR, FFO, AFFO, NAV, IRR, CAGR y MOIC.
-- [[regulated-reporting-entity]] — El término puente transfronterizo que Woodfine utiliza en lugar de designaciones específicas de cada jurisdicción como Reporting Issuer, Entidad Pública o Emisora.
+- [[corporate-glossary]] — Glosario curado de los términos centrales utilizados en la base de conocimiento corporativo: la estructura Direct-Hold Solution, el marco de cuatro jurisdicciones, la información financiera y regulatoria, y la estructura corporativa que los gobierna.
+- [[canadian-securities-terminology]] — Definiciones de los principales términos regulatorios de valores canadienses utilizados en la base de conocimiento corporativo: emisor que cotiza, SEDAR+, FIA, MD&A, ICM, BCSC, OSC, CSA, NI 45-106 e instrumentos relacionados.
+- [[global-investment-terminology]] — Vocabulario transfronterizo de Términos Puente Globales que mapea la terminología legal de Canadá, Estados Unidos, España y México a un léxico común de traducción precisa.
+- [[cre-financial-metrics]] — Definiciones de las métricas financieras primarias utilizadas en el análisis de inversión en bienes raíces comerciales: ION, RCSD, RPV, RCI, FFO, AFFO, VAN, TIR, CAGR y MOIC.
+- [[regulated-reporting-entity]] — El término puente transfronterizo que Woodfine utiliza en lugar de designaciones específicas por jurisdicción como Reporting Issuer, Entidad Pública o Emisora: una Entidad Regulada Emisora de Información presenta divulgación pública continua ante su regulador soberano independientemente de si cotiza en bolsa.
 <!-- END AUTO-GENERATED -->
 
 ## Cómo está organizada esta base de conocimiento
@@ -51,7 +51,7 @@ designaciones específicas de cada jurisdicción.
 Un mapa del lector para cada categoría antes de consultar definiciones individuales.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: how-this-knowledge-base-is-organized -->
-- [[wiki-structure]] — Un mapa del lector: cómo está organizada esta base de conocimiento por categoría.
+- [[wiki-structure]] — Un mapa para el lector: esta base de conocimiento describe la empresa — quién es, los vehículos de inversión, el modelo financiero, la política de distribuciones y el mecanismo de transferencia de participaciones, quién dirige, qué podría salir mal y dónde están los informes — con la mitad de la historia dedicada a los edificios y los lugares en la base de conocimiento de proyectos que la acompaña.
 <!-- END AUTO-GENERATED -->
 
 ## Declaraciones Prospectivas y Medidas No-NIIF
@@ -60,8 +60,8 @@ Cómo esta base de conocimiento cubre sus declaraciones prospectivas, y cómo se
 sus medidas financieras no-NIIF con los estados financieros NIIF.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: forward-looking-statements-and-non-ifrs-measures -->
-- [[forward-looking-statements-advisory]] — Qué significan planificado, previsto, podría y meta en esta base de conocimiento, y por qué los resultados reales pueden diferir materialmente.
-- [[non-ifrs-measures-explained]] — NOI, FFO, AFFO y la tasa de capitalización como medidas suplementarias que no reemplazan los estados financieros NIIF.
+- [[forward-looking-statements-advisory]] — Aviso sobre declaraciones prospectivas: qué significan planeado, previsto, podría y meta en este wiki, y por qué los resultados reales podrían diferir materialmente.
+- [[non-ifrs-measures-explained]] — Medidas financieras no-NIIF explicadas: NOI, FFO, AFFO y tasa de capitalización como métricas complementarias que no sustituyen los estados financieros NIIF.
 <!-- END AUTO-GENERATED -->
 
 ## Contexto de teoría de inversión
@@ -70,7 +70,7 @@ Teoría de cartera de fondo que sustenta cómo las inversiones alternativas, com
 bienes raíces de tenencia directa, se posicionan dentro de una cartera más amplia.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: investment-theory-context -->
-- [[portfolio-theory-foundations]] — El Teorema del Fondo Mutuo, la frontera eficiente y el modelo de cartera 60/40, y cómo el Capital Privado, la Inversión Activista y otras Inversiones Alternativas extienden el marco.
+- [[portfolio-theory-foundations]] — El Teorema de Separación de Fondos Mutuos, la frontera eficiente y el modelo de cartera 60/40, y cómo el Capital Privado, la Inversión Activista y otras Inversiones Alternativas amplían el marco.
 <!-- END AUTO-GENERATED -->
 
 ## Consulte también
