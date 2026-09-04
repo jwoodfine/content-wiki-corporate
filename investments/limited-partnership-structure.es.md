@@ -9,9 +9,10 @@ content_type: topic
 quality: complete
 short_description: "Cómo la forma jurídica de sociedad en comandita implementa la estructura de inversión de tenencia directa: la relación GP-LP, la responsabilidad limitada, los tenedores de participaciones como socios comanditarios y el acuerdo de sociedad como instrumento rector."
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: woodfine-editorial
 paired_with: limited-partnership-structure.md
 ---

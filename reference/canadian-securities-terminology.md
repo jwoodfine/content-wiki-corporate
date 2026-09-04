@@ -9,9 +9,10 @@ content_type: topic
 quality: complete
 short_description: "Definitions of the primary Canadian securities regulatory terms used throughout the corporate knowledge base: reporting issuer, SEDAR+, AIF, MD&A, MCR, BCSC, OSC, CSA, NI 45-106, and related instruments."
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: woodfine-editorial
 paired_with: canadian-securities-terminology.es.md
 ---

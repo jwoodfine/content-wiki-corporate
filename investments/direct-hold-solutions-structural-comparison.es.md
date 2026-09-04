@@ -9,8 +9,9 @@ content_type: topic
 quality: complete
 short_description: "Comparación característica por característica de las Direct-Hold Solutions con Joint Ventures Heredados, Capital Privado y REIT Tradicionales en doce dimensiones de gobernanza."
 status: stable
+audience: public
 bcsc_class: current-fact
-last_edited: 2026-07-31
+last_edited: 2026-09-04
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:

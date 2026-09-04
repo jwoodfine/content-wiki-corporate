@@ -9,8 +9,9 @@ content_type: topic
 quality: complete
 short_description: "The cross-border bridge term Woodfine uses in place of jurisdiction-specific designations such as Reporting Issuer, Entidad Pública, or Emisora — a Regulated Reporting Entity files continuous public disclosure in its sovereign jurisdiction regardless of exchange-listing status."
 status: stable
+audience: public
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

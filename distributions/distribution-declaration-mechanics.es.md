@@ -9,9 +9,10 @@ content_type: topic
 quality: complete
 short_description: "Cómo se determinan, declaran y pagan las distribuciones en las Soluciones de Tenencia Directa de Canadá y Estados Unidos, constituidas como sociedades en comandita: la discreción del socio gestor, la asignación proporcional entre participaciones y la relación con el convenio de endeudamiento del vehículo."
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: woodfine-editorial
 paired_with: distribution-declaration-mechanics.md
 ---

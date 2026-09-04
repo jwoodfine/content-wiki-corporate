@@ -9,8 +9,9 @@ content_type: topic
 quality: complete
 short_description: "Marco de despliegue previsto de las Direct-Hold Solutions en Canadá, Estados Unidos, España y México, cada una con el vehículo de flujo directo que exige la ley local de valores."
 status: stable
+audience: public
 bcsc_class: current-fact
-last_edited: 2026-08-27
+last_edited: 2026-09-04
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:

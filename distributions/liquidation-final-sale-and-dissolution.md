@@ -9,9 +9,10 @@ content_type: topic
 quality: complete
 short_description: "How Professional Centres Canada LP winds down: the events that trigger dissolution, the Final Sale mechanism, and the order in which liquidation proceeds reach limited partners."
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: liquidation-final-sale-and-dissolution.es.md
 ---

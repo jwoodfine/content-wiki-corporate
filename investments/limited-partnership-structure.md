@@ -9,9 +9,10 @@ content_type: topic
 quality: complete
 short_description: "How the limited partnership legal form implements the direct-hold investment structure: the GP-LP relationship, limited liability, unitholders as limited partners, and the partnership agreement as the governing instrument."
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: woodfine-editorial
 paired_with: limited-partnership-structure.es.md
 ---

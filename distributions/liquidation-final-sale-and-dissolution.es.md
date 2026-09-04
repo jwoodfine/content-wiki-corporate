@@ -9,9 +9,10 @@ content_type: topic
 quality: complete
 short_description: "Cómo se disuelve Professional Centres Canada LP: los eventos que activan la disolución, el mecanismo de Venta Final, y el orden en que los ingresos de la liquidación llegan a los socios comanditarios."
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: liquidation-final-sale-and-dissolution.md
 ---

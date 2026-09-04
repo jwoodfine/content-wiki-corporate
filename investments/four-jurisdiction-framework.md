@@ -9,8 +9,9 @@ content_type: topic
 quality: complete
 short_description: "Deployment framework for the Direct-Hold Solutions across Canada, the United States, Spain, and Mexico, each using the flow-through vehicle mandated by local securities law."
 status: stable
+audience: public
 bcsc_class: current-fact
-last_edited: 2026-08-27
+last_edited: 2026-09-04
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

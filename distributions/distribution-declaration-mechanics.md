@@ -9,9 +9,10 @@ content_type: topic
 quality: complete
 short_description: "How distributions in the Canada and United States limited-partnership-form direct-hold vehicles are determined, declared, and paid: general-partner discretion, proportional allocation across units, and the relationship to the vehicle's borrowing covenant."
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: woodfine-editorial
 paired_with: distribution-declaration-mechanics.es.md
 ---

@@ -9,9 +9,10 @@ content_type: topic
 quality: complete
 short_description: "Definiciones de los principales términos regulatorios de valores canadienses utilizados en la base de conocimiento corporativo: emisor que cotiza, SEDAR+, FIA, MD&A, ICM, BCSC, OSC, CSA, NI 45-106 e instrumentos relacionados."
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: woodfine-editorial
 paired_with: canadian-securities-terminology.md
 ---

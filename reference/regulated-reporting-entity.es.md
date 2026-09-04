@@ -9,8 +9,9 @@ content_type: topic
 quality: complete
 short_description: "El término puente transfronterizo que Woodfine utiliza en lugar de designaciones específicas por jurisdicción como Reporting Issuer, Entidad Pública o Emisora: una Entidad Regulada Emisora de Información presenta divulgación pública continua ante su regulador soberano independientemente de si cotiza en bolsa."
 status: stable
+audience: public
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
