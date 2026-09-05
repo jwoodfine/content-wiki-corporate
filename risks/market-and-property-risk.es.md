@@ -7,12 +7,12 @@ index_group: asset-and-development-risk
 type: topic
 content_type: topic
 quality: complete
-short_description: "Riesgo de mercado y de propiedad en el sector inmobiliario comercial: vacancia, niveles de renta, oscilaciones de valuación y concentración de inquilinos."
+short_description: "Riesgo de mercado y de propiedad en el sector inmobiliario comercial: vacancia, niveles de renta, oscilaciones de valuación, concentración de inquilinos y condiciones económicas generales."
 status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: market-and-property-risk.md
 ---

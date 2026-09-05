@@ -50,7 +50,7 @@ desarrollo y construcción cubre los sobrecostos, los retrasos y la exposición 
 antes de que esté terminado.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: asset-and-development-risk -->
-- [[market-and-property-risk]] — Riesgo de mercado y de propiedad en el sector inmobiliario comercial: vacancia, niveles de renta, oscilaciones de valuación y concentración de inquilinos.
+- [[market-and-property-risk]] — Riesgo de mercado y de propiedad en el sector inmobiliario comercial: vacancia, niveles de renta, oscilaciones de valuación, concentración de inquilinos y condiciones económicas generales.
 - [[development-and-construction-risk]] — Sobrecostos de construcción, retrasos, riesgo de contratista, riesgo de zonificación y permisos, y exposición al pre-arrendamiento en el desarrollo desde cero.
 <!-- END AUTO-GENERATED -->
 
