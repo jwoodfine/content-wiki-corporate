@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: about-regulatory-posture.es.md
 cites: []
@@ -22,9 +22,10 @@ Woodfine Capital Projects Inc. and its subsidiaries — including the entities d
 
 ## Key takeaways
 
-- All materials published at corporate.woodfinegroup.com are treated as public disclosure subject to NI 51-102 and CSA National Policy 11-201; the same standard applied to formally filed documents governs the corporate wiki.
+- Woodfine applies this posture in advance of its planned prospectus offering. Materials published at corporate.woodfinegroup.com are held to the same standard as formally filed documents, under NI 51-102 and CSA National Policy 11-201.
 - Forward-looking statements — including references to platform features, acquisition targets, and governance structures under development — carry qualifying language throughout; this is factual acknowledgment, not a legal formality.
 - References to the Sovereign Data Foundation describe a planned structure only; the Foundation does not currently hold governance, audit, or ownership rights over any Woodfine operation.
+- A material fact published on the wiki without a corresponding SEDAR+ filing creates a disclosure inconsistency. Authors apply the material-change test before a page goes live.
 
 ## Applicable framework
 
@@ -47,10 +48,6 @@ References to the Sovereign Data Foundation in Woodfine materials describe a pla
 ## Public wiki scope
 
 The articles published at corporate.woodfinegroup.com are written and edited to the same disclosure standard as formally filed documents. A material fact published on the wiki without a corresponding SEDAR+ filing creates disclosure inconsistency. Authors and editors apply the material-change test to wiki publications before they go live.
-
-## The bottom line
-
-Woodfine Capital Projects Inc. applies a continuous-disclosure posture — treating all public-facing materials as though they were filed documents — in advance of its planned prospectus offering. A material fact published on the corporate wiki without a corresponding SEDAR+ filing creates disclosure inconsistency; authors apply the material-change test before publication. Forward-looking language is applied throughout as a factual discipline, not as legal boilerplate, and any reference to the Sovereign Data Foundation uses planned or intended terms because the Foundation is not yet in place.
 
 ## See also
 

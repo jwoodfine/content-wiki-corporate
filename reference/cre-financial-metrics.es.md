@@ -11,8 +11,9 @@ short_description: "Definiciones de las métricas financieras primarias utilizad
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: woodfine-editorial
+audience: public
 paired_with: cre-financial-metrics.md
 ---
 
@@ -28,7 +29,9 @@ deducir los gastos operativos, pero antes del servicio de deuda, gastos de capit
 depreciación e impuesto sobre la renta. El ION es la entrada principal a la valoración de
 propiedades. Existen dos variantes: el *ION en efectivo* (flujos de efectivo reales) y el
 *ION NIIF* (renta en línea recta bajo la NIIF 16, con las bonificaciones de mejoras al
-arrendatario amortizadas). Ver net-operating-income.
+arrendatario amortizadas). El ION no es una partida definida por las NIIF — es una medida
+complementaria que acompaña a los estados financieros auditados, nunca los sustituye; véase
+[[non-ifrs-measures-explained|Medidas No-NIIF Explicadas]].
 
 **Ingreso bruto efectivo (IBE)** — Ingreso potencial bruto menos vacancia y pérdida de
 crédito.
@@ -57,14 +60,25 @@ en el programa de tenencia directa: el vehículo no puede emitir deuda garantiza
 si al hacerlo la RCI cayera por debajo de 1,20×, calculada de forma agregada para todo el
 vehículo y no para una propiedad individual. La RCI es una medida más laxa que la RCSD
 cuando la hipoteca tiene una estructura amortizable, porque la RCSD incluye el reembolso de
-principal en el denominador, mientras que la RCI lo excluye.
+principal en el denominador, mientras que la RCI lo excluye. Dado que la obligación de
+intereses ocupa el denominador, un aumento de los costos de financiamiento reduce la RCI
+aun cuando el ingreso de la propiedad no varíe; véase
+[[debt-service-and-financing-structure|Servicio de Deuda y Estructura de Financiamiento]]
+para cómo el convenio limita el monto hipotecario, y
+[[financing-and-interest-rate-risk|Riesgo de Financiamiento y de Tasa de Interés]] para qué
+ocurre cuando las tasas se mueven en contra del vehículo.
 
 ## Métricas de valoración
 
 **Tasa de capitalización** — ION dividido entre el valor de mercado. Se aplica de forma
 inversa (valor = ION ÷ tasa de capitalización) en el método de valoración por
 capitalización directa. Las tasas de capitalización de mercado se observan a partir de
-transacciones comparables. Ver capitalization-rate.
+transacciones comparables. Se mueven con las tasas de interés, la demanda de los
+inversores y el riesgo percibido de la clase de activo; un aumento de las tasas de
+capitalización de mercado reduce el valor tasado aun cuando el ingreso de la propiedad no
+varíe — véase [[market-and-property-risk|Riesgo de Mercado y de Propiedad]]. La tasa de
+capitalización es una razón derivada del mercado, no una medida contable definida por las
+NIIF; véase [[non-ifrs-measures-explained|Medidas No-NIIF Explicadas]].
 
 **Valor activo neto (VAN)** — La suma de los valores razonables de todas las propiedades
 en la cartera menos todas las obligaciones de deuda y otros pasivos. El VAN contable
@@ -131,8 +145,14 @@ incrementos de vacancia.
 
 ## Consulte también
 
-- net-operating-income — la descripción completa de la métrica ION y sus variantes
-- capitalization-rate — la métrica de valoración y su sensibilidad a las condiciones
-  del mercado
-- interest-rate-transmission — cómo los cambios en los costos de financiamiento afectan
-  las métricas de apalancamiento
+- [[non-ifrs-measures-explained|Medidas No-NIIF Explicadas]] — por qué el ION, el FFO, el
+  AFFO y la tasa de capitalización complementan los estados financieros NIIF auditados en
+  lugar de sustituirlos
+- [[market-and-property-risk|Riesgo de Mercado y de Propiedad]] — cómo los movimientos de
+  las tasas de capitalización de mercado modifican el valor tasado
+- [[debt-service-and-financing-structure|Servicio de Deuda y Estructura de Financiamiento]]
+  — los límites de préstamo-valor y de cobertura de intereses que miden estas métricas de
+  apalancamiento
+- [[financing-and-interest-rate-risk|Riesgo de Financiamiento y de Tasa de Interés]] — cómo
+  los cambios en los costos de financiamiento alcanzan la capacidad de endeudamiento del
+  vehículo

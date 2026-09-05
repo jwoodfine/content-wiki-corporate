@@ -10,8 +10,9 @@ quality: complete
 short_description: "Cross-border vocabulary of Global Bridge Terms mapping jurisdiction-specific legal terminology in Canada, the United States, Spain, and Mexico to one accurate shared lexicon."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-30
+last_edited: 2026-09-04
 editor: pointsav-engineering
+audience: public
 language_protocol: PROSE-TOPIC
 source_refs:
   - "3129629a87d38beab147345bb28aec1fc58fc77dfca2d1ef52c829d4e1e8b9b7"
@@ -28,7 +29,7 @@ Three categories of terminology carry particular risk of misreading across juris
 
 ### Reporting Issuer and the Regulated Reporting Entity bridge
 
-**Reporting Issuer.** In Canada, a Reporting Issuer is a specific statutory category under the Canadian Securities Act. The term has no direct translation into Spanish. In Mexico, the closest equivalent, *Emisora*, implies an entity trading on the Bolsa Mexicana de Valores — a false implication for a vehicle whose equity is not exchange-traded. In Spain, a literal translation of *Reporting Issuer* into *Emisor de Informes* would suggest a publisher of newsletters rather than an entity subject to continuous securities disclosure. The Global Bridge Term **[[regulated-reporting-entity|Regulated Reporting Entity]]** avoids these false implications: *Regulada* in Spanish carries the specific meaning of filing with a government authority, which is accurate in all four jurisdictions.
+**Reporting Issuer.** The Canadian statutory category has no accurate direct rendering in Spanish. The nearest terms — *Emisora* in Mexico, a literal *Emisor de Informes* in Spain — each import a false implication for a vehicle whose equity is not exchange-traded. The Global Bridge Term **[[regulated-reporting-entity|Regulated Reporting Entity]]** avoids both; that article sets out the term in full, its sovereign equivalents, and the filing obligations in each jurisdiction.
 
 ### Listed versus traded distinction
 

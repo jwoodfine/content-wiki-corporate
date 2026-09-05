@@ -10,8 +10,9 @@ quality: complete
 short_description: "Vocabulario transfronterizo de Términos Puente Globales que mapea la terminología legal de Canadá, Estados Unidos, España y México a un léxico común de traducción precisa."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-31
+last_edited: 2026-09-04
 editor: pointsav-engineering
+audience: public
 language_protocol: TRANSLATE-ES
 source_refs:
   - "3129629a87d38beab147345bb28aec1fc58fc77dfca2d1ef52c829d4e1e8b9b7"
@@ -28,7 +29,7 @@ Tres categorías de terminología conllevan un riesgo particular de mala interpr
 
 ### Reporting Issuer y el puente Entidad Regulada Emisora de Información
 
-**Reporting Issuer.** En Canadá, es una categoría legal específica bajo la Ley de Valores canadiense. No tiene traducción directa al español. En México, el equivalente más cercano, *Emisora*, implica una entidad que cotiza en la Bolsa Mexicana de Valores. En España, una traducción literal resultaría en *Emisor de Informes*, que suena a publicador de boletines informativos. El Término Puente Global **[[regulated-reporting-entity|Entidad Regulada Emisora de Información]]** evita estas implicaciones falsas: *Regulada* en español implica presentar documentos ante una autoridad gubernamental, lo que es preciso en las cuatro jurisdicciones.
+**Reporting Issuer.** La categoría legal canadiense no tiene una traducción directa precisa al español. Los términos más cercanos — *Emisora* en México, un literal *Emisor de Informes* en España — importan cada uno una implicación falsa para un vehículo cuyo capital no se negocia en bolsa. El Término Puente Global **[[regulated-reporting-entity|Entidad Regulada Emisora de Información]]** evita ambas; ese artículo expone el término en detalle, sus equivalentes soberanos y las obligaciones de presentación en cada jurisdicción.
 
 ### Distinción entre cotizada y negociada
 

@@ -11,8 +11,9 @@ short_description: "Definitions of the primary financial metrics used in commerc
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: woodfine-editorial
+audience: public
 paired_with: cre-financial-metrics.es.md
 ---
 
@@ -28,7 +29,9 @@ expenses (property taxes, insurance, utilities, management, maintenance) but bef
 service, capital expenditure, depreciation, and income tax. NOI is the primary input to
 property valuation through the direct capitalisation method. Two variants are in use: *cash
 NOI* (actual cash flows) and *GAAP NOI* (straight-line rent under IFRS 16, with tenant
-improvement allowances amortised). See net-operating-income.
+improvement allowances amortised). NOI is not an IFRS line item — it is a supplementary
+measure presented alongside the audited statements, never in place of them; see
+[[non-ifrs-measures-explained|Non-IFRS Measures Explained]].
 
 **Effective gross income (EGI)** — Gross potential income less vacancy and credit loss. The
 intermediate step between the theoretical maximum revenue and NOI.
@@ -61,14 +64,21 @@ principal repayment). Used as the borrowing covenant in the direct-hold programm
 vehicle may not issue further secured debt if doing so would reduce the ICR below 1.20×,
 calculated in aggregate across the vehicle rather than any single property. ICR is a more
 lenient measure than DSCR when the mortgage has an amortising structure, because DSCR
-includes principal repayment in the denominator while ICR excludes it. See
-interest-rate-transmission.
+includes principal repayment in the denominator while ICR excludes it. Because the interest obligation sits in the denominator, a rise in
+financing costs reduces the ICR even where the property's income is unchanged; see
+[[debt-service-and-financing-structure|Debt Service and Financing Structure]] for how the
+covenant constrains mortgage quantum, and [[financing-and-interest-rate-risk|Financing and
+Interest Rate Risk]] for what follows when rates move against the vehicle.
 
 ## Valuation metrics
 
 **Capitalisation rate (cap rate)** — NOI divided by market value. Applied in reverse (value
 = NOI ÷ cap rate) in the direct capitalisation valuation method. Market cap rates are
-observable from comparable transactions. See capitalization-rate.
+observable from comparable transactions. They move with interest rates, investor demand,
+and the perceived risk of the asset class; a rise in market cap rates reduces appraised
+value even where property income is unchanged — see [[market-and-property-risk|Market and
+Property Risk]]. The cap rate is a market-derived ratio, not an IFRS-defined accounting
+measure; see [[non-ifrs-measures-explained|Non-IFRS Measures Explained]].
 
 **Net asset value (NAV)** — The sum of the fair values of all properties in the portfolio
 less all debt obligations and other liabilities. NAV is the primary balance-sheet-based
@@ -131,6 +141,11 @@ the resilience of an asset to vacancy increases.
 
 ## See also
 
-- net-operating-income — the full description of the NOI metric and its variants
-- capitalization-rate — the valuation metric and its sensitivity to market conditions
-- interest-rate-transmission — how changes in financing costs affect the leverage metrics
+- [[non-ifrs-measures-explained|Non-IFRS Measures Explained]] — why NOI, FFO, AFFO, and the
+  capitalisation rate supplement the audited IFRS statements rather than replace them
+- [[market-and-property-risk|Market and Property Risk]] — how movements in market
+  capitalisation rates change appraised value
+- [[debt-service-and-financing-structure|Debt Service and Financing Structure]] — the
+  loan-to-value and interest coverage constraints these leverage metrics measure
+- [[financing-and-interest-rate-risk|Financing and Interest Rate Risk]] — how changes in
+  financing costs reach the vehicle's borrowing capacity

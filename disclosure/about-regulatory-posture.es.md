@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: about-regulatory-posture.md
 cites: []
@@ -22,9 +22,10 @@ Woodfine Capital Projects Inc. y sus subsidiarias — incluidas las entidades de
 
 ## Puntos clave
 
-- Todos los materiales publicados en corporate.woodfinegroup.com se tratan como divulgación pública sujeta al NI 51-102 y a la Política Nacional 11-201 de la CSA; el mismo estándar aplicado a los documentos presentados formalmente rige el wiki corporativo.
+- Woodfine aplica esta postura con carácter previo a su oferta pública planificada. Los materiales publicados en corporate.woodfinegroup.com se someten al mismo estándar que los documentos presentados formalmente, conforme al NI 51-102 y a la Política Nacional 11-201 de la CSA.
 - Las declaraciones prospectivas —incluidas las referencias a características de plataforma, objetivos de adquisición y estructuras de gobernanza en desarrollo— incluyen lenguaje calificativo en todo momento; se trata de un reconocimiento factual, no de una formalidad legal.
 - Las referencias a la Sovereign Data Foundation describen únicamente una estructura planificada; la Fundación no posee actualmente derechos de gobernanza, auditoría ni propiedad sobre ninguna operación de Woodfine.
+- Un hecho material publicado en el wiki sin el correspondiente depósito en SEDAR+ genera una inconsistencia en la divulgación. Los autores aplican el criterio de cambio material antes de que una página se publique.
 
 ## Marco aplicable
 
@@ -47,10 +48,6 @@ Las referencias a la Sovereign Data Foundation en los materiales de Woodfine des
 ## Alcance del wiki público
 
 Los artículos publicados en corporate.woodfinegroup.com se redactan y editan con el mismo estándar de divulgación que los documentos presentados formalmente. Un hecho material publicado en el wiki —una nueva adquisición de activos, un cambio en la estructura de capital, una actualización del marco de gobernanza— sin el correspondiente depósito en SEDAR+ genera una inconsistencia en la divulgación. Los autores y editores aplican el criterio de cambio material a las publicaciones del wiki antes de hacerlas públicas.
-
-## La conclusión
-
-Woodfine Capital Projects Inc. aplica una postura de divulgación continua —tratando todos los materiales de acceso público como si fueran documentos presentados formalmente— con carácter previo a su oferta pública planificada. Un hecho material publicado en el wiki corporativo sin el correspondiente depósito en SEDAR+ genera una inconsistencia en la divulgación; los autores aplican el criterio de cambio material antes de la publicación. El lenguaje prospectivo se aplica de manera constante como disciplina factual, no como formalismo legal, y toda referencia a la Sovereign Data Foundation utiliza términos de planificación o intención porque la Fundación aún no existe.
 
 ## Véase también
 
