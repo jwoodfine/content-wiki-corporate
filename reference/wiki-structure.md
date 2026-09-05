@@ -16,7 +16,7 @@ short_description: "A reader's map: this knowledge base describes the
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-27
+last_edited: 2026-09-04
 editor: woodfine-editorial
 paired_with: wiki-structure.es.md
 ---
@@ -60,21 +60,26 @@ written in plain language, and every technical term links to the glossary.
 
 ## Reports and disclosure
 
-**Reports and Disclosure** explains, in plain language, what disclosure means for a
-reporting issuer and how it applies to the parent company, plus a page for each
-Direct-Hold Solution: Canada, United States, Spain, and Mexico. Only Canada is
-established; the other three pages are empty until their vehicle exists.
+**Reports and Disclosure** explains, in plain language, what continuous
+disclosure means for a reporting issuer, and gathers what each entity
+publishes. Woodfine is not itself a reporting issuer today. It intends to
+become one when its planned prospectus offering takes effect. The articles
+here set out what would then be filed, on what schedule, and under which
+National Instrument.
 
-## The newsroom
+The section also holds a page for each Direct-Hold Solution: Canada, the
+United States, Spain, and Mexico. Professional Centres Canada LP is the one
+established vehicle. It files continuous disclosure on SEDAR+ today, so its
+page is the only one carrying real content. The other three hold a
+placeholder until their vehicle exists and begins disclosing.
 
-The Reports — Woodfine Capital Projects section also carries a newsroom: a
-feed of dated releases, distinct from the standing reference material
-around it. Two release types populate it — a Regulatory Release, the
-short, minimum-word disclosure issued for a material change event, and a
-Media Release, a longer narrative account built around a specific event.
-The newsroom is not a separate site; each reporting company's Reports
-section is intended to carry its own feed, though today only the parent
-company's section does.
+Two further articles describe how Woodfine intends to communicate once it is
+reporting. The first channel is an immediate press release for any material
+change. The second is a periodic record of shareholder meetings, investor
+presentations, and conference appearances. Both would carry dated entries,
+unlike the standing reference material that makes up the rest of this
+knowledge base. Neither channel is in operation yet — each article describes
+what it is intended to carry, not what has been published.
 
 ## Glossary and reader's guide
 

@@ -17,7 +17,7 @@ short_description: "Un mapa para el lector: esta base de conocimiento
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-27
+last_edited: 2026-09-04
 editor: woodfine-editorial
 paired_with: wiki-structure.md
 ---
@@ -68,23 +68,27 @@ término técnico enlaza con el glosario.
 
 ## Informes y divulgación
 
-**Informes y Divulgación** explica, en lenguaje claro, qué significa la divulgación
-para un emisor que reporta y cómo se aplica a la empresa matriz, además de una página para
-cada Solución de Tenencia Directa: Canadá, Estados Unidos, España y México. Solo Canadá
-está establecida; las otras tres páginas permanecen vacías hasta que su vehículo exista.
+Woodfine no es hoy, en sí misma, un emisor que reporta; prevé serlo una vez
+que entre en vigor su oferta de prospecto planificada. **Informes y
+Divulgación** explica en lenguaje claro qué significa la divulgación continua
+bajo el régimen canadiense, y reúne lo que cada entidad publica. Los
+artículos de esta sección detallan qué se presentaría entonces, en qué
+calendario y bajo qué Instrumento Nacional.
 
-## El Newsroom
+La sección incluye además una página para cada Solución de Tenencia Directa:
+Canadá, Estados Unidos, España y México. Professional Centres Canada LP es el
+único vehículo constituido. Ya presenta divulgación continua en SEDAR+, por
+lo que su página es la única con contenido real. Las otras tres contienen un
+marcador de posición hasta que su vehículo exista y comience a divulgar.
 
-La sección de Informes — Woodfine Capital Projects también incluye un
-Newsroom: un canal de comunicados fechados, distinto del material de
-referencia permanente que lo rodea. Dos tipos de comunicado lo alimentan
-— un Regulatory Release (comunicado regulatorio), la divulgación breve y
-de palabras mínimas que se emite ante un hecho de cambio material, y un
-Media Release (comunicado mediático), un relato más extenso construido en
-torno a un acontecimiento concreto. El Newsroom no es un sitio aparte:
-cada sección de Informes de cada empresa que informa está prevista para
-tener su propio canal, aunque hoy solo lo tiene la sección de la empresa
-matriz.
+Otros dos artículos describen cómo prevé comunicarse Woodfine una vez que sea
+emisor que reporta. El primer canal es un comunicado de prensa inmediato ante
+cualquier cambio material. El segundo es un registro periódico de juntas de
+accionistas, presentaciones a inversores y participaciones en conferencias
+del sector. Ambos llevarían entradas fechadas, a diferencia del material de
+referencia permanente que compone el resto de esta base de conocimiento.
+Ninguno de los dos canales está en funcionamiento todavía: cada artículo
+describe qué está previsto que contenga, no lo que se ha publicado.
 
 ## Glosario y guía del lector
 

@@ -11,8 +11,9 @@ short_description: "La exención de inversionista acreditado bajo la NI 45-106 c
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-27
+last_edited: 2026-09-04
 editor: woodfine-editorial
+audience: public
 paired_with: accredited-investor-eligibility.md
 ---
 
@@ -36,38 +37,84 @@ inversores institucionales y de alto patrimonio neto.
 
 - La exención de inversionista acreditado permite la distribución de participaciones de SC
   a inversores calificados sin prospecto; la exención no reduce las [[about-disclosure-obligations|obligaciones de divulgación continua]]
-  del emisor bajo la [[about-annual-reporting-cycle|NI 51-102]].
+  del emisor bajo la [[about-annual-reporting-cycle|NI 51-102]] una vez que la SC alcanza la condición de emisor informante.
 - La elegibilidad es autocertificada por el inversor en el momento de la suscripción
-  utilizando el formulario prescrito en la NI 45-106.
+  utilizando el formulario prescrito en la NI 45-106; el emisor debe adoptar medidas
+  razonables para verificarla, pero puede apoyarse en las declaraciones exactas del
+  suscriptor.
 - Los documentos de reconocimiento de riesgo requeridos para distribuciones a inversores
-  individuales deben incluir el lenguaje estatutario especificado bajo la NI 45-106 s.2.3(5).
+  elegibles que son personas físicas — no compradores institucionales — deben incluir el
+  lenguaje estatutario especificado bajo la NI 45-106 s.2.3(5).
 
 ## La exención de inversionista acreditado
 
-Un inversionista acreditado incluye, entre otras categorías: instituciones financieras
-reguladas federalmente o provincialmente; fondos de pensiones supervisados por una
-autoridad regulatoria; un distribuidor de inversiones registrado que actúa como principal
-o en representación de una cuenta administrada de forma discrecional; personas físicas que,
-solas o con un cónyuge, poseen activos financieros con un valor agregado antes de impuestos
-de al menos $1,000,000; o personas físicos cuyo ingreso neto antes de impuestos superó
-$200,000 en cada uno de los dos años calendario más recientes; o personas físicas cuyo
-ingreso combinado con su cónyuge superó $300,000 en cada uno de los dos años más recientes;
-o personas físicas que poseen, solas o con un cónyuge, activos netos de al menos
-$5,000,000; o entidades incorporadas con activos netos de al menos $5,000,000.
+El Instrumento Nacional 45-106, adoptado por los Administradores de Valores de Canadá,
+establece las exenciones al requisito de prospecto disponibles en cada provincia y
+territorio canadiense. La exención de inversionista acreditado del artículo 2.3 es la de
+uso más extendido en colocaciones privadas dirigidas a inversores institucionales y de
+alto patrimonio neto.
+
+Un inversionista acreditado incluye, entre otras categorías:
+
+**Institución financiera.** Un banco, sociedad fiduciaria, aseguradora u otra institución
+financiera regulada por estatuto federal o provincial.
+
+**Fondo de pensiones.** Un fondo de pensiones sujeto a la supervisión de una autoridad
+regulatoria, o un administrador de fondos de pensiones cuyo objeto principal sea invertir
+activos de pensiones.
+
+**Distribuidor de inversiones registrado.** Un distribuidor registrado que actúa por
+cuenta propia, o por cuenta de una cuenta administrada de forma discrecional en nombre de
+su cliente.
+
+**Persona física de alto patrimonio neto.** Una persona física que, sola o junto con su
+cónyuge, posee activos financieros — excluidos los bienes inmuebles — con un valor
+agregado antes de impuestos de al menos $1,000,000; o cuyo ingreso neto antes de impuestos
+superó $200,000 en cada uno de los dos años calendario más recientes y que razonablemente
+espera superar $200,000 en el año calendario en curso; o cuyo ingreso neto antes de
+impuestos, sumado al de su cónyuge, superó $300,000 en cada uno de los dos años calendario
+más recientes y que razonablemente espera superar $300,000 en el año calendario en curso;
+o que posee, sola o junto con su cónyuge, activos netos de al menos $5,000,000.
+
+**Entidad constituida con activos netos de al menos $5,000,000.** Una sociedad anónima,
+sociedad en comandita, fideicomiso o entidad no constituida que no se haya formado
+específicamente para adquirir los valores objeto de la distribución y que registre activos
+netos de al menos $5,000,000 en sus estados financieros más recientes.
 
 ## Suscripción y certificación de elegibilidad
 
 En el momento de la suscripción, cada inversor completa un certificado de inversionista
-acreditado en el que certifica qué categoría satisface. Para inversores individuales,
-se debe firmar un reconocimiento de riesgo adicional en el formulario prescrito en el
-Anexo 1 de la NI 45-106.
+acreditado — el Formulario 45-106F9 en Columbia Británica, o el formulario provincial
+equivalente — en el que certifica qué categoría de inversionista acreditado satisface.
+Para los inversores que son personas físicas, debe firmarse además un reconocimiento de
+riesgo en el formulario prescrito en el Anexo 1 de la NI 45-106, en el que se reconoce,
+entre otras cosas, que los valores no son libremente negociables y que el inversor ha
+evaluado el riesgo de la inversión.
 
-## Restricciones de transferencia
+El emisor — representado por el socio general de la SC — conserva el certificado firmado
+y las declaraciones que lo sustentan durante el plazo prescrito por la legislación de
+valores aplicable. El emisor no verifica de forma independiente los datos financieros que
+respaldan la autocertificación del inversor, pero puede apoyarse en el certificado
+mientras no existan indicios que sugieran que la certificación es inexacta.
+
+## Restricciones de transferencia y cumplimiento en el mercado secundario
 
 Las participaciones de SC adquiridas bajo la exención de inversionista acreditado están
 sujetas a un período de retención bajo la legislación de valores aplicable antes de que
-puedan revenderse al público. En la mayoría de las provincias canadienses, el período de
-retención es de cuatro meses desde la fecha de distribución.
+puedan revenderse al público. En la mayoría de las provincias canadienses, ese período es
+de cuatro meses desde la fecha de distribución. Transcurrido el período de retención, las
+participaciones pueden transferirse sin prospecto, siempre que la transferencia se ampare
+en una exención aplicable — la venta posterior a otro inversionista acreditado, la
+exención para valores de un emisor informante distribuidos en el curso ordinario a través
+de una bolsa reconocida o de un sistema alternativo de negociación, u otra exención
+disponible.
+
+El socio general inscribe las transferencias de participaciones de SC en el registro de
+participaciones de la sociedad cuando recibe el formulario de transferencia completo y la
+documentación requerida. El socio general no aprueba ni rechaza las transferencias. La
+actualización del registro es el mecanismo por el cual el inversor adquirente pasa a ser
+el tenedor registrado de las participaciones transferidas y obtiene acceso a la
+información para inversores del activo correspondiente.
 
 ## Interacción con la divulgación continua
 

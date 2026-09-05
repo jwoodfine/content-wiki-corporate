@@ -11,8 +11,9 @@ short_description: "The accredited investor exemption under NI 45-106 as a distr
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-27
+last_edited: 2026-09-04
 editor: woodfine-editorial
+audience: public
 paired_with: accredited-investor-eligibility.es.md
 ---
 
@@ -71,7 +72,7 @@ of their spouse, exceeded $300,000 in each of the two most recent calendar years
 reasonably expects to exceed $300,000 in the current calendar year; or an individual who
 holds, alone or with a spouse, net assets of at least $5,000,000.
 
-**Incorporated entity with net assets exceeding $5,000,000.** A corporation, limited
+**Incorporated entity with net assets of at least $5,000,000.** A corporation, limited
 partnership, trust, or unincorporated entity that was not formed specifically to acquire
 the securities being distributed and that has net assets of at least $5,000,000 on its
 most recently prepared financial statements.

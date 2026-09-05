@@ -11,8 +11,9 @@ short_description: "The legal and structural mechanisms through which each direc
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-09-04
 editor: woodfine-editorial
+audience: public
 paired_with: asset-vehicle-isolation.es.md
 ---
 
@@ -23,10 +24,10 @@ partnership personhood: each LP is a distinct legal entity with its own creditor
 equity register, and its own balance sheet. An obligation incurred at one vehicle does not
 become an obligation of any other vehicle, regardless of common beneficial ownership at a
 higher level in the corporate structure. This isolation is the primary mechanism by which the
-direct-hold framework protects unit holders from cross-vehicle contagion. The rest of this
-article describes the mechanics as they apply to the limited-partnership-form vehicles; the
-Spain SOCIMI and Mexico FIBRA achieve the same asset-level separation through their own
-jurisdictions' corporate and trust law, not through limited partnership form.
+direct-hold framework protects unit holders from cross-vehicle contagion. The sections that
+follow describe the limited-partnership-form mechanics first. They then describe how the
+planned Spain SOCIMI and Mexico FIBRA are intended to reach the same asset-level separation
+through their own jurisdictions' corporate and trust law, rather than through partnership form.
 
 ## Key takeaways
 
@@ -39,6 +40,8 @@ jurisdictions' corporate and trust law, not through limited partnership form.
   secured against the specific property in that LP, and the lender's recourse on default is
   limited to that property and any other collateral specifically pledged — not to the
   broader portfolio.
+- The planned Spain and Mexico vehicles are intended to reach the same separation through
+  different legal forms — a corporation in Spain, a trust in Mexico.
 
 ## Legal separation
 
@@ -81,6 +84,47 @@ appear on the register of another, even if the investor holds units in both. Thi
 isolation means that an encumbrance against one investor's holding in one vehicle cannot
 affect their holding in another through the equity record.
 
+## Separation in the Spain and Mexico vehicles
+
+A holder in the planned Spain or Mexico vehicle is intended to be protected on the same
+terms as a limited partner. A creditor of one vehicle reaches that vehicle's assets and no
+others. Neither jurisdiction delivers that result through partnership form. Spain relies on
+the separate legal personality of a stock corporation; Mexico relies on a trust patrimony,
+with a further barrier one layer below it. In both, the separation follows from the legal
+form itself, not from any agreement between the vehicles.
+
+**Spain — separation by corporate personality.** [[professional-centres-spain-socimi-structure|Professional Centres Spain SOCIMI]] is planned
+to be formed in Madrid as a Sociedad Anónima Cotizada de Inversión en el Mercado Inmobiliario
+— a Spanish stock corporation carrying real-estate tax status. Under Spanish company law, a
+stock corporation is a legal person distinct from its shareholders: it owns its own assets,
+incurs its own obligations, and answers to its own creditors, and a shareholder's exposure is
+limited to the capital that shareholder subscribed. Its share register is intended to settle
+through Iberclear, Spain's central securities depositary, and its governing entity is its own
+— Woodfine Professional Centres 3 S.A. is planned to serve as Administrator, a role that binds
+no other vehicle. Legal title to property sits one layer lower: the Spain vehicle is intended
+to hold each property through its own [[titleco-and-subsidiary-silo-model|Titleco]] nominee
+company, on the same basis as the other three vehicles.
+
+**Mexico — separation by trust patrimony and site-level subsidiary.** [[professional-centres-mexico-fibra-structure|Professional Centres Mexico FIBRA]] is planned
+to be constituted as a fideicomiso — a Mexican trust — rather than a company, with a licensed
+banking institution required by law to act as fiduciary. Assets placed in the trust form a
+patrimony held by the fiduciary for the beneficiaries, separate from the fiduciary's own
+estate; CBFI holders hold the beneficial and economic interest, without direct title to the
+real property. Below the trust, the planned Subsidiary Silo model adds a second barrier: each
+development site is intended to sit inside its own Sociedad de Responsabilidad Limitada, a
+Mexican limited-liability company holding the deed to that one site and nothing else, with
+legal title to that company's shares held by the bank as fiduciary. A liability event at one
+site is intended to stop inside that company, reaching neither the trust nor any other site.
+Governance follows the same lines: a Technical Committee is intended to instruct the bank on
+that trust's development, leasing, and fee decisions, and its instructions bind that trust
+and no other vehicle.
+
+Each Direct-Hold Solution keeps its own creditors, its own register, its own audited
+accounts, and its own governing instrument — a partnership agreement in Canada and the
+United States, corporate bylaws in Spain, a trust agreement in Mexico. Neither vehicle is
+yet formed; until each is constituted and registered in its jurisdiction, every mechanism in
+this section is an intended design, not an operating fact.
+
 ## Parent company oversight
 
 The parent holding company — as the ultimate beneficial owner of each vehicle's governing
@@ -96,3 +140,7 @@ each direct-hold vehicle are separate documents with separate audits.
   distribution declaration process
 - [[titleco-and-subsidiary-silo-model]] — the property-level Titleco layer beneath this
   vehicle-level isolation
+- [[professional-centres-spain-socimi-structure]] — the planned Spain vehicle's Administrator
+  structure and statutory listing mandate
+- [[professional-centres-mexico-fibra-structure]] — the planned Mexico trust's fiduciary
+  governance and Subsidiary Silo model
