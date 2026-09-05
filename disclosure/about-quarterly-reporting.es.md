@@ -4,10 +4,17 @@ title: "Presentación de Informes Trimestrales"
 slug: about-quarterly-reporting
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-08-24
+type: topic
+content_type: topic
+quality: complete
+last_edited: 2026-09-04
 editor: woodfine-editorial
 status: stable
+audience: public
+bcsc_class: public-disclosure-safe
 short_description: "Informes intermedios bajo NI 51-102: estados financieros condensados según IAS 34 y MD&A trimestral, presentados dentro de 45 días del cierre de cada uno de los tres primeros trimestres."
+language_protocol: TRANSLATE-ES
+paired_with: about-quarterly-reporting.md
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations. CSA, 2004 (as amended)."

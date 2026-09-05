@@ -4,10 +4,17 @@ title: "Ciclo de Presentación de Informes Anuales"
 slug: about-annual-reporting-cycle
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-08-24
+type: topic
+content_type: topic
+quality: complete
+last_edited: 2026-09-04
 editor: woodfine-editorial
 status: stable
+audience: public
+bcsc_class: public-disclosure-safe
 short_description: "Obligaciones de divulgación anual de un emisor canadiense: estados financieros IFRS auditados y MD&A dentro de 90 o 120 días del cierre fiscal según la condición de emisor de riesgo; el Formulario de Información Anual aplica solo a emisores que no son de riesgo."
+language_protocol: TRANSLATE-ES
+paired_with: about-annual-reporting-cycle.md
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations. CSA, 2004 (as amended)."

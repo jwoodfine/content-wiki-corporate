@@ -4,10 +4,17 @@ title: "Events and presentations"
 slug: events-presentations
 category: disclosure
 index_group: company-communications
-last_edited: 2026-08-26
+type: topic
+content_type: topic
+quality: complete
+last_edited: 2026-09-04
 editor: woodfine-editorial
 status: stable
+audience: public
+bcsc_class: public-disclosure-safe
 short_description: "Planned record of shareholder meetings, investor presentations, and industry conference appearances, with archived materials and advance notice of forthcoming events once this program is in place."
+language_protocol: PROSE-TOPIC
+paired_with: events-presentations.es.md
 ---
 
 Woodfine intends to give shareholders advance notice of each formal

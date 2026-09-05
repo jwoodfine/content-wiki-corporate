@@ -4,10 +4,17 @@ title: "Información Financiera"
 slug: about-financial-reporting
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-08-27
+type: topic
+content_type: topic
+quality: complete
+last_edited: 2026-09-04
 editor: woodfine-editorial
 status: stable
+audience: public
+bcsc_class: public-disclosure-safe
 short_description: "Divulgaciones financieras periódicas que Woodfine Capital Projects Inc. prevé presentar como emisor bajo NI 51-102 tras la efectividad de su oferta de prospecto planificada."
+language_protocol: TRANSLATE-ES
+paired_with: about-financial-reporting.md
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations, Canadian Securities Administrators."

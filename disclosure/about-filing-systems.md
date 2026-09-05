@@ -4,10 +4,17 @@ title: "Filing systems"
 slug: about-filing-systems
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-08-24
+type: topic
+content_type: topic
+quality: complete
+last_edited: 2026-09-04
 editor: woodfine-editorial
 status: stable
+audience: public
+bcsc_class: public-disclosure-safe
 short_description: "Filing platform operated by the CSA for public dissemination of continuous disclosure documents, covering document categories, XBRL format rules, and NI 52-109 certification."
+language_protocol: PROSE-TOPIC
+paired_with: about-filing-systems.es.md
 references:
   - id: 1
     text: "CSA Staff Notice 11-332 — SEDAR+ Launch. CSA, 2023."

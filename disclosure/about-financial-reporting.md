@@ -4,10 +4,17 @@ title: "Financial reporting"
 slug: about-financial-reporting
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-08-26
+type: topic
+content_type: topic
+quality: complete
+last_edited: 2026-09-04
 editor: woodfine-editorial
 status: stable
+audience: public
+bcsc_class: public-disclosure-safe
 short_description: "Periodic financial disclosures Woodfine Capital Projects Inc. intends to file as a reporting issuer under NI 51-102 upon effectiveness of its planned prospectus offering."
+language_protocol: PROSE-TOPIC
+paired_with: about-financial-reporting.es.md
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations, Canadian Securities Administrators."

@@ -4,10 +4,17 @@ title: "Eventos y presentaciones"
 slug: events-presentations
 category: disclosure
 index_group: company-communications
-last_edited: 2026-08-26
+type: topic
+content_type: topic
+quality: complete
+last_edited: 2026-09-04
 editor: woodfine-editorial
 status: stable
+audience: public
+bcsc_class: public-disclosure-safe
 short_description: "Registro previsto de juntas de accionistas, presentaciones a inversores y participaciones en conferencias del sector, con materiales archivados y aviso previo de próximos eventos una vez implementado este programa."
+language_protocol: TRANSLATE-ES
+paired_with: events-presentations.md
 ---
 
 Woodfine tiene previsto informar a los accionistas con antelación de cada

@@ -4,10 +4,17 @@ title: "Annual reporting cycle"
 slug: about-annual-reporting-cycle
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-08-24
+type: topic
+content_type: topic
+quality: complete
+last_edited: 2026-09-04
 editor: woodfine-editorial
 status: stable
+audience: public
+bcsc_class: public-disclosure-safe
 short_description: "Annual disclosure obligations of a Canadian reporting issuer: audited IFRS financial statements and MD&A due within 90 or 120 days of fiscal year-end depending on venture-issuer status; the Annual Information Form applies only to non-venture issuers."
+language_protocol: PROSE-TOPIC
+paired_with: about-annual-reporting-cycle.es.md
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations. CSA, 2004 (as amended)."

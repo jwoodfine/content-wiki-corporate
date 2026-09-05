@@ -4,10 +4,17 @@ title: "Quarterly reporting"
 slug: about-quarterly-reporting
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-08-24
+type: topic
+content_type: topic
+quality: complete
+last_edited: 2026-09-04
 editor: woodfine-editorial
 status: stable
+audience: public
+bcsc_class: public-disclosure-safe
 short_description: "Interim reporting under NI 51-102: condensed IAS 34 financial statements and quarterly MD&A due within 45 days of each of the first three fiscal quarter-ends."
+language_protocol: PROSE-TOPIC
+paired_with: about-quarterly-reporting.es.md
 references:
   - id: 1
     text: "National Instrument 51-102 Continuous Disclosure Obligations. CSA, 2004 (as amended)."

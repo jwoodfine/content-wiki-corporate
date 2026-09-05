@@ -4,10 +4,17 @@ title: "Sistemas de Presentación"
 slug: about-filing-systems
 category: disclosure
 index_group: how-disclosure-works
-last_edited: 2026-08-24
+type: topic
+content_type: topic
+quality: complete
+last_edited: 2026-09-04
 editor: woodfine-editorial
 status: stable
+audience: public
+bcsc_class: public-disclosure-safe
 short_description: "Plataforma de presentación operada por la CSA para la difusión pública de documentos de divulgación continua, incluyendo categorías de documentos, formato XBRL y certificación NI 52-109."
+language_protocol: TRANSLATE-ES
+paired_with: about-filing-systems.md
 references:
   - id: 1
     text: "CSA Staff Notice 11-332 — SEDAR+ Launch. CSA, 2023."
