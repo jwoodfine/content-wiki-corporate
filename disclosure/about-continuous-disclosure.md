@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: about-continuous-disclosure.es.md
 cites: []
@@ -43,12 +43,7 @@ Interim financial statements and a corresponding MD&A are filed for each of the 
 
 ## Material change reports
 
-A material change — defined as a change in the business, operations, or capital structure of the issuer that would reasonably be expected to have a significant effect on the market price or value of the issuer's securities — requires immediate disclosure. The issuer must:
-
-1. Issue a press release describing the change as soon as practicable.
-2. File Form 51-102F3 (Material Change Report) on SEDAR+ within 10 days of the change.
-
-The obligation is continuous. It does not depend on the proximity of a scheduled filing date or investor communication.
+A material change requires disclosure the same day it is determined, independent of any scheduled filing date: a press release immediately, then a Form 51-102F3 material change report on SEDAR+ within 10 days. [[about-material-change-reporting|Material change reporting]] sets out the definition, the two-step sequence, the confidential-filing exception, and the Part 7 filing mechanics in full.
 
 ## Electronic filing under CSA National Policy 11-201
 

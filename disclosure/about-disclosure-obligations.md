@@ -9,10 +9,12 @@ content_type: topic
 quality: complete
 short_description: "The ongoing disclosure obligations of a reporting issuer under NI 51-102: annual financial statements, an annual information form for non-venture issuers, interim statements, MD&A, and material change reports."
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: woodfine-editorial
+audience: public
 paired_with: about-disclosure-obligations.es.md
 ---
 
@@ -60,20 +62,7 @@ The interim package does not include an AIF equivalent.
 
 ## Material change reports
 
-A reporting issuer must promptly disclose any [[about-material-change-reporting|material change]] in its business, operations,
-or affairs. A material change is a change in the business, operations, or capital of the
-issuer that would reasonably be expected to have a significant effect on the market price or
-value of any of the issuer's securities.
-
-Upon determination that a material change has occurred, the issuer must:
-
-1. Issue a [[about-material-change-reporting|press release]] disclosing the nature and substance of the material change
-   immediately upon determination.
-2. File a material change report (Form 51-102F3) as soon as practicable, and in any event
-   within 10 days of the date on which the material change occurred.
-
-The dual-step requirement — press release first, then formal report — is designed to ensure
-that market participants receive timely notice without delay for document preparation.
+Beyond the scheduled annual and interim packages, a reporting issuer must promptly disclose any material change in its business, operations, or affairs. Disclosure runs in two steps: a press release immediately upon determination, then a Form 51-102F3 report on SEDAR+ within 10 days. [[about-material-change-reporting|Material change reporting]] sets out the definition, the two-step sequence, and the Part 7 filing mechanics in full.
 
 ## SEDAR+ filing
 

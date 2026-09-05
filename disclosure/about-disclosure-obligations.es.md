@@ -9,10 +9,12 @@ content_type: topic
 quality: complete
 short_description: "Las obligaciones de divulgación continua de un emisor que cotiza bajo NI 51-102: estados financieros anuales, formulario de información anual (para emisores que no son emisores de riesgo), estados interinos, MD&A e informes de cambios materiales."
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: woodfine-editorial
+audience: public
 paired_with: about-disclosure-obligations.md
 ---
 
@@ -55,18 +57,7 @@ auditados y [[about-quarterly-reporting|MD&A interino]].
 
 ## Informes de cambios materiales
 
-Un emisor que cotiza debe divulgar de inmediato cualquier [[about-material-change-reporting|cambio material]] en su negocio,
-operaciones o asuntos. Al determinar que ha ocurrido un cambio material, el emisor debe:
-
-1. Emitir un [[about-material-change-reporting|comunicado de prensa]] divulgando la naturaleza y el contenido del cambio
-   inmediatamente después de su determinación.
-2. Presentar un informe de cambio material (Formulario 51-102F3) tan pronto como sea posible
-   y, en todo caso, dentro de los 10 días posteriores a la fecha en que ocurrió el cambio
-   material.
-
-El requisito de dos pasos — primero el comunicado de prensa, luego el informe formal —
-está diseñado para garantizar que los participantes del mercado reciban aviso oportuno sin
-demora por la preparación de documentos.
+Además de los paquetes anual e interino programados, un emisor que cotiza debe divulgar de inmediato cualquier cambio material en su negocio, operaciones o asuntos. La divulgación se produce en dos pasos: un comunicado de prensa inmediatamente tras la determinación y, dentro de los 10 días siguientes, el Formulario 51-102F3 en SEDAR+. [[about-material-change-reporting|Informes de cambios materiales]] desarrolla la definición, la secuencia de dos pasos y la mecánica de presentación de la Parte 7.
 
 ## Presentación en SEDAR+
 

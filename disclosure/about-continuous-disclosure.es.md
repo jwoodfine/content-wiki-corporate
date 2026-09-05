@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: about-continuous-disclosure.md
 cites: []
@@ -39,12 +39,7 @@ Los estados financieros intermedios y el correspondiente MD&A se presentan para 
 
 ## Informes de cambios materiales
 
-Un cambio material —definido como un cambio en el negocio, las operaciones o la estructura de capital del emisor que razonablemente podría esperarse que tenga un efecto significativo en el precio de mercado o el valor de los valores del emisor— requiere divulgación inmediata. El emisor debe:
-
-1. Emitir un comunicado de prensa describiendo el cambio a la mayor brevedad posible.
-2. Depositar el Formulario 51-102F3 (Informe de Cambio Material) en SEDAR+ dentro de los 10 días siguientes al cambio.
-
-La obligación es continua. No depende de la proximidad de una fecha de depósito programada ni de una comunicación con inversores.
+Un cambio material exige divulgación el mismo día en que se determina, con independencia de cualquier fecha de depósito programada: un comunicado de prensa de inmediato y, dentro de los 10 días siguientes, el Formulario 51-102F3 en SEDAR+. [[about-material-change-reporting|Informes de cambios materiales]] desarrolla la definición, la secuencia de dos pasos, la excepción de presentación confidencial y la mecánica de presentación de la Parte 7.
 
 ## Presentación electrónica bajo la Política Nacional 11-201 de la CSA
 

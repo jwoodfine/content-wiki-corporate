@@ -4,58 +4,47 @@ title: "Comunicados de prensa e informes de cambios materiales"
 slug: press-releases
 category: disclosure
 index_group: company-communications
-last_edited: 2026-08-26
+type: topic
+content_type: topic
+quality: complete
+last_edited: 2026-09-04
 editor: woodfine-editorial
 status: stable
+audience: public
+bcsc_class: public-disclosure-safe
 short_description: "Canal previsto de divulgación en tiempo real de cambios materiales: comunicado inmediato, Formulario 51-102F3 en SEDAR+ en diez días y estándares de declaraciones prospectivas."
-references:
-  - id: 1
-    text: "National Instrument 51-102 Continuous Disclosure Obligations, Part 7 — Material Change Reporting. Canadian Securities Administrators."
-    url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/51-102"
+language_protocol: TRANSLATE-ES
+paired_with: press-releases.md
 ---
 
-Los desarrollos que constituyan [[about-material-change-reporting|cambios materiales]] en
-virtud del derecho canadiense de valores están previstos para divulgación en tiempo real por
-Woodfine, mediante comunicados de prensa e informes de cambios materiales.
-Un cambio material es cualquier cambio en los negocios, operaciones o capital de la compañía
-que un inversor razonablemente esperaría que tenga un efecto significativo sobre el precio de
-mercado o el valor de los valores de la compañía.[^1]
+Woodfine tiene previsto divulgar los [[about-material-change-reporting|cambios materiales]] en
+tiempo real, mediante comunicados de prensa e informes de cambios materiales. Hasta la fecha
+no se ha emitido ningún comunicado. El estándar que se describe a continuación es el que
+Woodfine tiene la intención de aplicar cuando el canal entre en funcionamiento.
 
 ## Protocolo de divulgación de cambios materiales
 
-Cuando se produce un cambio material, el [[about-disclosure-obligations|NI 51-102]] exige una secuencia de divulgación en dos
-pasos:
+Un cambio material desencadena una secuencia de dos pasos: un comunicado de prensa
+inmediatamente tras la determinación y, dentro de los diez días naturales siguientes, un
+informe de cambio material en el Formulario 51-102F3 presentado en
+[[about-filing-systems|SEDAR+]]. [[about-material-change-reporting|Informes de cambios
+materiales]] desarrolla la definición, los requisitos de contenido, la excepción de
+presentación confidencial y la mecánica de presentación de la Parte 7.
 
-**Paso 1 — Comunicado de prensa:** Debe emitirse un comunicado de prensa de inmediato tras la
-decisión de implementar el cambio, y en todo caso antes de la apertura de la negociación en el
-siguiente día de negociación. El comunicado debe revelar la naturaleza y el alcance del cambio
-material.
-
-**Paso 2 — Informe de cambio material:** Un informe formal de cambio material en el Formulario
-51-102F3 debe presentarse en [[about-filing-systems|SEDAR+]] dentro de los diez días naturales siguientes a la fecha en
-que se produce el cambio. El informe incluye la naturaleza y el alcance del cambio, los supuestos
-materiales subyacentes a las declaraciones prospectivas contenidas en el informe, y la
-divulgación de cualquier exención solicitada. El informe es firmado por un alto directivo de
-la compañía.
-
-## Alcance de los cambios materiales
-
-No todo desarrollo significativo constituye un cambio material en virtud del NI 51-102. La
-prueba consiste en determinar si el cambio podría razonablemente esperarse que tenga un efecto
-significativo sobre el precio de mercado o el valor de los valores de un [[regulated-reporting-entity|emisor informante]].
-Los desarrollos que habitualmente se evalúan en cuanto a su materialidad incluyen cambios en la
-estrategia corporativa, adquisiciones o disposiciones significativas, nuevas financiaciones de
-deuda o capital, cambios en la alta dirección, litigios significativos y cambios materiales en
-el plan de negocio o la situación financiera de la compañía.
+La decisión de emitir un comunicado sobre un desarrollo concreto se adopta caso por caso. Los
+comunicados de resultados y las actualizaciones de la guía prospectiva se evaluarían
+individualmente, y Woodfine comunicaría una desviación significativa respecto de la guía
+previamente divulgada en lugar de esperar al siguiente depósito programado.
 
 ## Declaraciones prospectivas
 
-Cualquier comunicado de prensa que contenga información prospectiva incluiría una advertencia
-sobre declaraciones prospectivas que identifique los supuestos materiales subyacentes a las
-declaraciones y los factores de riesgo conocidos que podrían hacer que los resultados reales
-difieran materialmente de los proyectados.
+Cualquier comunicado que contenga información prospectiva incluiría una advertencia que
+identifique los supuestos materiales subyacentes y los factores de riesgo conocidos que
+podrían hacer que los resultados reales difieran de los proyectados. Woodfine distinguiría
+las declaraciones prospectivas de las afirmaciones de hecho actual en el propio comunicado, y
+no en una advertencia general añadida al final.
 
-## Comunicados de prensa e informes de cambios materiales
+## Comunicados publicados
 
 Aún no se ha emitido ningún comunicado de prensa ni informe de cambio material. Esta
 sección enumerará cada comunicado, su tipo y un enlace directo a SEDAR+ una vez que se

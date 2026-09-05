@@ -4,62 +4,45 @@ title: "Press releases and material change reports"
 slug: press-releases
 category: disclosure
 index_group: company-communications
-last_edited: 2026-08-26
+type: topic
+content_type: topic
+quality: complete
+last_edited: 2026-09-04
 editor: woodfine-editorial
 status: stable
+audience: public
+bcsc_class: public-disclosure-safe
 short_description: "Planned real-time disclosure channel for material changes: immediate press release, Form 51-102F3 filing on SEDAR+ within ten days, and forward-looking statement standards."
-references:
-  - id: 1
-    text: "National Instrument 51-102 Continuous Disclosure Obligations, Part 7 — Material Change Reporting. Canadian Securities Administrators."
-    url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/51-102"
+language_protocol: PROSE-TOPIC
+paired_with: press-releases.es.md
 ---
 
-[[about-material-change-reporting|Material changes]] under Canadian securities law are
-planned to be disclosed by Woodfine in real time, through press releases and material change
-reports. A material change is any change in the business, operations, or capital of the company
-that an investor would reasonably expect to have a significant effect on the market price or
-value of the company's securities.[^1]
+Woodfine plans to disclose [[about-material-change-reporting|material changes]] in real time,
+through press releases and material change reports. No release has been issued to date. The
+standard below is the one Woodfine intends to apply once the channel opens.
 
 ## Material change disclosure protocol
 
-When a material change occurs, [[about-disclosure-obligations|NI 51-102]] requires a two-step disclosure sequence:
+A material change triggers a two-step sequence: a press release immediately upon
+determination, then a Form 51-102F3 material change report on [[about-filing-systems|SEDAR+]]
+within ten calendar days. [[about-material-change-reporting|Material change reporting]] sets
+out the definition, the content requirements, the confidential-filing exception, and the Part
+7 filing mechanics in full.
 
-**Step 1 — Press release:** A press release must be issued immediately upon the decision to
-implement the change, and in any event before the opening of trading on the next trading day.
-The press release must disclose the nature and substance of the material change. If the
-information cannot be disclosed without unreasonable prejudice to the company, a request for a
-temporary exemption may be filed; however, the bar for such exemptions is high and the company
-must disclose the existence of undisclosed material information.
-
-**Step 2 — Material change report:** A formal material change report on Form 51-102F3 must be
-filed on [[about-filing-systems|SEDAR+]] within ten calendar days of the date on which the change occurs. The report
-includes the nature and substance of the change, any material assumptions underlying any
-forward-looking statements in the report, and disclosure of any exemption claimed. The report
-is signed by a senior officer of the company.
-
-## Scope of material changes
-
-Not every significant development constitutes a material change under NI 51-102. The test is
-whether the change would reasonably be expected to have a significant effect on the market
-price or value of a [[regulated-reporting-entity|reporting issuer]]'s securities. Developments typically assessed for
-materiality include changes in corporate strategy, significant acquisitions or dispositions,
-new debt or equity financings, changes in senior management, significant litigation, and
-material changes to the company's business plan or financial condition.
-
-Earnings releases and forward-looking guidance updates are assessed individually for
-materiality. A significant deviation from previously disclosed guidance may constitute a
-material change requiring immediate disclosure. Routine quarterly results that fall within
-expected ranges typically do not.
+Whether a given development is released is a judgment made case by case. Earnings releases
+and updates to forward-looking guidance would be assessed individually, and Woodfine would
+release a significant deviation from previously disclosed guidance rather than hold it to the
+next scheduled filing.
 
 ## Forward-looking statements
 
-Any press release that contains forward-looking information would include a forward-looking
-statement disclaimer identifying the material assumptions underlying the statements and the
-known risk factors that could cause actual results to differ materially from those projected.
-In accordance with its continuous disclosure posture, the company would clearly distinguish
-forward-looking statements from statements of current fact.
+Any release containing forward-looking information would carry a cautionary statement
+identifying the material assumptions behind it and the known risk factors that could cause
+actual results to differ. Woodfine would distinguish forward-looking statements from
+statements of current fact in the release itself, rather than in a general disclaimer
+appended to it.
 
-## Press releases and material change reports
+## Published releases
 
 No press releases or material change reports have been issued yet. This section will
 list each release, its type, and a direct SEDAR+ link once one is issued.

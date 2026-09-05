@@ -11,9 +11,10 @@ content_type: topic
 quality: complete
 short_description: "The mechanics of material change reporting under NI 51-102 Part 7: what constitutes a material change, the two-step press release plus MCR filing process, and the standard for timely disclosure."
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-09-04
 editor: woodfine-editorial
 paired_with: about-material-change-reporting.es.md
 ---
@@ -21,7 +22,8 @@ paired_with: about-material-change-reporting.es.md
 A material change in the business, operations, or affairs of a [[regulated-reporting-entity|reporting issuer]] triggers an
 immediate disclosure obligation under Part 7 of National Instrument 51-102. The obligation
 is one of the most time-sensitive in the continuous disclosure regime: when a material change
-is determined to have occurred, the issuer must act the same day.
+is determined to have occurred, the issuer must act the same day. It runs continuously, and
+does not wait for the next scheduled filing date or investor communication.
 
 ## Definition of a material change
 
@@ -50,6 +52,12 @@ the board formally ratifies the decision.
 material change report on [[about-filing-systems|SEDAR+]] using Form 51-102F3. The report
 must include: the date of the change, a full description of the change, the effects on
 the issuer's business and operations, and a statement signed by a director or officer.
+Where the report is filed confidentially, it must also state the issuer's reliance on the
+confidential-filing provision.
+
+The sequence is ordered deliberately. The press release carries the substance to the market
+on the day of determination; the formal report follows once the document can be prepared
+properly. Market participants are not made to wait on drafting.
 
 ### Content requirements for the press release
 
@@ -104,7 +112,13 @@ changes in senior management or the board, material litigation outcomes, and reg
 actions. Changes in financial performance below prior guidance may also constitute material
 changes where the deviation is significant.
 
+Not every significant development qualifies. Quarterly results that fall within previously
+disclosed expectations are not, on their own, a material change; the test remains likely
+market impact, not the internal importance of the development.
+
 ## See also
+
+- [[press-releases]] — the release channel through which a material change reaches the market
 
 - [[about-disclosure-obligations]] — the broader framework of ongoing disclosure
   requirements within which material change reporting sits
