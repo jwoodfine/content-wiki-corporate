@@ -84,7 +84,7 @@ expertos nombrados en los que se apoya el registro de divulgación.
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: conflicts-and-required-disclosures -->
 - [[fees-to-affiliates-and-conflicts-of-interest]] — La prohibición de honorarios vinculados al valor neto de los activos y la regla que limita los honorarios a las afiliadas del promotor.
 - [[material-contracts]] — Divulgación de contratos materiales: convenios de administración, contratos de administración de propiedades y arrendamientos importantes, y dónde solicitarlos.
-- [[legal-proceedings]] — Divulgación de procedimientos legales: declaración estándar que confirma el estatus de litigios pendientes a la fecha de la última actualización, revisada cada período.
+- [[legal-proceedings]] — Divulgación de procedimientos legales: la declaración estándar del emisor informante, vigente únicamente a la fecha de la última presentación, junto con la única acción regulatoria a nivel de vehículo ya divulgada en otra parte de este wiki.
 - [[experts]] — Divulgación de expertos nombrados: el auditor de registro, el asesor legal externo y los tasadores independientes cuyos informes se citan en los materiales de oferta.
 <!-- END AUTO-GENERATED -->
 

@@ -82,7 +82,7 @@ the disclosure record relies on.
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: conflicts-and-required-disclosures -->
 - [[fees-to-affiliates-and-conflicts-of-interest]] — The net-asset-value fee prohibition and the rule limiting fees to promoter affiliates.
 - [[material-contracts]] — Material contracts disclosure: management agreements, property management contracts, and major leases, and where investors can request them.
-- [[legal-proceedings]] — Legal proceedings disclosure: standard template confirming pending litigation status as of the last reporting update, reviewed each period.
+- [[legal-proceedings]] — Legal proceedings disclosure: the standard reporting-issuer statement, current only as of the last filing date, alongside the one partnership-level regulatory action already disclosed elsewhere in this wiki.
 - [[experts]] — Named experts disclosure: the auditor of record, external legal counsel, and independent appraisers whose reports are referenced in offering materials.
 <!-- END AUTO-GENERATED -->
 

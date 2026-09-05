@@ -7,12 +7,12 @@ index_group: conflicts-and-required-disclosures
 type: topic
 content_type: topic
 quality: complete
-short_description: "Divulgación de procedimientos legales: declaración estándar que confirma el estatus de litigios pendientes a la fecha de la última actualización, revisada cada período."
+short_description: "Divulgación de procedimientos legales: la declaración estándar del emisor informante, vigente únicamente a la fecha de la última presentación, junto con la única acción regulatoria a nivel de vehículo ya divulgada en otra parte de este wiki."
 status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-27
+last_edited: 2026-09-05
 editor: pointsav-engineering
 paired_with: legal-proceedings.md
 ---
@@ -42,6 +42,20 @@ específicos del período de reporte, como la divulgación de expertos nombrados
 material descrito en [[about-material-change-reporting|Reporte de Cambio Material]] en el
 momento en que ocurre, y se refleja aquí como contexto de referencia en la siguiente revisión
 programada.
+
+## Acciones regulatorias
+
+Aparte de la declaración vigente por período descrita arriba, este wiki divulga una
+acción regulatoria conocida a nivel de vehículo: Professional Centres Canada LP está
+actualmente sujeta a una orden de suspensión de negociación (cease-trade order) emitida
+por la British Columbia Securities Commission (BCSC), derivada de presentaciones de
+divulgación continua retrasadas y no de ningún hallazgo de fraude o mala conducta. La
+sociedad en comandita no tiene actualmente socios comanditarios para quienes esta orden
+sea una condición activa de transacción. La sociedad debe poner al día sus obligaciones
+de presentación pendientes y obtener la revocación de la BCSC antes de que pueda cerrar
+cualquier oferta futura de unidades. Véase
+[[professional-centres-canada-lp-structure|Professional Centres Canada LP — Estructura
+de la Solución de Tenencia Directa]] para la divulgación completa a nivel de la sociedad.
 
 ## Qué constituye un procedimiento legal material
 
@@ -78,3 +92,4 @@ procedimientos presentados en la jurisdicción de incorporación de la compañí
 - [[material-contracts|Contratos Materiales]] — el elemento de divulgación paralelo del formulario de información anual para convenios significativos
 - [[about-material-change-reporting|Reporte de Cambio Material]] — el proceso de divulgación inmediata para desarrollos materiales
 - [[statutory-rights|Derechos Estatutarios]] — derechos de los inversores relevantes para la exactitud de la divulgación
+- [[professional-centres-canada-lp-structure|Professional Centres Canada LP — Estructura de la Solución de Tenencia Directa]] — la divulgación completa del estatus regulatorio para el único vehículo actualmente sujeto a una orden de la BCSC

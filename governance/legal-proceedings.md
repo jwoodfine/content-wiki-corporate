@@ -7,12 +7,12 @@ index_group: conflicts-and-required-disclosures
 type: topic
 content_type: topic
 quality: complete
-short_description: "Legal proceedings disclosure: standard template confirming pending litigation status as of the last reporting update, reviewed each period."
+short_description: "Legal proceedings disclosure: the standard reporting-issuer statement, current only as of the last filing date, alongside the one partnership-level regulatory action already disclosed elsewhere in this wiki."
 status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-27
+last_edited: 2026-09-05
 editor: pointsav-engineering
 paired_with: legal-proceedings.es.md
 ---
@@ -40,6 +40,19 @@ wiki discloses other reporting-period-specific items, such as the named-expert d
 described in [[experts|Experts]]. A change in status is reported through the material change
 reporting process described in [[about-material-change-reporting|Material Change Reporting]]
 at the time it occurs, and reflected here as background context at the next scheduled review.
+
+## Regulatory actions
+
+Separately from the current-period statement above, this wiki discloses one known
+regulatory action at the vehicle level: Professional Centres Canada LP is currently
+subject to a cease-trade order issued by the British Columbia Securities Commission
+(BCSC), arising from delayed continuous-disclosure filings rather than any finding of
+fraud or misconduct. The partnership has no current limited partners for whom this
+order is an active transaction condition. The partnership must bring its outstanding
+filing obligations current and obtain the BCSC's revocation before any future offering
+of units can close. See [[professional-centres-canada-lp-structure|Professional Centres
+Canada LP — Direct-Hold Solution Structure]] for the full disclosure at the partnership
+level.
 
 ## What counts as a material legal proceeding
 
@@ -74,3 +87,4 @@ incorporation.
 - [[material-contracts|Material Contracts]] — the parallel AIF disclosure item for significant agreements
 - [[about-material-change-reporting|Material Change Reporting]] — the immediate disclosure process for material developments
 - [[statutory-rights|Statutory Rights]] — investor rights relevant to disclosure accuracy
+- [[professional-centres-canada-lp-structure|Professional Centres Canada LP — Direct-Hold Solution Structure]] — the full regulatory-standing disclosure for the one vehicle currently subject to a BCSC order
