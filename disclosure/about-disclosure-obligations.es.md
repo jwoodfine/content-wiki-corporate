@@ -14,7 +14,6 @@ bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
 last_edited: 2026-09-04
 editor: woodfine-editorial
-audience: public
 paired_with: about-disclosure-obligations.md
 ---
 
