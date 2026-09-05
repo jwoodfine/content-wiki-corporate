@@ -11,8 +11,9 @@ short_description: "The mechanics of insider reporting under National Instrument
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-09-04
 editor: woodfine-editorial
+audience: public
 paired_with: about-insider-reporting.es.md
 ---
 
@@ -133,10 +134,16 @@ discharging managerial responsibilities and their closely associated persons to 
 issuer and the relevant competent authority of every transaction in the issuer's financial
 instruments within three business days.
 
----
+## See also
 
-*references:*
-- *National Instrument 55-104 Insider Reporting Requirements and Exemptions, Canadian Securities
-  Administrators.*
-- *National Instrument 51-102 Continuous Disclosure Obligations, Canadian Securities Administrators.*
-- *BCSC Continuous Disclosure Obligations overview.*
+- [[about-disclosure-obligations|Continuous disclosure obligations]] — the issuer-level regime
+  under NI 51-102 that runs alongside the individual-level obligation described here
+- [[about-material-change-reporting|Material change reporting]] — how the issuer discloses the
+  material changes a reporting insider is presumed to know before the market does
+- [[about-filing-systems|Filing systems]] — SEDAR+, the platform carrying the issuer's own
+  continuous-disclosure filings, distinct from the SEDI system described here
+- [[regulated-reporting-entity|Regulated reporting entity]] — the issuer status that brings
+  directors, officers, and significant shareholders within the insider reporting regime
+- [[governance-documents|Corporate governance documents]] — the board instruments, including the
+  planned code of business conduct on confidential information, alongside which an issuer's own
+  trading policy sits

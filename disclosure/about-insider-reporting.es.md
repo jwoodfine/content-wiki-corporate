@@ -11,8 +11,9 @@ short_description: "La mecánica del reporte de iniciados conforme al Instrument
 status: active
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-30
+last_edited: 2026-09-04
 editor: woodfine-editorial
+audience: public
 paired_with: about-insider-reporting.md
 ---
 
@@ -125,11 +126,17 @@ que cotizan en mercados regulados de la UE están regidas por el Reglamento de A
 personas estrechamente asociadas notifiquen al emisor y a la autoridad competente pertinente
 cada transacción en los instrumentos financieros del emisor dentro de los tres días hábiles.
 
----
+## Consulte también
 
-*referencias:*
-- *Instrumento Nacional 55-104 Requisitos y Exenciones de Reporte de Iniciados, Administradores
-  de Valores de Canadá.*
-- *Instrumento Nacional 51-102 Obligaciones de Divulgación Continua, Administradores de Valores
-  de Canadá.*
-- *BCSC, resumen de Obligaciones de Divulgación Continua.*
+- [[about-disclosure-obligations|Obligaciones de Divulgación Continua]] — el régimen a nivel de
+  emisor conforme al NI 51-102, paralelo a la obligación individual descrita aquí
+- [[about-material-change-reporting|Informes de Cambios Materiales]] — cómo el emisor divulga los
+  cambios materiales que se presume que un iniciado reportante conoce antes que el mercado
+- [[about-filing-systems|Sistemas de Presentación]] — SEDAR+, la plataforma de las presentaciones
+  de divulgación continua del propio emisor, distinta del sistema SEDI descrito aquí
+- [[regulated-reporting-entity|Entidad Regulada Emisora de Información]] — la condición del emisor
+  que sitúa a directores, funcionarios y accionistas significativos dentro del régimen de reporte
+  de iniciados
+- [[governance-documents|Documentos de Gobernanza Corporativa]] — los instrumentos del directorio,
+  incluido el código de conducta empresarial previsto sobre información confidencial, junto a los
+  cuales se ubica la política de negociación del propio emisor
