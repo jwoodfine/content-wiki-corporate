@@ -19,7 +19,7 @@ paired_with: sensitivity-and-stress-test-methodology.es.md
 cites: []
 ---
 
-Every Direct-Hold Solution is modeled against a $100.00 capital-preservation reference unit and a 1.20x minimum interest-coverage covenant set in its debenture financing terms. This article walks through the sensitivity and stress-test methodology applied to that model. A single coverage driver — interest rate, occupancy, or development yield — is flexed in isolation to observe its effect on coverage and build-out. The issuer's adaptive build-out lever is designed to hold the covenant rather than breach it. A maximal combined shock, sized to severe historical downturns, is absorbed through a corrective disposition of last resort. The resulting sensitivities are reported under IFRS 13 §93(h)(ii). The output of this methodology is a set of modeled, illustrative scenarios, not a prediction of future performance — actual coverage, net asset value, and distribution outcomes will differ from every assumption stated here.
+Every Direct-Hold Solution is modeled against a $100,000.00 capital-preservation reference unit and a 1.20x minimum interest-coverage covenant set in its debenture financing terms. This article walks through the sensitivity and stress-test methodology applied to that model. A single coverage driver — interest rate, occupancy, or development yield — is flexed in isolation to observe its effect on coverage and build-out. The issuer's adaptive build-out lever is designed to hold the covenant rather than breach it. A maximal combined shock, sized to severe historical downturns, is absorbed through a corrective disposition of last resort. The resulting sensitivities are reported under IFRS 13 §93(h)(ii). The output of this methodology is a set of modeled, illustrative scenarios, not a prediction of future performance — actual coverage, net asset value, and distribution outcomes will differ from every assumption stated here.
 
 ## Before you read this
 
@@ -27,7 +27,7 @@ This article assumes familiarity with the interest-coverage covenant itself — 
 
 ## How the scenarios are constructed
 
-The methodology tracks a $100.00 capital-preservation reference unit across every scenario, from the base case through to the maximal combined shock. The base case is the un-stressed 10-year forecast: financing rate, occupancy, and development yield are all held at their expected values, and interest coverage is checked against the 1.20x covenant at every point across the horizon.
+The methodology tracks a $100,000.00 capital-preservation reference unit across every scenario, from the base case through to the maximal combined shock. The base case is the un-stressed 10-year forecast: financing rate, occupancy, and development yield are all held at their expected values, and interest coverage is checked against the 1.20x covenant at every point across the horizon.
 
 From that base case, the coverage-driver stress-scenario methodology flexes a single driver at a time — interest rate, occupancy, or development yield — while holding every other assumption at base. This isolates that one driver's effect on minimum interest coverage and on the pace of build-out, before any drivers are combined with one another.
 

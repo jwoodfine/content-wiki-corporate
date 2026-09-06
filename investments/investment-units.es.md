@@ -32,7 +32,7 @@ Las unidades de inversión son instrumentos específicos de cada activo. Una uni
 
 ## Denominación y emisión
 
-Para el vehículo de Canadá ya constituido, las Unidades de Inversión se emiten a $100.00 por unidad bajo una oferta inicial, sujeto a una suscripción mínima de 50 unidades, con la emisión total limitada al Valor Bruto Financiado objetivo del vehículo. El socio general puede autorizar posteriormente períodos adicionales de venta a un precio basado en tasación. Dado que las unidades se emiten a lo largo de una oferta y no se fijan en un solo momento, el porcentaje de interés de un suscriptor en el activo depende del total de unidades en circulación en el momento de la suscripción. Los tres vehículos planificados tienen previsto seguir un mecanismo de emisión equivalente una vez constituidos, escalado al Valor Bruto Financiado objetivo propio de cada vehículo.
+Para el vehículo de Canadá ya constituido, las Unidades de Inversión se emiten a $100,000.00 por unidad bajo una oferta inicial, sujeto a una suscripción mínima de 50 unidades, con la emisión total limitada al Valor Bruto Financiado objetivo del vehículo. El socio general puede autorizar posteriormente períodos adicionales de venta a un precio basado en tasación. Dado que las unidades se emiten a lo largo de una oferta y no se fijan en un solo momento, el porcentaje de interés de un suscriptor en el activo depende del total de unidades en circulación en el momento de la suscripción. Los tres vehículos planificados tienen previsto seguir un mecanismo de emisión equivalente una vez constituidos, escalado al Valor Bruto Financiado objetivo propio de cada vehículo.
 
 ## Derechos
 

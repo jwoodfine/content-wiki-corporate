@@ -32,7 +32,7 @@ Investment units are asset-specific instruments. A unit issued in one named prop
 
 ## Denomination and Issuance
 
-For the established Canada vehicle, Investment Units are issued at $100.00 per unit under an initial offering, subject to a minimum 50-unit subscription, with total issuance capped at the vehicle's target Gross Funded Value. The general partner may subsequently authorize additional sales periods at an appraisal-based price. Because units are issued over the course of an offering rather than fixed at a single point, a subscriber's percentage interest in the asset depends on the total units outstanding at the time of subscription. The three planned vehicles are intended to follow an equivalent issuance mechanism once established, scaled to each vehicle's own target Gross Funded Value.
+For the established Canada vehicle, Investment Units are issued at $100,000.00 per unit under an initial offering, subject to a minimum 50-unit subscription, with total issuance capped at the vehicle's target Gross Funded Value. The general partner may subsequently authorize additional sales periods at an appraisal-based price. Because units are issued over the course of an offering rather than fixed at a single point, a subscriber's percentage interest in the asset depends on the total units outstanding at the time of subscription. The three planned vehicles are intended to follow an equivalent issuance mechanism once established, scaled to each vehicle's own target Gross Funded Value.
 
 ## Rights
 
