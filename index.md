@@ -7,7 +7,7 @@ short_description: "The corporate record for Woodfine Capital Projects Inc., dev
 category: root
 status: active
 bcsc_class: public-disclosure-safe
-last_edited: 2026-08-27
+last_edited: 2026-09-06
 editor: pointsav-engineering
 ---
 
@@ -37,12 +37,13 @@ in escrow until limited partners recover 100% of contributed capital or a define
 liquidity event occurs.
 
 This knowledge base is organized around [the parent company itself](/category/company),
-[the investment vehicles](/category/investments), [the financial model
-behind them](/category/financial-model), [distributions and unit transfers](/category/distributions),
-[governance and legal](/category/governance), [risks](/category/risks),
-[how disclosure works](/category/disclosure), and glossary and reference terminology. The investments
-section covers the four direct-hold vehicle types, the equity transfer model, and the
-fiduciary mandate in detail.
+[the investment vehicles](/category/investments), [the capital structure and fees behind
+them](/category/financial-model), [distributions, unit transfers, and
+exit](/category/distributions), [governance and investor rights](/category/governance),
+[risks](/category/risks), [how disclosure works](/category/disclosure), and [the glossary
+and reader's guide](/category/reference). The investments section covers the four-jurisdiction
+framework, each solution's legal form under local securities law, and the isolation that
+separates one asset from another.
 
 Forward-looking statements in this knowledge base reflect current intentions and are subject to risk
 and uncertainty; statements are framed using planned, intended, or target language per the

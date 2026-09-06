@@ -16,6 +16,12 @@
 # sostiene esas afirmaciones. Los `link_slug` ahora nombran slugs vigentes.
 # Adaptación estratégica de leapfrog-facts.yaml para audiencias de
 # América Latina y España.
+#
+# Segunda pasada, misma fecha (barrido de portada, fase 5 de Track-B): se añadió el hecho
+# sobre la estructura societaria para que el panel en español enuncie las mismas capacidades
+# de cada entidad que el inglés. Las capacidades societarias son hechos, no énfasis
+# editorial, y no deben depender del idioma. El panel en inglés queda en 4 hechos tras
+# retirar dos que nombraban `topic-asset-evaluation`, un slug sin artículo en esta wiki.
 
 facts:
   - text: "Un evento financiero que afecte a un activo —vacancia, litigio, refinanciación— no puede propagarse al capital del inversor en un activo diferente."
@@ -26,4 +32,7 @@ facts:
 
   - text: "Un inversor que busca liquidez localiza una contraparte dispuesta a través de sus propias relaciones comerciales o canales de intermediación que operan con independencia de la entidad corporativa."
     link_slug: equity-transfer-model
+
+  - text: "Woodfine Capital Projects Inc. posee el 100% de sus subsidiarias. Woodfine Management Corp. emplea al personal del grupo y ejecuta el trabajo operativo que se le delega, sin ostentar autoridad de gobierno en ningún vehículo; PointSav Digital Systems, actualmente un nombre comercial de Woodfine, desarrolla la plataforma tecnológica."
+    link_slug: corporate-structure
 

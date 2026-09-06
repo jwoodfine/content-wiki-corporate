@@ -8,7 +8,7 @@ paired_with: index.md
 category: root
 status: active
 bcsc_class: public-disclosure-safe
-last_edited: 2026-08-27
+last_edited: 2026-09-06
 editor: pointsav-engineering
 ---
 
@@ -40,11 +40,14 @@ hasta que los socios limitados recuperen el 100% del capital aportado o se produ
 evento de liquidez definido.
 
 Esta base de conocimiento está organizada en torno a [la empresa matriz](/category/company),
-[los vehículos de inversión](/category/investments), [el modelo
-financiero que los sustenta](/category/financial-model), [las distribuciones y transferencias
-de unidades](/category/distributions), [la gobernanza y los asuntos legales](/category/governance),
-[los riesgos](/category/risks), [cómo funciona la divulgación](/category/disclosure) y la
-terminología de glosario y referencia.
+[los vehículos de inversión](/category/investments), [la estructura de capital y las
+comisiones que los sustentan](/category/financial-model), [las distribuciones, las
+transferencias de unidades y la salida](/category/distributions), [la gobernanza y los
+derechos de los inversores](/category/governance), [los riesgos](/category/risks), [cómo
+funciona la divulgación](/category/disclosure) y [el glosario y la guía del
+lector](/category/reference). La sección de vehículos de inversión cubre el marco de cuatro
+jurisdicciones, la forma jurídica de cada solución según la legislación local de valores y el
+aislamiento que separa un activo de otro.
 
 Las declaraciones prospectivas en esta base de conocimiento reflejan las intenciones actuales y están
 sujetas a riesgos e incertidumbres; las afirmaciones se formulan con términos como planificado,

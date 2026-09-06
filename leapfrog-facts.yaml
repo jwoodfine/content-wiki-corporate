@@ -14,13 +14,19 @@
 # banker from "I've never heard of these structures" to "wait, that's not
 # how it normally works in pooled commercial real estate."
 #
-# Updated: 2026-09-06 by project-editorial (Track-B corporate close-out) — 6-fact corpus.
+# Updated: 2026-09-06 by project-editorial (Track-B corporate close-out) — 4-fact corpus.
 # Three facts were removed because their source article was archived or retracted in the
 # 2026-08-24 Track-B integrity review and no live article carries the claim:
 # interest-coverage-ratio, fiduciary-data-mandate, technology-services. The corporate-structure
 # fact was rewritten to match `.agent/rules/entity-naming-convention.md` — MCorp holds nothing
 # and governs nothing, and PointSav's legal form is stated in the corpus's hedged form.
 # `link_slug` values now name live slugs; the `topic-` prefix was retired in Batch B1 Part 4.
+#
+# Second pass, same date (Track-B Phase 5 homepage sweep): two further facts were removed
+# because both named `topic-asset-evaluation` — a slug with no article on this wiki. The
+# subject is co-location tier scoring, which lives at projects.woodfinegroup.com
+# (`asset-evaluation-protocol`), and this panel cites corporate-wiki articles. Same reasoning,
+# and the same two entries, that `featured-topic.yaml` removed from its rotation pool.
 
 facts:
   - text: "A financial event affecting one asset — vacancy, litigation, refinancing — cannot propagate to the investor's equity in a different asset."
@@ -31,12 +37,6 @@ facts:
 
   - text: "An investor seeking liquidity locates a willing counterparty through their own commercial relationships or through broker-dealer channels that operate independently of the corporate entity."
     link_slug: equity-transfer-model
-
-  - text: "A target site must achieve a minimum tier classification under the co-location ranking matrix before capital evaluation proceeds — the tier score is a binary entry filter that removes subjective judgment from the initial screening stage."
-    link_slug: topic-asset-evaluation
-
-  - text: "Tier scores are reproducible by independent GIS analysis using publicly available retailer location data and civic facility coordinates — an independent analyst applying the same matrix to the same data should reach the same classification."
-    link_slug: topic-asset-evaluation
 
   - text: "Woodfine Capital Projects Inc. owns 100% of its subsidiaries. Woodfine Management Corp. employs the group's staff and performs the operational work delegated to it, holding no governing authority in any vehicle; PointSav Digital Systems, currently a trade name of Woodfine, builds the technology platform."
     link_slug: corporate-structure
