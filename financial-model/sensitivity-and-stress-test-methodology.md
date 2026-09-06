@@ -37,7 +37,7 @@ Once a Direct-Hold Solution is stabilised post-construction, interest coverage r
 
 The maximal combined shock scenario departs from the single-driver approach by applying simultaneous adverse moves to financing rate, capitalization rate, and occupancy all at once. It is calibrated to historical severe-downturn evidence — 2008-09 and 2022-23-scale office cap-rate expansion and refinancing-rate moves — and is used to size the downside case for capital preservation. Under this combined shock, a minimum fraction of the portfolio is sold at its stressed, orderly-transaction value to restore interest coverage to the covenant threshold — a market-value sale designed to preserve NAV per unit while compressing, not eliminating, distributions.
 
-Alongside these coverage-driver scenarios, the presentation methodology tracks NAV-per-unit trajectories under a base case, a bear case (adverse cap rate and occupancy), and a bull case (favourable cap rate), all measured against the $100 capital-preservation reference over the 10-year forecast horizon.
+Alongside these coverage-driver scenarios, the presentation methodology tracks NAV-per-unit trajectories under a base case, a bear case (adverse cap rate and occupancy), and a bull case (favourable cap rate), all measured against the $100,000.00 capital-preservation reference over the 10-year forecast horizon.
 
 Separately, the IFRS 13 §93(h)(ii) sensitivity table applies a ±25 basis-point one-way sensitivity across cap rate, interest rate, occupancy, and development yield, measured against Year-8 NAV per unit, income yield, and minimum coverage. This table is a fair-value-measurement disclosure requirement, distinct from the forward-looking scenarios described above.
 
