@@ -42,10 +42,10 @@ to be issued by the vehicle itself rather than borrowed from an external lender 
 ## Loan-to-value constraint
 
 Commercial mortgage lenders set a maximum loan as a percentage of the property's appraised
-value. At 65% LTV, for example, a property appraised at $10,000,000 supports a mortgage of
-$6,500,000; the remaining $3,500,000 of value must be funded with equity from the borrower's own
-capital. The LTV ratio is assessed at origination and may be tested again at refinancing or
-covenant review dates.
+value. Under a 65% LTV limit, for example, the mortgage covers 65% of appraised value; the
+remaining 35% must be funded with equity from the borrower's own capital, whatever the
+property's appraised amount. The LTV ratio is assessed at origination and may be tested
+again at refinancing or covenant review dates.
 
 ## Amortisation and interest-only periods
 

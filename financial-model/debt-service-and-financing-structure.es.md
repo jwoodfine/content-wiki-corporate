@@ -44,10 +44,10 @@ no tomadas de un prestamista externo — véase
 ## Restricción de relación préstamo-valor
 
 Los prestamistas hipotecarios comerciales establecen un préstamo máximo como porcentaje del
-valor tasado de la propiedad. Con una RPV del 65%, por ejemplo, una propiedad tasada en
-$10.000.000 admite una hipoteca de $6.500.000; los $3.500.000 restantes del valor deben
-financiarse con capital propio del prestatario. La relación préstamo-valor se evalúa en el origen
-y puede volver a probarse en fechas de refinanciamiento o de revisión de convenios.
+valor tasado de la propiedad. Bajo un límite de RPV del 65%, por ejemplo, la hipoteca cubre
+el 65% del valor tasado; el 35% restante debe financiarse con capital propio del prestatario,
+cualquiera que sea el monto tasado de la propiedad. La relación préstamo-valor se evalúa en
+el origen y puede volver a probarse en fechas de refinanciamiento o de revisión de convenios.
 
 ## Amortización y períodos de solo interés
 
