@@ -2,30 +2,38 @@
 # Engine reads on each request; absent → suppress featured panel; present → parse slug.
 # Update the `slug:` line to rotate the featured framework.
 #
-# Reader: institutional financial community — Goldman Sachs banker, OSC analyst,
-# NI 51-102 reviewer, IFRS auditor, REIT comparables desk. Bloomberg/FT register.
+# Reader: institutional financial community — investment bankers, securities-commission
+# analysts, NI 51-102 reviewers, IFRS auditors, REIT comparables desks. Bloomberg/FT register.
 #
-# Fifteen-week rotation pool — rank-ordered by institutional relevance:
+# Rotation pool — rank-ordered by institutional relevance. Every entry must name a slug that
+# resolves to a LIVE article; an entry whose article is archived or retracted is removed from
+# the pool rather than left in place (2026-09-06: six such entries removed — see below).
 #
-#  1. topic-interest-coverage-ratio       — capital structure; 1.2x ICR floor
-#  2. topic-direct-hold-framework         — legal isolation; manager-agency-cost moat
-#  3. topic-redemption-elimination        — no cash-reserve drag; no run mechanics
-#  4. topic-co-location-investment-thesis — anchor convergence as objective investment signal
-#  5. topic-corporate-structure           — three-entity hierarchy; vendor/operator separation
-#  6. topic-asset-evaluation              — tier score as binary acquisition entry criterion
-#  7. topic-continuous-disclosure         — NI 51-102 / OSC SN 51-721 obligations
-#  8. topic-fiduciary-data-mandate        — ledger custody; compliance posture
-#  9. topic-equity-transfer-model         — peer-to-peer transfer; no corporate intermediation
-# 10. topic-regulatory-posture            — BCSC framework; forward-looking statement discipline
-# 11. topic-vendor-customer-model         — structural separation of tech vendor from operator
-# 12. topic-property-ledger-technology    — cryptographic record; F12 commit; sovereign control
-# 13. topic-investor-access               — position data; asset-level reports; no secondary market
-# 14. topic-data-governance               — WMC as legal custodian; PIPEDA; data portability
-# 15. topic-technology-services           — services agreement scope; failure-mode isolation
+#  1. direct-hold-framework            — legal isolation; manager-agency-cost moat
+#  2. redemption-elimination           — no cash-reserve drag; no run mechanics
+#  3. corporate-structure              — parent, subsidiaries, and each vehicle's governing entity
+#  4. about-continuous-disclosure      — NI 51-102 continuous-disclosure obligations
+#  5. equity-transfer-model            — peer-to-peer transfer; no corporate intermediation
+#  6. about-regulatory-posture         — BCSC framework; forward-looking statement discipline
+#  7. vendor-customer-model            — structural separation of technology vendor from operator
+#  8. debt-service-and-financing-structure — mortgage conventions and the ICR borrowing covenant
+#
+# Removed from the pool 2026-09-06 (Track-B close-out) — each named an article archived or
+# retracted in the 2026-08-24 Track-B integrity review, so the pin could never resolve:
+# interest-coverage-ratio, fiduciary-data-mandate, property-ledger-technology,
+# investor-access, data-governance, technology-services. Two further entries
+# (co-location-investment-thesis, asset-evaluation) were removed because they name
+# projects.woodfinegroup.com articles, not corporate-wiki ones — this panel pins a corporate
+# article. The `topic-` slug prefix used by
+# the previous pool was retired in the Batch B1 Part 4 migration; slugs above are the live ones.
 #
 # Operator advances the pin weekly by editing the slug line below.
 # Update `since:` to the rotation date and `note:` to the rotation rationale.
 
-slug: topic-interest-coverage-ratio
-since: 2026-05-20
-note: rotation 1 — 15-week pool; capital structure cornerstone; the 1.2x ICR floor that protects long-term equity
+slug: direct-hold-framework
+since: 2026-09-06
+note: >-
+  rotation advanced 2026-09-06 — the previous pin (interest-coverage-ratio) named an article
+  retracted 2026-08-24, so the featured panel had been pointing at a slug with no live
+  article since that date. Advanced to the pool's next-ranked live entry rather than a new
+  editorial choice; re-pin at the operator's discretion.

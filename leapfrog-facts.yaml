@@ -14,23 +14,23 @@
 # banker from "I've never heard of these structures" to "wait, that's not
 # how it normally works in pooled commercial real estate."
 #
-# Updated: 2026-05-20 by project-knowledge cluster — 9-fact corpus (4 added from C8–C10 topics)
+# Updated: 2026-09-06 by project-editorial (Track-B corporate close-out) — 6-fact corpus.
+# Three facts were removed because their source article was archived or retracted in the
+# 2026-08-24 Track-B integrity review and no live article carries the claim:
+# interest-coverage-ratio, fiduciary-data-mandate, technology-services. The corporate-structure
+# fact was rewritten to match `.agent/rules/entity-naming-convention.md` — MCorp holds nothing
+# and governs nothing, and PointSav's legal form is stated in the corpus's hedged form.
+# `link_slug` values now name live slugs; the `topic-` prefix was retired in Batch B1 Part 4.
 
 facts:
   - text: "A financial event affecting one asset — vacancy, litigation, refinancing — cannot propagate to the investor's equity in a different asset."
-    link_slug: topic-direct-hold-framework
+    link_slug: direct-hold-framework
 
   - text: "Long-term equity compounds without the structural drag of a cash reserve that earns less than the underlying assets."
-    link_slug: topic-redemption-elimination
-
-  - text: "At 1.2x interest coverage, the corporate entity accepts a tighter margin in exchange for higher leverage capacity — maximising the deployable asset base while maintaining the mathematical assurance that operating income covers debt."
-    link_slug: topic-interest-coverage-ratio
+    link_slug: redemption-elimination
 
   - text: "An investor seeking liquidity locates a willing counterparty through their own commercial relationships or through broker-dealer channels that operate independently of the corporate entity."
-    link_slug: topic-equity-transfer-model
-
-  - text: "The corporate entity holds the private keys, the physical hardware, and operational control of the ledger software stack — a corporate entity that owns a building but cannot access the ledger proving it owns the building is functionally dispossessed."
-    link_slug: topic-fiduciary-data-mandate
+    link_slug: equity-transfer-model
 
   - text: "A target site must achieve a minimum tier classification under the co-location ranking matrix before capital evaluation proceeds — the tier score is a binary entry filter that removes subjective judgment from the initial screening stage."
     link_slug: topic-asset-evaluation
@@ -38,8 +38,6 @@ facts:
   - text: "Tier scores are reproducible by independent GIS analysis using publicly available retailer location data and civic facility coordinates — an independent analyst applying the same matrix to the same data should reach the same classification."
     link_slug: topic-asset-evaluation
 
-  - text: "Woodfine Capital Projects Inc. holds two wholly-owned subsidiaries with distinct mandates: PointSav Digital Systems develops and maintains the technology platform; Woodfine Management Corp. manages the real estate and investor relations."
-    link_slug: topic-corporate-structure
+  - text: "Woodfine Capital Projects Inc. owns 100% of its subsidiaries. Woodfine Management Corp. employs the group's staff and performs the operational work delegated to it, holding no governing authority in any vehicle; PointSav Digital Systems, currently a trade name of Woodfine, builds the technology platform."
+    link_slug: corporate-structure
 
-  - text: "A technology failure at PointSav does not affect Woodfine Management Corp.'s legal title to its assets. A financial event at WMC does not affect PointSav's platform operations — the services agreement is designed so that neither party's difficulties automatically impair the other's core function."
-    link_slug: topic-technology-services

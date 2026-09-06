@@ -10,21 +10,20 @@
 # en fondos mancomunados".
 #
 # Creado: 2026-05-20 por project-editorial@claude-code
+# Actualizado: 2026-09-06 (cierre Track-B corporativo) — se retiraron dos hechos cuyo
+# artículo de origen fue archivado o retirado en la revisión de integridad Track-B del
+# 2026-08-24 (interest-coverage-ratio, fiduciary-data-mandate); ningún artículo vigente
+# sostiene esas afirmaciones. Los `link_slug` ahora nombran slugs vigentes.
 # Adaptación estratégica de leapfrog-facts.yaml para audiencias de
 # América Latina y España.
 
 facts:
   - text: "Un evento financiero que afecte a un activo —vacancia, litigio, refinanciación— no puede propagarse al capital del inversor en un activo diferente."
-    link_slug: topic-direct-hold-framework
+    link_slug: direct-hold-framework
 
   - text: "El capital a largo plazo se acumula sin la carga estructural de una reserva de caja que genera menor rendimiento que los activos subyacentes."
-    link_slug: topic-redemption-elimination
-
-  - text: "Con una cobertura de intereses de 1,2x, la entidad corporativa acepta un margen más ajustado a cambio de mayor capacidad de apalancamiento: maximiza la base de activos desplegables mientras mantiene la certeza matemática de que los ingresos operativos cubren el servicio de la deuda."
-    link_slug: topic-interest-coverage-ratio
+    link_slug: redemption-elimination
 
   - text: "Un inversor que busca liquidez localiza una contraparte dispuesta a través de sus propias relaciones comerciales o canales de intermediación que operan con independencia de la entidad corporativa."
-    link_slug: topic-equity-transfer-model
+    link_slug: equity-transfer-model
 
-  - text: "La entidad corporativa conserva las claves privadas, el hardware físico y el control operativo del sistema de registro: una entidad corporativa que posee un inmueble pero no puede acceder al registro que acredita su propiedad queda estructuralmente desposeída."
-    link_slug: topic-fiduciary-data-mandate

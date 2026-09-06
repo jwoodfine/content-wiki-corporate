@@ -17,11 +17,13 @@ categories:
   - id: company
     name: "Company"
     scope: >-
-      Who Woodfine is: a federally incorporated Canadian holding company,
-      extra-provincially registered to carry on business in British Columbia,
-      that develops and promotes commercial buildings — a Developer and
-      Promoter, not an asset manager — its history, its people, its
-      subsidiaries, and how the business operates.
+      Who Woodfine is: a Canadian holding company, incorporated federally
+      under the Canada Business Corporations Act and extra-provincially
+      registered to carry on business in British Columbia, that develops and
+      promotes commercial buildings — a Developer and Promoter, not an asset
+      manager. How the group is organised: the parent company, its
+      operating-services and technology arms, and the governing entity and
+      promoter-equity company of each Direct-Hold Solution.
     audience: "Everyone — first visit"
     order: 1
 
@@ -42,8 +44,9 @@ categories:
       The financial engine: the Narrow Banking Model, under which
       buildings are intended to be built with zero construction debt and
       borrowing comes only after buildings are leased; the fees Woodfine
-      charges and earns; and how its escrowed 10% stake is designed to
-      keep it aligned with investors.
+      charges and earns; how its escrowed stake is designed to keep it
+      aligned with investors; and the IFRS forecast and stress-test
+      methodology behind the numbers.
     audience: "Investor, analyst, accountant"
     order: 3
 
@@ -63,10 +66,12 @@ categories:
   - id: governance
     name: "Governance and Investor Rights"
     scope: >-
-      Who is in charge and what protects investors: the board and its
-      independent directors, committees, compensation, the rules written
-      into every vehicle's governing documents, and the legal record —
-      contracts, proceedings, and investors' statutory rights.
+      Who is in charge and what protects investors: the board and committee
+      instruments that oversee each vehicle and the management separation
+      beneath them, the voting, meeting, and eligibility rules written into
+      the Canadian limited partnership agreement, and the legal record —
+      material contracts, legal proceedings, named experts, and investors'
+      statutory rights.
     audience: "Auditor, lawyer, diligence team"
     order: 5
 
