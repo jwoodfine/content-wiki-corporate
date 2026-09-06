@@ -46,7 +46,7 @@ The maximum debt load under the model is 100% of development costs for new const
 
 ## The management phase: organic deleveraging
 
-As the portfolio enters its stabilized management phase — buildings constructed, leased, and generating consistent net operating income — a defined portion of distributable income is intended to be applied to systematic debt redemption. Ten percent of distributable income is intended to be retained and directed to debenture redemption, targeting continuous reduction of the loan-to-value ratio over time through organic cash generation rather than external refinancing activity.
+As the portfolio enters its stabilized management phase — buildings constructed, leased, and generating consistent net operating income — a defined portion of distributable income is intended to be applied to systematic debt redemption. Ten percent of distributable income is intended to be retained and directed to debenture redemption, targeting continuous reduction of the loan-to-value ratio over time through organic cash generation rather than external refinancing activity. That reduction has a stated destination rather than an open-ended direction: leverage is intended to stabilise at roughly half of the portfolio's asset value, materially below the approximately 63% peak the model expects during active construction.
 
 This deleveraging dynamic is designed to be driven by portfolio operations rather than by capital market conditions. The vehicle is not intended to rely on favourable refinancing conditions, asset sales, or new equity raises to reduce its debt burden. The 10% distributable income allocation is intended to compound the deleveraging effect across the full hold period.
 
