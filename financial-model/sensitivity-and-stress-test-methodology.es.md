@@ -13,7 +13,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: sensitivity-and-stress-test-methodology.md
 cites: []
@@ -49,6 +49,8 @@ Segundo, de qué lado del límite de divulgación se encuentra el ejemplo. Los e
 
 Todos los escenarios de estrés y de choque de esta metodología son modelados e ilustrativos. Ninguna de las cifras de cobertura, NAV o distribución que produce constituye una predicción, una garantía ni una promesa de desempeño futuro real; los resultados reales diferirán de cada uno de los supuestos utilizados para construir estos escenarios.
 
-## Próximos pasos
+## Consulte también
 
-Consulte [[cre-financial-metrics|Razón de Cobertura de Intereses]] para conocer el convenio que esta metodología somete a pruebas de estrés, y [[non-ifrs-measures-explained|Medidas No-NIIF Explicadas]] para saber cómo se definen el NAV y las demás medidas complementarias utilizadas en toda esta metodología, y cómo se concilian con las NIIF. Véase también [[forward-looking-statements-advisory|el Aviso sobre Declaraciones Prospectivas]] para el lenguaje de advertencia que rige cada escenario ilustrativo de este artículo.
+- [[cre-financial-metrics|Razón de Cobertura de Intereses]] — el convenio que esta metodología somete a pruebas de estrés
+- [[non-ifrs-measures-explained|Medidas No-NIIF Explicadas]] — cómo se definen el NAV y las demás medidas complementarias utilizadas en esta metodología, y cómo se concilian con las NIIF
+- [[forward-looking-statements-advisory|Aviso sobre Declaraciones Prospectivas]] — el lenguaje de advertencia que rige cada escenario ilustrativo de este artículo

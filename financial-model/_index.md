@@ -6,13 +6,14 @@ category: financial-model
 type: topic
 content_type: topic
 quality: complete
-short_description: "The financial engine: the Narrow Banking Model, under which buildings are intended to be built with zero construction debt and borrowing comes only after buildings are leased."
+short_description: "The financial engine: the Narrow Banking Model, under which buildings are intended to be built with zero construction debt and borrowing comes only after buildings are leased; the fees Woodfine charges and earns; and the forecast and stress-test methodology behind them."
 index_type: thematic
 index_scope: financial-model
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-09-04
+last_edited: 2026-09-06
 editor: woodfine-editorial
 paired_with: _index.es.md
 ---
@@ -36,8 +37,8 @@ capital. The two articles below cover that phasing and the mortgage-financing st
 once debt is in place.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: financing-discipline -->
-- [[narrow-bank-financial-model]] — Two-phase financing discipline of the Direct-Hold Solutions: equity-funded unlevered construction, then First Secured Mortgage Debentures collateralized by the completed buildings.
-- [[debt-service-and-financing-structure]] — How commercial mortgage financing is structured within direct-hold limited partnerships: loan-to-value conventions, interest rate risk, and the interaction between debt structure and the ICR borrowing covenant.
+- [[narrow-bank-financial-model]] — Two-phase financing discipline planned for the Direct-Hold Solutions: equity-funded unlevered construction, then First Secured Mortgage Debentures collateralized by the completed buildings. Only the Canada vehicle is established.
+- [[debt-service-and-financing-structure]] — General commercial-mortgage financing conventions — loan-to-value limits, amortisation, interest-rate and refinancing risk — and how they interact with the ICR borrowing covenant; not the Direct-Hold Solutions' own planned debenture financing.
 <!-- END AUTO-GENERATED -->
 
 ## Compensation and alignment
@@ -49,7 +50,7 @@ developer's incentive tied to the same outcome as the investor's. The article be
 the fee mechanics and the fixed annual overhead contribution paid alongside it.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: compensation-and-alignment -->
-- [[principal-alignment-fee-preservation]] — Compensation model replacing the 2/20 structure: developer profit taken as equity held in trust until investor capital is returned, plus a fixed annual overhead contribution.
+- [[principal-alignment-fee-preservation]] — Compensation model planned to replace the 2/20 structure: developer profit taken as equity held in trust until investor capital is returned, plus a fixed annual overhead contribution.
 <!-- END AUTO-GENERATED -->
 
 ## Valuation and forecasting methodology

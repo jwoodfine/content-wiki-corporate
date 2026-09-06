@@ -13,7 +13,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-03
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: sensitivity-and-stress-test-methodology.es.md
 cites: []
@@ -49,6 +49,8 @@ Second, which side of the disclosure boundary the exhibit sits on. The managemen
 
 Every stress and shock scenario in this methodology is modeled and illustrative. None of the coverage, NAV, or distribution figures it produces is a prediction, an assurance, or a guarantee of actual future performance; actual results will differ from every assumption used to construct these scenarios.
 
-## Next steps
+## See also
 
-Read [[cre-financial-metrics|Interest Coverage Ratio]] for the covenant this methodology stress-tests, and [[non-ifrs-measures-explained]] for how NAV and the other supplementary measures used throughout this methodology are defined and reconciled to IFRS. See also [[forward-looking-statements-advisory|the Forward-Looking Statements Advisory]] for the caution language that governs every illustrative scenario in this article.
+- [[cre-financial-metrics|Interest Coverage Ratio]] — the covenant this methodology stress-tests
+- [[non-ifrs-measures-explained]] — how NAV and the other supplementary measures used throughout this methodology are defined and reconciled to IFRS
+- [[forward-looking-statements-advisory]] — the caution language that governs every illustrative scenario in this article

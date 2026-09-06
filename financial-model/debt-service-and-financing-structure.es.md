@@ -7,40 +7,47 @@ index_group: financing-discipline
 type: topic
 content_type: topic
 quality: complete
-short_description: "Cómo se estructura el financiamiento hipotecario comercial dentro de las sociedades en comandita de tenencia directa: convenciones de relación préstamo-valor, riesgo de tasa de interés e interacción entre la estructura de deuda y el convenio de endeudamiento de la RCI."
+short_description: "Convenciones generales del financiamiento hipotecario comercial — límites de relación préstamo-valor, amortización, riesgo de tasa y de refinanciamiento — y su interacción con el convenio de la RCI; no el financiamiento con obligaciones previsto para las Direct-Hold Solutions."
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-09-06
 editor: woodfine-editorial
 paired_with: debt-service-and-financing-structure.md
 ---
 
-Dos restricciones rigen la estructura de financiamiento en cada [[limited-partnership-structure|sociedad en comandita]]
-de tenencia directa: el límite de relación préstamo-
-valor establecido por el prestamista, y el piso de la [[cre-financial-metrics|Razón de Cobertura de Intereses]] (RCI)
-de 1.2×, establecido como convenio en el acuerdo rector de la sociedad. Las adquisiciones de
-bienes raíces comerciales se financian habitualmente con una combinación de capital y deuda
-hipotecaria.
+La deuda hipotecaria externa no es la forma en que se financian las Direct-Hold Solutions. Este
+artículo describe las convenciones generales del financiamiento hipotecario comercial — el límite
+de relación préstamo-valor que fija el prestamista, la amortización y los períodos de solo interés,
+la exposición a la tasa de interés y el riesgo de refinanciamiento — y cómo cada una interactúa con
+el piso de 1,20× de la [[cre-financial-metrics|Razón de Cobertura de Intereses]] (RCI), establecido
+como convenio en el acuerdo rector de cada [[limited-partnership-structure|sociedad en comandita]]
+de tenencia directa. Es contexto de mercado, no una descripción de la estructura de capital de los
+vehículos. Para eso — construcción sin apalancamiento financiada con capital y, después,
+Obligaciones con Primera Hipoteca Garantizada previstas para ser emitidas por el propio vehículo y
+no tomadas de un prestamista externo — véase
+[[narrow-bank-financial-model|el Modelo Financiero Narrow Bank]].
 
 ## Puntos clave
 
-- La deuda hipotecaria en cada SC de tenencia directa está garantizada por la propiedad
-  específica de esa SC; los prestamistas no tienen recurso sobre las propiedades de otras SC.
-- El tamaño de la deuda está restringido por el límite de relación préstamo-valor del
-  prestamista y por el piso de la RCI de 1.2×, establecido como convenio en el acuerdo rector
-  de la sociedad.
-- La deuda a tasa fija reduce la volatilidad del estado de resultados durante el plazo fijo
-  pero crea exposición al refinanciamiento al vencimiento.
+- En una hipoteca comercial convencional, la deuda está garantizada por una propiedad específica;
+  el prestamista no tiene recurso sobre otros activos ni sobre el capital de una sociedad matriz,
+  salvo garantías específicas.
+- El tamaño de la hipoteca está restringido por el límite de relación préstamo-valor del
+  prestamista. El piso de la RCI de 1,20× es una restricción separada e independiente, establecida
+  como convenio en el acuerdo rector de la sociedad y no impuesta por un prestamista.
+- La deuda a tasa fija reduce la volatilidad del estado de resultados durante el plazo fijo,
+  pero crea exposición al refinanciamiento al vencimiento; la deuda a tasa flotante crea
+  sensibilidad inmediata del resultado a los movimientos de la tasa de referencia.
 
 ## Restricción de relación préstamo-valor
 
 Los prestamistas hipotecarios comerciales establecen un préstamo máximo como porcentaje del
 valor tasado de la propiedad. Con una RPV del 65%, por ejemplo, una propiedad tasada en
-$10,000,000 admite una hipoteca de $6,500,000; los $3,500,000 restantes del valor deben
-financiarse con capital aportado por los tenedores de unidades de la SC. La relación
-préstamo-valor se evalúa en el origen y puede volver a probarse en fechas de refinanciamiento
-o de revisión de convenios.
+$10.000.000 admite una hipoteca de $6.500.000; los $3.500.000 restantes del valor deben
+financiarse con capital propio del prestatario. La relación préstamo-valor se evalúa en el origen
+y puede volver a probarse en fechas de refinanciamiento o de revisión de convenios.
 
 ## Amortización y períodos de solo interés
 
@@ -53,39 +60,46 @@ amortización de la deuda.
 
 Los períodos de solo interés — habituales en bienes raíces comerciales al momento de originar
 la hipoteca — reducen la salida de efectivo anual durante las fases de estabilización o de
-arrendamiento inicial, cuando la ocupación aún se está consolidando hacia niveles estabilizados
-y el ION puede no sustentar todavía un servicio de deuda amortizable. Cuando la propiedad
-alcanza la ocupación estabilizada, los términos de la hipoteca típicamente pasan a ser
-amortizables; el mayor requerimiento de efectivo del calendario amortizable queda cubierto
-por el ION estabilizado más alto.
+arrendamiento inicial, cuando la ocupación aún se está consolidando y el ION puede no sustentar
+todavía un servicio de deuda amortizable. Cuando la propiedad alcanza la ocupación estabilizada,
+los términos de la hipoteca típicamente pasan a ser amortizables; el mayor requerimiento de
+efectivo queda cubierto por el ION estabilizado más alto.
 
-El cálculo de la RCI de la SC de tenencia directa utiliza las obligaciones totales de interés,
-no el servicio total de deuda (principal más interés). Una hipoteca de solo interés con un
-costo de interés determinado produce el mismo resultado en la prueba de RCI que una hipoteca
-amortizable con la misma tasa de interés y un principal pendiente menor; la porción de pago
-de principal de una hipoteca totalmente amortizable no se incluye en el denominador de la
-prueba de RCI.
+El cálculo de la RCI utiliza las obligaciones totales de interés, no el servicio total de deuda
+(principal más interés). Una hipoteca de solo interés con un costo de interés determinado produce
+el mismo resultado en la prueba de RCI que una hipoteca amortizable con la misma tasa de interés y
+un principal pendiente menor; la porción de pago de principal de una hipoteca totalmente
+amortizable no se incluye en el denominador de la prueba. La distinción importa dondequiera que se
+aplique el convenio, sea cual sea el instrumento evaluado.
 
 ## Riesgo de tasa de interés
 
-La tasa de interés en una hipoteca comercial puede ser fija durante el plazo o flotante
-basada en una tasa de referencia. Las hipotecas a tasa fija protegen a la SC de aumentos
-en las tasas de interés durante el plazo. Las hipotecas a tasa flotante exponen a la SC a
-cambios inmediatos en el costo del servicio de deuda a medida que se mueven las tasas de
-referencia. Un aumento en las tasas de referencia incrementa el gasto de interés y reduce la
-RCI, restringiendo potencialmente la capacidad de la SC para emitir deuda garantizada
-adicional si el aumento es suficiente para romper el piso de 1,20×.
+La tasa de interés en una hipoteca comercial puede ser fija durante el plazo o flotante,
+basada en una tasa de referencia más un diferencial de crédito. Las hipotecas a tasa fija protegen
+al prestatario de aumentos en las tasas durante el plazo y fijan un costo de servicio de deuda
+predecible. Al vencimiento, la hipoteca debe refinanciarse a la tasa de mercado vigente, que puede
+ser materialmente más alta o más baja que la original.
+
+Las hipotecas a tasa flotante exponen al prestatario a cambios inmediatos en el costo del servicio
+de deuda a medida que se mueven las tasas de referencia. Un aumento en las tasas de referencia
+incrementa el gasto de interés y reduce la RCI. Donde aplica un convenio de RCI, un aumento
+suficientemente grande puede restringir la capacidad de emitir deuda garantizada adicional al
+acercar la cobertura al piso de 1,20×.
 
 ## Riesgo de refinanciamiento
 
-Al vencimiento de la hipoteca, la SC debe pagar el principal pendiente o refinanciar con una
-nueva hipoteca. El riesgo de refinanciamiento surge cuando las condiciones crediticias, los
+Al vencimiento de la hipoteca, el prestatario debe pagar el principal pendiente o refinanciar con
+una nueva hipoteca. El riesgo de refinanciamiento surge cuando las condiciones crediticias, los
 valores de las propiedades o el apetito de los prestamistas se han deteriorado desde el
-financiamiento original: el monto hipotecario disponible puede ser menor (por compresión de
-la RPV o deterioro de la RCI de la SC), y la tasa de interés puede ser más alta. Si el producto
-disponible del refinanciamiento es insuficiente para pagar la hipoteca que vence, la SC debe
-inyectar capital aportado por sus tenedores de unidades o vender el activo para pagar al
-prestamista.
+financiamiento original: el monto hipotecario disponible puede ser menor — por compresión de la
+RPV o por deterioro de la cobertura — y la tasa de interés puede ser más alta.
+
+Cuando el producto del refinanciamiento no alcanza para pagar el principal que vence, un
+prestatario financiado convencionalmente debe cubrir la diferencia con otra fuente: capital
+adicional de sus patrocinadores, o la venta del activo. Esa exposición pertenece al financiamiento
+hipotecario externo, no a los vehículos de tenencia directa: bajo el
+[[narrow-bank-financial-model|Modelo Financiero Narrow Bank]], no puede exigirse a los tenedores de
+unidades aportar capital adicional para cubrir obligaciones de deuda.
 
 Este riesgo de refinanciamiento es una característica estructural del financiamiento
 hipotecario a plazo limitado y no es específico de las estructuras de tenencia directa; se
@@ -93,6 +107,8 @@ aplica a todos los activos inmobiliarios financiados comercialmente.
 
 ## Consulte también
 
+- [[narrow-bank-financial-model]] — el financiamiento propio en dos fases previsto para las
+  Direct-Hold Solutions, que no recurre a prestamistas hipotecarios externos
 - [[distribution-declaration-mechanics]] — cómo la restricción de la RCI interactúa con
   el proceso de declaración de distribuciones
 - [[asset-vehicle-isolation]] — cómo los acreedores hipotecarios están limitados al activo

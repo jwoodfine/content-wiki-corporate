@@ -7,10 +7,11 @@ index_group: compensation-and-alignment
 type: topic
 content_type: topic
 quality: complete
-short_description: "Compensation model replacing the 2/20 structure: developer profit taken as equity held in trust until investor capital is returned, plus a fixed annual overhead contribution."
+short_description: "Compensation model planned to replace the 2/20 structure: developer profit taken as equity held in trust until investor capital is returned, plus a fixed annual overhead contribution."
 status: stable
+audience: public
 bcsc_class: current-fact
-last_edited: 2026-08-26
+last_edited: 2026-09-06
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -19,7 +20,7 @@ paired_with: principal-alignment-fee-preservation.es.md
 cites: []
 ---
 
-The **Principal Alignment and Fee Preservation** model describes how compensation in the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] is structured to enforce a direct alignment between the developer's economic interest and the investment returns of the investors it serves. The conventional alternative investment fee model — the 2/20 structure of a 2% annual management fee and 20% carried interest — is restructured in two ways. Developer profit is taken as equity rather than cash, and the variable management fee is replaced by a fixed annual overhead contribution that does not grow with the passage of time or the execution of transactions.
+The **Principal Alignment and Fee Preservation** model describes how compensation in the [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] is structured to enforce a direct alignment between the developer's economic interest and the investment returns of the investors it serves. The conventional alternative investment fee model — the 2/20 structure of a 2% annual management fee and 20% carried interest — is restructured in two ways. Developer profit is taken as equity rather than cash, and the variable management fee is replaced by a fixed annual overhead contribution that does not grow with the passage of time or the execution of transactions. Only one Direct-Hold Solution is currently established, and no offering of its units has closed; the model described here is the compensation structure intended to apply as each vehicle is funded.
 
 ## The problem with the conventional 2/20 model
 
@@ -31,17 +32,17 @@ The result is a fee structure in which the manager's income is partially indepen
 
 ## Equity-based compensation
 
-In the Direct-Hold Solutions, Woodfine does not receive cash management fees based on assets under management. Developer compensation is taken as Equity-Based Compensation: Investment Units in the vehicle, received in lieu of cash carried interest. These units are held in trust until investors' initial capital has been fully returned.
+In the Direct-Hold Solutions, Woodfine is not to receive cash management fees based on assets under management. Developer compensation is intended to be taken as Equity-Based Compensation: Investment Units in the vehicle, issued in lieu of cash carried interest. Those units are to be held in trust until investors' initial capital has been fully returned. Issuance is contingent on the closing of an offering of units, which has not yet occurred.
 
-The consequence of this structure is a 1:1 alignment between the developer and the investors at the level of the vehicle's equity. The developer's economic profit is not a cash extraction from the vehicle's income stream — it is an ownership stake in the same asset that investors hold, subject to the same market conditions, income performance, and distribution timing. Until the investors who contributed the initial equity capital have received that capital back in full, the developer's units remain in trust and do not participate in distributions. The developer's compensation is contingent on the same outcome that investors are seeking.
+The consequence of this structure is a 1:1 alignment between the developer and the investors at the level of the vehicle's equity. The developer's economic profit is designed as an ownership stake in the same asset that investors hold — subject to the same market conditions, income performance, and distribution timing — rather than a cash extraction from the vehicle's income stream. Until the investors who contributed the initial equity capital have received that capital back in full, the developer's units are to remain in trust and are not to participate in distributions. The developer's compensation is intended to be contingent on the same outcome that investors are seeking.
 
 ### Retained Equity as structural reserve
 
-The developer's equity position, once earned through the holding period and investor capital return, becomes Retained Equity on the vehicle's balance sheet. Retained Equity functions as a structural reserve: it is permanent capital that does not require distribution, reducing the vehicle's future need to raise external equity for new construction phases. The compounding of Retained Equity over the vehicle's holding period is the mechanism by which the [[narrow-bank-financial-model|Narrow Bank Financial Model]] produces a materially larger total asset base on the same initial equity capital than legacy alternatives.
+The developer's equity position, once earned through the holding period and investor capital return, is intended to become Retained Equity on the vehicle's balance sheet. Retained Equity is designed to function as a structural reserve: permanent capital that does not require distribution, reducing the vehicle's future need to raise external equity for new construction phases. The compounding of Retained Equity over the vehicle's holding period is the mechanism by which the [[narrow-bank-financial-model|Narrow Bank Financial Model]] is intended to produce a materially larger total asset base on the same initial equity capital than legacy alternatives.
 
 ## Initial offering cost reimbursement
 
-Separate from the ongoing overhead contribution, Woodfine pays all costs and expenses of each offering of units. In the established Canada vehicle, the partnership reimburses Woodfine 1% of the gross proceeds from the sale of units in that offering, as partial payment of those offering costs, per its governing agreement. This is a one-time reimbursement tied to a specific offering, not a recurring management fee.
+Separate from the ongoing overhead contribution, Woodfine pays all costs and expenses of each offering of units. In the established Canada vehicle, the partnership's governing agreement provides for reimbursement to Woodfine of 1% of the gross proceeds from the sale of units in an offering, as partial payment of those offering costs. It is a one-time reimbursement tied to a specific offering, not a recurring management fee.
 
 ## The fixed annual overhead contribution
 

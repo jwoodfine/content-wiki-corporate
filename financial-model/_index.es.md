@@ -6,13 +6,14 @@ category: financial-model
 type: topic
 content_type: topic
 quality: complete
-short_description: "El motor financiero: el Modelo de Banca Estrecha, bajo el cual se pretende construir los edificios sin deuda de construcción, y el financiamiento llega solo después de que los edificios estén arrendados."
+short_description: "El motor financiero: el Modelo de Banca Estrecha, bajo el cual se pretende construir los edificios sin deuda de construcción y el financiamiento llega solo después de que estén arrendados; las comisiones que Woodfine cobra y percibe; y la metodología de pronóstico y pruebas de estrés que las sustenta."
 index_type: thematic
 index_scope: financial-model
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-09-04
+last_edited: 2026-09-06
 editor: woodfine-editorial
 paired_with: _index.md
 ---
@@ -37,8 +38,8 @@ inversor. Los dos artículos a continuación cubren esa secuencia y la estructur
 financiamiento hipotecario utilizada una vez que la deuda está en su lugar.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: financing-discipline -->
-- [[narrow-bank-financial-model]] — Disciplina de financiamiento en dos fases de las Direct-Hold Solutions: construcción con capital propio, luego Obligaciones con Primera Hipoteca Garantizada sobre los edificios.
-- [[debt-service-and-financing-structure]] — Cómo se estructura el financiamiento hipotecario comercial dentro de las sociedades en comandita de tenencia directa: convenciones de relación préstamo-valor, riesgo de tasa de interés e interacción entre la estructura de deuda y el convenio de endeudamiento de la RCI.
+- [[narrow-bank-financial-model]] — Disciplina de financiamiento en dos fases prevista para las Direct-Hold Solutions: construcción con capital propio, luego Obligaciones con Primera Hipoteca Garantizada sobre los edificios. Solo el vehículo de Canadá está constituido.
+- [[debt-service-and-financing-structure]] — Convenciones generales del financiamiento hipotecario comercial — límites de relación préstamo-valor, amortización, riesgo de tasa y de refinanciamiento — y su interacción con el convenio de la RCI; no el financiamiento con obligaciones previsto para las Direct-Hold Solutions.
 <!-- END AUTO-GENERATED -->
 
 ## Compensación y alineación
@@ -51,7 +52,7 @@ atado al mismo resultado que el del inversor. El artículo a continuación detal
 de la comisión y la contribución fija anual por gastos generales que la acompaña.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: compensation-and-alignment -->
-- [[principal-alignment-fee-preservation]] — Modelo de compensación que reemplaza el 2/20: beneficio del desarrollador en capital en fideicomiso hasta devolver el capital del inversor, más una contribución fija anual.
+- [[principal-alignment-fee-preservation]] — Modelo de compensación previsto para reemplazar el 2/20: beneficio del desarrollador en capital en fideicomiso hasta devolver el capital del inversor, más una contribución fija anual.
 <!-- END AUTO-GENERATED -->
 
 ## Metodología de valoración y proyección

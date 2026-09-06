@@ -7,10 +7,11 @@ index_group: financing-discipline
 type: topic
 content_type: topic
 quality: complete
-short_description: "Two-phase financing discipline of the Direct-Hold Solutions: equity-funded unlevered construction, then First Secured Mortgage Debentures collateralized by the completed buildings."
+short_description: "Two-phase financing discipline planned for the Direct-Hold Solutions: equity-funded unlevered construction, then First Secured Mortgage Debentures collateralized by the completed buildings. Only the Canada vehicle is established."
 status: stable
+audience: public
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-09-06
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -31,27 +32,27 @@ In the initial phase, equity capital raised through the Direct-Hold Solution fun
 
 ### Perpetual equity and deployment flexibility
 
-This construction approach is a direct function of the perpetual equity structure of the Direct-Hold Solutions. Investment Units are designed to be Freely Transferable — not subject to manager-initiated exit mechanics or redemption queues (the established Canada vehicle's units are not currently freely transferable, because of the active BCSC cease-trade order noted above) — so the vehicle does not face the liquidity demands that typically require a real estate fund to deploy capital only into income-producing assets or pre-leased buildings. Capital can be deployed into construction without the constraint that it must generate a return within a specific fund window, because the vehicle itself has no terminal date.
+This construction approach is a direct function of the perpetual equity structure of the Direct-Hold Solutions. Investment Units are designed to be Freely Transferable — not subject to manager-initiated exit mechanics or redemption queues — so the vehicle does not face the liquidity demands that typically require a real estate fund to deploy capital only into income-producing assets or pre-leased buildings. The established Canada vehicle's units are not currently freely transferable, because the partnership is subject to an active British Columbia Securities Commission cease-trade order, arising from delayed continuous-disclosure filings rather than any finding of fraud or misconduct. Capital can be deployed into construction without the constraint that it must generate a return within a specific fund window, because the vehicle itself has no terminal date.
 
 ## The debt phase: first secured mortgage debentures
 
-Once cash flow from completed and leased buildings has stabilized, the Direct-Hold Solution issues First Secured Mortgage Debentures for the financing of subsequent construction phases. These debentures are issued by the vehicle itself — not by an external borrowing entity — and are 100% collateralized by the physical Woodfine Buildings. The debentures are intended to be Exchange-Qualified, meaning they are structured to meet the listing standards of the applicable exchange in the vehicle's jurisdiction without the equity units of the vehicle being listed for trading.
+Once cash flow from completed and leased buildings has stabilized, the Direct-Hold Solution is planned to issue First Secured Mortgage Debentures for the financing of subsequent construction phases. These debentures are intended to be issued by the vehicle itself — not by an external borrowing entity — and to be 100% collateralized by the physical Woodfine Buildings. The debentures are intended to be Exchange-Qualified, meaning they are structured to meet the listing standards of the applicable exchange in the vehicle's jurisdiction without the equity units of the vehicle being listed for trading.
 
 ### Issuance covenants and leverage limits
 
-The debt issuance is subject to a coverage covenant: debentures may not be issued unless an [[cre-financial-metrics|Interest Coverage Ratio]] of at least 1.2x is achieved by the existing portfolio's net operating income. This covenant prevents debt issuance in advance of demonstrated portfolio income capacity. The constraint that debt cannot be added until existing cash flow covers interest at a minimum multiple ensures that each successive debt issuance is supported by the organic income growth of the portfolio rather than by projected or speculative future income.
+The debt issuance is subject to a coverage covenant: debentures may not be issued unless an [[cre-financial-metrics|Interest Coverage Ratio]] of at least 1.2x is achieved by the existing portfolio's net operating income. This covenant prevents debt issuance in advance of demonstrated portfolio income capacity. The constraint that debt cannot be added until existing cash flow covers interest at a minimum multiple is intended to ensure that each successive debt issuance is supported by the organic income growth of the portfolio rather than by projected or speculative future income.
 
 The maximum debt load under the model is 100% of development costs for new construction — debentures fund the construction of additional buildings, not the refinancing of buildings already on the balance sheet. During the active construction phase, the debt-to-asset value of the portfolio is expected to reach no more than approximately 63%.
 
 ## The management phase: organic deleveraging
 
-As the portfolio enters its stabilized management phase — buildings constructed, leased, and generating consistent net operating income — a defined portion of distributable income is applied to systematic debt redemption. Ten percent of distributable income is directed to debenture redemption, producing continuous reduction of the loan-to-value ratio over time through organic cash generation rather than external refinancing activity.
+As the portfolio enters its stabilized management phase — buildings constructed, leased, and generating consistent net operating income — a defined portion of distributable income is intended to be applied to systematic debt redemption. Ten percent of distributable income is intended to be retained and directed to debenture redemption, targeting continuous reduction of the loan-to-value ratio over time through organic cash generation rather than external refinancing activity.
 
-This deleveraging dynamic is driven by portfolio operations rather than by capital market conditions. The vehicle does not rely on favourable refinancing conditions, asset sales, or new equity raises to reduce its debt burden. The 10% distributable income allocation compounds the deleveraging effect across the full hold period.
+This deleveraging dynamic is designed to be driven by portfolio operations rather than by capital market conditions. The vehicle is not intended to rely on favourable refinancing conditions, asset sales, or new equity raises to reduce its debt burden. The 10% distributable income allocation is intended to compound the deleveraging effect across the full hold period.
 
 ## Operating reserve
 
-Alongside the equity and debt phases, the general partner sets aside an Operating Reserve — an amount determined, acting reasonably and in good faith, to cover the vehicle's current and future expenses, liabilities, and commitments, including compensation due to the general partner or the Advisor. The general partner's board sets the reserve's size for whatever additional purposes it determines necessary to conduct the partnership's business. The reserve sits apart from the equity raised to fund construction and the debt issued against completed buildings — it is the vehicle's own working-capital buffer, not a third source of project financing.
+Alongside the equity and debt phases, the general partner sets aside an Operating Reserve — an amount determined, acting reasonably and in good faith, to cover the vehicle's current and future expenses, liabilities, and commitments, including compensation due to the general partner or to Woodfine Advisors Inc., the retained advisor to the partnership. The general partner's board sets the reserve's size for whatever additional purposes it determines necessary to conduct the partnership's business. The reserve sits apart from the equity raised to fund construction and the debt issued against completed buildings — it is the vehicle's own working-capital buffer, not a third source of project financing.
 
 ## Structural consequences
 
@@ -65,6 +66,6 @@ The Narrow Bank Financial Model has several structural consequences that disting
 
 ## See also
 
-- [[debt-service-and-financing-structure]] — the debenture terms and coverage mechanics the model governs
+- [[debt-service-and-financing-structure]] — general commercial-mortgage conventions and the coverage covenant they are tested against
 - [[cre-financial-metrics|Interest Coverage Ratio]] — the coverage covenant at the centre of the model
 - [[sensitivity-and-stress-test-methodology]] — how the model's coverage assumptions are stress-tested
