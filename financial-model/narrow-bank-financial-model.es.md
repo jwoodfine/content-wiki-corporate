@@ -10,7 +10,7 @@ quality: complete
 short_description: "Disciplina de financiamiento en dos fases prevista para las Direct-Hold Solutions: construcción con capital propio, luego Obligaciones con Primera Hipoteca Garantizada sobre los edificios. Solo el vehículo de Canadá está constituido."
 status: stable
 audience: public
-bcsc_class: current-fact
+bcsc_class: forward-looking
 last_edited: 2026-09-06
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
@@ -67,6 +67,10 @@ El Modelo Financiero Narrow Bank tiene varias consecuencias estructurales que lo
 **Sin deuda corporativa.** Las Obligaciones con Primera Hipoteca Garantizada son obligaciones del vehículo de inversión, totalmente garantizadas por los edificios físicos. No hay facilidad de endeudamiento de empresa operativa, línea de crédito revolvente ni deuda corporativa no garantizada. Si una obligación entra en incumplimiento, el activo inmobiliario subyacente resuelve la obligación y el resto de la cartera continúa operando sin verse afectado.
 
 **Prohibición de llamadas de capital.** La delimitación de toda la deuda a los activos físicos subyacentes significa que las pérdidas en cualquier obligación individual — incluso en un escenario de ejecución hipotecaria — no pueden producir una llamada de capital a los inversores del vehículo. La exposición del inversor se limita al capital que ha aportado; no puede exigírsele aportar capital adicional para cubrir obligaciones de deuda.
+
+## Lo que esto no es
+
+No se ha emitido ninguna Obligación con Primera Hipoteca Garantizada. La fase de deuda, el convenio de cobertura que la condiciona, la retención del 10% del ingreso distribuible y la trayectoria de desapalancamiento son el diseño previsto del modelo, no un historial operativo. Solo está constituido el vehículo de Canadá, Professional Centres Canada LP, y sus unidades están sujetas a una orden de suspensión de negociación vigente de la British Columbia Securities Commission; los vehículos de Estados Unidos, España y México están planificados. Aún no existe una cartera completada frente a la cual se hayan probado la fase de capital o el techo de apalancamiento. Este artículo describe la disciplina de financiamiento que las Direct-Hold Solutions están diseñadas para seguir — no deuda actualmente vigente, y no es una oferta de valores.
 
 ## Consulte también
 

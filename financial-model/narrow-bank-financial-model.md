@@ -10,7 +10,7 @@ quality: complete
 short_description: "Two-phase financing discipline planned for the Direct-Hold Solutions: equity-funded unlevered construction, then First Secured Mortgage Debentures collateralized by the completed buildings. Only the Canada vehicle is established."
 status: stable
 audience: public
-bcsc_class: current-fact
+bcsc_class: forward-looking
 last_edited: 2026-09-06
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
@@ -63,6 +63,10 @@ The Narrow Bank Financial Model has several structural consequences that disting
 **No corporate debt.** The First Secured Mortgage Debentures are obligations of the investment vehicle, fully secured by the physical buildings. There is no operating company borrowing facility, no revolving credit line, and no unsecured corporate debt. If a debenture goes into default, the underlying real estate asset resolves the obligation. The remaining portfolio continues operating unaffected.
 
 **Capital call prohibition.** The ring-fencing of all debt to the underlying physical assets means that losses on any individual debenture — including in a foreclosure scenario — cannot produce a capital call on investors in the investment vehicle. Investors' exposure is limited to the equity they have contributed; they cannot be required to contribute additional capital to cover debt obligations.
+
+## What this is not
+
+No First Secured Mortgage Debenture has been issued. The debt phase, the coverage covenant that gates it, the 10% distributable-income retention, and the deleveraging path are the model's intended design, not an operating record. Only the Canada vehicle, Professional Centres Canada LP, is established, and its units are subject to an active British Columbia Securities Commission cease-trade order; the United States, Spain, and Mexico vehicles are planned. No completed portfolio yet exists against which the equity phase or the leverage ceiling has been tested. This article describes the financing discipline the Direct-Hold Solutions are designed to follow — not debt currently outstanding, and not an offer of securities.
 
 ## See also
 

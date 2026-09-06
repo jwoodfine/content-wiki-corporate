@@ -11,7 +11,7 @@ content_type: topic
 quality: complete
 status: active
 audience: public
-bcsc_class: public-disclosure-safe
+bcsc_class: forward-looking
 language_protocol: PROSE-TOPIC
 last_edited: 2026-09-06
 editor: pointsav-engineering
@@ -48,6 +48,10 @@ Any given exhibit in this methodology can be placed correctly by checking two th
 Second, which side of the disclosure boundary the exhibit sits on. The management-response and corrective-disposition exhibits described above are forward-looking illustrative scenarios, while the IFRS 13 table is a fair-value-measurement sensitivity disclosure. The two are prepared to different standards — the forward-looking exhibits carry caution language consistent with NI 51-102 and ISAE 3400, and the IFRS 13 table follows that standard's own ±25 bps reasonably-possible-alternative-assumption convention. A figure that cannot be placed on one side or the other of that boundary has not been correctly located within the methodology.
 
 Every stress and shock scenario in this methodology is modeled and illustrative. None of the coverage, NAV, or distribution figures it produces is a prediction, an assurance, or a guarantee of actual future performance; actual results will differ from every assumption used to construct these scenarios.
+
+## What this is not
+
+None of the coverage, NAV, or distribution figures this methodology produces is a forecast. Every scenario is constructed from stated assumptions, and actual results will differ from all of them. The methodology has not yet been run against an operating portfolio — no Direct-Hold Solution has issued a debenture or reached the stabilised phase whose coverage the scenarios describe, so the base case is an assumption set, not a track record. The adaptive build-out response and the corrective disposition of last resort are modeled management behaviours, not commitments to act. The IFRS 13 sensitivity table is a fair-value measurement disclosure convention, not an estimate of probable outcomes.
 
 ## See also
 

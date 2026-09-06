@@ -11,7 +11,7 @@ content_type: topic
 quality: complete
 status: active
 audience: public
-bcsc_class: public-disclosure-safe
+bcsc_class: forward-looking
 language_protocol: TRANSLATE-ES
 last_edited: 2026-09-06
 editor: pointsav-engineering
@@ -48,6 +48,10 @@ Cualquier ejemplo de esta metodología puede ubicarse correctamente verificando 
 Segundo, de qué lado del límite de divulgación se encuentra el ejemplo. Los ejemplos de respuesta de la administración y de disposición correctiva descritos anteriormente son escenarios ilustrativos y prospectivos, mientras que la tabla de la NIIF 13 es una divulgación de sensibilidad de medición a valor razonable. Ambos se preparan conforme a normas distintas — los ejemplos prospectivos incorporan un lenguaje de advertencia coherente con el NI 51-102 y la ISAE 3400, y la tabla de la NIIF 13 sigue la propia convención de esa norma de supuestos alternativos razonablemente posibles de ±25 puntos base. Una cifra que no pueda ubicarse en uno u otro lado de ese límite no ha sido correctamente localizada dentro de la metodología.
 
 Todos los escenarios de estrés y de choque de esta metodología son modelados e ilustrativos. Ninguna de las cifras de cobertura, NAV o distribución que produce constituye una predicción, una garantía ni una promesa de desempeño futuro real; los resultados reales diferirán de cada uno de los supuestos utilizados para construir estos escenarios.
+
+## Lo que esto no es
+
+Ninguna de las cifras de cobertura, NAV o distribución que produce esta metodología es un pronóstico. Cada escenario se construye a partir de supuestos declarados, y los resultados reales diferirán de todos ellos. La metodología aún no se ha aplicado a una cartera en operación — ninguna Solución de Tenencia Directa ha emitido un debenture ni ha alcanzado la fase estabilizada cuya cobertura describen los escenarios, de modo que el caso base es un conjunto de supuestos, no un historial. La respuesta adaptativa de desarrollo y la disposición correctiva de último recurso son comportamientos de gestión modelados, no compromisos de actuar. La tabla de sensibilidad de la NIIF 13 es una convención de divulgación de medición a valor razonable, no una estimación de resultados probables.
 
 ## Consulte también
 

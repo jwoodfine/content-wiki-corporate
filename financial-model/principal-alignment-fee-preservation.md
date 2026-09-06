@@ -10,7 +10,7 @@ quality: complete
 short_description: "Compensation model planned to replace the 2/20 structure: developer profit taken as equity held in trust until investor capital is returned, plus a fixed annual overhead contribution."
 status: stable
 audience: public
-bcsc_class: current-fact
+bcsc_class: forward-looking
 last_edited: 2026-09-06
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
@@ -59,6 +59,10 @@ The fee structure of the Direct-Hold Solutions is designed so that the single fi
 ### Preserved fee pool
 
 The term "preserved fees" refers to the overhead contribution that is available to independent Asset Managers after the developer's fixed overhead cost is satisfied. Because the developer's compensation is taken as equity rather than as additional cash fees, the overhead contribution represents a smaller total fee extraction from the vehicle's income than a conventional management fee would represent. The preserved portion is deliberately retained as a resource for the independent managers who serve the international and institutional investor segments of the capital structure.
+
+## What this is not
+
+No compensation under this model is currently being paid. No offering of units has closed, so no Equity-Based Compensation units have been issued, none are held in trust, and no Retained Equity exists on any vehicle's balance sheet. The annual overhead contribution and the one-time offering-cost reimbursement are provided for in the established Canada vehicle's governing agreement; neither has been triggered by a closed offering. The preserved fee pool for independent Asset Managers describes an intended allocation, not fees currently received by anyone. This article states the compensation structure the Direct-Hold Solutions are designed to apply as each vehicle is funded — not amounts paid, earned, or accrued to date.
 
 ## See also
 

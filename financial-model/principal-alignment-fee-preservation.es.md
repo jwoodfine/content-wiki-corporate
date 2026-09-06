@@ -10,7 +10,7 @@ quality: complete
 short_description: "Modelo de compensación previsto para reemplazar el 2/20: beneficio del desarrollador en capital en fideicomiso hasta devolver el capital del inversor, más una contribución fija anual."
 status: stable
 audience: public
-bcsc_class: current-fact
+bcsc_class: forward-looking
 last_edited: 2026-09-06
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
@@ -55,6 +55,10 @@ Esta estructura elimina varias características de la comisión de gestión conv
 La estructura de tarifas de las Direct-Hold Solutions está diseñada para que la única contribución fija a los gastos generales permanezca completamente disponible para compensar a los Gestores de Activos independientes que orquestan los Vehículos de Propósito Especial externos a través de los cuales los inversores internacionales acceden a la plataforma. Estos Gestores de Activos son fiduciarios contratados por inversores internacionales para gestionar su participación en el SPV, y requieren compensación del fondo de tarifas que generan los activos subyacentes. En una estructura 2/20 convencional, el gestor captura la mayor parte de los ingresos por comisiones y deja un fondo reducido para ellos.
 
 El término "tarifas preservadas" se refiere a la contribución a los gastos generales que queda disponible para los Gestores de Activos independientes una vez satisfecho el costo fijo de gastos generales del desarrollador. Dado que la compensación del desarrollador se toma como capital y no como tarifas adicionales en efectivo, la contribución a los gastos generales representa una extracción total menor del flujo de ingresos del vehículo que la que representaría una comisión de gestión convencional. La porción preservada se retiene deliberadamente como recurso para los gestores independientes que atienden a los segmentos internacional e institucional de la estructura de capital.
+
+## Lo que esto no es
+
+Actualmente no se paga ninguna compensación bajo este modelo. Ninguna oferta de participaciones se ha cerrado, por lo que no se ha emitido ninguna unidad de Compensación Basada en Capital, ninguna se mantiene en fideicomiso, y no existe Capital Retenido en el balance de ningún vehículo. La contribución anual a los gastos generales y el reembolso único de costos de oferta están previstos en el acuerdo rector del vehículo de Canadá ya constituido; ninguno se ha activado por una oferta cerrada. El fondo de tarifas preservadas para los Gestores de Activos independientes describe una asignación prevista, no tarifas que alguien reciba hoy. Este artículo expone la estructura de compensación que las Direct-Hold Solutions están diseñadas para aplicar a medida que cada vehículo se financie — no montos pagados, ganados o devengados hasta la fecha.
 
 ## Consulte también
 
