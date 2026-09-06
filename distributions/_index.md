@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Distributions and Transfers"
+title: "Distributions, Transfers, and Exit"
 slug: distributions-index
 category: distributions
 type: topic
@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-Distributions and Transfers covers the distribution policy and the unit-transfer
+Distributions, Transfers, and Exit covers the distribution policy and the unit-transfer
 mechanism.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card

@@ -48,7 +48,7 @@ categories:
     order: 3
 
   - id: distributions
-    name: "Distributions and Transfers"
+    name: "Distributions, Transfers, and Exit"
     scope: >-
       The distribution policy and the unit-transfer mechanism:
       distributions are targeted to be paid from Distributable Income

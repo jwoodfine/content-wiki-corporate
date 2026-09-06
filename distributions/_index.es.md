@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Distribuciones y Transferencias"
+title: "Distribuciones, Transferencias, y Salida"
 slug: distributions-index
 category: distributions
 type: topic
@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: _index.md
 ---
 
-Distribuciones y Transferencias abarca la política de distribuciones y el mecanismo de
+Distribuciones, Transferencias, y Salida abarca la política de distribuciones y el mecanismo de
 transferencia de unidades.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card
