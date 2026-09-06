@@ -30,8 +30,8 @@ written in plain language, and every technical term links to the glossary.
 1. **The Company** — who Woodfine is: a federally incorporated holding
    company, extra-provincially registered in British Columbia, that
    develops and promotes commercial buildings. It is a developer,
-   not an asset manager. Its history, its people, and how the business
-   operates.
+   not an asset manager. How the group is organised, from the parent
+   company down to each vehicle's governing entity.
 2. **The Investment Vehicles** — the vehicles, present and planned: the
    parent company's common shares, and the four [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]]
    planned for Canada, the United States, Spain, and Mexico. What each

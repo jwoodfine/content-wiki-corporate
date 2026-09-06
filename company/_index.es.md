@@ -6,13 +6,14 @@ category: company
 type: topic
 content_type: topic
 quality: complete
-short_description: "Quién es Woodfine: una sociedad de cartera canadiense constituida federalmente, registrada extraprovincialmente en Columbia Británica, que desarrolla y promueve edificios comerciales — un Desarrollador y Promotor, no un gestor de activos — su historia, su gente, sus subsidiarias y cómo opera el negocio."
+short_description: "Quién es Woodfine: una sociedad de cartera canadiense constituida federalmente y registrada extraprovincialmente en Columbia Británica, que desarrolla y promueve edificios comerciales — un Desarrollador y Promotor, no un gestor de activos — y cómo está organizado el grupo."
 index_type: thematic
 index_scope: company
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-09-04
+last_edited: 2026-09-06
 editor: woodfine-editorial
 paired_with: _index.md
 ---
@@ -37,8 +38,8 @@ del promotor, cuál presta los servicios delegados, y en qué punto de la cadena
 órgano de gobierno de cada vehículo de Tenencia Directa.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: corporate-structure-and-ownership -->
-- [[corporate-structure]] — Estructura corporativa de Woodfine Capital Projects Inc.: la empresa matriz, sus subsidiarias de servicios operativos y de tecnología debajo de ella, y las entidades de gobierno y sociedades de participación del promotor de cada Solución de Tenencia Directa.
-- [[vendor-customer-model]] — PointSav Digital Systems es la subsidiaria tecnológica separada de Woodfine Capital Projects Inc.
+- [[corporate-structure]] — Empresa matriz canadiense de constitución federal: la matriz, su subsidiaria de servicios operativos, y la entidad de gobierno y sociedad de participación del promotor de cada Solución de Tenencia Directa.
+- [[vendor-customer-model]] — Proveedor tecnológico y cliente operativo dentro de un mismo grupo: quién construye y licencia la plataforma, quién la adopta, y por qué ambos roles se mantienen separados.
 <!-- END AUTO-GENERATED -->
 
 ## Consulte también

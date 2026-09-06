@@ -6,13 +6,14 @@ category: company
 type: topic
 content_type: topic
 quality: complete
-short_description: "Who Woodfine is: a federally incorporated Canadian holding company, extra-provincially registered in British Columbia, that develops and promotes commercial buildings — a Developer and Promoter, not an asset manager — its history, its people, its subsidiaries, and how the business operates."
+short_description: "Who Woodfine is: a Canadian holding company, incorporated federally and extra-provincially registered in British Columbia, that develops and promotes commercial buildings — a Developer and Promoter, not an asset manager — and how the group is organised."
 index_type: thematic
 index_scope: company
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-09-04
+last_edited: 2026-09-06
 editor: woodfine-editorial
 paired_with: _index.es.md
 ---
@@ -35,8 +36,8 @@ stake, which provides delegated services, and where the governing body of each D
 vehicle sits in the chain.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: corporate-structure-and-ownership -->
-- [[corporate-structure]] — Woodfine Capital Projects Inc.'s corporate structure: the parent holding company, its operating-services and technology subsidiaries beneath it, and the governing entities and promoter-equity companies of each Direct-Hold Solution.
-- [[vendor-customer-model]] — PointSav Digital Systems is Woodfine Capital Projects Inc.'s separate technology subsidiary.
+- [[corporate-structure]] — Federally incorporated Canadian holding company: the parent, its operating-services subsidiary, and the governing entity and promoter-equity company of each Direct-Hold Solution.
+- [[vendor-customer-model]] — Technology vendor and operating customer inside one group: who builds and licenses the platform, who adopts it, and why the two roles are kept structurally separate.
 <!-- END AUTO-GENERATED -->
 
 ## See also

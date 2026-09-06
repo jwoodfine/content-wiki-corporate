@@ -32,8 +32,9 @@ término técnico enlaza con el glosario.
 1. **La empresa** — quién es Woodfine: una sociedad holding constituida
    federalmente, registrada extraprovincialmente en la Columbia
    Británica, que desarrolla y promueve edificios comerciales.
-   Es una promotora, no una gestora de activos. Su historia, sus
-   personas y cómo funciona el negocio.
+   Es una promotora, no una gestora de activos. Cómo está organizado el
+   grupo, desde la empresa matriz hasta el órgano de gobierno de cada
+   vehículo.
 2. **Los vehículos de inversión** — los vehículos, presentes y
    planificados: las acciones ordinarias de la empresa matriz y las
    cuatro [[direct-hold-solutions-structural-comparison|Direct-Hold Solutions]] (soluciones de tenencia directa)

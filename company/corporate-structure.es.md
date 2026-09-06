@@ -4,7 +4,7 @@ title: "Estructura corporativa"
 slug: corporate-structure
 aliases:
   - topic-corporate-structure
-short_description: "Estructura corporativa de Woodfine Capital Projects Inc.: la empresa matriz, sus subsidiarias de servicios operativos y de tecnología debajo de ella, y las entidades de gobierno y sociedades de participación del promotor de cada Solución de Tenencia Directa."
+short_description: "Empresa matriz canadiense de constitución federal: la matriz, su subsidiaria de servicios operativos, y la entidad de gobierno y sociedad de participación del promotor de cada Solución de Tenencia Directa."
 category: company
 index_group: corporate-structure-and-ownership
 type: reference
@@ -14,35 +14,43 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-26
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: corporate-structure.md
 cites: []
 ---
 
 Woodfine Capital Projects Inc. ("Woodfine"), una empresa matriz (holding company), origina
-Soluciones de Tenencia Directa a través de sus subsidiarias para la procuración, el
-desarrollo y la gestión de bienes inmuebles. Woodfine actúa como Desarrollador
-y Promotor de las Soluciones de Tenencia Directa. Sus actividades de originación y
+[[direct-hold-framework|Soluciones de Tenencia Directa]] a través de sus subsidiarias para
+la procuración, el desarrollo y la gestión de bienes inmuebles. Es propietaria del 100% de
+esas subsidiarias y actúa como Desarrollador y Promotor de las Soluciones de Tenencia
+Directa. Sus actividades de originación y
 desarrollo excluyen la gestión de capital, fondos o activos financieros por cuenta de
 terceros.
 
 ## Puntos clave
 
 - Woodfine es una empresa matriz que actúa como Desarrollador y Promotor de las Soluciones
-  de Tenencia Directa.
+  de Tenencia Directa, y es propietaria del 100% de sus subsidiarias.
+- Woodfine está constituida federalmente conforme a la Canada Business Corporations Act, y
+  está registrada extraprovincialmente para operar en Columbia Británica.
 - Existen o están planificadas cuatro Soluciones de Tenencia Directa: una establecida, en
   Canadá; tres planificadas, en Estados Unidos, España y México.
-- Cada jurisdicción cuenta con una entidad de gobierno (un socio general o un
-  administrador) y una sociedad separada que mantiene la participación accionaria del
-  promotor.
+- Cada jurisdicción cuenta, o está previsto que cuente, con una entidad de gobierno (un
+  socio general o un administrador) y una sociedad separada que mantiene la participación
+  accionaria del promotor.
 - Woodfine Management Corp. ("MCorp") es la subsidiaria de servicios operativos del
   grupo — emplea al personal y realiza el trabajo operativo delegado, sin autoridad de
-  gobierno en ningún vehículo. PointSav Digital Systems es la subsidiaria tecnológica
-  separada del grupo.
+  gobierno en ningún vehículo.
+- PointSav Digital Systems ("PointSav") es actualmente un nombre comercial de Woodfine, y
+  está previsto que se convierta en una subsidiaria de propiedad absoluta de Woodfine tras
+  su constitución.
 - Woodfine mantiene esta estructura de empresa matriz al menos desde 2011.
 
 ## La empresa matriz y su enfoque de desarrollo
+
+Woodfine está constituida federalmente conforme a la Canada Business Corporations Act, y
+está registrada extraprovincialmente para operar en Columbia Británica, Canadá.
 
 Woodfine desarrolla los Power Centres — una gran agrupación de tiendas
 minoristas con al menos un inquilino ancla de gran formato — en Norteamérica y Europa. Su
@@ -59,22 +67,25 @@ emplea al personal y contrata a los consultores requeridos por los negocios de l
 vehículos de tenencia directa, realizando trabajo de procuración, desarrollo, gestión y
 administración que le ha sido delegado. No tiene autoridad de gobierno en ningún vehículo.
 
-PointSav Digital Systems es una subsidiaria tecnológica separada, de propiedad absoluta
-de Woodfine, bajo el [[vendor-customer-model|modelo proveedor-cliente]].
+PointSav Digital Systems ("PointSav") es actualmente un nombre comercial de Woodfine, y
+está previsto que se convierta en una subsidiaria de propiedad absoluta de Woodfine tras su
+constitución. Su función dentro del grupo se establece en el
+[[vendor-customer-model|modelo proveedor-cliente]].
 
-La participación accionaria del promotor en cada jurisdicción la mantiene una sociedad
-separada: Benetti Holdings Inc. en Canadá, Benetti Holdings 2 Inc. en Estados Unidos,
-Benetti Holdings 3 S.L. en España, y Benetti Holdings 4 S.R.L. en México. Estas
-participaciones se mantienen en fideicomiso de garantía hasta que los socios
-comanditarios recuperen el 100% del capital aportado o se produzca un evento de liquidez
-definido.
+En Canadá, la participación accionaria del promotor la mantiene una sociedad separada,
+Benetti Holdings Inc. Está planificada una sociedad paralela en cada una de las otras tres
+jurisdicciones: Benetti Holdings 2 Inc. en Estados Unidos, Benetti Holdings 3 S.L. en
+España, y Benetti Holdings 4 S.R.L. en México. Las participaciones canadienses se mantienen
+en fideicomiso de garantía hasta que los socios comanditarios recuperen el 100% del capital
+aportado o se produzca un evento de liquidez definido. El mismo arreglo de fideicomiso está
+previsto en cada jurisdicción planificada.
 
 Woodfine Advisors Inc., subsidiaria de propiedad total de Woodfine, presta servicios de
 adquisición, desarrollo y gestión a la sociedad canadiense.
 
-El título legal de cada propiedad lo mantiene una sociedad nominataria Woodfine Titleco
-separada, cuyo beneficiario efectivo es el vehículo de Tenencia Directa
-correspondiente.
+El título legal de cada propiedad lo mantiene una sociedad nominataria Woodfine
+[[titleco-and-subsidiary-silo-model|Titleco]] separada, cuyo beneficiario efectivo es el
+vehículo de Tenencia Directa correspondiente.
 
 ## La capa de vehículos
 
@@ -111,7 +122,8 @@ términos de inversión, precio de unidades, distribuciones, comisiones, ni el d
 financiero de ningún vehículo. No es una oferta de valores. Solo Professional Centres
 Canada LP está establecido; los vehículos de Estados Unidos, España y México están
 planificados, y sus entidades, formas y arreglos de gobernanza podrían cambiar antes de
-constituirse.
+constituirse. La constitución de PointSav como subsidiaria separada está planificada, no
+completada.
 
 ## Consulte también
 

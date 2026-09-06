@@ -4,7 +4,7 @@ title: "Corporate structure"
 slug: corporate-structure
 aliases:
   - topic-corporate-structure
-short_description: "Woodfine Capital Projects Inc.'s corporate structure: the parent holding company, its operating-services and technology subsidiaries beneath it, and the governing entities and promoter-equity companies of each Direct-Hold Solution."
+short_description: "Federally incorporated Canadian holding company: the parent, its operating-services subsidiary, and the governing entity and promoter-equity company of each Direct-Hold Solution."
 category: company
 index_group: corporate-structure-and-ownership
 type: reference
@@ -14,23 +14,27 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-26
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: corporate-structure.es.md
 cites: []
 ---
 
-Woodfine Capital Projects Inc. ("Woodfine"), a holding company, originates Direct-Hold Solutions through its subsidiaries for the procurement, development, and management of real property. Woodfine acts as Developer and Promoter of the Direct-Hold Solutions. Its origination and development activities exclude the management of capital, funds, or financial assets on behalf of third parties.
+Woodfine Capital Projects Inc. ("Woodfine"), a holding company, originates [[direct-hold-framework|Direct-Hold Solutions]] through its subsidiaries for the procurement, development, and management of real property. It owns 100% of those subsidiaries and acts as Developer and Promoter of the Direct-Hold Solutions. Its origination and development activities exclude the management of capital, funds, or financial assets on behalf of third parties.
 
 ## Key takeaways
 
-- Woodfine is a holding company that acts as Developer and Promoter of the Direct-Hold Solutions.
+- Woodfine is a holding company that acts as Developer and Promoter of the Direct-Hold Solutions, and owns 100% of its subsidiaries.
+- Woodfine is incorporated federally under the Canada Business Corporations Act, and is extra-provincially registered to carry on business in British Columbia.
 - Four Direct-Hold Solutions exist or are planned: one established, in Canada; three planned, in the United States, Spain, and Mexico.
-- Each jurisdiction has a governing entity (a general partner or an administrator) and a separate company holding the promoter's equity.
-- Woodfine Management Corp. ("MCorp") is the group's operating-services subsidiary — it employs staff and performs delegated operational work, holding no governing authority in any vehicle. PointSav Digital Systems is the group's separate technology subsidiary.
+- Each jurisdiction has, or is planned to have, a governing entity (a general partner or an administrator) and a separate company holding the promoter's equity.
+- Woodfine Management Corp. ("MCorp") is the group's operating-services subsidiary — it employs staff and performs delegated operational work, holding no governing authority in any vehicle.
+- PointSav Digital Systems ("PointSav") is currently a trade name of Woodfine, planned to become a wholly-owned Woodfine subsidiary upon incorporation.
 - Woodfine has held this holding-company structure since at least 2011.
 
 ## The parent company and its development focus
+
+Woodfine is incorporated federally under the Canada Business Corporations Act, and is extra-provincially registered to carry on business in British Columbia, Canada.
 
 Woodfine develops Power Centres — a large aggregation of retail stores with at least one large box-store anchor tenant — in North America and Europe. Its stated development opportunity is leasable space in and near Power Centres for professional and industrial service providers.
 
@@ -40,13 +44,13 @@ Initial Canadian developments are concentrated in British Columbia and Alberta, 
 
 Woodfine Management Corp. ("MCorp") is the group's operating-services subsidiary: it employs the staff and retains the consultants required by the businesses of the direct-hold vehicles, performing procurement, development, management, and administration work delegated to it. It holds no governing authority in any vehicle.
 
-PointSav Digital Systems is a separate, wholly-owned technology subsidiary of Woodfine under the [[vendor-customer-model|vendor-customer model]].
+PointSav Digital Systems ("PointSav") is currently a trade name of Woodfine, planned to become a wholly-owned Woodfine subsidiary upon incorporation. Its role in the group is set out in the [[vendor-customer-model|vendor-customer model]].
 
-The promoter's equity interest in each jurisdiction is held by a separate company: Benetti Holdings Inc. in Canada, Benetti Holdings 2 Inc. in the United States, Benetti Holdings 3 S.L. in Spain, and Benetti Holdings 4 S.R.L. in Mexico. These units are held in escrow until limited partners recover 100% of contributed capital or a defined liquidity event occurs.
+In Canada, the promoter's equity interest is held by a separate company, Benetti Holdings Inc. A parallel company is planned in each of the other three jurisdictions: Benetti Holdings 2 Inc. in the United States, Benetti Holdings 3 S.L. in Spain, and Benetti Holdings 4 S.R.L. in Mexico. The Canadian units are held in escrow until limited partners recover 100% of contributed capital or a defined liquidity event occurs. The same escrow arrangement is intended in each planned jurisdiction.
 
 Woodfine Advisors Inc., a wholly owned subsidiary of Woodfine, provides procurement, development, and management services to the Canadian partnership.
 
-Legal title to each property is held by a separate Woodfine Titleco nominee company, beneficially owned by the applicable Direct-Hold vehicle.
+Legal title to each property is held by a separate Woodfine [[titleco-and-subsidiary-silo-model|Titleco nominee company]], beneficially owned by the applicable Direct-Hold vehicle.
 
 ## The vehicle layer
 
@@ -67,7 +71,7 @@ The chief executive role has a multi-decade record as a developer in the Western
 
 ## What this is not
 
-This article states the group's corporate structure only. It does not cover investment terms, unit pricing, distributions, fees, or the financial performance of any vehicle. It is not an offer of securities. Only Professional Centres Canada LP is established; the United States, Spain, and Mexico vehicles are planned, and their entities, forms, and governance arrangements may change before they are constituted.
+This article states the group's corporate structure only. It does not cover investment terms, unit pricing, distributions, fees, or the financial performance of any vehicle. It is not an offer of securities. Only Professional Centres Canada LP is established; the United States, Spain, and Mexico vehicles are planned, and their entities, forms, and governance arrangements may change before they are constituted. PointSav's incorporation as a separate subsidiary is planned, not completed.
 
 ## See also
 
