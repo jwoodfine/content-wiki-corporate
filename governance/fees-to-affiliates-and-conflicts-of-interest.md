@@ -7,11 +7,12 @@ index_group: conflicts-and-required-disclosures
 type: reference
 content_type: topic
 quality: complete
+short_description: "The net-asset-value fee prohibition and the rule limiting fees to promoter affiliates."
 status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-27
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: fees-to-affiliates-and-conflicts-of-interest.es.md
 cites: []

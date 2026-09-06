@@ -7,11 +7,12 @@ index_group: investor-rights-and-voting
 type: reference
 content_type: topic
 quality: complete
+short_description: "The Special Resolution vote threshold, the matters it governs, the conditions for removing the general partner, and amendment protections."
 status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-27
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: special-resolutions-and-general-partner-removal.es.md
 cites: []

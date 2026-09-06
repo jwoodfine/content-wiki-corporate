@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: auditors-transfer-agent-registrar.es.md
 ---
@@ -52,12 +52,16 @@ given unit.
 A transfer agent is a party — often a trust company or a specialized transfer agency —
 engaged to process the mechanics of a security transfer: cancelling the transferring holder's
 position and issuing the new holder's position on the register, in accordance with instructions
-and supporting documentation. Computershare Inc., based in Calgary, Alberta, serves as transfer
-agent for the established Canada vehicle. Where a Direct-Hold Solution's securities are
+and supporting documentation. The firm engaged as transfer agent for a given vehicle in a given
+reporting period is disclosed in the applicable filing, not here, for the reason set out in
+[[experts|Experts]]: the engagement can change between periods.
+
+Where a Direct-Hold Solution's securities are
 deposited with a central securities depositary — CDS in Canada, DTC in the United States,
 Iberclear in Spain, or Indeval in Mexico, as described in [[four-jurisdiction-framework|Four-Jurisdiction Framework]] — settlement and
 transfer mechanics for depositary-eligible positions are performed in coordination with that
-depositary's participant network. The vehicle's governing entity does not perform them alone. For positions held and transferred directly on the property ledger rather than through
+depositary's participant network. The vehicle's governing entity does not perform them alone.
+For positions held and transferred directly on the property ledger rather than through
 a depositary, each vehicle's own governing entity — the general partner in Canada and the
 United States, the Administrator in Spain and Mexico — performs the transfer function directly
 upon receipt of a completed transfer instruction, as described in [[accredited-investor-eligibility|Accredited Investor Eligibility]].

@@ -7,11 +7,12 @@ index_group: investor-rights-and-voting
 type: reference
 content_type: topic
 quality: complete
+short_description: "El umbral de voto de la Resolución Especial, los asuntos que rige, las condiciones para remover al socio general, y las protecciones sobre las modificaciones."
 status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-27
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: special-resolutions-and-general-partner-removal.md
 cites: []

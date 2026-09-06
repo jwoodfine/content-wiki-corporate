@@ -12,7 +12,7 @@ status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: auditors-transfer-agent-registrar.md
 ---
@@ -54,14 +54,18 @@ el propietario de una unidad determinada.
 Un agente de transferencia es una parte —a menudo una compañía fiduciaria o una agencia de
 transferencia especializada— contratada para procesar la mecánica de una transferencia de
 valores: cancelar la posición del tenedor que transfiere y emitir la posición del nuevo tenedor
-en el registro, conforme a instrucciones y documentación de respaldo. Computershare Inc., con
-sede en Calgary, Alberta, actúa como agente de transferencia para el vehículo de Canadá ya
-constituido. Cuando los valores de una
+en el registro, conforme a instrucciones y documentación de respaldo. La firma contratada como
+agente de transferencia para un vehículo determinado en un período de información determinado
+se divulga en la presentación aplicable, no aquí, por la razón expuesta en
+[[experts|Expertos]]: la contratación puede cambiar de un período a otro.
+
+Cuando los valores de una
 Solución de Tenencia Directa se depositan en un depositario central de valores —CDS en Canadá,
 DTC en Estados Unidos, Iberclear en España, o Indeval en México, según se describe en
 [[four-jurisdiction-framework|Marco de Cuatro Jurisdicciones]]— la liquidación y la mecánica de transferencia para
 posiciones elegibles para depósito se realizan en coordinación con la red de participantes de
-ese depositario. La entidad de gobierno del vehículo no las realiza por sí sola. Para posiciones mantenidas y transferidas directamente en el libro mayor de
+ese depositario. La entidad de gobierno del vehículo no las realiza por sí sola. Para
+posiciones mantenidas y transferidas directamente en el libro mayor de
 propiedad en lugar de a través de un depositario, la propia entidad de gobierno de cada
 vehículo —el socio gestor en Canadá y Estados Unidos, el Administrador en España y México—
 desempeña la función de transferencia directamente al recibir una instrucción de transferencia

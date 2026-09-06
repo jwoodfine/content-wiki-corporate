@@ -9,9 +9,10 @@ content_type: topic
 quality: complete
 short_description: "La composición, los requisitos de independencia y las responsabilidades del comité de auditoría bajo NI 52-110 Comités de Auditoría, incluyendo la supervisión de la información financiera, las relaciones con el auditor externo y los controles internos."
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-09-06
 editor: woodfine-editorial
 paired_with: audit-committee-mandate.md
 ---
@@ -73,7 +74,6 @@ auditoría y de no auditoría pagados al auditor externo es obligatoria anualmen
 
 ## Consulte también
 
-- board-governance-structure — el marco más amplio de gobernanza del consejo
 - [[about-disclosure-obligations]] — las obligaciones de información financiera que
   el comité supervisa
 - [[fees-to-affiliates-and-conflicts-of-interest|Honorarios a Afiliadas y Conflictos de Interés]] — los controles de conflicto de interés basados en honorarios del contrato de sociedad en comandita, un mecanismo de supervisión relacionado pero distinto

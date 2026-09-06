@@ -7,11 +7,12 @@ index_group: conflicts-and-required-disclosures
 type: reference
 content_type: topic
 quality: complete
+short_description: "La prohibición de honorarios vinculados al valor neto de los activos y la regla que limita los honorarios a las afiliadas del promotor."
 status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-27
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: fees-to-affiliates-and-conflicts-of-interest.md
 cites: []

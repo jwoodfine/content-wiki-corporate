@@ -7,11 +7,12 @@ index_group: investor-rights-and-voting
 type: reference
 content_type: topic
 quality: complete
+short_description: "The ongoing tax and regulatory representations each limited partner makes, and the forced-sale procedure if they change."
 status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-27
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: limited-partner-eligibility-representations.es.md
 cites: []
@@ -25,7 +26,7 @@ A public company verifies shareholder eligibility once, at the point of purchase
 
 ## The representations each limited partner makes
 
-Each limited partner also represents and warrants four substantive facts about its own status, beyond confirming legal capacity to sign. These are set out in Section 14.2 of the limited partnership agreement:
+Each limited partner represents and warrants four substantive facts about its own status, beyond confirming legal capacity to sign. These are set out in Section 14.2 of the limited partnership agreement:
 
 - It is not, and will not become, a "non-resident" of Canada, or a partnership other than a "Canadian partnership," for purposes of the Income Tax Act.
 - It is not a "non-Canadian" as defined in the *Investment Canada Act*.
@@ -52,13 +53,11 @@ The limited partnership agreement does not treat these representations as a one-
 
 If a limited partner becomes a non-resident of Canada, or an interest in a limited partner becomes a "tax shelter investment," the limited partnership agreement requires that partner to transfer its units to a person who does not carry the same disqualifying status. The partner has 10 days from notice to complete the transfer itself. If it does not, the general partner is irrevocably appointed as that partner's attorney to sell the units on its behalf — including, if it chooses, purchasing them itself or for cancellation by the partnership. The sale price is the fair market value set by an independent appraiser the general partner appoints, and that appraisal is final and binding on the partnership, the general partner, and the affected partner. The cost of the appraisal, and other reasonable expenses of the sale, are deducted from the proceeds paid to the divesting partner, not borne by the partnership or by other limited partners.
 
+Together, these representations and the forced-sale procedure keep the partnership's tax and regulatory position stable even as individual holdings change hands over time. A single limited partner whose status changes cannot expose the entire partnership to adverse tax consequences or regulatory risk it did not agree to bear. The agreement instead gives the general partner a defined, appraisal-priced mechanism to resolve the problem at that one partner's expense, not at the expense of every other unit holder.
+
 ## A separate covenant protecting who controls the general partner
 
 A related but distinct protection sits with the general partner rather than with limited partners. The general partner covenants that it will not issue or transfer its own shares in a way that would let a "Prohibited Person" — someone not of good repute, or without experience and expertise in real estate — take direct or indirect control of the general partner. The same covenant reaches a group that includes such a person. The general partner satisfies this covenant by making the investigation a prudent businessperson would make in the circumstances; it is not an absolute guarantee, but a standard of diligence.
-
-## What this protects the investor from
-
-Together, these representations and the forced-sale procedure keep the partnership's tax and regulatory position stable even as individual holdings change hands over time. A single limited partner whose status changes cannot expose the entire partnership to adverse tax consequences or regulatory risk it did not agree to bear. The agreement instead gives the general partner a defined, appraisal-priced mechanism to resolve the problem at that one partner's expense, not at the expense of every other unit holder.
 
 ## What this is not
 

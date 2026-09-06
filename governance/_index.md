@@ -10,9 +10,10 @@ short_description: "Board and management oversight, investor rights and voting, 
 index_type: thematic
 index_scope: governance
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-09-04
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
@@ -29,8 +30,9 @@ rights.
 
 ## Board and management oversight
 
-[[governance-documents|Corporate Governance Documents]] is the entry point: the board
-mandate, committee charters, and code of business conduct that govern the group.
+[[governance-documents|Corporate Governance Documents]] is the entry point: the audit
+committee charter that is in place, and the board mandate, remaining committee charters,
+and code of business conduct that are planned but not yet adopted.
 [[audit-committee-mandate|The Audit Committee Mandate]] sets out that committee's
 composition and responsibilities in more detail, while
 [[tripartite-management-structure|the Tripartite Management Structure]] describes the

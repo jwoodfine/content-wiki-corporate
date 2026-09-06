@@ -7,11 +7,12 @@ index_group: investor-rights-and-voting
 type: reference
 content_type: topic
 quality: complete
+short_description: "How limited partners call, notice, and vote at a meeting of the partnership."
 status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-27
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: meetings-of-limited-partners.es.md
 cites: []
@@ -39,11 +40,9 @@ One or more limited partners, present in person or by proxy and representing at 
 
 Each limited partner votes one vote per unit held. The general partner votes once in its capacity as general partner — except on a motion to remove the general partner, on which it cannot vote at all, matching the restriction described in [[special-resolutions-and-general-partner-removal|Special Resolutions and General Partner Removal]]. Votes are decided by a show of hands unless a limited partner or the chair demands a poll, in which case the poll result governs. A limited partner may vote by proxy. Any individual aged 18 or older may hold one, and it must reach the general partner before the meeting. It stays valid through the giving partner's later death, incapacity, or revocation, until the general partner actually receives written notice of that change.
 
-## Chair and minutes
+## Chair, minutes, and binding effect
 
 The general partner chooses the chair, unless the limited partners present choose someone else by Special Resolution. The chair has no casting vote. The general partner records minutes of every meeting; once signed by the chair, those minutes are treated as conclusive evidence that the meeting was properly held and its business properly passed, unless proven otherwise.
-
-## Binding effect and the meeting-free default
 
 A Special Resolution binds every limited partner once passed, whether or not that partner attended, was represented by proxy, or voted in favour. Where the agreement does not prescribe a procedure, the chair applies the rules a public company would use under the *Business Corporations Act* (British Columbia), as far as practicable — but the partnership is not required to hold an annual meeting at all. Nothing in this Article obliges a meeting to occur on any fixed calendar; the calling mechanics above are the entire trigger.
 

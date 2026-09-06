@@ -7,11 +7,12 @@ index_group: investor-rights-and-voting
 type: reference
 content_type: topic
 quality: complete
+short_description: "Cómo los socios comanditarios convocan, notifican y votan en una asamblea de la sociedad."
 status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-27
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: meetings-of-limited-partners.md
 cites: []
@@ -39,11 +40,9 @@ Uno o más socios comanditarios, presentes en persona o por poder, que represent
 
 Cada socio comanditario tiene un voto por cada participación que posea. El socio general vota una vez en su calidad de socio general — salvo en una moción para removerlo, en la que no puede votar en absoluto, coherente con la restricción descrita en [[special-resolutions-and-general-partner-removal|Resoluciones Especiales y Remoción del Socio General]]. Las votaciones se deciden a mano alzada, salvo que un socio comanditario o el presidente exija una votación nominal, en cuyo caso rige el resultado de esa votación. Un socio comanditario puede votar por poder. Cualquier persona mayor de 18 años puede ejercerlo, y debe llegar al socio general antes de la asamblea. Permanece válido incluso ante la muerte, incapacidad o revocación posterior del socio que lo otorgó, hasta que el socio general reciba efectivamente aviso escrito de ese cambio.
 
-## Presidente y actas
+## Presidente, actas y efecto vinculante
 
 El socio general elige al presidente de la asamblea, salvo que los socios comanditarios presentes elijan a otra persona mediante Resolución Especial. El presidente no tiene voto de calidad. El socio general registra las actas de cada asamblea; una vez firmadas por el presidente, esas actas se consideran evidencia concluyente de que la asamblea se celebró debidamente y de que sus asuntos se aprobaron correctamente, salvo prueba en contrario.
-
-## Efecto vinculante y la ausencia de una asamblea obligatoria
 
 Una Resolución Especial obliga a todos los socios comanditarios una vez aprobada, hayan asistido o no, hayan sido representados por poder o no, y hayan votado a favor o no. Cuando el contrato no prescribe un procedimiento, el presidente aplica las reglas que usaría una sociedad anónima bursátil bajo la *Business Corporations Act* (Columbia Británica), en la medida de lo practicable — pero la sociedad no está obligada a celebrar una asamblea anual en absoluto. Nada en este Artículo obliga a que se celebre una asamblea en un calendario fijo; la mecánica de convocatoria descrita arriba es el único desencadenante.
 

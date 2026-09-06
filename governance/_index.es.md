@@ -10,11 +10,12 @@ short_description: "Supervisión del consejo y la dirección, derechos de voto d
 index_type: thematic
 index_scope: governance
 status: active
+audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-09-04
+last_edited: 2026-09-06
 editor: pointsav-engineering
-paired_with: governance/_index.md
+paired_with: _index.md
 ---
 
 Gobernanza y Derechos del Inversor abarca los instrumentos del consejo y de la administración, las obligaciones
@@ -30,8 +31,8 @@ de divulgación, y los derechos del inversor.
 ## Supervisión del consejo y de la administración
 
 [[governance-documents|Documentos de Gobernanza Corporativa]] es el punto de partida: el
-mandato del consejo, los estatutos de los comités y el código de conducta empresarial
-que rigen al grupo. [[audit-committee-mandate|El Mandato del Comité de Auditoría]]
+estatuto del comité de auditoría, vigente, y el mandato del consejo, los demás estatutos
+de comités y el código de conducta empresarial, previstos pero aún no adoptados. [[audit-committee-mandate|El Mandato del Comité de Auditoría]]
 detalla la composición y las responsabilidades de ese comité, mientras que
 [[tripartite-management-structure|la Estructura de Gestión Tripartita]] describe la
 separación funcional entre desarrollo, cumplimiento y gestión de capital que el consejo

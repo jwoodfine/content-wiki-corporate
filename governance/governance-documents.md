@@ -4,11 +4,17 @@ title: "Corporate governance documents"
 slug: governance-documents
 category: governance
 index_group: board-and-management-oversight
-last_edited: 2026-08-24
-editor: woodfine-editorial
-status: stable
-bcsc_class: forward-looking
+type: topic
+content_type: topic
+quality: complete
 short_description: "Professional Centres Canada LP's audit committee charter, currently in place, alongside the board mandate, remaining committee charters, governance policy, and code of business conduct planned but not yet adopted."
+status: active
+audience: public
+bcsc_class: forward-looking
+language_protocol: PROSE-TOPIC
+last_edited: 2026-09-06
+editor: woodfine-editorial
+paired_with: governance-documents.es.md
 references:
   - id: 1
     text: "National Policy 58-201 Corporate Governance Guidelines, Canadian Securities Administrators."
@@ -36,52 +42,57 @@ integrity of financial reporting, the independence and performance of the extern
 auditor, and the adequacy of internal control and risk management processes. The charter
 specifies:
 
-- Composition requirements (including independence and financial literacy requirements for
-  each committee member)
+- Composition requirements, including independence and financial literacy requirements for
+  each committee member
 - Mandate scope: external auditor oversight, financial statement review, internal controls
   and risk management review, and complaint-handling procedures
 - Reporting obligations to the full board
 - Meeting frequency and quorum requirements
 
-The audit committee charter is reproduced here for direct accessibility. Professional
-Centres Canada LP is a venture issuer, a classification that does not carry a mandatory
-[[about-annual-reporting-cycle|Annual Information Form]] filing requirement under NI
-51-102 — publishing the charter here is a voluntary transparency practice, not evidence
+This page summarises the charter's principal terms; it does not reproduce the charter text.
+Professional Centres Canada LP is a venture issuer, a classification that carries no
+mandatory [[about-annual-reporting-cycle|Annual Information Form]] filing requirement under
+NI 51-102. Summarising an unfiled charter is a voluntary transparency practice, not evidence
 of an AIF filing.
 
-## Board mandate (planned)
+## Planned instruments
+
+Five further governance instruments are planned. None has been adopted. None binds any
+director, officer, employee, or contractor until the general partner's board approves it,
+and the terms the board approves may differ from what is described here.
+
+### Board mandate
 
 A board mandate is intended to set out the board's responsibilities for strategic
 oversight, material-risk oversight, senior-management succession planning, and the
-integrity of financial reporting and internal controls, and to define the boundary
-between board oversight and day-to-day management authority. This document is not yet
-adopted.
+integrity of financial reporting and internal controls. It is also intended to define the
+boundary between board oversight and day-to-day management authority.
 
-## Compensation committee (planned)
+### Compensation committee
 
 A compensation committee is intended to assist the board in its oversight of compensation
-philosophy and the compensation of the Chief Executive Officer, other senior executives,
-and non-executive directors. This committee and its charter are not yet in place.
+philosophy and of the compensation paid to the Chief Executive Officer, other senior
+executives, and non-executive directors.
 
-## Nominating and governance committee (planned)
+### Nominating and governance committee
 
 A nominating and governance committee is intended to assist the board in identifying
 qualified board candidates, assessing board and committee composition, and overseeing
-corporate governance practices. This committee is not yet in place.
+corporate governance practices.
 
-## Corporate governance policy (planned)
+### Corporate governance policy
 
 A corporate governance policy is intended to consolidate governance-practice commitments
-meeting or exceeding the standards established under Canadian securities regulation,
-addressing board independence, separation of the Chair and Chief Executive Officer roles,
-board diversity, and director orientation. This policy is not yet adopted.
+meeting or exceeding the standards established under Canadian securities regulation. It is
+intended to address board independence, separation of the Chair and Chief Executive Officer
+roles, board diversity, and director orientation.
 
-## Code of business conduct (planned)
+### Code of business conduct
 
 A code of business conduct is intended to set out ethical standards applicable to
 directors, officers, employees, and contractors, covering conflicts of interest,
 confidential information, fair dealing, legal compliance, and concern-reporting
-procedures. This code is not yet adopted.
+procedures.
 
 ## Unanimous shareholder agreement
 
@@ -93,13 +104,19 @@ majority of arm's-length, independent directors on its board (see
 [[professional-centres-canada-lp-structure|Professional Centres Canada LP structure]] for the
 general partner's specific board-composition and quorum requirements).
 
-## Governance documents
+## What this is not
 
-Beyond the audit committee charter above, no other governance document listed on this
-page has been adopted yet. This section will list each document, with its adoption date
-and a direct download, as the board approves and publishes it.
+These instruments are not a complete governance record. Only the audit committee charter is
+adopted; the five planned instruments impose no obligation on any director or officer until
+the board approves them, and their final terms may change. They bind Woodfine Professional
+Centres Inc., the general partner, and its board — not Woodfine, a private company outside
+the direct reach of NP 58-201 and NI 58-101. They do not govern the United States, Spain, or
+Mexico vehicles, which are governed by separate instruments. Nothing here is legal advice;
+the executed instruments and qualified counsel govern the terms applicable to any holder.
 
 ## See also
 
+- [[audit-committee-mandate|Audit Committee Mandate]] — the composition, independence, and
+  responsibility requirements the charter implements
 - [[about-financial-reporting]] — annual and interim financial statements and MD&A
 - [[press-releases]] — material change disclosure

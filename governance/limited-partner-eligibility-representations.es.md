@@ -7,11 +7,12 @@ index_group: investor-rights-and-voting
 type: reference
 content_type: topic
 quality: complete
+short_description: "Las declaraciones fiscales y regulatorias continuas que hace cada socio comanditario, y el procedimiento de venta forzosa si estas cambian."
 status: active
 audience: public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-27
+last_edited: 2026-09-06
 editor: pointsav-engineering
 paired_with: limited-partner-eligibility-representations.md
 cites: []
@@ -25,7 +26,7 @@ Una sociedad anónima verifica la elegibilidad de sus accionistas una sola vez, 
 
 ## Las declaraciones que hace cada socio comanditario
 
-Cada socio comanditario también declara y garantiza cuatro hechos sustantivos sobre su propia situación, más allá de confirmar su capacidad legal para firmar. Estos se establecen en la Sección 14.2 del contrato de la sociedad en comandita:
+Cada socio comanditario declara y garantiza cuatro hechos sustantivos sobre su propia situación, más allá de confirmar su capacidad legal para firmar. Estos se establecen en la Sección 14.2 del contrato de la sociedad en comandita:
 
 - No es, y no llegará a ser, "no residente" de Canadá, ni una sociedad distinta de una "sociedad canadiense", para efectos de la Ley del Impuesto sobre la Renta.
 - No es un "no canadiense" según se define en la *Investment Canada Act*.
@@ -53,13 +54,11 @@ El contrato de la sociedad en comandita no trata estas declaraciones como una ba
 
 Si un socio comanditario se convierte en no residente de Canadá, o si una participación en un socio comanditario se convierte en una "inversión de refugio fiscal", el contrato de la sociedad en comandita exige que ese socio transfiera sus participaciones a una persona que no tenga la misma situación descalificante. El socio dispone de 10 días desde la notificación para completar la transferencia por su cuenta. Si no lo hace, el socio general queda designado de forma irrevocable como apoderado de ese socio para vender las participaciones en su nombre — incluida, si así lo elige, la posibilidad de adquirirlas él mismo o de comprarlas para su cancelación por la sociedad. El precio de venta es el valor razonable de mercado que fija un tasador independiente designado por el socio general, y esa tasación es final y vinculante para la sociedad, el socio general y el socio afectado. El costo de la tasación, y los demás gastos razonables de la venta, se deducen del producto pagado al socio que se desinvierte, y no los asume la sociedad ni los demás socios comanditarios.
 
+En conjunto, estas declaraciones y el procedimiento de venta forzosa mantienen estable la posición fiscal y regulatoria de la sociedad incluso a medida que las tenencias individuales cambian de manos con el tiempo. Un solo socio comanditario cuya situación cambie no puede exponer a toda la sociedad a consecuencias fiscales adversas ni a un riesgo regulatorio que esta no acordó asumir. El contrato, en cambio, le da al socio general un mecanismo definido, con precio fijado por tasación, para resolver el problema a costa de ese único socio, no a costa de los demás tenedores de participaciones.
+
 ## Un compromiso separado que protege quién controla al socio general
 
 Una protección relacionada, pero distinta, recae en el socio general y no en los socios comanditarios. El socio general se compromete a no emitir ni transferir sus propias acciones de un modo que permita que una "Persona Prohibida" — alguien que no goce de buena reputación, o que carezca de experiencia y pericia en bienes raíces — tome el control directo o indirecto del socio general. El mismo compromiso alcanza a un grupo que incluya a una de esas personas. El socio general cumple este compromiso realizando la investigación que haría una persona de negocios prudente en las circunstancias; no es una garantía absoluta, sino un estándar de diligencia.
-
-## Qué protege esto al inversor
-
-En conjunto, estas declaraciones y el procedimiento de venta forzosa mantienen estable la posición fiscal y regulatoria de la sociedad incluso a medida que las tenencias individuales cambian de manos con el tiempo. Un solo socio comanditario cuya situación cambie no puede exponer a toda la sociedad a consecuencias fiscales adversas ni a un riesgo regulatorio que esta no acordó asumir. El contrato, en cambio, le da al socio general un mecanismo definido, con precio fijado por tasación, para resolver el problema a costa de ese único socio, no a costa de los demás tenedores de participaciones.
 
 ## Qué no es este artículo
 
